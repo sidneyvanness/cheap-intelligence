@@ -1,0 +1,706 @@
+model_name,model_slug_aa,provider,params_b,dense_or_moe,active_params_b,open_weights,release_date,size_class_aa,source,weights_url,local_box_class
+MambaVision-T-1K,,nvidia,0.032,dense,,True,,,Interconnects-AI/tracked-models (nvidia/MambaVision-T-1K),https://huggingface.co/nvidia/MambaVision-T-1K,local_small_1xGPU
+MambaVision-T2-1K,,nvidia,0.035,dense,,True,,,Interconnects-AI/tracked-models (nvidia/MambaVision-T2-1K),https://huggingface.co/nvidia/MambaVision-T2-1K,local_small_1xGPU
+granite-guardian-hap-38m,,ibm-granite,0.038,dense,,True,,,Interconnects-AI/tracked-models (ibm-granite/granite-guardian-hap-38m),https://huggingface.co/ibm-granite/granite-guardian-hap-38m,local_small_1xGPU
+MambaVision-S-1K,,nvidia,0.05,dense,,True,,,Interconnects-AI/tracked-models (nvidia/MambaVision-S-1K),https://huggingface.co/nvidia/MambaVision-S-1K,local_small_1xGPU
+MiniCPM-Embedding-Light,,openbmb,0.05,dense,,True,,,Interconnects-AI/tracked-models (openbmb/MiniCPM-Embedding-Light),https://huggingface.co/openbmb/MiniCPM-Embedding-Light,local_small_1xGPU
+MambaVision-B-1K,,nvidia,0.098,dense,,True,,,Interconnects-AI/tracked-models (nvidia/MambaVision-B-1K),https://huggingface.co/nvidia/MambaVision-B-1K,local_small_1xGPU
+MambaVision-B-21K,,nvidia,0.098,dense,,True,,,Interconnects-AI/tracked-models (nvidia/MambaVision-B-21K),https://huggingface.co/nvidia/MambaVision-B-21K,local_small_1xGPU
+MiniCPM-Embedding,,openbmb,0.1,dense,,True,,,Interconnects-AI/tracked-models (openbmb/MiniCPM-Embedding),https://huggingface.co/openbmb/MiniCPM-Embedding,local_small_1xGPU
+MiniCPM-Reranker-Light,,openbmb,0.1,dense,,True,,,Interconnects-AI/tracked-models (openbmb/MiniCPM-Reranker-Light),https://huggingface.co/openbmb/MiniCPM-Reranker-Light,local_small_1xGPU
+Ultra-FineWeb-classifier,,openbmb,0.1,dense,,True,,,Interconnects-AI/tracked-models (openbmb/Ultra-FineWeb-classifier),https://huggingface.co/openbmb/Ultra-FineWeb-classifier,local_small_1xGPU
+e5-base-arctic-finetune,,Snowflake,0.1,dense,,True,,,Interconnects-AI/tracked-models (Snowflake/e5-base-arctic-finetune),https://huggingface.co/Snowflake/e5-base-arctic-finetune,local_small_1xGPU
+glm-4-voice-tokenizer,,THUDM,0.1,dense,,True,,,Interconnects-AI/tracked-models (THUDM/glm-4-voice-tokenizer),https://huggingface.co/THUDM/glm-4-voice-tokenizer,local_small_1xGPU
+stack-edu-classifier-python,,HuggingFaceTB,0.1,dense,,True,,,Interconnects-AI/tracked-models (HuggingFaceTB/stack-edu-classifier-python),https://huggingface.co/HuggingFaceTB/stack-edu-classifier-python,local_small_1xGPU
+granite-embedding-107m-multilingual,,ibm-granite,0.107,dense,,True,,,Interconnects-AI/tracked-models (ibm-granite/granite-embedding-107m-multilingual),https://huggingface.co/ibm-granite/granite-embedding-107m-multilingual,local_small_1xGPU
+granite-guardian-hap-125m,,ibm-granite,0.125,dense,,True,,,Interconnects-AI/tracked-models (ibm-granite/granite-guardian-hap-125m),https://huggingface.co/ibm-granite/granite-guardian-hap-125m,local_small_1xGPU
+SmolLM2-nanotron-ckpt,,HuggingFaceTB,0.135,dense,,True,,,Interconnects-AI/tracked-models (HuggingFaceTB/SmolLM2-nanotron-ckpt),https://huggingface.co/HuggingFaceTB/SmolLM2-nanotron-ckpt,local_small_1xGPU
+Florence-2-base,,microsoft,0.2,dense,,True,,,Interconnects-AI/tracked-models (microsoft/Florence-2-base),https://huggingface.co/microsoft/Florence-2-base,local_small_1xGPU
+Florence-2-base-ft,,microsoft,0.2,dense,,True,,,Interconnects-AI/tracked-models (microsoft/Florence-2-base-ft),https://huggingface.co/microsoft/Florence-2-base-ft,local_small_1xGPU
+MambaVision-L-1K,,nvidia,0.228,dense,,True,,,Interconnects-AI/tracked-models (nvidia/MambaVision-L-1K),https://huggingface.co/nvidia/MambaVision-L-1K,local_small_1xGPU
+MambaVision-L-21K,,nvidia,0.228,dense,,True,,,Interconnects-AI/tracked-models (nvidia/MambaVision-L-21K),https://huggingface.co/nvidia/MambaVision-L-21K,local_small_1xGPU
+MambaVision-L2-1K,,nvidia,0.241,dense,,True,,,Interconnects-AI/tracked-models (nvidia/MambaVision-L2-1K),https://huggingface.co/nvidia/MambaVision-L2-1K,local_small_1xGPU
+MambaVision-L2-512-21K,,nvidia,0.241,dense,,True,,,Interconnects-AI/tracked-models (nvidia/MambaVision-L2-512-21K),https://huggingface.co/nvidia/MambaVision-L2-512-21K,local_small_1xGPU
+Gemma 3 270M,gemma-3-270m,Google,0.268,dense,,True,2025-08-14,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/google/gemma-3-270m,local_small_1xGPU
+granite-embedding-278m-multilingual,,ibm-granite,0.278,dense,,True,,,Interconnects-AI/tracked-models (ibm-granite/granite-embedding-278m-multilingual),https://huggingface.co/ibm-granite/granite-embedding-278m-multilingual,local_small_1xGPU
+MambaVision-L3-256-21K,,nvidia,0.28,dense,,True,,,Interconnects-AI/tracked-models (nvidia/MambaVision-L3-256-21K),https://huggingface.co/nvidia/MambaVision-L3-256-21K,local_small_1xGPU
+MambaVision-L3-512-21K,,nvidia,0.28,dense,,True,,,Interconnects-AI/tracked-models (nvidia/MambaVision-L3-512-21K),https://huggingface.co/nvidia/MambaVision-L3-512-21K,local_small_1xGPU
+internlm-xcomposer2d5-clip,,internlm,0.3,dense,,True,,,Interconnects-AI/tracked-models (internlm/internlm-xcomposer2d5-clip),https://huggingface.co/internlm/internlm-xcomposer2d5-clip,local_small_1xGPU
+internlm2-wqx-vl-clip,,internlm,0.3,dense,,True,,,Interconnects-AI/tracked-models (internlm/internlm2-wqx-vl-clip),https://huggingface.co/internlm/internlm2-wqx-vl-clip,local_small_1xGPU
+glm-large-chinese,,THUDM,0.335,dense,,True,,,Interconnects-AI/tracked-models (THUDM/glm-large-chinese),https://huggingface.co/THUDM/glm-large-chinese,local_small_1xGPU
+Granite 4.0 H 350M,granite-4-0-h-350m,IBM,0.34,dense,,True,2025-10-28,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/ibm-granite/granite-4.0-h-350m,local_small_1xGPU
+Granite 4.0 350M,granite-4-0-350m,IBM,0.35,dense,,True,2025-10-28,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/ibm-granite/granite-4.0-350m,local_small_1xGPU
+glm-roberta-large,,THUDM,0.355,dense,,True,,,Interconnects-AI/tracked-models (THUDM/glm-roberta-large),https://huggingface.co/THUDM/glm-roberta-large,local_small_1xGPU
+MiniCPM-Reranker,,openbmb,0.4,dense,,True,,,Interconnects-AI/tracked-models (openbmb/MiniCPM-Reranker),https://huggingface.co/openbmb/MiniCPM-Reranker,local_small_1xGPU
+Jamba-tiny-dev,,ai21labs,0.5,dense,,True,,,Interconnects-AI/tracked-models (ai21labs/Jamba-tiny-dev),https://huggingface.co/ai21labs/Jamba-tiny-dev,local_small_1xGPU
+Jamba-tiny-random,,ai21labs,0.5,dense,,True,,,Interconnects-AI/tracked-models (ai21labs/Jamba-tiny-random),https://huggingface.co/ai21labs/Jamba-tiny-random,local_small_1xGPU
+glm-4-voice-decoder,,THUDM,0.5,dense,,True,,,Interconnects-AI/tracked-models (THUDM/glm-4-voice-decoder),https://huggingface.co/THUDM/glm-4-voice-decoder,local_small_1xGPU
+Qwen3 0.6B (Non-reasoning),qwen3-0.6b-instruct,Alibaba,0.752,dense,,True,2025-04-28,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-0.6B,local_small_1xGPU
+Qwen3 0.6B (Reasoning),qwen3-0.6b-instruct-reasoning,Alibaba,0.752,dense,,True,2025-04-28,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-0.6B,local_small_1xGPU
+OLMo-Ladder-760M-0.5xC,,allenai,0.76,dense,,True,,,Interconnects-AI/tracked-models (allenai/OLMo-Ladder-760M-0.5xC),https://huggingface.co/allenai/OLMo-Ladder-760M-0.5xC,local_small_1xGPU
+Florence-2-large,,microsoft,0.8,dense,,True,,,Interconnects-AI/tracked-models (microsoft/Florence-2-large),https://huggingface.co/microsoft/Florence-2-large,local_small_1xGPU
+Florence-2-large-ft,,microsoft,0.8,dense,,True,,,Interconnects-AI/tracked-models (microsoft/Florence-2-large-ft),https://huggingface.co/microsoft/Florence-2-large-ft,local_small_1xGPU
+Qwen3.5 0.8B (Non-reasoning),qwen3-5-0-8b-non-reasoning,Alibaba,0.873,dense,,True,2026-03-02,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3.5-0.8B,local_small_1xGPU
+Qwen3.5 0.8B (Reasoning),qwen3-5-0-8b,Alibaba,0.873,dense,,True,2026-03-02,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3.5-0.8B,local_small_1xGPU
+Gemma 3 1B Instruct,gemma-3-1b,Google,1.0,dense,,True,2025-03-13,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/google/gemma-3-1b-it,local_small_1xGPU
+HunyuanOCR,,tencent,1.0,dense,,True,,,Interconnects-AI/tracked-models (tencent/HunyuanOCR),https://huggingface.co/tencent/HunyuanOCR,local_small_1xGPU
+Llama 3.2 1B Instruct,,Meta,1.0,dense,,True,2024,,d-central.tech local-llm-model-database,https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct,local_small_1xGPU
+Llama 3.2 Instruct 1B,llama-3-2-instruct-1b,Meta,1.0,dense,,True,2024-09-25,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/meta-llama/Llama-3.2-1B,local_small_1xGPU
+MiniCPM5-1B (Non-reasoning),minicpm5-1b-non-reasoning,OpenBMB,1.0,dense,,True,2026-05-25,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/openbmb/MiniCPM5-1B,local_small_1xGPU
+MiniCPM5-1B (Reasoning),minicpm5-1b,OpenBMB,1.0,dense,,True,2026-05-25,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/openbmb/MiniCPM5-1B,local_small_1xGPU
+LFM2 1.2B,lfm2-1-2b,Liquid AI,1.17,dense,,True,2025-07-10,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/LiquidAI/LFM2-1.2B,local_small_1xGPU
+LFM2.5-1.2B-Instruct,lfm2-5-1-2b-instruct,Liquid AI,1.17,dense,,True,2026-01-05,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/LiquidAI/LFM2.5-1.2B-Instruct,local_small_1xGPU
+LFM2.5-1.2B-Thinking,lfm2-5-1-2b-thinking,Liquid AI,1.17,dense,,True,2026-01-20,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/LiquidAI/LFM2.5-1.2B-Thinking,local_small_1xGPU
+Exaone 4.0 1.2B (Non-reasoning),exaone-4-0-1-2b,LG AI Research,1.28,dense,,True,2025-07-15,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/LGAI-EXAONE/EXAONE-4.0-1.2B,local_small_1xGPU
+Exaone 4.0 1.2B (Reasoning),exaone-4-0-1-2b-reasoning,LG AI Research,1.28,dense,,True,2025-07-15,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/LGAI-EXAONE/EXAONE-4.0-1.2B,local_small_1xGPU
+MiniCPM-V 4.6 1.3B,minicpm-v4-6-1-3b,OpenBMB,1.3,dense,,True,2026-05-11,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/openbmb/MiniCPM-V-4.6,local_small_1xGPU
+phi-1,,microsoft,1.3,dense,,True,,,Interconnects-AI/tracked-models (microsoft/phi-1),https://huggingface.co/microsoft/phi-1,local_small_1xGPU
+phi-1_5,,microsoft,1.3,dense,,True,,,Interconnects-AI/tracked-models (microsoft/phi-1_5),https://huggingface.co/microsoft/phi-1_5,local_small_1xGPU
+DeepSeek R1 Distill Qwen 1.5B,deepseek-r1-distill-qwen-1-5b,DeepSeek,1.5,dense,,True,2025-01-20,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B,local_small_1xGPU
+Granite 4.0 H 1B,granite-4-0-h-nano-1b,IBM,1.5,dense,,True,2025-10-28,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/ibm-granite/granite-4.0-h-1b,local_small_1xGPU
+Granite 4.0 1B,granite-4-0-nano-1b,IBM,1.6,dense,,True,2025-10-28,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/ibm-granite/granite-4.0-1b,local_small_1xGPU
+LFM2.5-VL-1.6B,lfm2-5-vl-1-6b,Liquid AI,1.6,dense,,True,2026-01-05,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/LiquidAI/LFM2.5-VL-1.6B,local_small_1xGPU
+SmolLM2 1.7B Instruct,,HuggingFace,1.7,dense,,True,2024,,d-central.tech local-llm-model-database,https://huggingface.co/HuggingFaceTB/SmolLM2-1.7B-Instruct,local_small_1xGPU
+moondream1,,vikhyatk,1.9,dense,,True,,,Interconnects-AI/tracked-models (vikhyatk/moondream1),https://huggingface.co/vikhyatk/moondream1,local_small_1xGPU
+moondream2,,vikhyatk,1.9,dense,,True,,,Interconnects-AI/tracked-models (vikhyatk/moondream2),https://huggingface.co/vikhyatk/moondream2,local_small_1xGPU
+SmolVLM-Base,,HuggingFaceTB,2.0,dense,,True,,,Interconnects-AI/tracked-models (HuggingFaceTB/SmolVLM-Base),https://huggingface.co/HuggingFaceTB/SmolVLM-Base,local_small_1xGPU
+SmolVLM-Instruct,,HuggingFaceTB,2.0,dense,,True,,,Interconnects-AI/tracked-models (HuggingFaceTB/SmolVLM-Instruct),https://huggingface.co/HuggingFaceTB/SmolVLM-Instruct,local_small_1xGPU
+SmolVLM-Instruct-DPO,,HuggingFaceTB,2.0,dense,,True,,,Interconnects-AI/tracked-models (HuggingFaceTB/SmolVLM-Instruct-DPO),https://huggingface.co/HuggingFaceTB/SmolVLM-Instruct-DPO,local_small_1xGPU
+SmolVLM-Synthetic,,HuggingFaceTB,2.0,dense,,True,,,Interconnects-AI/tracked-models (HuggingFaceTB/SmolVLM-Synthetic),https://huggingface.co/HuggingFaceTB/SmolVLM-Synthetic,local_small_1xGPU
+VisRAG-Ret,,openbmb,2.0,dense,,True,,,Interconnects-AI/tracked-models (openbmb/VisRAG-Ret),https://huggingface.co/openbmb/VisRAG-Ret,local_small_1xGPU
+Qwen3 1.7B (Non-reasoning),qwen3-1.7b-instruct,Alibaba,2.03,dense,,True,2025-04-28,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-1.7B,local_small_1xGPU
+Qwen3 1.7B (Reasoning),qwen3-1.7b-instruct-reasoning,Alibaba,2.03,dense,,True,2025-04-28,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-1.7B,local_small_1xGPU
+Qwen3.5 2B (Non-reasoning),qwen3-5-2b-non-reasoning,Alibaba,2.27,dense,,True,2026-03-02,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3.5-2B,local_small_1xGPU
+Qwen3.5 2B (Reasoning),qwen3-5-2b,Alibaba,2.27,dense,,True,2026-03-02,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3.5-2B,local_small_1xGPU
+North-Micro-Vision-Instruct,,CohereLabs,2.4,dense,,True,,,Interconnects-AI/tracked-models (CohereLabs/North-Micro-Vision-Instruct),https://huggingface.co/CohereLabs/North-Micro-Vision-Instruct,local_small_1xGPU
+LFM2 2.6B,lfm2-2-6b,Liquid AI,2.57,dense,,True,2025-09-23,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/LiquidAI/LFM2-2.6B,local_small_1xGPU
+MiniCPM5-2B,minicpm5-2b,OpenBMB,2.6,dense,,True,2026-09-07,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/openbmb/MiniCPM5-2B,local_small_1xGPU
+LFM2.5-2.6B,lfm2-5-2-6b,Liquid AI,2.7,dense,,True,2026-08-04,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/LiquidAI/LFM2.5-2.6B,local_small_1xGPU
+phi-2,,microsoft,2.7,dense,,True,,,Interconnects-AI/tracked-models (microsoft/phi-2),https://huggingface.co/microsoft/phi-2,local_small_1xGPU
+phi-2-pytdml,,microsoft,2.7,dense,,True,,,Interconnects-AI/tracked-models (microsoft/phi-2-pytdml),https://huggingface.co/microsoft/phi-2-pytdml,local_small_1xGPU
+G9v3-3B,g9v3-3b,AI9Stars,3.0,dense,,True,2026-07-23,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/ai9stars/G9v3-3B,local_small_1xGPU
+Granite 4.0 Micro,granite-4-0-micro,IBM,3.0,dense,,True,2025-09-22,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/ibm-granite/granite-4.0-micro,local_small_1xGPU
+Granite 4.1 3B,granite-4-1-3b,IBM,3.0,dense,,True,2026-04-29,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/ibm-granite/granite-4.1-3b,local_small_1xGPU
+Granite 4.2 3B,granite-4-2-3b,IBM,3.0,dense,,True,2026-08-25,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/ibm-granite/granite-4.2-3b,local_small_1xGPU
+Intern-S1-mini,,internlm,3.0,dense,,True,,,Interconnects-AI/tracked-models (internlm/Intern-S1-mini),https://huggingface.co/internlm/Intern-S1-mini,local_small_1xGPU
+Jamba Reasoning 3B,jamba-reasoning-3b,AI21 Labs,3.0,dense,,True,2025-10-08,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/ai21labs/AI21-Jamba-Reasoning-3B,local_small_1xGPU
+Llama 3.2 3B Instruct,,Meta,3.0,dense,,True,2024,,d-central.tech local-llm-model-database,https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct,local_small_1xGPU
+Llama 3.2 Instruct 3B,llama-3-2-instruct-3b,Meta,3.0,dense,,True,2024-09-25,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/meta-llama/Llama-3.2-3B,local_small_1xGPU
+MiniCPM-V,,openbmb,3.0,dense,,True,,,Interconnects-AI/tracked-models (openbmb/MiniCPM-V),https://huggingface.co/openbmb/MiniCPM-V,local_small_1xGPU
+MiniCPM-V-2,,openbmb,3.0,dense,,True,,,Interconnects-AI/tracked-models (openbmb/MiniCPM-V-2),https://huggingface.co/openbmb/MiniCPM-V-2,local_small_1xGPU
+Ministral 3 3B,ministral-3-3b,Mistral,3.0,dense,,True,2025-12-02,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/mistralai/Ministral-3-3B-Instruct-2512,local_small_1xGPU
+Ring-flash-2.0,,inclusionAI,3.0,dense,,True,,,Interconnects-AI/tracked-models (inclusionAI/Ring-flash-2.0),https://huggingface.co/inclusionAI/Ring-flash-2.0,local_small_1xGPU
+Ring-flash-linear-2.0,,inclusionAI,3.0,dense,,True,,,Interconnects-AI/tracked-models (inclusionAI/Ring-flash-linear-2.0),https://huggingface.co/inclusionAI/Ring-flash-linear-2.0,local_small_1xGPU
+Ring-mini-2.0,,inclusionAI,3.0,dense,,True,,,Interconnects-AI/tracked-models (inclusionAI/Ring-mini-2.0),https://huggingface.co/inclusionAI/Ring-mini-2.0,local_small_1xGPU
+Ring-mini-2.0-GGUF,,inclusionAI,3.0,dense,,True,,,Interconnects-AI/tracked-models (inclusionAI/Ring-mini-2.0-GGUF),https://huggingface.co/inclusionAI/Ring-mini-2.0-GGUF,local_small_1xGPU
+Ring-mini-linear-2.0,,inclusionAI,3.0,dense,,True,,,Interconnects-AI/tracked-models (inclusionAI/Ring-mini-linear-2.0),https://huggingface.co/inclusionAI/Ring-mini-linear-2.0,local_small_1xGPU
+deepseek-vl2-tiny,,deepseek-ai,3.0,dense,,True,,,Interconnects-AI/tracked-models (deepseek-ai/deepseek-vl2-tiny),https://huggingface.co/deepseek-ai/deepseek-vl2-tiny,local_small_1xGPU
+dots.ocr,,rednote-hilab,3.0,dense,,True,,,Interconnects-AI/tracked-models (rednote-hilab/dots.ocr),https://huggingface.co/rednote-hilab/dots.ocr,local_small_1xGPU
+DeepSeek-OCR,,deepseek-ai,3.3,dense,,True,,,Interconnects-AI/tracked-models (deepseek-ai/DeepSeek-OCR),https://huggingface.co/deepseek-ai/DeepSeek-OCR,local_small_1xGPU
+Hunyuan3D-Omni,,tencent,3.3,moe,,True,,,Interconnects-AI/tracked-models (tencent/Hunyuan3D-Omni),https://huggingface.co/tencent/Hunyuan3D-Omni,local_small_1xGPU
+Phi-tiny-MoE-instruct,,microsoft,3.3,dense,,True,,,Interconnects-AI/tracked-models (microsoft/Phi-tiny-MoE-instruct),https://huggingface.co/microsoft/Phi-tiny-MoE-instruct,local_small_1xGPU
+Tiny Aya Global,tiny-aya-global,Cohere,3.35,dense,,True,2026-02-17,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/CohereLabs/tiny-aya-global,local_small_1xGPU
+DeepSeek-OCR-2,,deepseek-ai,3.4,dense,,True,,,Interconnects-AI/tracked-models (deepseek-ai/DeepSeek-OCR-2),https://huggingface.co/deepseek-ai/DeepSeek-OCR-2,local_small_1xGPU
+Phi-3 Mini Instruct 3.8B,phi-3-mini,Microsoft,3.8,dense,,True,2024-04-23,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/microsoft/Phi-3-mini-128k-instruct,local_small_1xGPU
+Phi-3-mini-128k-instruct,,microsoft,3.8,dense,,True,,,Interconnects-AI/tracked-models (microsoft/Phi-3-mini-128k-instruct),https://huggingface.co/microsoft/Phi-3-mini-128k-instruct,local_small_1xGPU
+Phi-3-mini-4k-instruct,,microsoft,3.8,dense,,True,,,Interconnects-AI/tracked-models (microsoft/Phi-3-mini-4k-instruct),https://huggingface.co/microsoft/Phi-3-mini-4k-instruct,local_small_1xGPU
+Phi-3.5 mini 3.8B Instruct,,Microsoft,3.8,dense,,True,2024,,d-central.tech local-llm-model-database,https://huggingface.co/microsoft/Phi-3.5-mini-instruct,local_small_1xGPU
+Phi-3.5-mini-instruct,,microsoft,3.8,dense,,True,,,Interconnects-AI/tracked-models (microsoft/Phi-3.5-mini-instruct),https://huggingface.co/microsoft/Phi-3.5-mini-instruct,local_small_1xGPU
+Phi-4-mini-instruct,,microsoft,3.8,dense,,True,,,Interconnects-AI/tracked-models (microsoft/Phi-4-mini-instruct),https://huggingface.co/microsoft/Phi-4-mini-instruct,local_small_1xGPU
+Phi-4-mini-reasoning,,microsoft,3.8,dense,,True,,,Interconnects-AI/tracked-models (microsoft/Phi-4-mini-reasoning),https://huggingface.co/microsoft/Phi-4-mini-reasoning,local_small_1xGPU
+Phi-4 Mini Instruct,phi-4-mini,Microsoft,3.84,dense,,True,2024-02-26,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/microsoft/Phi-4-mini-instruct,local_small_1xGPU
+Nanbeige4.1-3B,nanbeige4-1-3b,Nanbeige,3.93,dense,,True,2026-02-11,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/Nanbeige/Nanbeige4.1-3B,local_small_1xGPU
+NVIDIA Nemotron 3 Nano 4B,nvidia-nemotron-3-nano-4b,NVIDIA,3.97,dense,,True,2026-03-16,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16,local_small_1xGPU
+Gemma 3 4B Instruct,,Google DeepMind,4.0,dense,,True,2025,,d-central.tech local-llm-model-database,https://huggingface.co/google/gemma-3-4b-it,local_small_1xGPU
+MiniCPM4-MCP,,openbmb,4.0,dense,,True,,,Interconnects-AI/tracked-models (openbmb/MiniCPM4-MCP),https://huggingface.co/openbmb/MiniCPM4-MCP,local_small_1xGPU
+MiniCPM4-Survey,,openbmb,4.0,dense,,True,,,Interconnects-AI/tracked-models (openbmb/MiniCPM4-Survey),https://huggingface.co/openbmb/MiniCPM4-Survey,local_small_1xGPU
+Nanbeige4.2-3B,,Nanbeige,4.0,dense,,True,,,Interconnects-AI/tracked-models (Nanbeige/Nanbeige4.2-3B),https://huggingface.co/Nanbeige/Nanbeige4.2-3B,local_small_1xGPU
+Qwen3 4B (Non-reasoning),qwen3-4b-instruct,Alibaba,4.02,dense,,True,2025-04-28,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-4B,local_small_1xGPU
+Qwen3 4B (Reasoning),qwen3-4b-instruct-reasoning,Alibaba,4.02,dense,,True,2025-04-28,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-4B,local_small_1xGPU
+Qwen3 4B 2507 (Reasoning),qwen3-4b-2507-instruct-reasoning,Alibaba,4.02,dense,,True,2025-08-06,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507,local_small_1xGPU
+Qwen3 4B 2507 Instruct,qwen3-4b-2507-instruct,Alibaba,4.02,dense,,True,2025-08-06,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507,local_small_1xGPU
+MiniCPM-V-4,,openbmb,4.1,dense,,True,,,Interconnects-AI/tracked-models (openbmb/MiniCPM-V-4),https://huggingface.co/openbmb/MiniCPM-V-4,local_small_1xGPU
+Phi-3-vision-128k-instruct,,microsoft,4.2,dense,,True,,,Interconnects-AI/tracked-models (microsoft/Phi-3-vision-128k-instruct),https://huggingface.co/microsoft/Phi-3-vision-128k-instruct,local_small_1xGPU
+Phi-3.5-vision-instruct,,microsoft,4.2,dense,,True,,,Interconnects-AI/tracked-models (microsoft/Phi-3.5-vision-instruct),https://huggingface.co/microsoft/Phi-3.5-vision-instruct,local_small_1xGPU
+Gemma 3 4B Instruct,gemma-3-4b,Google,4.3,dense,,True,2025-03-12,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/google/gemma-3-12b-it,local_small_1xGPU
+Qwen3 VL 4B (Reasoning),qwen3-vl-4b-reasoning,Alibaba,4.44,dense,,True,2025-10-14,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-VL-4B-Thinking,local_small_1xGPU
+Qwen3 VL 4B Instruct,qwen3-vl-4b-instruct,Alibaba,4.44,dense,,True,2025-10-14,tiny,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-VL-4B-Instruct,local_small_1xGPU
+Gemma 4 E4B (Edge),,Google DeepMind,4.5,dense,,True,2026,,d-central.tech local-llm-model-database,https://huggingface.co/google/gemma-4-E4B,local_small_1xGPU
+Llama 3.1 Nemotron Nano 4B v1.1 (Reasoning),llama-3-1-nemotron-nano-4b-reasoning,NVIDIA,4.51,dense,,True,2025-05-20,small,artificialanalysis.ai embedded model payload,https://huggingface.co/nvidia/Llama-3.1-Nemotron-Nano-4B-v1.1,local_small_1xGPU
+Qwen3.5 4B (Non-reasoning),qwen3-5-4b-non-reasoning,Alibaba,4.66,dense,,True,2026-03-02,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3.5-4B,local_small_1xGPU
+Qwen3.5 4B (Reasoning),qwen3-5-4b,Alibaba,4.66,dense,,True,2026-03-02,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3.5-4B,local_small_1xGPU
+Gemma 4 E2B (Non-reasoning),gemma-4-e2b-non-reasoning,Google,5.1,moe,2.3,True,2026-04-02,small,artificialanalysis.ai embedded model payload,https://huggingface.co/google/gemma-4-E2B-it,local_small_1xGPU
+Gemma 4 E2B (Reasoning),gemma-4-e2b,Google,5.1,moe,2.3,True,2026-04-02,small,artificialanalysis.ai embedded model payload,https://huggingface.co/google/gemma-4-E2B-it,local_small_1xGPU
+Phi-4 Multimodal Instruct,phi-4-multimodal,Microsoft,5.6,dense,,True,2025-02-26,small,artificialanalysis.ai embedded model payload,https://huggingface.co/microsoft/Phi-4-multimodal-instruct,local_small_1xGPU
+deepseek-coder-5.7bmqa-base,,deepseek-ai,5.7,dense,,True,,,Interconnects-AI/tracked-models (deepseek-ai/deepseek-coder-5.7bmqa-base),https://huggingface.co/deepseek-ai/deepseek-coder-5.7bmqa-base,local_small_1xGPU
+Gemma 3n E2B Instruct,gemma-3n-e2b,Google,5.98,moe,2.0,True,2025-06-26,small,artificialanalysis.ai embedded model payload,https://huggingface.co/google/gemma-3n-E2B-it,local_small_1xGPU
+Phi-mini-MoE-instruct,,microsoft,6.6,dense,,True,,,Interconnects-AI/tracked-models (microsoft/Phi-mini-MoE-instruct),https://huggingface.co/microsoft/Phi-mini-MoE-instruct,local_small_1xGPU
+granite-4.0-tiny-base-preview,,ibm-granite,6.7,moe,1.0,True,,,Interconnects-AI/tracked-models (ibm-granite/granite-4.0-tiny-base-preview),https://huggingface.co/ibm-granite/granite-4.0-tiny-base-preview,local_small_1xGPU
+BPO,,THUDM,7.0,dense,,True,,,Interconnects-AI/tracked-models (THUDM/BPO),https://huggingface.co/THUDM/BPO,local_small_1xGPU
+DeepSeek LLM 67B Chat (V1),deepseek-llm-67b-chat,DeepSeek,7.0,dense,,True,2023-11-29,small,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/deepseek-llm-67b-chat,local_small_1xGPU
+DeepSeek-Prover-V1,,deepseek-ai,7.0,dense,,True,,,Interconnects-AI/tracked-models (deepseek-ai/DeepSeek-Prover-V1),https://huggingface.co/deepseek-ai/DeepSeek-Prover-V1,local_small_1xGPU
+DeepSeek-Prover-V1.5-Base,,deepseek-ai,7.0,dense,,True,,,Interconnects-AI/tracked-models (deepseek-ai/DeepSeek-Prover-V1.5-Base),https://huggingface.co/deepseek-ai/DeepSeek-Prover-V1.5-Base,local_small_1xGPU
+DeepSeek-Prover-V1.5-RL,,deepseek-ai,7.0,dense,,True,,,Interconnects-AI/tracked-models (deepseek-ai/DeepSeek-Prover-V1.5-RL),https://huggingface.co/deepseek-ai/DeepSeek-Prover-V1.5-RL,local_small_1xGPU
+DeepSeek-Prover-V1.5-SFT,,deepseek-ai,7.0,dense,,True,,,Interconnects-AI/tracked-models (deepseek-ai/DeepSeek-Prover-V1.5-SFT),https://huggingface.co/deepseek-ai/DeepSeek-Prover-V1.5-SFT,local_small_1xGPU
+DeepSeek-R1-Distill-Qwen-7B,,DeepSeek AI,7.0,dense,,True,2025,,d-central.tech local-llm-model-database,https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B,local_small_1xGPU
+Falcon-H1R-7B,falcon-h1r-7b,TII UAE,7.0,dense,,True,2026-01-04,small,artificialanalysis.ai embedded model payload,https://huggingface.co/tiiuae/Falcon-H1R-7B,local_small_1xGPU
+Ling-Coder-lite,,inclusionAI,7.0,dense,,True,,,Interconnects-AI/tracked-models (inclusionAI/Ling-Coder-lite),https://huggingface.co/inclusionAI/Ling-Coder-lite,local_small_1xGPU
+Ling-Coder-lite-base,,inclusionAI,7.0,dense,,True,,,Interconnects-AI/tracked-models (inclusionAI/Ling-Coder-lite-base),https://huggingface.co/inclusionAI/Ling-Coder-lite-base,local_small_1xGPU
+Ling-lite-1.5-2507,,inclusionAI,7.0,dense,,True,,,Interconnects-AI/tracked-models (inclusionAI/Ling-lite-1.5-2507),https://huggingface.co/inclusionAI/Ling-lite-1.5-2507,local_small_1xGPU
+Llama 2 Chat 7B,llama-2-chat-7b,Meta,7.0,dense,,True,2023-07-18,small,artificialanalysis.ai embedded model payload,https://huggingface.co/meta-llama/Llama-2-7b-chat-hf,local_small_1xGPU
+M2-Reasoning,,inclusionAI,7.0,dense,,True,,,Interconnects-AI/tracked-models (inclusionAI/M2-Reasoning),https://huggingface.co/inclusionAI/M2-Reasoning,local_small_1xGPU
+MSAGPT,,THUDM,7.0,dense,,True,,,Interconnects-AI/tracked-models (THUDM/MSAGPT),https://huggingface.co/THUDM/MSAGPT,local_small_1xGPU
+MathGLM,,THUDM,7.0,dense,,True,,,Interconnects-AI/tracked-models (THUDM/MathGLM),https://huggingface.co/THUDM/MathGLM,local_small_1xGPU
+MathGLM-Vision,,THUDM,7.0,dense,,True,,,Interconnects-AI/tracked-models (THUDM/MathGLM-Vision),https://huggingface.co/THUDM/MathGLM-Vision,local_small_1xGPU
+Ming-Lite-Uni,,inclusionAI,7.0,dense,,True,,,Interconnects-AI/tracked-models (inclusionAI/Ming-Lite-Uni),https://huggingface.co/inclusionAI/Ming-Lite-Uni,local_small_1xGPU
+Mistral 7B Instruct,mistral-7b-instruct,Mistral,7.0,dense,,True,2023-09-27,small,artificialanalysis.ai embedded model payload,https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1,local_small_1xGPU
+Mistral 7B v0.3 Instruct,,Mistral AI,7.0,dense,,True,2024,,d-central.tech local-llm-model-database,https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3,local_small_1xGPU
+OLMo 2 7B Instruct,,Allen AI (AI2),7.0,dense,,True,2024,,d-central.tech local-llm-model-database,https://huggingface.co/allenai/OLMo-2-7B-Instruct,local_small_1xGPU
+Olmo 3 7B Instruct,olmo-3-7b-instruct,Allen Institute for AI,7.0,dense,,True,2025-11-20,small,artificialanalysis.ai embedded model payload,https://huggingface.co/allenai/Olmo-3-7B-Instruct,local_small_1xGPU
+Olmo 3 7B Think,olmo-3-7b-think,Allen Institute for AI,7.0,dense,,True,2025-11-20,small,artificialanalysis.ai embedded model payload,https://huggingface.co/allenai/Olmo-3-7B-Think,local_small_1xGPU
+OpenChat 3.5 (1210),openchat-35,OpenChat,7.0,dense,,True,2023-12-18,small,artificialanalysis.ai embedded model payload,https://huggingface.co/openchat/openchat-3.5-1210,local_small_1xGPU
+POINTS-Reader,,tencent,7.0,dense,,True,,,Interconnects-AI/tracked-models (tencent/POINTS-Reader),https://huggingface.co/tencent/POINTS-Reader,local_small_1xGPU
+Phi-3-small-128k-instruct,,microsoft,7.0,dense,,True,,,Interconnects-AI/tracked-models (microsoft/Phi-3-small-128k-instruct),https://huggingface.co/microsoft/Phi-3-small-128k-instruct,local_small_1xGPU
+Phi-3-small-8k-instruct,,microsoft,7.0,dense,,True,,,Interconnects-AI/tracked-models (microsoft/Phi-3-small-8k-instruct),https://huggingface.co/microsoft/Phi-3-small-8k-instruct,local_small_1xGPU
+Qwen2.5 7B Instruct,,Alibaba / Qwen Team,7.0,dense,,True,2024,,d-central.tech local-llm-model-database,https://huggingface.co/Qwen/Qwen2.5-7B-Instruct,local_small_1xGPU
+RLHF-V,,openbmb,7.0,dense,,True,,,Interconnects-AI/tracked-models (openbmb/RLHF-V),https://huggingface.co/openbmb/RLHF-V,local_small_1xGPU
+RLHF-V-SFT,,openbmb,7.0,dense,,True,,,Interconnects-AI/tracked-models (openbmb/RLHF-V-SFT),https://huggingface.co/openbmb/RLHF-V-SFT,local_small_1xGPU
+Ring-lite,,inclusionAI,7.0,dense,,True,,,Interconnects-AI/tracked-models (inclusionAI/Ring-lite),https://huggingface.co/inclusionAI/Ring-lite,local_small_1xGPU
+Ring-lite-2506,,inclusionAI,7.0,dense,,True,,,Interconnects-AI/tracked-models (inclusionAI/Ring-lite-2506),https://huggingface.co/inclusionAI/Ring-lite-2506,local_small_1xGPU
+Ring-lite-2507,,inclusionAI,7.0,dense,,True,,,Interconnects-AI/tracked-models (inclusionAI/Ring-lite-2507),https://huggingface.co/inclusionAI/Ring-lite-2507,local_small_1xGPU
+Ring-lite-distill-preview,,inclusionAI,7.0,dense,,True,,,Interconnects-AI/tracked-models (inclusionAI/Ring-lite-distill-preview),https://huggingface.co/inclusionAI/Ring-lite-distill-preview,local_small_1xGPU
+Ring-lite-linear-preview,,inclusionAI,7.0,dense,,True,,,Interconnects-AI/tracked-models (inclusionAI/Ring-lite-linear-preview),https://huggingface.co/inclusionAI/Ring-lite-linear-preview,local_small_1xGPU
+Rubicon-Preview,,inclusionAI,7.0,dense,,True,,,Interconnects-AI/tracked-models (inclusionAI/Rubicon-Preview),https://huggingface.co/inclusionAI/Rubicon-Preview,local_small_1xGPU
+ViLaSR,,inclusionAI,7.0,dense,,True,,,Interconnects-AI/tracked-models (inclusionAI/ViLaSR),https://huggingface.co/inclusionAI/ViLaSR,local_small_1xGPU
+bakLlava-v1-hf,,llava-hf,7.0,dense,,True,,,Interconnects-AI/tracked-models (llava-hf/bakLlava-v1-hf),https://huggingface.co/llava-hf/bakLlava-v1-hf,local_small_1xGPU
+granite-4.0-tiny-preview,,ibm-granite,7.0,moe,1.0,True,,,Interconnects-AI/tracked-models (ibm-granite/granite-4.0-tiny-preview),https://huggingface.co/ibm-granite/granite-4.0-tiny-preview,local_small_1xGPU
+internlm2-step-prover,,internlm,7.0,dense,,True,,,Interconnects-AI/tracked-models (internlm/internlm2-step-prover),https://huggingface.co/internlm/internlm2-step-prover,local_small_1xGPU
+internlm2_5-step-prover,,internlm,7.0,dense,,True,,,Interconnects-AI/tracked-models (internlm/internlm2_5-step-prover),https://huggingface.co/internlm/internlm2_5-step-prover,local_small_1xGPU
+OLMo 2 7B,olmo-2-7b,Allen Institute for AI,7.3,dense,,True,2024-11-26,small,artificialanalysis.ai embedded model payload,https://huggingface.co/allenai/OLMo-2-1124-7B-Instruct,local_small_1xGPU
+Qwen2.5 Coder Instruct 7B ,qwen2-5-coder-7b-instruct,Alibaba,7.62,dense,,True,2024-09-19,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct,local_small_1xGPU
+Ling 3.0 Tiny,ling-3-0-tiny,InclusionAI,7.9,moe,1.3,True,2026-08-06,small,artificialanalysis.ai embedded model payload,https://huggingface.co/inclusionAI/Ling-3.0-tiny-int4,local_small_1xGPU
+Apertus 8B Instruct,apertus-8b-instruct,Swiss AI Initiative,8.0,dense,,True,2025-09-02,small,artificialanalysis.ai embedded model payload,https://huggingface.co/swiss-ai/Apertus-8B-Instruct-2509,local_small_1xGPU
+DeepHermes 3 - Llama-3.1 8B Preview (Non-reasoning),deephermes-3-llama-3-1-8b-preview,Nous Research,8.0,dense,,True,2025-02-13,small,artificialanalysis.ai embedded model payload,https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview,local_small_1xGPU
+DeepSeek R1 Distill Llama 8B,deepseek-r1-distill-llama-8b,DeepSeek,8.0,dense,,True,2025-01-20,small,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-8B,local_small_1xGPU
+Gemma 4 E4B (Non-reasoning),gemma-4-e4b-non-reasoning,Google,8.0,moe,4.5,True,2026-04-03,small,artificialanalysis.ai embedded model payload,https://huggingface.co/google/gemma-4-E4B-it,local_small_1xGPU
+Gemma 4 E4B (Reasoning),gemma-4-e4b,Google,8.0,moe,4.5,True,2026-04-03,small,artificialanalysis.ai embedded model payload,https://huggingface.co/google/gemma-4-E4B-it,local_small_1xGPU
+Granite 4.1 8B,granite-4-1-8b,IBM,8.0,dense,,True,2026-04-29,small,artificialanalysis.ai embedded model payload,https://huggingface.co/ibm-granite/granite-4.1-8b,local_small_1xGPU
+Granite 4.2 8B,granite-4-2-8b,IBM,8.0,dense,,True,2026-08-25,small,artificialanalysis.ai embedded model payload,https://huggingface.co/ibm-granite/granite-4.2-8b,local_small_1xGPU
+InternLM3-8B-Instruct,,Shanghai AI Laboratory (InternLM),8.0,dense,,True,2025,,d-central.tech local-llm-model-database,https://huggingface.co/internlm/internlm3-8b-instruct,local_small_1xGPU
+Llama 3 Instruct 8B,llama-3-instruct-8b,Meta,8.0,dense,,True,2024-04-18,small,artificialanalysis.ai embedded model payload,https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct,local_small_1xGPU
+Llama 3.1 8B Instruct,,Meta,8.0,dense,,True,2024,,d-central.tech local-llm-model-database,https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct,local_small_1xGPU
+Llama 3.1 Instruct 8B,llama-3-1-instruct-8b,Meta,8.0,dense,,True,2024-07-23,small,artificialanalysis.ai embedded model payload,https://huggingface.co/meta-llama/Meta-Llama-3.1-8B,local_small_1xGPU
+MiniCPM-Llama3-V-2_5,,openbmb,8.0,dense,,True,,,Interconnects-AI/tracked-models (openbmb/MiniCPM-Llama3-V-2_5),https://huggingface.co/openbmb/MiniCPM-Llama3-V-2_5,local_small_1xGPU
+MiniCPM-V-2_6,,openbmb,8.0,dense,,True,,,Interconnects-AI/tracked-models (openbmb/MiniCPM-V-2_6),https://huggingface.co/openbmb/MiniCPM-V-2_6,local_small_1xGPU
+MiniCPM-V-4_5,,openbmb,8.0,dense,,True,,,Interconnects-AI/tracked-models (openbmb/MiniCPM-V-4_5),https://huggingface.co/openbmb/MiniCPM-V-4_5,local_small_1xGPU
+MiniCPM-o-2_6,,openbmb,8.0,dense,,True,,,Interconnects-AI/tracked-models (openbmb/MiniCPM-o-2_6),https://huggingface.co/openbmb/MiniCPM-o-2_6,local_small_1xGPU
+Ministral 3 8B,ministral-3-8b,Mistral,8.0,dense,,True,2025-12-02,small,artificialanalysis.ai embedded model payload,https://huggingface.co/mistralai/Ministral-3-8B-Instruct-2512,local_small_1xGPU
+Qwen3 8B,,Alibaba / Qwen Team,8.0,dense,,True,2025,,d-central.tech local-llm-model-database,https://huggingface.co/Qwen/Qwen3-8B,local_small_1xGPU
+Molmo 7B-D,molmo-7b-d,Allen Institute for AI,8.02,dense,,True,2024-09-25,small,artificialanalysis.ai embedded model payload,https://huggingface.co/allenai/Molmo-7B-D-0924,local_small_1xGPU
+Granite 3.3 8B (Non-reasoning),granite-3-3-8b-instruct,IBM,8.17,dense,,True,2025-04-16,small,artificialanalysis.ai embedded model payload,https://huggingface.co/ibm-granite/granite-3.3-8b-instruct,local_small_1xGPU
+DeepSeek R1 0528 Qwen3 8B,deepseek-r1-qwen3-8b,DeepSeek,8.19,dense,,True,2025-05-29,small,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/DeepSeek-R1-0528-Qwen3-8B,local_small_1xGPU
+Qwen3 8B (Non-reasoning),qwen3-8b-instruct,Alibaba,8.19,dense,,True,2025-04-28,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-8B,local_small_1xGPU
+Qwen3 8B (Reasoning),qwen3-8b-instruct-reasoning,Alibaba,8.19,dense,,True,2025-04-28,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-8B,local_small_1xGPU
+LFM2.5-8B-A1B,lfm2-5-8b-a1b,Liquid AI,8.3,moe,1.5,True,2026-05-28,small,artificialanalysis.ai embedded model payload,https://huggingface.co/LiquidAI/LFM2.5-8B-A1B,local_small_1xGPU
+LFM2 8B A1B,lfm2-8b-a1b,Liquid AI,8.34,moe,1.5,True,2025-10-07,small,artificialanalysis.ai embedded model payload,https://huggingface.co/LiquidAI/LFM2-8B-A1B,local_small_1xGPU
+Gemma 3n E4B Instruct,gemma-3n-e4b,Google,8.39,moe,4.0,True,2025-06-26,small,artificialanalysis.ai embedded model payload,https://huggingface.co/google/gemma-3n-E4B-it,local_small_1xGPU
+Gemma 3n E4B Instruct Preview (May '25),gemma-3n-e4b-preview-0520,Google,8.39,moe,4.0,True,2025-05-20,small,artificialanalysis.ai embedded model payload,https://huggingface.co/google/gemma-3n-E4B-it-litert-preview,local_small_1xGPU
+Molmo2-8B,molmo2-8b,Allen Institute for AI,8.66,dense,,True,2025-12-11,small,artificialanalysis.ai embedded model payload,https://huggingface.co/allenai/Molmo2-8B,local_small_1xGPU
+Qwen3 VL 8B (Reasoning),qwen3-vl-8b-reasoning,Alibaba,8.77,dense,,True,2025-10-14,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-VL-8B-Thinking,local_small_1xGPU
+Qwen3 VL 8B Instruct,qwen3-vl-8b-instruct,Alibaba,8.77,dense,,True,2025-10-14,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct,local_small_1xGPU
+Fara1.5-9B,,microsoft,9.0,dense,,True,,,Interconnects-AI/tracked-models (microsoft/Fara1.5-9B),https://huggingface.co/microsoft/Fara1.5-9B,local_small_1xGPU
+NVIDIA Nemotron Nano 9B V2 (Non-reasoning),nvidia-nemotron-nano-9b-v2,NVIDIA,9.0,dense,,True,2025-08-18,small,artificialanalysis.ai embedded model payload,https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2,local_small_1xGPU
+NVIDIA Nemotron Nano 9B V2 (Reasoning),nvidia-nemotron-nano-9b-v2-reasoning,NVIDIA,9.0,dense,,True,2025-08-18,small,artificialanalysis.ai embedded model payload,https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2,local_small_1xGPU
+NVIDIA Nemotron Nano 9B v2,,NVIDIA,9.0,dense,,True,2025,,d-central.tech local-llm-model-database,https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2,local_small_1xGPU
+Qwen3.5 9B,,Alibaba / Qwen Team,9.0,dense,,True,2026,,d-central.tech local-llm-model-database,https://huggingface.co/Qwen/Qwen3.5-9B,local_small_1xGPU
+moondream3.1-9B-A2B,,moondream,9.0,moe,2.0,True,,,Interconnects-AI/tracked-models (moondream/moondream3.1-9B-A2B),https://huggingface.co/moondream/moondream3.1-9B-A2B,local_small_1xGPU
+moondream3-preview,,moondream,9.3,dense,,True,,,Interconnects-AI/tracked-models (moondream/moondream3-preview),https://huggingface.co/moondream/moondream3-preview,local_small_1xGPU
+Qwen-VL,,Qwen,9.6,dense,,True,,,Interconnects-AI/tracked-models (Qwen/Qwen-VL),https://huggingface.co/Qwen/Qwen-VL,local_small_1xGPU
+Qwen-VL-Chat,,Qwen,9.6,dense,,True,,,Interconnects-AI/tracked-models (Qwen/Qwen-VL-Chat),https://huggingface.co/Qwen/Qwen-VL-Chat,local_small_1xGPU
+Qwen3.5 9B (Non-reasoning),qwen3-5-9b-non-reasoning,Alibaba,9.65,dense,,True,2026-03-02,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3.5-9B,local_small_1xGPU
+Qwen3.5 9B (Reasoning),qwen3-5-9b,Alibaba,9.65,dense,,True,2026-03-02,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3.5-9B,local_small_1xGPU
+Falcon3-10B-Instruct,,TII (Technology Innovation Institute),10.0,dense,,True,2024,,d-central.tech local-llm-model-database,https://huggingface.co/tiiuae/Falcon3-10B-Instruct,local_small_1xGPU
+GLM-4.6V-Flash,,zai-org,10.0,dense,,True,,,Interconnects-AI/tracked-models (zai-org/GLM-4.6V-Flash),https://huggingface.co/zai-org/GLM-4.6V-Flash,local_small_1xGPU
+VisCPM-Chat,,openbmb,10.0,dense,,True,,,Interconnects-AI/tracked-models (openbmb/VisCPM-Chat),https://huggingface.co/openbmb/VisCPM-Chat,local_small_1xGPU
+VisCPM-Paint,,openbmb,10.0,dense,,True,,,Interconnects-AI/tracked-models (openbmb/VisCPM-Paint),https://huggingface.co/openbmb/VisCPM-Paint,local_small_1xGPU
+WebGLM,,THUDM,10.0,dense,,True,,,Interconnects-AI/tracked-models (THUDM/WebGLM),https://huggingface.co/THUDM/WebGLM,local_small_1xGPU
+Step3 VL 10B,step-3-vl-10b,StepFun,10.2,dense,,True,2026-01-20,small,artificialanalysis.ai embedded model payload,https://huggingface.co/stepfun-ai/Step3-VL-10B,local_small_1xGPU
+Solar Mini,solar-mini,Upstage,10.7,dense,,True,2024-01-25,small,artificialanalysis.ai embedded model payload,https://huggingface.co/upstage/SOLAR-10.7B-v1.0,local_small_1xGPU
+Llama 3.2 Instruct 11B (Vision),llama-3-2-instruct-11b-vision,Meta,11.0,dense,,True,2024-09-25,small,artificialanalysis.ai embedded model payload,https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct,local_small_1xGPU
+Gemma 3 12B Instruct,,Google DeepMind,12.0,dense,,True,2025,,d-central.tech local-llm-model-database,https://huggingface.co/google/gemma-3-12b-it,local_small_1xGPU
+Gemma 4 12B (Non-reasoning),gemma-4-12b-non-reasoning,Google,12.0,dense,,True,2026-06-03,small,artificialanalysis.ai embedded model payload,https://huggingface.co/google/gemma-4-12B-it,local_small_1xGPU
+Gemma 4 12B (Reasoning),gemma-4-12b,Google,12.0,dense,,True,2026-06-03,small,artificialanalysis.ai embedded model payload,https://huggingface.co/google/gemma-4-12B-it/tree/main,local_small_1xGPU
+Gemma 4 12B (instruct),,Google DeepMind,12.0,dense,,True,2026,,d-central.tech local-llm-model-database,https://huggingface.co/google/gemma-4-12B-it,local_small_1xGPU
+Mistral Nemo 12B Instruct,,Mistral AI + NVIDIA,12.0,dense,,True,2024,,d-central.tech local-llm-model-database,https://huggingface.co/mistralai/Mistral-Nemo-Instruct-2407,local_small_1xGPU
+Mistral-Nemo-Base-2407,,mistralai,12.0,dense,,True,,,Interconnects-AI/tracked-models (mistralai/Mistral-Nemo-Base-2407),https://huggingface.co/mistralai/Mistral-Nemo-Base-2407,local_small_1xGPU
+Mistral-Nemo-Instruct-2407,,mistralai,12.0,dense,,True,,,Interconnects-AI/tracked-models (mistralai/Mistral-Nemo-Instruct-2407),https://huggingface.co/mistralai/Mistral-Nemo-Instruct-2407,local_small_1xGPU
+Gemma 3 12B Instruct,gemma-3-12b,Google,12.2,dense,,True,2025-03-12,small,artificialanalysis.ai embedded model payload,https://huggingface.co/google/gemma-3-12b-it,local_small_1xGPU
+Llama 2 Chat 13B,llama-2-chat-13b,Meta,13.0,dense,,True,2023-07-18,small,artificialanalysis.ai embedded model payload,https://huggingface.co/meta-llama/Llama-2-13b-chat-hf,local_small_1xGPU
+OLMo 2 13B Instruct,,Allen AI (AI2),13.0,dense,,True,2024,,d-central.tech local-llm-model-database,https://huggingface.co/allenai/OLMo-2-13B-Instruct,local_small_1xGPU
+NVIDIA Nemotron Nano 12B v2 VL (Non-reasoning),nvidia-nemotron-nano-12b-v2-vl,NVIDIA,13.2,dense,,True,2025-10-28,small,artificialanalysis.ai embedded model payload,https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-12B-v2-VL-BF16,local_small_1xGPU
+NVIDIA Nemotron Nano 12B v2 VL (Reasoning),nvidia-nemotron-nano-12b-v2-vl-reasoning,NVIDIA,13.2,dense,,True,2025-10-28,small,artificialanalysis.ai embedded model payload,https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-12B-v2-VL-BF16,local_small_1xGPU
+DeepSeek R1 Distill Qwen 14B,deepseek-r1-distill-qwen-14b,DeepSeek,14.0,dense,,True,2025-01-20,small,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B,local_small_1xGPU
+MiniCPM-MoE-8x2B,,openbmb,14.0,moe,4.0,True,,,Interconnects-AI/tracked-models (openbmb/MiniCPM-MoE-8x2B),https://huggingface.co/openbmb/MiniCPM-MoE-8x2B,local_small_1xGPU
+Ministral 3 14B,ministral-3-14b,Mistral,14.0,dense,,True,2025-12-02,small,artificialanalysis.ai embedded model payload,https://huggingface.co/mistralai/Ministral-3-14B-Instruct-2512,local_small_1xGPU
+Phi-3-medium-128k-instruct,,microsoft,14.0,dense,,True,,,Interconnects-AI/tracked-models (microsoft/Phi-3-medium-128k-instruct),https://huggingface.co/microsoft/Phi-3-medium-128k-instruct,local_small_1xGPU
+Phi-3-medium-4k-instruct,,microsoft,14.0,dense,,True,,,Interconnects-AI/tracked-models (microsoft/Phi-3-medium-4k-instruct),https://huggingface.co/microsoft/Phi-3-medium-4k-instruct,local_small_1xGPU
+Phi-4,phi-4,Microsoft,14.0,dense,,True,2024-12-12,small,artificialanalysis.ai embedded model payload,https://huggingface.co/microsoft/phi-4,local_small_1xGPU
+Phi-4-reasoning,,microsoft,14.0,dense,,True,,,Interconnects-AI/tracked-models (microsoft/Phi-4-reasoning),https://huggingface.co/microsoft/Phi-4-reasoning,local_small_1xGPU
+Phi-4-reasoning-plus,,microsoft,14.0,dense,,True,,,Interconnects-AI/tracked-models (microsoft/Phi-4-reasoning-plus),https://huggingface.co/microsoft/Phi-4-reasoning-plus,local_small_1xGPU
+Qwen Chat 14B,qwen-chat-14b,Alibaba,14.0,dense,,True,2023-09-25,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen-14B-Chat,local_small_1xGPU
+Qwen2.5 14B Instruct,,Alibaba / Qwen Team,14.0,dense,,True,2024,,d-central.tech local-llm-model-database,https://huggingface.co/Qwen/Qwen2.5-14B-Instruct,local_small_1xGPU
+Qwen3 14B,,Alibaba / Qwen Team,14.0,dense,,True,2025,,d-central.tech local-llm-model-database,https://huggingface.co/Qwen/Qwen3-14B,local_small_1xGPU
+Qwen1.5-MoE-A2.7B,,Qwen,14.3,moe,2.7,True,,,Interconnects-AI/tracked-models (Qwen/Qwen1.5-MoE-A2.7B),https://huggingface.co/Qwen/Qwen1.5-MoE-A2.7B,local_medium_1-2xGPU
+Qwen1.5-MoE-A2.7B-Chat,,Qwen,14.3,dense,,True,,,Interconnects-AI/tracked-models (Qwen/Qwen1.5-MoE-A2.7B-Chat),https://huggingface.co/Qwen/Qwen1.5-MoE-A2.7B-Chat,local_medium_1-2xGPU
+Phi-4 14B Instruct,,Microsoft,14.7,dense,,True,2024,,d-central.tech local-llm-model-database,https://huggingface.co/microsoft/phi-4,local_medium_1-2xGPU
+Qwen3 14B (Non-reasoning),qwen3-14b-instruct,Alibaba,14.8,dense,,True,2025-04-28,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-14B,local_medium_1-2xGPU
+Qwen3 14B (Reasoning),qwen3-14b-instruct-reasoning,Alibaba,14.8,dense,,True,2025-04-28,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-14B,local_medium_1-2xGPU
+Apriel-v1.5-15B-Thinker,apriel-v1-5-15b-thinker,ServiceNow,15.0,dense,,True,2025-09-30,small,artificialanalysis.ai embedded model payload,https://huggingface.co/ServiceNow-AI/Apriel-1.5-15b-Thinker,local_medium_1-2xGPU
+Apriel-v1.6-15B-Thinker,apriel-v1-6-15b-thinker,ServiceNow,15.0,dense,,True,2025-11-25,small,artificialanalysis.ai embedded model payload,https://huggingface.co/ServiceNow-AI/Apriel-1.6-15b-Thinker,local_medium_1-2xGPU
+DeepSeek-V2-Lite,,deepseek-ai,15.7,moe,2.4,True,,,Interconnects-AI/tracked-models (deepseek-ai/DeepSeek-V2-Lite),https://huggingface.co/deepseek-ai/DeepSeek-V2-Lite,local_medium_1-2xGPU
+DeepSeek-V2-Lite-Chat,,deepseek-ai,15.7,moe,2.4,True,,,Interconnects-AI/tracked-models (deepseek-ai/DeepSeek-V2-Lite-Chat),https://huggingface.co/deepseek-ai/DeepSeek-V2-Lite-Chat,local_medium_1-2xGPU
+DeepSeek Coder V2 Lite Instruct,deepseek-coder-v2-lite,DeepSeek,16.0,moe,2.4,True,2024-06-17,small,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Lite-Instruct,local_medium_1-2xGPU
+DeepSeek-Coder-V2-Lite-Base,,deepseek-ai,16.0,moe,2.4,True,,,Interconnects-AI/tracked-models (deepseek-ai/DeepSeek-Coder-V2-Lite-Base),https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Lite-Base,local_medium_1-2xGPU
+Instella-MoE-16B-A3B-Think,,amd,16.0,moe,2.8,True,,,Interconnects-AI/tracked-models (amd/Instella-MoE-16B-A3B-Think),https://huggingface.co/amd/Instella-MoE-16B-A3B-Think,local_medium_1-2xGPU
+Kimi-VL-A3B-Instruct,,moonshotai,16.0,moe,3.0,True,,,Interconnects-AI/tracked-models (moonshotai/Kimi-VL-A3B-Instruct),https://huggingface.co/moonshotai/Kimi-VL-A3B-Instruct,local_medium_1-2xGPU
+deepseek-vl2-small,,deepseek-ai,16.0,dense,,True,,,Interconnects-AI/tracked-models (deepseek-ai/deepseek-vl2-small),https://huggingface.co/deepseek-ai/deepseek-vl2-small,local_medium_1-2xGPU
+Ling-mini-2.0,,inclusionAI,16.26,moe,1.43,True,,,Interconnects-AI/tracked-models (inclusionAI/Ling-mini-2.0),https://huggingface.co/inclusionAI/Ling-mini-2.0,local_medium_1-2xGPU
+Ling-mini-base-2.0,,inclusionAI,16.26,moe,1.43,True,,,Interconnects-AI/tracked-models (inclusionAI/Ling-mini-base-2.0),https://huggingface.co/inclusionAI/Ling-mini-base-2.0,local_medium_1-2xGPU
+Ling-mini-base-2.0-10T,,inclusionAI,16.26,moe,1.43,True,,,Interconnects-AI/tracked-models (inclusionAI/Ling-mini-base-2.0-10T),https://huggingface.co/inclusionAI/Ling-mini-base-2.0-10T,local_medium_1-2xGPU
+Ling-mini-base-2.0-15T,,inclusionAI,16.26,moe,1.43,True,,,Interconnects-AI/tracked-models (inclusionAI/Ling-mini-base-2.0-15T),https://huggingface.co/inclusionAI/Ling-mini-base-2.0-15T,local_medium_1-2xGPU
+Ling-mini-base-2.0-20T,,inclusionAI,16.26,moe,1.43,True,,,Interconnects-AI/tracked-models (inclusionAI/Ling-mini-base-2.0-20T),https://huggingface.co/inclusionAI/Ling-mini-base-2.0-20T,local_medium_1-2xGPU
+Ling-mini-base-2.0-5T,,inclusionAI,16.26,moe,1.43,True,,,Interconnects-AI/tracked-models (inclusionAI/Ling-mini-base-2.0-5T),https://huggingface.co/inclusionAI/Ling-mini-base-2.0-5T,local_medium_1-2xGPU
+Ling-mini-2.0,ling-mini-2-0,InclusionAI,16.3,moe,1.4,True,2025-09-09,small,artificialanalysis.ai embedded model payload,https://huggingface.co/inclusionAI/Ling-mini-2.0,local_medium_1-2xGPU
+Kimi-VL-A3B-Thinking,,moonshotai,16.4,moe,3.0,True,,,Interconnects-AI/tracked-models (moonshotai/Kimi-VL-A3B-Thinking),https://huggingface.co/moonshotai/Kimi-VL-A3B-Thinking,local_medium_1-2xGPU
+Kimi-VL-A3B-Thinking-2506,,moonshotai,16.4,moe,3.0,True,,,Interconnects-AI/tracked-models (moonshotai/Kimi-VL-A3B-Thinking-2506),https://huggingface.co/moonshotai/Kimi-VL-A3B-Thinking-2506,local_medium_1-2xGPU
+Ling-lite,,inclusionAI,16.8,moe,2.75,True,,,Interconnects-AI/tracked-models (inclusionAI/Ling-lite),https://huggingface.co/inclusionAI/Ling-lite,local_medium_1-2xGPU
+Ling-lite-1.5,,inclusionAI,16.8,moe,2.75,True,,,Interconnects-AI/tracked-models (inclusionAI/Ling-lite-1.5),https://huggingface.co/inclusionAI/Ling-lite-1.5,local_medium_1-2xGPU
+Ling-lite-1.5-2506,,inclusionAI,16.8,moe,2.75,True,,,Interconnects-AI/tracked-models (inclusionAI/Ling-lite-1.5-2506),https://huggingface.co/inclusionAI/Ling-lite-1.5-2506,local_medium_1-2xGPU
+Ling-lite-base,,inclusionAI,16.8,moe,2.75,True,,,Interconnects-AI/tracked-models (inclusionAI/Ling-lite-base),https://huggingface.co/inclusionAI/Ling-lite-base,local_medium_1-2xGPU
+Ling-lite-base-1.5,,inclusionAI,16.8,moe,2.75,True,,,Interconnects-AI/tracked-models (inclusionAI/Ling-lite-base-1.5),https://huggingface.co/inclusionAI/Ling-lite-base-1.5,local_medium_1-2xGPU
+CogVLM,,THUDM,17.0,dense,,True,,,Interconnects-AI/tracked-models (THUDM/CogVLM),https://huggingface.co/THUDM/CogVLM,local_medium_1-2xGPU
+cogvlm-base-224-hf,,THUDM,17.0,dense,,True,,,Interconnects-AI/tracked-models (THUDM/cogvlm-base-224-hf),https://huggingface.co/THUDM/cogvlm-base-224-hf,local_medium_1-2xGPU
+cogvlm-base-490-hf,,THUDM,17.0,dense,,True,,,Interconnects-AI/tracked-models (THUDM/cogvlm-base-490-hf),https://huggingface.co/THUDM/cogvlm-base-490-hf,local_medium_1-2xGPU
+cogvlm-chat-hf,,THUDM,17.0,dense,,True,,,Interconnects-AI/tracked-models (THUDM/cogvlm-chat-hf),https://huggingface.co/THUDM/cogvlm-chat-hf,local_medium_1-2xGPU
+cogvlm-grounding-base-hf,,THUDM,17.0,dense,,True,,,Interconnects-AI/tracked-models (THUDM/cogvlm-grounding-base-hf),https://huggingface.co/THUDM/cogvlm-grounding-base-hf,local_medium_1-2xGPU
+cogvlm-grounding-generalist-hf,,THUDM,17.0,dense,,True,,,Interconnects-AI/tracked-models (THUDM/cogvlm-grounding-generalist-hf),https://huggingface.co/THUDM/cogvlm-grounding-generalist-hf,local_medium_1-2xGPU
+cogvlm2-llama3-caption,,THUDM,17.0,dense,,True,,,Interconnects-AI/tracked-models (THUDM/cogvlm2-llama3-caption),https://huggingface.co/THUDM/cogvlm2-llama3-caption,local_medium_1-2xGPU
+cogvlm2-video-llama3-base,,THUDM,17.0,dense,,True,,,Interconnects-AI/tracked-models (THUDM/cogvlm2-video-llama3-base),https://huggingface.co/THUDM/cogvlm2-video-llama3-base,local_medium_1-2xGPU
+cogvlm2-video-llama3-chat,,THUDM,17.0,dense,,True,,,Interconnects-AI/tracked-models (THUDM/cogvlm2-video-llama3-chat),https://huggingface.co/THUDM/cogvlm2-video-llama3-chat,local_medium_1-2xGPU
+CogAgent,,THUDM,18.0,dense,,True,,,Interconnects-AI/tracked-models (THUDM/CogAgent),https://huggingface.co/THUDM/CogAgent,local_medium_1-2xGPU
+cogagent-chat-hf,,THUDM,18.0,dense,,True,,,Interconnects-AI/tracked-models (THUDM/cogagent-chat-hf),https://huggingface.co/THUDM/cogagent-chat-hf,local_medium_1-2xGPU
+cogagent-vqa-hf,,THUDM,18.0,dense,,True,,,Interconnects-AI/tracked-models (THUDM/cogagent-vqa-hf),https://huggingface.co/THUDM/cogagent-vqa-hf,local_medium_1-2xGPU
+Ming-Lite-Omni,,inclusionAI,19.0,moe,2.8,True,,,Interconnects-AI/tracked-models (inclusionAI/Ming-Lite-Omni),https://huggingface.co/inclusionAI/Ming-Lite-Omni,local_medium_1-2xGPU
+Ming-Lite-Omni-1.5,,inclusionAI,20.3,moe,3.0,True,,,Interconnects-AI/tracked-models (inclusionAI/Ming-Lite-Omni-1.5),https://huggingface.co/inclusionAI/Ming-Lite-Omni-1.5,local_medium_1-2xGPU
+Reka Flash 3,reka-flash-3,Reka AI,21.0,dense,,True,2025-03-10,small,artificialanalysis.ai embedded model payload,https://huggingface.co/RekaAI/reka-flash-3,local_medium_1-2xGPU
+Tri-21B-Think,tri-21b-think-v0-5,Trillion Labs,21.0,dense,,True,2026-02-10,small,artificialanalysis.ai embedded model payload,https://huggingface.co/trillionlabs/Tri-21B-Think,local_medium_1-2xGPU
+Tri-21B-think Preview,tri-21b-think-preview,Trillion Labs,21.0,dense,,True,2026-02-10,small,artificialanalysis.ai embedded model payload,https://huggingface.co/trillionlabs/Tri-21B-Think-Preview,local_medium_1-2xGPU
+gpt-oss-20b,,OpenAI,21.0,moe,3.6,True,2025,,d-central.tech local-llm-model-database,https://huggingface.co/openai/gpt-oss-20b,local_medium_1-2xGPU
+gpt-oss-20b (high),gpt-oss-20b,OpenAI,21.0,moe,3.6,True,2025-08-05,small,artificialanalysis.ai embedded model payload,https://huggingface.co/openai/gpt-oss-20b,local_medium_1-2xGPU
+gpt-oss-20b (low),gpt-oss-20b-low,OpenAI,21.0,moe,3.6,True,2025-08-05,small,artificialanalysis.ai embedded model payload,https://huggingface.co/openai/gpt-oss-20b,local_medium_1-2xGPU
+Mistral Small (Sep '24),mistral-small,Mistral,22.0,dense,,True,2024-09-17,small,artificialanalysis.ai embedded model payload,https://huggingface.co/mistralai/Mistral-Small-Instruct-2409,local_medium_1-2xGPU
+Mistral-Small-Instruct-2409,,mistralai,22.0,dense,,True,,,Interconnects-AI/tracked-models (mistralai/Mistral-Small-Instruct-2409),https://huggingface.co/mistralai/Mistral-Small-Instruct-2409,local_medium_1-2xGPU
+Devstral Small (May '25),devstral-small-2505,Mistral,23.6,dense,,True,2025-05-21,small,artificialanalysis.ai embedded model payload,https://huggingface.co/mistralai/Devstral-Small-2505,local_medium_1-2xGPU
+Magistral Small 1,magistral-small,Mistral,23.6,dense,,True,2025-06-10,small,artificialanalysis.ai embedded model payload,https://huggingface.co/mistralai/Magistral-Small-2506,local_medium_1-2xGPU
+Sarvam M (Reasoning),sarvam-m-reasoning,Sarvam,23.6,dense,,True,2025-05-23,small,artificialanalysis.ai embedded model payload,https://huggingface.co/sarvamai/sarvam-m,local_medium_1-2xGPU
+LFM2 24B A2B,lfm2-24b-a2b,Liquid AI,23.8,moe,2.3,True,2026-02-25,small,artificialanalysis.ai embedded model payload,https://huggingface.co/LiquidAI/LFM2-24B-A2B,local_medium_1-2xGPU
+DeepHermes 3 - Mistral 24B Preview (Non-reasoning),deephermes-3-mistral-24b-preview,Nous Research,24.0,dense,,True,2025-03-13,small,artificialanalysis.ai embedded model payload,https://huggingface.co/NousResearch/DeepHermes-3-Mistral-24B-Preview,local_medium_1-2xGPU
+Devstral Small (Jul '25),devstral-small,Mistral,24.0,dense,,True,2025-07-10,small,artificialanalysis.ai embedded model payload,https://huggingface.co/mistralai/Devstral-Small-2507,local_medium_1-2xGPU
+Devstral Small 2,devstral-small-2,Mistral,24.0,dense,,True,2025-12-09,small,artificialanalysis.ai embedded model payload,https://huggingface.co/mistralai/Devstral-Small-2-24B-Instruct-2512,local_medium_1-2xGPU
+Devstral-Small-2505,,mistralai,24.0,dense,,True,,,Interconnects-AI/tracked-models (mistralai/Devstral-Small-2505),https://huggingface.co/mistralai/Devstral-Small-2505,local_medium_1-2xGPU
+Magistral Small 1.2,magistral-small-2509,Mistral,24.0,dense,,True,2025-09-17,small,artificialanalysis.ai embedded model payload,https://huggingface.co/mistralai/Magistral-Small-2509,local_medium_1-2xGPU
+Magistral-Small-2506,,mistralai,24.0,dense,,True,,,Interconnects-AI/tracked-models (mistralai/Magistral-Small-2506),https://huggingface.co/mistralai/Magistral-Small-2506,local_medium_1-2xGPU
+Magistral-Small-2507,,mistralai,24.0,dense,,True,,,Interconnects-AI/tracked-models (mistralai/Magistral-Small-2507),https://huggingface.co/mistralai/Magistral-Small-2507,local_medium_1-2xGPU
+Magistral-Small-2509,,mistralai,24.0,dense,,True,,,Interconnects-AI/tracked-models (mistralai/Magistral-Small-2509),https://huggingface.co/mistralai/Magistral-Small-2509,local_medium_1-2xGPU
+Mistral Small 3,mistral-small-3,Mistral,24.0,dense,,True,2025-01-30,small,artificialanalysis.ai embedded model payload,https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501,local_medium_1-2xGPU
+Mistral Small 3.1,mistral-small-3-1,Mistral,24.0,dense,,True,2025-03-17,small,artificialanalysis.ai embedded model payload,https://huggingface.co/mistralai/Mistral-Small-3.1-24B-Base-2503,local_medium_1-2xGPU
+Mistral Small 3.2,mistral-small-3-2,Mistral,24.0,dense,,True,2025-06-20,small,artificialanalysis.ai embedded model payload,https://huggingface.co/mistralai/Mistral-Small-3.2-24B-Instruct-2506,local_medium_1-2xGPU
+Mistral-Small-24B-Instruct-2501,,mistralai,24.0,dense,,True,,,Interconnects-AI/tracked-models (mistralai/Mistral-Small-24B-Instruct-2501),https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501,local_medium_1-2xGPU
+Mistral-Small-3.1-24B-Instruct-2503,,mistralai,24.0,dense,,True,,,Interconnects-AI/tracked-models (mistralai/Mistral-Small-3.1-24B-Instruct-2503),https://huggingface.co/mistralai/Mistral-Small-3.1-24B-Instruct-2503,local_medium_1-2xGPU
+DiffusionGemma 26B A4B,diffusiongemma-26b-a4b,Google,25.2,moe,3.8,True,2026-06-10,small,artificialanalysis.ai embedded model payload,https://huggingface.co/google/diffusiongemma-26B-A4B-it,local_medium_1-2xGPU
+Gemma 4 26B A4B (Non-reasoning),gemma-4-26b-a4b-non-reasoning,Google,25.2,moe,3.8,True,2026-04-02,small,artificialanalysis.ai embedded model payload,https://huggingface.co/google/gemma-4-26B-A4B-it,local_medium_1-2xGPU
+Gemma 4 26B A4B (Reasoning),gemma-4-26b-a4b,Google,25.2,moe,3.8,True,2026-04-02,small,artificialanalysis.ai embedded model payload,https://huggingface.co/google/gemma-4-26B-A4B-it,local_medium_1-2xGPU
+gemma-4-26B-A4B-it,,google,25.2,moe,3.8,True,,,Interconnects-AI/tracked-models (google/gemma-4-26B-A4B-it),https://huggingface.co/google/gemma-4-26B-A4B-it,local_medium_1-2xGPU
+Gemma 4 26B-A4B (instruct),,Google DeepMind,26.5,moe,4.0,True,2026,,d-central.tech local-llm-model-database,https://huggingface.co/google/gemma-4-26B-A4B-it,local_medium_1-2xGPU
+Gemma 3 27B Instruct,,Google DeepMind,27.0,dense,,True,2025,,d-central.tech local-llm-model-database,https://huggingface.co/google/gemma-3-27b-it,local_medium_1-2xGPU
+Qwen3.5 27B,,Alibaba / Qwen Team,27.0,dense,,True,2026,,d-central.tech local-llm-model-database,https://huggingface.co/Qwen/Qwen3.5-27B,local_medium_1-2xGPU
+Qwen3.6 27B,,Alibaba / Qwen Team,27.0,dense,,True,2026,,d-central.tech local-llm-model-database,https://huggingface.co/Qwen/Qwen3.6-27B,local_medium_1-2xGPU
+Qwen3.8 27B (Non-reasoning),qwen3-8-27b-non-reasoning,Alibaba,27.0,dense,,True,2026-08-14,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3.8-27B,local_medium_1-2xGPU
+Qwen3.8 27B (low),qwen3-8-27b-low,Alibaba,27.0,dense,,True,2026-08-14,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3.8-27B,local_medium_1-2xGPU
+Qwen3.8 27B (medium),qwen3-8-27b-medium,Alibaba,27.0,dense,,True,2026-08-14,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3.8-27B,local_medium_1-2xGPU
+Qwen3.8 27B (xhigh),qwen3-8-27b,Alibaba,27.0,dense,,True,2026-08-14,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3.8-27B,local_medium_1-2xGPU
+deepseek-vl2,,deepseek-ai,27.0,dense,,True,,,Interconnects-AI/tracked-models (deepseek-ai/deepseek-vl2),https://huggingface.co/deepseek-ai/deepseek-vl2,local_medium_1-2xGPU
+gemma-3-27b-it,,google,27.0,dense,,True,,,Interconnects-AI/tracked-models (google/gemma-3-27b-it),https://huggingface.co/google/gemma-3-27b-it,local_medium_1-2xGPU
+Gemma 3 27B Instruct,gemma-3-27b,Google,27.4,dense,,True,2025-03-12,small,artificialanalysis.ai embedded model payload,https://huggingface.co/google/gemma-3-27b-it,local_medium_1-2xGPU
+Qwen3.5 27B (Non-reasoning),qwen3-5-27b-non-reasoning,Alibaba,27.8,dense,,True,2026-02-24,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3.5-27B,local_medium_1-2xGPU
+Qwen3.5 27B (Reasoning),qwen3-5-27b,Alibaba,27.8,dense,,True,2026-02-24,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3.5-27B,local_medium_1-2xGPU
+Qwen3.6 27B,,Alibaba Qwen,27.8,dense,,True,2026,,d-central.tech local-llm-model-database,https://huggingface.co/Qwen/Qwen3.6-27B,local_medium_1-2xGPU
+Qwen3.6 27B (Non-reasoning),qwen3-6-27b-non-reasoning,Alibaba,27.8,dense,,True,2026-04-22,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3.6-27B,local_medium_1-2xGPU
+Qwen3.6 27B (Reasoning),qwen3-6-27b,Alibaba,27.8,dense,,True,2026-04-22,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3.6-27B,local_medium_1-2xGPU
+Muse-Glimmer-30B,,meta-models,29.6,dense,,True,,,Interconnects-AI/tracked-models (meta-models/Muse-Glimmer-30B),https://huggingface.co/meta-models/Muse-Glimmer-30B,local_medium_1-2xGPU
+Granite 4.1 30B,granite-4-1-30b,IBM,30.0,dense,,True,2026-04-29,small,artificialanalysis.ai embedded model payload,https://huggingface.co/ibm-granite/granite-4.1-30b,local_medium_1-2xGPU
+Granite 4.2 30B,granite-4-2-30b,IBM,30.0,dense,,True,2026-08-25,small,artificialanalysis.ai embedded model payload,https://huggingface.co/ibm-granite/granite-4.2-30b,local_medium_1-2xGPU
+Muse Glimmer (high),muse-glimmer,Meta,30.0,dense,,True,2026-08-10,small,artificialanalysis.ai embedded model payload,https://huggingface.co/meta-models/Muse-Glimmer-30B,local_medium_1-2xGPU
+NVIDIA-Nemotron-3-Nano-30B-A3B-BF16,,nvidia,30.0,moe,3.5,True,,,Interconnects-AI/tracked-models (nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16),https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16,local_medium_1-2xGPU
+NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16,,nvidia,30.0,moe,3.0,True,,,Interconnects-AI/tracked-models (nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16),https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16,local_medium_1-2xGPU
+Nemotron 3 Nano Omni 30B A3B Reasoning,nemotron-3-nano-omni-30b-a3b,NVIDIA,30.0,moe,3.0,True,2026-04-29,small,artificialanalysis.ai embedded model payload,https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16,local_medium_1-2xGPU
+North Mini Code,north-mini-code,Cohere,30.0,moe,3.0,True,2026-06-09,small,artificialanalysis.ai embedded model payload,https://huggingface.co/CohereLabs/North-Mini-Code-1.0,local_medium_1-2xGPU
+Qwen3 30B-A3B (MoE),,Alibaba / Qwen Team,30.0,moe,3.0,True,2025,,d-central.tech local-llm-model-database,https://huggingface.co/Qwen/Qwen3-30B-A3B,local_medium_1-2xGPU
+Qwen3 VL 30B A3B (Reasoning),qwen3-vl-30b-a3b-reasoning,Alibaba,30.0,moe,3.0,True,2025-10-03,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Thinking,local_medium_1-2xGPU
+Qwen3 VL 30B A3B Instruct,qwen3-vl-30b-a3b-instruct,Alibaba,30.0,moe,3.0,True,2025-10-03,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Instruct,local_medium_1-2xGPU
+R1V4,,Skywork,30.0,moe,3.0,True,,,Interconnects-AI/tracked-models (Skywork/R1V4),https://huggingface.co/Skywork/R1V4,local_medium_1-2xGPU
+Qwen3 30B A3B (Non-reasoning),qwen3-30b-a3b-instruct,Alibaba,30.5,moe,3.3,True,2025-04-28,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-30B-A3B,local_medium_1-2xGPU
+Qwen3 30B A3B (Reasoning),qwen3-30b-a3b-instruct-reasoning,Alibaba,30.5,moe,3.3,True,2025-04-28,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-30B-A3B,local_medium_1-2xGPU
+Qwen3 30B A3B 2507 (Reasoning),qwen3-30b-a3b-2507-reasoning,Alibaba,30.5,moe,3.3,True,2025-07-30,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507,local_medium_1-2xGPU
+Qwen3 30B A3B 2507 Instruct,qwen3-30b-a3b-2507,Alibaba,30.5,moe,3.3,True,2025-07-29,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507,local_medium_1-2xGPU
+Qwen3 Coder 30B A3B Instruct,qwen3-coder-30b-a3b-instruct,Alibaba,30.5,moe,3.3,True,2025-07-31,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct,local_medium_1-2xGPU
+Gemma 4 31B (Non-reasoning),gemma-4-31b-non-reasoning,Google,30.7,dense,,True,2026-04-02,small,artificialanalysis.ai embedded model payload,https://huggingface.co/google/gemma-4-31B,local_medium_1-2xGPU
+Gemma 4 31B (Reasoning),gemma-4-31b,Google,30.7,dense,,True,2026-04-02,small,artificialanalysis.ai embedded model payload,https://huggingface.co/google/gemma-4-31B-it,local_medium_1-2xGPU
+GLM-4.7-Flash,,zai-org,31.0,dense,,True,,,Interconnects-AI/tracked-models (zai-org/GLM-4.7-Flash),https://huggingface.co/zai-org/GLM-4.7-Flash,local_medium_1-2xGPU
+Gemma 4 31B,,Google DeepMind,31.0,dense,,True,2026,,d-central.tech local-llm-model-database,https://huggingface.co/google/gemma-4-31b-it,local_medium_1-2xGPU
+GLM-4.7-Flash (Non-reasoning),glm-4-7-flash-non-reasoning,Z AI,31.2,moe,3.0,True,2026-01-19,small,artificialanalysis.ai embedded model payload,https://huggingface.co/zai-org/GLM-4.7-Flash,local_medium_1-2xGPU
+GLM-4.7-Flash (Reasoning),glm-4-7-flash,Z AI,31.2,moe,3.0,True,2026-01-19,small,artificialanalysis.ai embedded model payload,https://huggingface.co/zai-org/GLM-4.7-Flash,local_medium_1-2xGPU
+NVIDIA Nemotron 3 Nano 30B A3B (Non-reasoning),nvidia-nemotron-3-nano-30b-a3b,NVIDIA,31.6,moe,3.6,True,2025-12-15,small,artificialanalysis.ai embedded model payload,https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16,local_medium_1-2xGPU
+NVIDIA Nemotron 3 Nano 30B A3B (Reasoning),nvidia-nemotron-3-nano-30b-a3b-reasoning,NVIDIA,31.6,moe,3.6,True,2025-12-15,small,artificialanalysis.ai embedded model payload,https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16,local_medium_1-2xGPU
+Nemotron 3.5 Lightning,nemotron-3-5-lightning,NVIDIA,31.6,moe,3.6,True,2026-08-11,small,artificialanalysis.ai embedded model payload,,local_medium_1-2xGPU
+Nemotron Cascade 2 30B A3B,nemotron-cascade-2-30b-a3b,NVIDIA,31.6,moe,3.0,True,2026-03-19,small,artificialanalysis.ai embedded model payload,https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B,local_medium_1-2xGPU
+DeepSeek R1 Distill Qwen 32B,deepseek-r1-distill-qwen-32b,DeepSeek,32.0,dense,,True,2025-01-20,small,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,local_medium_1-2xGPU
+EXAONE 4.0 32B (Non-reasoning),exaone-4-0-32b,LG AI Research,32.0,dense,,True,2025-07-15,small,artificialanalysis.ai embedded model payload,https://huggingface.co/LGAI-EXAONE/EXAONE-4.0-32B,local_medium_1-2xGPU
+EXAONE 4.0 32B (Reasoning),exaone-4-0-32b-reasoning,LG AI Research,32.0,dense,,True,2025-07-15,small,artificialanalysis.ai embedded model payload,https://huggingface.co/LGAI-EXAONE/EXAONE-4.0-32B,local_medium_1-2xGPU
+Granite 4.0 H Small,granite-4-0-h-small,IBM,32.0,moe,9.0,True,2025-09-22,small,artificialanalysis.ai embedded model payload,https://huggingface.co/ibm-granite/granite-4.0-h-small,local_medium_1-2xGPU
+HyperCLOVA X SEED Think (32B),hyperclova-x-seed-think-32b,Naver,32.0,dense,,True,2025-12-26,small,artificialanalysis.ai embedded model payload,https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Think-32B,local_medium_1-2xGPU
+Qwen2.5 32B Instruct,,Alibaba / Qwen Team,32.0,dense,,True,2024,,d-central.tech local-llm-model-database,https://huggingface.co/Qwen/Qwen2.5-32B-Instruct,local_medium_1-2xGPU
+Qwen2.5 Coder Instruct 32B,qwen2-5-coder-32b-instruct,Alibaba,32.0,dense,,True,2024-11-11,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct,local_medium_1-2xGPU
+Qwen2.5 Instruct 32B,qwen2.5-32b-instruct,Alibaba,32.0,dense,,True,2024-09-19,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen2.5-32B-Instruct,local_medium_1-2xGPU
+Qwen3 32B,,Alibaba / Qwen Team,32.0,dense,,True,2025,,d-central.tech local-llm-model-database,https://huggingface.co/Qwen/Qwen3-32B,local_medium_1-2xGPU
+OLMo 2 32B,olmo-2-32b,Allen Institute for AI,32.2,dense,,True,2025-03-13,small,artificialanalysis.ai embedded model payload,https://huggingface.co/allenai/OLMo-2-0325-32B-Instruct,local_medium_1-2xGPU
+Olmo 3 32B Think,olmo-3-32b-think,Allen Institute for AI,32.2,dense,,True,2025-11-20,small,artificialanalysis.ai embedded model payload,https://huggingface.co/allenai/Olmo-3-1125-32B,local_medium_1-2xGPU
+Olmo 3.1 32B Instruct,olmo-3-1-32b-instruct,Allen Institute for AI,32.2,dense,,True,2026-01-13,small,artificialanalysis.ai embedded model payload,https://huggingface.co/allenai/Olmo-3.1-32B-Instruct,local_medium_1-2xGPU
+Olmo 3.1 32B Think,olmo-3-1-32b-think,Allen Institute for AI,32.2,dense,,True,2025-12-12,small,artificialanalysis.ai embedded model payload,https://huggingface.co/allenai/Olmo-3.1-32B-Think,local_medium_1-2xGPU
+Sarvam 30B (high),sarvam-30b,Sarvam,32.2,moe,2.4,True,2026-03-06,small,artificialanalysis.ai embedded model payload,https://huggingface.co/sarvamai/sarvam-30b,local_medium_1-2xGPU
+QwQ 32B,qwq-32b,Alibaba,32.8,dense,,True,2025-03-05,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/QwQ-32B,local_medium_1-2xGPU
+QwQ 32B-Preview,QwQ-32B-Preview,Alibaba,32.8,dense,,True,2024-11-27,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/QwQ-32B-Preview,local_medium_1-2xGPU
+Qwen3 32B (Non-reasoning),qwen3-32b-instruct,Alibaba,32.8,dense,,True,2025-04-28,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-32B,local_medium_1-2xGPU
+Qwen3 32B (Reasoning),qwen3-32b-instruct-reasoning,Alibaba,32.8,dense,,True,2025-04-28,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-32B,local_medium_1-2xGPU
+FlexOlmo-7x7B-1T,,allenai,33.0,moe,,True,,,Interconnects-AI/tracked-models (allenai/FlexOlmo-7x7B-1T),https://huggingface.co/allenai/FlexOlmo-7x7B-1T,local_medium_1-2xGPU
+GroveMoE-Base,,inclusionAI,33.0,moe,,True,,,Interconnects-AI/tracked-models (inclusionAI/GroveMoE-Base),https://huggingface.co/inclusionAI/GroveMoE-Base,local_medium_1-2xGPU
+GroveMoE-Inst,,inclusionAI,33.0,moe,,True,,,Interconnects-AI/tracked-models (inclusionAI/GroveMoE-Inst),https://huggingface.co/inclusionAI/GroveMoE-Inst,local_medium_1-2xGPU
+Qwen3 VL 32B (Reasoning),qwen3-vl-32b-reasoning,Alibaba,33.4,dense,,True,2025-10-21,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-VL-32B-Thinking,local_medium_1-2xGPU
+Qwen3 VL 32B Instruct,qwen3-vl-32b-instruct,Alibaba,33.4,dense,,True,2025-10-21,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-VL-32B-Instruct,local_medium_1-2xGPU
+Falcon-H1-34B-Instruct,,TII (Technology Innovation Institute),34.0,dense,,True,2025,,d-central.tech local-llm-model-database,https://huggingface.co/tiiuae/Falcon-H1-34B-Instruct,local_medium_1-2xGPU
+EXAONE 4.5 33B,exaone-4-5-33b,LG AI Research,34.4,dense,,True,2026-04-09,small,artificialanalysis.ai embedded model payload,https://huggingface.co/LGAI-EXAONE/EXAONE-4.5-33B,other
+Command R 35B (08-2024),,Cohere,35.0,dense,,True,2024,,d-central.tech local-llm-model-database,https://huggingface.co/CohereForAI/c4ai-command-r-08-2024,local_medium_2-4xGPU
+Command-R (Mar '24),command-r-03-2024,Cohere,35.0,dense,,True,2024-03-12,small,artificialanalysis.ai embedded model payload,https://huggingface.co/CohereForAI/c4ai-command-r-v01,local_medium_2-4xGPU
+KAT-Coder-V2.5-Dev,,Kwaipilot,35.0,moe,3.0,True,,,Interconnects-AI/tracked-models (Kwaipilot/KAT-Coder-V2.5-Dev),https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev,local_medium_2-4xGPU
+Qwen3.5 35B-A3B (MoE),,Alibaba / Qwen Team,35.0,moe,3.0,True,2026,,d-central.tech local-llm-model-database,https://huggingface.co/Qwen/Qwen3.5-35B-A3B,local_medium_2-4xGPU
+Qwen3.6 35B-A3B,,Alibaba Qwen,35.0,moe,3.0,True,2026,,d-central.tech local-llm-model-database,https://huggingface.co/Qwen/Qwen3.6-35B-A3B,local_medium_2-4xGPU
+Qwen3.6 35B-A3B (MoE),,Alibaba / Qwen Team,35.0,moe,3.0,True,2026,,d-central.tech local-llm-model-database,https://huggingface.co/Qwen/Qwen3.6-35B-A3B,local_medium_2-4xGPU
+Qwen3 Omni 30B A3B (Reasoning),qwen3-omni-30b-a3b-reasoning,Alibaba,35.3,moe,3.0,True,2025-09-22,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Thinking,local_medium_2-4xGPU
+Qwen3 Omni 30B A3B Instruct,qwen3-omni-30b-a3b-instruct,Alibaba,35.3,moe,3.0,True,2025-09-22,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Instruct,local_medium_2-4xGPU
+Qwen3.5 35B A3B (Non-reasoning),qwen3-5-35b-a3b-non-reasoning,Alibaba,36.0,moe,3.0,True,2026-02-24,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3.5-35B-A3B,local_medium_2-4xGPU
+Qwen3.5 35B A3B (Reasoning),qwen3-5-35b-a3b,Alibaba,36.0,moe,3.0,True,2026-02-24,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3.5-35B-A3B,local_medium_2-4xGPU
+Qwen3.6 35B A3B (Non-reasoning),qwen3-6-35b-a3b-non-reasoning,Alibaba,36.0,moe,3.0,True,2026-04-16,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3.6-35B-A3B,local_medium_2-4xGPU
+Qwen3.6 35B A3B (Reasoning),qwen3-6-35b-a3b,Alibaba,36.0,moe,3.0,True,2026-04-16,small,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3.6-35B-A3B,local_medium_2-4xGPU
+Seed-OSS-36B-Instruct,seed-oss-36b-instruct,ByteDance Seed,36.2,dense,,True,2025-08-20,small,artificialanalysis.ai embedded model payload,https://huggingface.co/ByteDance-Seed/Seed-OSS-36B-Instruct,local_medium_2-4xGPU
+G9v3-39A5B,g9v3-39a5b,AI9Stars,39.0,moe,5.0,True,2026-08-20,small,artificialanalysis.ai embedded model payload,https://huggingface.co/ai9stars/G9v3-39A5B,local_medium_2-4xGPU
+Phi-3.5-MoE-instruct,,microsoft,42.0,dense,,True,,,Interconnects-AI/tracked-models (microsoft/Phi-3.5-MoE-instruct),https://huggingface.co/microsoft/Phi-3.5-MoE-instruct,local_medium_2-4xGPU
+Mixtral 8x7B Instruct,mixtral-8x7b-instruct,Mistral,46.7,moe,12.9,True,2023-12-11,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1,local_medium_2-4xGPU
+Mixtral-8x7B-Instruct-v0.1,,mistralai,46.7,moe,12.9,True,,,Interconnects-AI/tracked-models (mistralai/Mixtral-8x7B-Instruct-v0.1),https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1,local_medium_2-4xGPU
+Mixtral-8x7B-v0.1,,mistralai,46.7,moe,12.9,True,,,Interconnects-AI/tracked-models (mistralai/Mixtral-8x7B-v0.1),https://huggingface.co/mistralai/Mixtral-8x7B-v0.1,local_medium_2-4xGPU
+Llama 3.3 Nemotron Super 49B v1 (Non-reasoning),llama-3-3-nemotron-super-49b,NVIDIA,49.0,dense,,True,2025-03-18,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/nvidia/Llama-3_3-Nemotron-Super-49B-v1,local_medium_2-4xGPU
+Llama 3.3 Nemotron Super 49B v1 (Reasoning),llama-3-3-nemotron-super-49b-reasoning,NVIDIA,49.0,dense,,True,2025-03-18,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/nvidia/Llama-3_3-Nemotron-Super-49B-v1,local_medium_2-4xGPU
+Llama 3.3 Nemotron Super 49B v1.5,,NVIDIA,49.0,dense,,True,2025,,d-central.tech local-llm-model-database,https://huggingface.co/nvidia/Llama-3_3-Nemotron-Super-49B-v1_5,local_medium_2-4xGPU
+Llama Nemotron Super 49B v1.5 (Non-reasoning),llama-nemotron-super-49b-v1-5,NVIDIA,49.0,dense,,True,2025-07-25,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/nvidia/Llama-3_3-Nemotron-Super-49B-v1_5,local_medium_2-4xGPU
+Llama Nemotron Super 49B v1.5 (Reasoning),llama-nemotron-super-49b-v1-5-reasoning,NVIDIA,49.0,dense,,True,2025-07-25,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/nvidia/Llama-3_3-Nemotron-Super-49B-v1_5,local_medium_2-4xGPU
+Kimi Linear 48B A3B Instruct,kimi-linear-48b-a3b-instruct,Kimi,49.1,moe,3.0,True,2025-10-30,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/moonshotai/Kimi-Linear-48B-A3B-Instruct,local_medium_2-4xGPU
+AI21-Jamba-Mini-1.5,,ai21labs,52.0,moe,12.0,True,,,Interconnects-AI/tracked-models (ai21labs/AI21-Jamba-Mini-1.5),https://huggingface.co/ai21labs/AI21-Jamba-Mini-1.5,local_medium_2-4xGPU
+AI21-Jamba-Mini-1.6,,ai21labs,52.0,moe,12.0,True,,,Interconnects-AI/tracked-models (ai21labs/AI21-Jamba-Mini-1.6),https://huggingface.co/ai21labs/AI21-Jamba-Mini-1.6,local_medium_2-4xGPU
+AI21-Jamba-Mini-1.7,,ai21labs,52.0,moe,12.0,True,,,Interconnects-AI/tracked-models (ai21labs/AI21-Jamba-Mini-1.7),https://huggingface.co/ai21labs/AI21-Jamba-Mini-1.7,local_medium_2-4xGPU
+AI21-Jamba-Mini-1.7-FP8,,ai21labs,52.0,moe,12.0,True,,,Interconnects-AI/tracked-models (ai21labs/AI21-Jamba-Mini-1.7-FP8),https://huggingface.co/ai21labs/AI21-Jamba-Mini-1.7-FP8,local_medium_2-4xGPU
+Jamba 1.5 Mini,jamba-1-5-mini,AI21 Labs,52.0,moe,12.0,True,2024-08-22,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/ai21labs/AI21-Jamba-1.5-Mini,local_medium_2-4xGPU
+Jamba 1.6 Mini,jamba-1-6-mini,AI21 Labs,52.0,moe,12.0,True,2025-03-06,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/ai21labs/AI21-Jamba-Mini-1.6,local_medium_2-4xGPU
+Jamba 1.7 Mini,jamba-1-7-mini,AI21 Labs,52.0,moe,12.0,True,2025-07-07,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/ai21labs/AI21-Jamba-Mini-1.7,local_medium_2-4xGPU
+Jamba-v0.1,,ai21labs,52.0,moe,12.0,True,,,Interconnects-AI/tracked-models (ai21labs/Jamba-v0.1),https://huggingface.co/ai21labs/Jamba-v0.1,local_medium_2-4xGPU
+"HyperNova 60B 2605 (high, based on gpt-oss-120b)",hypernova-60b,Multiverse Computing,58.7,moe,4.8,True,2026-05-26,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/MultiverseComputingCAI/Hypernova-60B-2605,local_medium_2-4xGPU
+Llama 65B,llama-65b,Meta,65.0,dense,,True,2023-02-24,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/huggyllama/llama-65b,local_multiGPU_70B_class
+LongCat Flash Lite,longcat-flash-lite,LongCat,68.5,moe,3.0,True,2026-01-28,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/meituan-longcat/LongCat-Flash-Lite,local_multiGPU_70B_class
+Apertus 70B Instruct,apertus-70b-instruct,Swiss AI Initiative,70.0,dense,,True,2025-09-02,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/swiss-ai/Apertus-70B-Instruct-2509,local_multiGPU_70B_class
+Apertus-v1.5-70B,,swiss-ai,70.0,dense,,True,,,Interconnects-AI/tracked-models (swiss-ai/Apertus-v1.5-70B),https://huggingface.co/swiss-ai/Apertus-v1.5-70B,local_multiGPU_70B_class
+DeepSeek R1 Distill Llama 70B,deepseek-r1-distill-llama-70b,DeepSeek,70.0,dense,,True,2025-01-20,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-70B,local_multiGPU_70B_class
+K2 Think V2,k2-think-v2,MBZUAI Institute of Foundation Models,70.0,dense,,True,2025-12-15,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/LLM360/K2-Think-V2,local_multiGPU_70B_class
+K2-V2 (high),k2-v2,MBZUAI Institute of Foundation Models,70.0,dense,,True,2025-12-05,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/LLM360/K2-V2-Instruct,local_multiGPU_70B_class
+K2-V2 (low),k2-v2-low,MBZUAI Institute of Foundation Models,70.0,dense,,True,2025-12-05,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/LLM360/K2-V2-Instruct,local_multiGPU_70B_class
+K2-V2 (medium),k2-v2-medium,MBZUAI Institute of Foundation Models,70.0,dense,,True,2025-12-05,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/LLM360/K2-V2-Instruct,local_multiGPU_70B_class
+Llama 2 Chat 70B,llama-2-chat-70b,Meta,70.0,dense,,True,2023-07-18,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/meta-llama/Llama-2-70b-chat-hf,local_multiGPU_70B_class
+Llama 3 Instruct 70B,llama-3-instruct-70b,Meta,70.0,dense,,True,2024-04-18,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct,local_multiGPU_70B_class
+Llama 3.1 70B Instruct,,Meta,70.0,dense,,True,2024,,d-central.tech local-llm-model-database,https://huggingface.co/meta-llama/Llama-3.1-70B-Instruct,local_multiGPU_70B_class
+Llama 3.1 Instruct 70B,llama-3-1-instruct-70b,Meta,70.0,dense,,True,2024-07-23,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/meta-llama/Meta-Llama-3.1-70B,local_multiGPU_70B_class
+Llama 3.1 Nemotron Instruct 70B,llama-3-1-nemotron-instruct-70b,NVIDIA,70.0,dense,,True,2024-10-15,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF,local_multiGPU_70B_class
+Llama 3.3 70B Instruct,,Meta,70.0,dense,,True,2024,,d-central.tech local-llm-model-database,https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct,local_multiGPU_70B_class
+Llama 3.3 Instruct 70B,llama-3-3-instruct-70b,Meta,70.0,dense,,True,2024-12-06,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct,local_multiGPU_70B_class
+Hermes 3 - Llama-3.1 70B,hermes-3-llama-3-1-70b,Nous Research,70.6,dense,,True,2024-08-15,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/NousResearch/Hermes-3-Llama-3.1-70B,local_multiGPU_70B_class
+Hermes 4 - Llama-3.1 70B (Non-reasoning),hermes-4-llama-3-1-70b,Nous Research,70.6,dense,,True,2025-08-27,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/NousResearch/Hermes-4-70B,local_multiGPU_70B_class
+Hermes 4 - Llama-3.1 70B (Reasoning),hermes-4-llama-3-1-70b-reasoning,Nous Research,70.6,dense,,True,2025-08-27,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/NousResearch/Hermes-4-70B,local_multiGPU_70B_class
+Qwen Chat 72B,qwen-chat-72b,Alibaba,72.0,dense,,True,2023-11-30,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen-72B-Chat,local_multiGPU_70B_class
+Qwen2 Instruct 72B,qwen2-72b-instruct,Alibaba,72.0,dense,,True,2024-06-07,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen2-72B-Instruct,local_multiGPU_70B_class
+Qwen2.5 72B Instruct,,Alibaba / Qwen Team,72.0,dense,,True,2024,,d-central.tech local-llm-model-database,https://huggingface.co/Qwen/Qwen2.5-72B-Instruct,local_multiGPU_70B_class
+Qwen2.5 Instruct 72B,qwen2-5-72b-instruct,Alibaba,72.0,dense,,True,2024-09-19,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen2.5-72B-Instruct,local_multiGPU_70B_class
+ZAYA1-74B-preview,,Zyphra,74.0,moe,4.0,True,,,Interconnects-AI/tracked-models (Zyphra/ZAYA1-74B-preview),https://huggingface.co/Zyphra/ZAYA1-74B-preview,local_multiGPU_70B_class
+Qwen3 Coder Next,qwen3-coder-next,Alibaba,79.7,moe,3.0,True,2026-02-03,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-Coder-Next,local_multiGPU_70B_class
+Hunyuan-A13B-Instruct,,tencent,80.0,moe,13.0,True,,,Interconnects-AI/tracked-models (tencent/Hunyuan-A13B-Instruct),https://huggingface.co/tencent/Hunyuan-A13B-Instruct,local_multiGPU_70B_class
+Hunyuan-A13B-Pretrain,,tencent,80.0,dense,,True,,,Interconnects-AI/tracked-models (tencent/Hunyuan-A13B-Pretrain),https://huggingface.co/tencent/Hunyuan-A13B-Pretrain,local_multiGPU_70B_class
+Qwen3 Next 80B A3B (Reasoning),qwen3-next-80b-a3b-reasoning,Alibaba,80.0,moe,3.0,True,2025-09-11,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Thinking,local_multiGPU_70B_class
+Qwen3 Next 80B A3B Instruct,qwen3-next-80b-a3b-instruct,Alibaba,80.0,moe,3.0,True,2025-09-11,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct,local_multiGPU_70B_class
+Llama 3.2 Instruct 90B (Vision),llama-3-2-instruct-90b-vision,Meta,90.0,dense,,True,2024-09-25,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/meta-llama/Llama-3.2-90B-Vision,local_multiGPU_70B_class
+LLaDA2.2-flash,,inclusionAI,100.0,moe,,True,,,Interconnects-AI/tracked-models (inclusionAI/LLaDA2.2-flash),https://huggingface.co/inclusionAI/LLaDA2.2-flash,local_multiGPU_70B_class
+Ling-flash-2.0,,inclusionAI,100.0,moe,6.1,True,,,Interconnects-AI/tracked-models (inclusionAI/Ling-flash-2.0),https://huggingface.co/inclusionAI/Ling-flash-2.0,local_multiGPU_70B_class
+Ling-flash-2.0-GGUF,,inclusionAI,100.0,moe,6.1,True,,,Interconnects-AI/tracked-models (inclusionAI/Ling-flash-2.0-GGUF),https://huggingface.co/inclusionAI/Ling-flash-2.0-GGUF,local_multiGPU_70B_class
+Ling-flash-base-2.0,,inclusionAI,100.0,moe,6.1,True,,,Interconnects-AI/tracked-models (inclusionAI/Ling-flash-base-2.0),https://huggingface.co/inclusionAI/Ling-flash-base-2.0,local_multiGPU_70B_class
+Solar Open 100B (Reasoning),solar-open-100b-reasoning,Upstage,102.0,moe,12.0,True,2025-12-17,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/upstage/Solar-Open-100B,local_multiGPU_70B_class
+Ling-flash-2.0,ling-flash-2-0,InclusionAI,103.0,moe,6.1,True,2025-09-17,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/inclusionAI/Ling-flash-2.0,local_multiGPU_70B_class
+Ring-flash-2.0,ring-flash-2-0,InclusionAI,103.0,moe,6.1,True,2025-09-19,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/inclusionAI/Ring-flash-2.0,local_multiGPU_70B_class
+Command R+ 104B,,Cohere,104.0,dense,,True,2024,,d-central.tech local-llm-model-database,https://huggingface.co/CohereForAI/c4ai-command-r-plus,local_multiGPU_70B_class
+Command-R+ (Apr '24),command-r-plus-04-2024,Cohere,104.0,dense,,True,2024-04-04,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/CohereForAI/c4ai-command-r-plus,local_multiGPU_70B_class
+GLM-4.5-Air,glm-4-5-air,Z AI,106.0,moe,12.0,True,2025-07-28,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/zai-org/GLM-4.5-Air,local_multiGPU_70B_class
+GLM-4.5-Air-Base,,zai-org,106.0,moe,12.0,True,,,Interconnects-AI/tracked-models (zai-org/GLM-4.5-Air-Base),https://huggingface.co/zai-org/GLM-4.5-Air-Base,local_multiGPU_70B_class
+GLM-4.5V,,zai-org,106.0,moe,12.0,True,,,Interconnects-AI/tracked-models (zai-org/GLM-4.5V),https://huggingface.co/zai-org/GLM-4.5V,local_multiGPU_70B_class
+Sarvam 105B (high),sarvam-105b,Sarvam,106.0,moe,10.3,True,2026-03-06,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/sarvamai/sarvam-105b,local_multiGPU_70B_class
+INTELLECT-3,intellect-3,Prime Intellect,107.0,moe,12.0,True,2025-11-27,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/PrimeIntellect/INTELLECT-3,local_multiGPU_70B_class
+Ling 2.6 Flash,ling-2-6-flash,InclusionAI,107.0,moe,7.4,True,2026-04-21,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/inclusionAI/Ling-2.6-flash,local_multiGPU_70B_class
+GLM-4.5V (Non-reasoning),glm-4-5v,Z AI,108.0,moe,12.0,True,2025-08-11,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/zai-org/GLM-4.5V,local_multiGPU_70B_class
+GLM-4.5V (Reasoning),glm-4-5v-reasoning,Z AI,108.0,moe,12.0,True,2025-08-11,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/zai-org/GLM-4.5V,local_multiGPU_70B_class
+GLM-4.6V,,zai-org,108.0,dense,,True,,,Interconnects-AI/tracked-models (zai-org/GLM-4.6V),https://huggingface.co/zai-org/GLM-4.6V,local_multiGPU_70B_class
+GLM-4.6V (Non-reasoning),glm-4-6v,Z AI,108.0,moe,12.0,True,2025-12-08,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/zai-org/GLM-4.6V,local_multiGPU_70B_class
+GLM-4.6V (Reasoning),glm-4-6v-reasoning,Z AI,108.0,moe,12.0,True,2025-12-08,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/zai-org/GLM-4.6V,local_multiGPU_70B_class
+GLM-4.6V-FP8,,zai-org,108.0,dense,,True,,,Interconnects-AI/tracked-models (zai-org/GLM-4.6V-FP8),https://huggingface.co/zai-org/GLM-4.6V-FP8,local_multiGPU_70B_class
+Llama 4 Scout,llama-4-scout,Meta,109.0,moe,17.0,True,2025-04-05,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct,local_multiGPU_70B_class
+Qwen1.5 Chat 110B,qwen1.5-110b-chat,Alibaba,110.0,dense,,True,2024-04-25,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen1.5-110B-Chat,local_multiGPU_70B_class
+Command A,command-a,Cohere,111.0,dense,,True,2025-03-13,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/CohereForAI/c4ai-command-a-03-2025,local_multiGPU_70B_class
+gpt-oss-120b,,OpenAI,117.0,moe,5.1,True,2025,,d-central.tech local-llm-model-database,https://huggingface.co/openai/gpt-oss-120b,local_multiGPU_70B_class
+gpt-oss-120b (high),gpt-oss-120b,OpenAI,117.0,moe,5.1,True,2025-08-05,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/openai/gpt-oss-120b,local_multiGPU_70B_class
+gpt-oss-120b (low),gpt-oss-120b-low,OpenAI,117.0,moe,5.1,True,2025-08-05,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/openai/gpt-oss-120b,local_multiGPU_70B_class
+Leanstral-1.5-119B-A6B,,mistralai,119.0,moe,6.5,True,,,Interconnects-AI/tracked-models (mistralai/Leanstral-1.5-119B-A6B),https://huggingface.co/mistralai/Leanstral-1.5-119B-A6B,local_multiGPU_70B_class
+Mistral Small 4 (Non-reasoning),mistral-small-4-non-reasoning,Mistral,119.0,moe,6.5,True,2026-03-16,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/mistralai/Mistral-Small-4-119B-2603,local_multiGPU_70B_class
+Mistral Small 4 (Reasoning),mistral-small-4,Mistral,119.0,moe,6.5,True,2026-03-16,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/mistralai/Mistral-Small-4-119B-2603,local_multiGPU_70B_class
+Mistral-Small-4-119B-2603,,mistralai,119.0,moe,6.5,True,,,Interconnects-AI/tracked-models (mistralai/Mistral-Small-4-119B-2603),https://huggingface.co/mistralai/Mistral-Small-4-119B-2603,local_multiGPU_70B_class
+Nemotron 3 Super 120B A12B (Reasoning),nvidia-nemotron-3-super-120b-a12b,NVIDIA,120.6,moe,12.7,True,2026-03-11,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16,local_multiGPU_70B_class
+Qwen3.5 122B-A10B (MoE),,Alibaba / Qwen Team,122.0,moe,10.0,True,2026,,d-central.tech local-llm-model-database,https://huggingface.co/Qwen/Qwen3.5-122B-A10B,local_multiGPU_70B_class
+Mistral Large 2 (Jul '24),mistral-large-2407,Mistral,123.0,dense,,True,2024-07-24,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/mistralai/Mistral-Large-Instruct-2407,local_multiGPU_70B_class
+Mistral Large 2 (Nov '24),mistral-large-2,Mistral,123.0,dense,,True,2024-11-18,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/mistralai/Mistral-Large-Instruct-2411,local_multiGPU_70B_class
+Mistral-Large-Instruct-2407,,mistralai,123.0,dense,,True,,,Interconnects-AI/tracked-models (mistralai/Mistral-Large-Instruct-2407),https://huggingface.co/mistralai/Mistral-Large-Instruct-2407,local_multiGPU_70B_class
+Mistral-Large-Instruct-2411,,mistralai,123.0,dense,,True,,,Interconnects-AI/tracked-models (mistralai/Mistral-Large-Instruct-2411),https://huggingface.co/mistralai/Mistral-Large-Instruct-2411,local_multiGPU_70B_class
+Ling 3.0 Flash,ling-3-0-flash,InclusionAI,124.0,moe,5.1,True,2026-08-04,medium,artificialanalysis.ai embedded model payload,,local_multiGPU_70B_class
+Ling-3.0-flash-VL,ling-3-0-flash-vl,InclusionAI,124.0,moe,5.5,True,2026-09-10,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/inclusionAI/Ling-3.0-flash-VL,local_multiGPU_70B_class
+Pixtral Large,pixtral-large-2411,Mistral,124.0,dense,,True,2024-11-18,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/mistralai/Pixtral-Large-Instruct-2411,local_multiGPU_70B_class
+Pixtral-Large-Instruct-2411,,mistralai,124.0,dense,,True,,,Interconnects-AI/tracked-models (mistralai/Pixtral-Large-Instruct-2411),https://huggingface.co/mistralai/Pixtral-Large-Instruct-2411,local_multiGPU_70B_class
+Devstral 2,devstral-2,Mistral,125.0,dense,,True,2025-12-09,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/mistralai/Devstral-2-123B-Instruct-2512,local_multiGPU_70B_class
+Qwen3.5 122B A10B (Non-reasoning),qwen3-5-122b-a10b-non-reasoning,Alibaba,125.0,moe,10.0,True,2026-02-24,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3.5-122B-A10B,local_multiGPU_70B_class
+Qwen3.5 122B A10B (Reasoning),qwen3-5-122b-a10b,Alibaba,125.0,moe,10.0,True,2026-02-24,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3.5-122B-A10B,local_multiGPU_70B_class
+Mistral Medium 3.5,mistral-medium-3-5,Mistral,128.0,dense,,True,2026-04-29,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/mistralai/Mistral-Medium-3.5-128B,local_multiGPU_70B_class
+DBRX Instruct,dbrx,Databricks,132.0,moe,36.0,True,2024-03-27,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/databricks/dbrx-instruct,local_multiGPU_heavy_or_quant
+Mixtral-8x22B-Instruct-v0.1,,mistralai,140.6,moe,39.0,True,,,Interconnects-AI/tracked-models (mistralai/Mixtral-8x22B-Instruct-v0.1),https://huggingface.co/mistralai/Mixtral-8x22B-Instruct-v0.1,local_multiGPU_heavy_or_quant
+Mixtral-8x22B-v0.1,,mistralai,140.6,moe,39.0,True,,,Interconnects-AI/tracked-models (mistralai/Mixtral-8x22B-v0.1),https://huggingface.co/mistralai/Mixtral-8x22B-v0.1,local_multiGPU_heavy_or_quant
+Mixtral-8x22B-v0.1-original,,mistral-community,140.6,moe,39.0,True,,,Interconnects-AI/tracked-models (mistral-community/Mixtral-8x22B-v0.1-original),https://huggingface.co/mistral-community/Mixtral-8x22B-v0.1-original,local_multiGPU_heavy_or_quant
+mixtral-8x22B-Instruct-v0.3-original,,mistral-community,140.6,moe,39.0,True,,,Interconnects-AI/tracked-models (mistral-community/mixtral-8x22B-Instruct-v0.3-original),https://huggingface.co/mistral-community/mixtral-8x22B-Instruct-v0.3-original,local_multiGPU_heavy_or_quant
+mixtral-8x22B-v0.3,,mistral-community,140.6,moe,39.0,True,,,Interconnects-AI/tracked-models (mistral-community/mixtral-8x22B-v0.3),https://huggingface.co/mistral-community/mixtral-8x22B-v0.3,local_multiGPU_heavy_or_quant
+mixtral-8x22B-v0.3-original,,mistral-community,140.6,moe,39.0,True,,,Interconnects-AI/tracked-models (mistral-community/mixtral-8x22B-v0.3-original),https://huggingface.co/mistral-community/mixtral-8x22B-v0.3-original,local_multiGPU_heavy_or_quant
+Eurux-8x22b-kto,,openbmb,141.0,dense,,True,,,Interconnects-AI/tracked-models (openbmb/Eurux-8x22b-kto),https://huggingface.co/openbmb/Eurux-8x22b-kto,local_multiGPU_heavy_or_quant
+Eurux-8x22b-nca,,openbmb,141.0,dense,,True,,,Interconnects-AI/tracked-models (openbmb/Eurux-8x22b-nca),https://huggingface.co/openbmb/Eurux-8x22b-nca,local_multiGPU_heavy_or_quant
+Mixtral 8x22B Instruct,mistral-8x22b-instruct,Mistral,141.0,moe,39.0,True,2024-04-17,medium,artificialanalysis.ai embedded model payload,https://huggingface.co/mistralai/Mixtral-8x22B-Instruct-v0.1,local_multiGPU_heavy_or_quant
+Skywork-MoE-Base,,Skywork,146.0,dense,,True,,,Interconnects-AI/tracked-models (Skywork/Skywork-MoE-Base),https://huggingface.co/Skywork/Skywork-MoE-Base,local_multiGPU_heavy_or_quant
+Skywork-MoE-Base-FP8,,Skywork,146.0,dense,,True,,,Interconnects-AI/tracked-models (Skywork/Skywork-MoE-Base-FP8),https://huggingface.co/Skywork/Skywork-MoE-Base-FP8,local_multiGPU_heavy_or_quant
+Qwen3.8-Flash-Next,qwen3-8-flash-next,Alibaba,180.0,moe,6.0,True,2026-08-26,large,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3.8-Flash-Next,local_multiGPU_heavy_or_quant
+Step 3.5 Flash,step-3-5-flash-0202,StepFun,196.0,moe,11.0,True,2026-02-02,large,artificialanalysis.ai embedded model payload,https://huggingface.co/stepfun-ai/Step-3.5-Flash,local_multiGPU_heavy_or_quant
+Step-3.5-Flash,,stepfun-ai,196.81,moe,11.0,True,,,Interconnects-AI/tracked-models (stepfun-ai/Step-3.5-Flash),https://huggingface.co/stepfun-ai/Step-3.5-Flash,local_multiGPU_heavy_or_quant
+Step 3.7 Flash,step-3-7-flash,StepFun,198.0,moe,11.0,True,2026-05-29,large,artificialanalysis.ai embedded model payload,https://huggingface.co/stepfun-ai/Step-3.7-Flash,local_multiGPU_heavy_or_quant
+Command A+,command-a-plus,Cohere,218.0,moe,25.0,True,2026-05-20,large,artificialanalysis.ai embedded model payload,https://huggingface.co/CohereLabs/command-a-plus-05-2026-bf16,local_multiGPU_heavy_or_quant
+command-a-plus-05-2026-bf16,,CohereLabs,218.0,moe,25.0,True,,,Interconnects-AI/tracked-models (CohereLabs/command-a-plus-05-2026-bf16),https://huggingface.co/CohereLabs/command-a-plus-05-2026-bf16,local_multiGPU_heavy_or_quant
+MiniMax-M2.1,,MiniMaxAI,229.0,dense,,True,,,Interconnects-AI/tracked-models (MiniMaxAI/MiniMax-M2.1),https://huggingface.co/MiniMaxAI/MiniMax-M2.1,local_multiGPU_heavy_or_quant
+MiniMax-M2,minimax-m2,MiniMax,230.0,moe,10.0,True,2025-10-26,large,artificialanalysis.ai embedded model payload,https://huggingface.co/MiniMaxAI/MiniMax-M2,local_multiGPU_heavy_or_quant
+MiniMax-M2.1,minimax-m2-1,MiniMax,230.0,moe,10.0,True,2025-12-23,large,artificialanalysis.ai embedded model payload,https://huggingface.co/MiniMaxAI/MiniMax-M2-1,local_multiGPU_heavy_or_quant
+MiniMax-M2.5,minimax-m2-5,MiniMax,230.0,moe,10.0,True,2026-02-12,large,artificialanalysis.ai embedded model payload,https://huggingface.co/MiniMaxAI/MiniMax-M2.5,local_multiGPU_heavy_or_quant
+MiniMax-M2.7,minimax-m2-7,MiniMax,230.0,moe,10.0,True,2026-03-18,large,artificialanalysis.ai embedded model payload,https://huggingface.co/MiniMaxAI/MiniMax-M2.7,local_multiGPU_heavy_or_quant
+Qwen3 235B A22B (Non-reasoning),qwen3-235b-a22b-instruct,Alibaba,235.0,moe,22.0,True,2025-04-28,large,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-235B-A22B,local_multiGPU_heavy_or_quant
+Qwen3 235B A22B (Reasoning),qwen3-235b-a22b-instruct-reasoning,Alibaba,235.0,moe,22.0,True,2025-04-28,large,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-235B-A22B,local_multiGPU_heavy_or_quant
+Qwen3 235B A22B 2507 (Reasoning),qwen3-235b-a22b-instruct-2507-reasoning,Alibaba,235.0,moe,22.0,True,2025-07-25,large,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507,local_multiGPU_heavy_or_quant
+Qwen3 235B A22B 2507 Instruct,qwen3-235b-a22b-instruct-2507,Alibaba,235.0,moe,22.0,True,2025-07-21,large,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507,local_multiGPU_heavy_or_quant
+Qwen3 235B-A22B (MoE),,Alibaba / Qwen Team,235.0,moe,22.0,True,2025,,d-central.tech local-llm-model-database,https://huggingface.co/Qwen/Qwen3-235B-A22B,local_multiGPU_heavy_or_quant
+Qwen3 VL 235B A22B (Reasoning),qwen3-vl-235b-a22b-reasoning,Alibaba,235.0,moe,22.0,True,2025-09-23,large,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct,local_multiGPU_heavy_or_quant
+Qwen3 VL 235B A22B Instruct,qwen3-vl-235b-a22b-instruct,Alibaba,235.0,moe,22.0,True,2025-09-23,large,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct,local_multiGPU_heavy_or_quant
+Qwen3-235B-A22B-Instruct-2507,,Qwen,235.0,moe,22.0,True,,,Interconnects-AI/tracked-models (Qwen/Qwen3-235B-A22B-Instruct-2507),https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507,local_multiGPU_heavy_or_quant
+DeepSeek-Coder-V2,deepseek-coder-v2,DeepSeek,236.0,moe,21.0,True,2024-06-17,large,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Instruct,local_multiGPU_heavy_or_quant
+DeepSeek-Coder-V2-Base,,deepseek-ai,236.0,moe,21.0,True,,,Interconnects-AI/tracked-models (deepseek-ai/DeepSeek-Coder-V2-Base),https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Base,local_multiGPU_heavy_or_quant
+DeepSeek-Coder-V2-Instruct,,deepseek-ai,236.0,moe,21.0,True,,,Interconnects-AI/tracked-models (deepseek-ai/DeepSeek-Coder-V2-Instruct),https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Instruct,local_multiGPU_heavy_or_quant
+DeepSeek-Coder-V2-Instruct-0724,,deepseek-ai,236.0,moe,21.0,True,,,Interconnects-AI/tracked-models (deepseek-ai/DeepSeek-Coder-V2-Instruct-0724),https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Instruct-0724,local_multiGPU_heavy_or_quant
+DeepSeek-V2,,deepseek-ai,236.0,moe,21.0,True,,,Interconnects-AI/tracked-models (deepseek-ai/DeepSeek-V2),https://huggingface.co/deepseek-ai/DeepSeek-V2,local_multiGPU_heavy_or_quant
+DeepSeek-V2-Chat,deepseek-v2,DeepSeek,236.0,moe,21.0,True,2024-05-06,large,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/DeepSeek-V2-Chat,local_multiGPU_heavy_or_quant
+DeepSeek-V2-Chat-0628,,deepseek-ai,236.0,moe,21.0,True,,,Interconnects-AI/tracked-models (deepseek-ai/DeepSeek-V2-Chat-0628),https://huggingface.co/deepseek-ai/DeepSeek-V2-Chat-0628,local_multiGPU_heavy_or_quant
+DeepSeek-V2.5,deepseek-v2-5-sep-2024,DeepSeek,236.0,moe,21.0,True,2024-09-06,large,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/DeepSeek-V2.5,local_multiGPU_heavy_or_quant
+DeepSeek-V2.5 (Dec '24),deepseek-v2-5,DeepSeek,236.0,moe,21.0,True,2024-12-10,large,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/DeepSeek-V2.5-1210,local_multiGPU_heavy_or_quant
+DeepSeek-V2.5-1210,,deepseek-ai,236.0,moe,21.0,True,,,Interconnects-AI/tracked-models (deepseek-ai/DeepSeek-V2.5-1210),https://huggingface.co/deepseek-ai/DeepSeek-V2.5-1210,local_multiGPU_heavy_or_quant
+K-EXAONE (Non-reasoning),k-exaone-non-reasoning,LG AI Research,236.0,moe,23.0,True,2025-12-31,large,artificialanalysis.ai embedded model payload,https://huggingface.co/LGAI-EXAONE/K-EXAONE-236B-A23B,local_multiGPU_heavy_or_quant
+K-EXAONE (Reasoning),k-exaone,LG AI Research,236.0,moe,23.0,True,2025-12-31,large,artificialanalysis.ai embedded model payload,https://huggingface.co/LGAI-EXAONE/K-EXAONE-236B-A23B,local_multiGPU_heavy_or_quant
+Intern-S1,,internlm,241.0,moe,28.0,True,,,Interconnects-AI/tracked-models (internlm/Intern-S1),https://huggingface.co/internlm/Intern-S1,local_multiGPU_heavy_or_quant
+Solar Open2 250B,solar-open2-250b,Upstage,250.0,moe,15.0,True,2026-08-12,large,artificialanalysis.ai embedded model payload,https://huggingface.co/upstage/Solar-Open2-250B,local_multiGPU_heavy_or_quant
+Solar-Open2-250B,,upstage,250.287794944,moe,15.0,True,,,Interconnects-AI/tracked-models (upstage/Solar-Open2-250B),https://huggingface.co/upstage/Solar-Open2-250B,local_multiGPU_heavy_or_quant
+Llama 3.1 Nemotron Ultra 253B v1 (Reasoning),llama-3-1-nemotron-ultra-253b-v1-reasoning,NVIDIA,253.0,dense,,True,2025-04-07,large,artificialanalysis.ai embedded model payload,https://huggingface.co/nvidia/Llama-3_1-Nemotron-Ultra-253B-v1,local_multiGPU_heavy_or_quant
+Inkling Small,inkling-small,Thinking Machines,266.0,moe,12.0,True,2026-07-30,large,artificialanalysis.ai embedded model payload,https://huggingface.co/thinkingmachines/Inkling-Small,local_multiGPU_heavy_or_quant
+Grok 2 (Dec '24),grok-2-1212,SpaceXAI,270.0,dense,,True,2024-12-12,large,artificialanalysis.ai embedded model payload,https://huggingface.co/xai-org/grok-2,local_multiGPU_heavy_or_quant
+Inkling-Small,,thinkingmachines,276.0,moe,12.0,True,,,Interconnects-AI/tracked-models (thinkingmachines/Inkling-Small),https://huggingface.co/thinkingmachines/Inkling-Small,local_multiGPU_heavy_or_quant
+dots3-note-prev,,dots-studio,280.0,moe,16.0,True,,,Interconnects-AI/tracked-models (dots-studio/dots3-note-prev),https://huggingface.co/dots-studio/dots3-note-prev,local_multiGPU_heavy_or_quant
+DeepSeek V4 Flash (Non-reasoning),deepseek-v4-flash-0420-non-reasoning,DeepSeek,284.0,moe,13.0,True,2026-04-24,large,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash,local_multiGPU_heavy_or_quant
+"DeepSeek V4 Flash (Reasoning, High Effort)",deepseek-v4-flash-0420-high,DeepSeek,284.0,moe,13.0,True,2026-04-24,large,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash,local_multiGPU_heavy_or_quant
+"DeepSeek V4 Flash (Reasoning, Max Effort)",deepseek-v4-flash-0420,DeepSeek,284.0,moe,13.0,True,2026-04-24,large,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash,local_multiGPU_heavy_or_quant
+"DeepSeek V4 Flash 0731 (Reasoning, Max Effort)",deepseek-v4-flash,DeepSeek,284.0,moe,13.0,True,2026-07-31,large,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731,local_multiGPU_heavy_or_quant
+DeepSeek-V4-Flash,,DeepSeek,284.0,moe,13.0,True,2026,,d-central.tech local-llm-model-database,https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash,local_multiGPU_heavy_or_quant
+Ling-plus,,inclusionAI,290.0,moe,28.8,True,,,Interconnects-AI/tracked-models (inclusionAI/Ling-plus),https://huggingface.co/inclusionAI/Ling-plus,local_multiGPU_heavy_or_quant
+Ling-plus-base,,inclusionAI,290.0,moe,28.8,True,,,Interconnects-AI/tracked-models (inclusionAI/Ling-plus-base),https://huggingface.co/inclusionAI/Ling-plus-base,local_multiGPU_heavy_or_quant
+Hy3-preview (Non-reasoning),hy3-non-reasoning,Tencent,295.0,moe,21.0,True,2026-04-23,large,artificialanalysis.ai embedded model payload,https://huggingface.co/tencent/Hy3-preview,local_multiGPU_heavy_or_quant
+Hy3-preview (Reasoning),hy3-preview,Tencent,295.0,moe,21.0,True,2026-04-23,large,artificialanalysis.ai embedded model payload,https://huggingface.co/tencent/Hy3-preview,local_multiGPU_heavy_or_quant
+Hy3,hy3,Tencent,299.0,moe,21.0,True,2026-07-06,large,artificialanalysis.ai embedded model payload,https://huggingface.co/tencent/Hy3,local_multiGPU_heavy_or_quant
+ERNIE 4.5 300B A47B,ernie-4-5-300b-a47b,Baidu,300.0,moe,47.0,True,2025-06-30,large,artificialanalysis.ai embedded model payload,https://huggingface.co/baidu/ERNIE-4.5-300B-A47B-Paddle,local_multiGPU_heavy_or_quant
+MiMo-V2-Flash (Feb 2026),mimo-v2-0206,Xiaomi,309.0,moe,15.0,True,2025-12-16,large,artificialanalysis.ai embedded model payload,https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash,local_multiGPU_heavy_or_quant
+MiMo-V2-Flash (Non-reasoning),mimo-v2-flash,Xiaomi,309.0,moe,15.0,True,2025-12-16,large,artificialanalysis.ai embedded model payload,https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash,local_multiGPU_heavy_or_quant
+MiMo-V2-Flash (Reasoning),mimo-v2-flash-reasoning,Xiaomi,309.0,moe,15.0,True,2025-12-16,large,artificialanalysis.ai embedded model payload,https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash,local_multiGPU_heavy_or_quant
+MiMo-V2-Flash,,XiaomiMiMo,310.0,dense,,True,,,Interconnects-AI/tracked-models (XiaomiMiMo/MiMo-V2-Flash),https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash,local_multiGPU_heavy_or_quant
+MiMo-V2-Flash-Base,,XiaomiMiMo,310.0,dense,,True,,,Interconnects-AI/tracked-models (XiaomiMiMo/MiMo-V2-Flash-Base),https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash-Base,local_multiGPU_heavy_or_quant
+MiMo-V2.5,mimo-v2-5-0424,Xiaomi,310.0,moe,15.0,True,2026-04-22,large,artificialanalysis.ai embedded model payload,https://huggingface.co/XiaomiMiMo/MiMo-V2.5,local_multiGPU_heavy_or_quant
+Grok-1,grok-1,SpaceXAI,314.0,moe,78.0,True,2024-03-17,large,artificialanalysis.ai embedded model payload,https://huggingface.co/xai-org/grok-1,local_multiGPU_heavy_or_quant
+Motif 3,motif-3,Motif Technologies,314.0,moe,13.2,True,2026-08-12,large,artificialanalysis.ai embedded model payload,,local_multiGPU_heavy_or_quant
+GLM-5.3-Flash,glm-5-3-flash,Z AI,320.0,moe,18.0,True,2026-08-26,large,artificialanalysis.ai embedded model payload,https://huggingface.co/zai-org/GLM-5.3-Flash,local_multiGPU_heavy_or_quant
+GLM-4.5,,zai-org,355.0,moe,32.0,True,,,Interconnects-AI/tracked-models (zai-org/GLM-4.5),https://huggingface.co/zai-org/GLM-4.5,local_multiGPU_heavy_or_quant
+GLM-4.5 (Reasoning),glm-4.5,Z AI,355.0,moe,32.0,True,2025-07-28,large,artificialanalysis.ai embedded model payload,https://huggingface.co/zai-org/GLM-4.5,local_multiGPU_heavy_or_quant
+GLM-4.5-Base,,zai-org,355.0,moe,32.0,True,,,Interconnects-AI/tracked-models (zai-org/GLM-4.5-Base),https://huggingface.co/zai-org/GLM-4.5-Base,local_multiGPU_heavy_or_quant
+GLM-4.6,,Z.ai (Zhipu AI),355.0,moe,32.0,True,2025,,d-central.tech local-llm-model-database,https://huggingface.co/zai-org/GLM-4.6,local_multiGPU_heavy_or_quant
+GLM-4.6,,zai-org,357.0,dense,,True,,,Interconnects-AI/tracked-models (zai-org/GLM-4.6),https://huggingface.co/zai-org/GLM-4.6,local_multiGPU_heavy_or_quant
+GLM-4.6 (Non-reasoning),glm-4-6,Z AI,357.0,moe,32.0,True,2025-09-30,large,artificialanalysis.ai embedded model payload,https://github.com/zai-org/GLM-4.6,local_multiGPU_heavy_or_quant
+GLM-4.6 (Reasoning),glm-4-6-reasoning,Z AI,357.0,moe,32.0,True,2025-09-30,large,artificialanalysis.ai embedded model payload,https://github.com/zai-org/GLM-4.6,local_multiGPU_heavy_or_quant
+GLM-4.6-FP8,,zai-org,357.0,dense,,True,,,Interconnects-AI/tracked-models (zai-org/GLM-4.6-FP8),https://huggingface.co/zai-org/GLM-4.6-FP8,local_multiGPU_heavy_or_quant
+GLM-4.7 (Non-reasoning),glm-4-7-non-reasoning,Z AI,357.0,moe,32.0,True,2025-12-22,large,artificialanalysis.ai embedded model payload,https://huggingface.co/zai-org/GLM-4.7,local_multiGPU_heavy_or_quant
+GLM-4.7 (Reasoning),glm-4-7,Z AI,357.0,moe,32.0,True,2025-12-22,large,artificialanalysis.ai embedded model payload,https://huggingface.co/zai-org/GLM-4.7,local_multiGPU_heavy_or_quant
+GLM-4.7,,zai-org,358.0,dense,,True,,,Interconnects-AI/tracked-models (zai-org/GLM-4.7),https://huggingface.co/zai-org/GLM-4.7,local_multiGPU_heavy_or_quant
+GLM-4.7-FP8,,zai-org,358.0,dense,,True,,,Interconnects-AI/tracked-models (zai-org/GLM-4.7-FP8),https://huggingface.co/zai-org/GLM-4.7-FP8,local_multiGPU_heavy_or_quant
+K2 Horizon 375B A23B,k2-horizon-375b-a23b,MBZUAI Institute of Foundation Models,375.0,moe,23.0,True,2026-09-03,large,artificialanalysis.ai embedded model payload,https://huggingface.co/IFM/K2-Horizon-375B-A23B,local_multiGPU_heavy_or_quant
+Tencent-Hunyuan-Large,,tencent,389.0,moe,52.0,True,,,Interconnects-AI/tracked-models (tencent/Tencent-Hunyuan-Large),https://huggingface.co/tencent/Tencent-Hunyuan-Large,local_multiGPU_heavy_or_quant
+Agnes 2.5 Pro Alpha,agnes-2-5-pro-alpha,Sapiens AI,397.0,moe,17.0,True,2026-07-24,large,artificialanalysis.ai embedded model payload,https://huggingface.co/Agnes-AI/Agnes-2.5-Pro-Alpha,local_multiGPU_heavy_or_quant
+Nex-N2-Pro,nex-n2-pro,Nex AGI,397.0,moe,17.0,True,2026-06-02,large,artificialanalysis.ai embedded model payload,https://huggingface.co/nex-agi/Nex-N2-Pro,local_multiGPU_heavy_or_quant
+Qwen3.5 397B A17B (Non-reasoning),qwen3-5-397b-a17b-non-reasoning,Alibaba,397.0,moe,17.0,True,2026-02-16,large,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3.5-397B-A17B,local_multiGPU_heavy_or_quant
+Qwen3.5 397B A17B (Reasoning),qwen3-5-397b-a17b,Alibaba,397.0,moe,17.0,True,2026-02-16,large,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3.5-397B-A17B,local_multiGPU_heavy_or_quant
+Qwen3.5-397B-A17B,,Qwen,397.0,moe,17.0,True,,,Interconnects-AI/tracked-models (Qwen/Qwen3.5-397B-A17B),https://huggingface.co/Qwen/Qwen3.5-397B-A17B,local_multiGPU_heavy_or_quant
+AI21-Jamba-Large-1.5,,ai21labs,398.0,moe,94.0,True,,,Interconnects-AI/tracked-models (ai21labs/AI21-Jamba-Large-1.5),https://huggingface.co/ai21labs/AI21-Jamba-Large-1.5,local_multiGPU_heavy_or_quant
+AI21-Jamba-Large-1.6,,ai21labs,398.0,moe,94.0,True,,,Interconnects-AI/tracked-models (ai21labs/AI21-Jamba-Large-1.6),https://huggingface.co/ai21labs/AI21-Jamba-Large-1.6,local_multiGPU_heavy_or_quant
+AI21-Jamba-Large-1.7,,ai21labs,398.0,moe,94.0,True,,,Interconnects-AI/tracked-models (ai21labs/AI21-Jamba-Large-1.7),https://huggingface.co/ai21labs/AI21-Jamba-Large-1.7,local_multiGPU_heavy_or_quant
+AI21-Jamba-Large-1.7-FP8,,ai21labs,398.0,moe,94.0,True,,,Interconnects-AI/tracked-models (ai21labs/AI21-Jamba-Large-1.7-FP8),https://huggingface.co/ai21labs/AI21-Jamba-Large-1.7-FP8,local_multiGPU_heavy_or_quant
+Jamba 1.5 Large,jamba-1-5-large,AI21 Labs,398.0,moe,94.0,True,2024-08-22,large,artificialanalysis.ai embedded model payload,https://huggingface.co/ai21labs/AI21-Jamba-1.5-Large,local_multiGPU_heavy_or_quant
+Jamba 1.6 Large,jamba-1-6-large,AI21 Labs,398.0,moe,94.0,True,2025-03-06,large,artificialanalysis.ai embedded model payload,https://huggingface.co/ai21labs/AI21-Jamba-Large-1.6,local_multiGPU_heavy_or_quant
+Jamba 1.7 Large,jamba-1-7-large,AI21 Labs,398.0,moe,94.0,True,2025-07-07,large,artificialanalysis.ai embedded model payload,https://huggingface.co/ai21labs/AI21-Jamba-Large-1.7,local_multiGPU_heavy_or_quant
+Trinity Large Thinking,trinity-large-thinking,Arcee AI,399.0,moe,13.0,True,2026-04-01,large,artificialanalysis.ai embedded model payload,https://huggingface.co/arcee-ai/Trinity-Large-Thinking,local_multiGPU_heavy_or_quant
+Llama 4 Maverick,llama-4-maverick,Meta,402.0,moe,17.0,True,2025-04-05,large,artificialanalysis.ai embedded model payload,https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct,huge_moe_or_cluster
+Llama 3.1 Instruct 405B,llama-3-1-instruct-405b,Meta,405.0,dense,,True,2024-07-23,large,artificialanalysis.ai embedded model payload,https://huggingface.co/meta-llama/Meta-Llama-3.1-405B,huge_moe_or_cluster
+Llama 3.1 Tulu3 405B,tulu3-405b,Allen Institute for AI,405.0,dense,,True,2025-01-30,large,artificialanalysis.ai embedded model payload,https://huggingface.co/allenai/Llama-3.1-Tulu-3-405B,huge_moe_or_cluster
+Hermes 4 - Llama-3.1 405B (Non-reasoning),hermes-4-llama-3-1-405b,Nous Research,406.0,dense,,True,2025-08-27,large,artificialanalysis.ai embedded model payload,https://huggingface.co/NousResearch/Hermes-4-405B,huge_moe_or_cluster
+Hermes 4 - Llama-3.1 405B (Reasoning),hermes-4-llama-3-1-405b-reasoning,Nous Research,406.0,dense,,True,2025-08-27,large,artificialanalysis.ai embedded model payload,https://huggingface.co/NousResearch/Hermes-4-405B,huge_moe_or_cluster
+MiniMax-M3,minimax-m3,MiniMax,428.0,moe,23.0,True,2026-06-01,large,artificialanalysis.ai embedded model payload,https://huggingface.co/MiniMaxAI/MiniMax-M3,huge_moe_or_cluster
+MiniMax M1 40k,minimax-m1-40k,MiniMax,456.0,moe,45.9,True,2025-06-17,large,artificialanalysis.ai embedded model payload,https://huggingface.co/MiniMaxAI/MiniMax-M1-40k,huge_moe_or_cluster
+MiniMax M1 80k,minimax-m1-80k,MiniMax,456.0,moe,45.9,True,2025-06-17,large,artificialanalysis.ai embedded model payload,https://huggingface.co/MiniMaxAI/MiniMax-M1-80k,huge_moe_or_cluster
+MiniMax-M1-40k-hf,,MiniMaxAI,456.0,dense,,True,,,Interconnects-AI/tracked-models (MiniMaxAI/MiniMax-M1-40k-hf),https://huggingface.co/MiniMaxAI/MiniMax-M1-40k-hf,huge_moe_or_cluster
+MiniMax-M1-80k-hf,,MiniMaxAI,456.0,dense,,True,,,Interconnects-AI/tracked-models (MiniMaxAI/MiniMax-M1-80k-hf),https://huggingface.co/MiniMaxAI/MiniMax-M1-80k-hf,huge_moe_or_cluster
+MiniMax-Text-01,,MiniMaxAI,456.0,moe,45.9,True,,,Interconnects-AI/tracked-models (MiniMaxAI/MiniMax-Text-01),https://huggingface.co/MiniMaxAI/MiniMax-Text-01,huge_moe_or_cluster
+MiniMax-Text-01-hf,,MiniMaxAI,456.0,dense,,True,,,Interconnects-AI/tracked-models (MiniMaxAI/MiniMax-Text-01-hf),https://huggingface.co/MiniMaxAI/MiniMax-Text-01-hf,huge_moe_or_cluster
+MiniMax-VL-01,,MiniMaxAI,456.0,dense,,True,,,Interconnects-AI/tracked-models (MiniMaxAI/MiniMax-VL-01),https://huggingface.co/MiniMaxAI/MiniMax-VL-01,huge_moe_or_cluster
+Arctic Instruct,arctic-instruct,Snowflake,480.0,moe,17.0,True,2024-04-24,large,artificialanalysis.ai embedded model payload,https://huggingface.co/Snowflake/snowflake-arctic-instruct,huge_moe_or_cluster
+Qwen3 Coder 480B A35B Instruct,qwen3-coder-480b-a35b-instruct,Alibaba,480.0,moe,35.0,True,2025-07-22,large,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3-Coder-480B-A35B-Instruct,huge_moe_or_cluster
+snowflake-arctic-base,,Snowflake,480.0,moe,17.0,True,,,Interconnects-AI/tracked-models (Snowflake/snowflake-arctic-base),https://huggingface.co/Snowflake/snowflake-arctic-base,huge_moe_or_cluster
+snowflake-arctic-instruct,,Snowflake,480.0,moe,17.0,True,,,Interconnects-AI/tracked-models (Snowflake/snowflake-arctic-instruct),https://huggingface.co/Snowflake/snowflake-arctic-instruct,huge_moe_or_cluster
+snowflake-arctic-instruct-vllm,,Snowflake,480.0,moe,17.0,True,,,Interconnects-AI/tracked-models (Snowflake/snowflake-arctic-instruct-vllm),https://huggingface.co/Snowflake/snowflake-arctic-instruct-vllm,huge_moe_or_cluster
+NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16,,nvidia,550.0,moe,55.0,True,,,Interconnects-AI/tracked-models (nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16),https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16,huge_moe_or_cluster
+Nemotron 3 Ultra 550B A55B (Reasoning),nvidia-nemotron-3-ultra-550b-a55b,NVIDIA,550.0,moe,55.0,True,2026-06-04,large,artificialanalysis.ai embedded model payload,https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16,huge_moe_or_cluster
+"DeepSeek V4.1 Flash (Reasoning, Max Effort)",deepseek-v4-1-flash,DeepSeek,552.0,moe,16.0,True,2026-09-10,large,HF DeepSeek-V4.1-Flash README (552B MoE; 8B prefill / 16B decode active) + artificialanalysis.ai embed,https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash,huge_moe_or_cluster
+DeepSeek V3 (Dec '24),deepseek-v3,DeepSeek,671.0,moe,37.0,True,2024-12-26,large,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/DeepSeek-V3,huge_moe_or_cluster
+DeepSeek V3 0324,deepseek-v3-0324,DeepSeek,671.0,moe,37.0,True,2025-03-25,large,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/DeepSeek-V3-0324,huge_moe_or_cluster
+DeepSeek-R1,,deepseek-ai,671.0,moe,37.0,True,,,Interconnects-AI/tracked-models (deepseek-ai/DeepSeek-R1),https://huggingface.co/deepseek-ai/DeepSeek-R1,huge_moe_or_cluster
+DeepSeek-R1-0528,,deepseek-ai,671.0,moe,37.0,True,,,Interconnects-AI/tracked-models (deepseek-ai/DeepSeek-R1-0528),https://huggingface.co/deepseek-ai/DeepSeek-R1-0528,huge_moe_or_cluster
+DeepSeek-R1-Zero,,deepseek-ai,671.0,moe,37.0,True,,,Interconnects-AI/tracked-models (deepseek-ai/DeepSeek-R1-Zero),https://huggingface.co/deepseek-ai/DeepSeek-R1-Zero,huge_moe_or_cluster
+DeepSeek-V3,,deepseek-ai,671.0,moe,37.0,True,,,Interconnects-AI/tracked-models (deepseek-ai/DeepSeek-V3),https://huggingface.co/deepseek-ai/DeepSeek-V3,huge_moe_or_cluster
+DeepSeek-V3-Base,,deepseek-ai,671.0,moe,37.0,True,,,Interconnects-AI/tracked-models (deepseek-ai/DeepSeek-V3-Base),https://huggingface.co/deepseek-ai/DeepSeek-V3-Base,huge_moe_or_cluster
+DeepSeek-V3.1,,deepseek-ai,671.0,moe,37.0,True,,,Interconnects-AI/tracked-models (deepseek-ai/DeepSeek-V3.1),https://huggingface.co/deepseek-ai/DeepSeek-V3.1,huge_moe_or_cluster
+DeepSeek-V3.1-Base,,deepseek-ai,671.0,moe,37.0,True,,,Interconnects-AI/tracked-models (deepseek-ai/DeepSeek-V3.1-Base),https://huggingface.co/deepseek-ai/DeepSeek-V3.1-Base,huge_moe_or_cluster
+DeepSeek-V3.1-Terminus,,deepseek-ai,671.0,moe,37.0,True,,,Interconnects-AI/tracked-models (deepseek-ai/DeepSeek-V3.1-Terminus),https://huggingface.co/deepseek-ai/DeepSeek-V3.1-Terminus,huge_moe_or_cluster
+R1 1776,r1-1776,Perplexity,671.0,moe,37.0,True,2025-02-18,large,artificialanalysis.ai embedded model payload,https://huggingface.co/perplexity-ai/r1-1776,huge_moe_or_cluster
+Mistral Large 3,mistral-large-3,Mistral,675.0,moe,41.0,True,2025-12-02,large,artificialanalysis.ai embedded model payload,https://huggingface.co/mistralai/Mistral-Large-3-675B-Instruct-2512,huge_moe_or_cluster
+Mistral Large 3 (675B Instruct 2512),,Mistral AI,675.0,moe,41.0,True,2025,,d-central.tech local-llm-model-database,https://huggingface.co/mistralai/Mistral-Large-3-675B-Instruct-2512,huge_moe_or_cluster
+DeepSeek R1 (Jan '25),deepseek-r1-0120,DeepSeek,685.0,moe,37.0,True,2025-01-20,large,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/DeepSeek-R1,huge_moe_or_cluster
+DeepSeek R1 0528 (May '25),deepseek-r1,DeepSeek,685.0,moe,37.0,True,2025-05-28,large,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/DeepSeek-R1-0528,huge_moe_or_cluster
+DeepSeek V3.1 (Non-reasoning),deepseek-v3-1,DeepSeek,685.0,moe,37.0,True,2025-08-21,large,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/DeepSeek-V3.1,huge_moe_or_cluster
+DeepSeek V3.1 (Reasoning),deepseek-v3-1-reasoning,DeepSeek,685.0,moe,37.0,True,2025-08-21,large,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/DeepSeek-V3.1,huge_moe_or_cluster
+DeepSeek V3.1 Terminus (Non-reasoning),deepseek-v3-1-terminus,DeepSeek,685.0,moe,37.0,True,2025-09-22,large,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/DeepSeek-V3.1-Terminus,huge_moe_or_cluster
+DeepSeek V3.1 Terminus (Reasoning),deepseek-v3-1-terminus-reasoning,DeepSeek,685.0,moe,37.0,True,2025-09-22,large,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/DeepSeek-V3.1-Terminus,huge_moe_or_cluster
+DeepSeek V3.2 (Non-reasoning),deepseek-v3-2,DeepSeek,685.0,moe,37.0,True,2025-12-01,large,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/DeepSeek-V3.2,huge_moe_or_cluster
+DeepSeek V3.2 (Reasoning),deepseek-v3-2-reasoning,DeepSeek,685.0,moe,37.0,True,2025-12-01,large,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/DeepSeek-V3.2,huge_moe_or_cluster
+DeepSeek V3.2 Exp (Non-reasoning),deepseek-v3-2-0925,DeepSeek,685.0,moe,37.0,True,2025-09-29,large,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Exp,huge_moe_or_cluster
+DeepSeek V3.2 Exp (Reasoning),deepseek-v3-2-reasoning-0925,DeepSeek,685.0,moe,37.0,True,2025-09-29,large,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Exp,huge_moe_or_cluster
+DeepSeek V3.2 Speciale,deepseek-v3-2-speciale,DeepSeek,685.0,moe,37.0,True,2025-12-01,large,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Speciale,huge_moe_or_cluster
+DeepSeek-Math-V2,,deepseek-ai,685.0,dense,,True,,,Interconnects-AI/tracked-models (deepseek-ai/DeepSeek-Math-V2),https://huggingface.co/deepseek-ai/DeepSeek-Math-V2,huge_moe_or_cluster
+DeepSeek-V3.2,,deepseek-ai,685.0,dense,,True,,,Interconnects-AI/tracked-models (deepseek-ai/DeepSeek-V3.2),https://huggingface.co/deepseek-ai/DeepSeek-V3.2,huge_moe_or_cluster
+DeepSeek-V3.2-Exp,,deepseek-ai,685.0,dense,,True,,,Interconnects-AI/tracked-models (deepseek-ai/DeepSeek-V3.2-Exp),https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Exp,huge_moe_or_cluster
+DeepSeek-V3.2-Exp-Base,,deepseek-ai,685.0,dense,,True,,,Interconnects-AI/tracked-models (deepseek-ai/DeepSeek-V3.2-Exp-Base),https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Exp-Base,huge_moe_or_cluster
+A.X-K2,a-x-k2,SK Telecom,692.0,moe,33.0,True,2026-08-12,large,artificialanalysis.ai embedded model payload,https://huggingface.co/skt/A.X-K2,huge_moe_or_cluster
+GLM-5,,zai-org,744.0,moe,40.0,True,,,Interconnects-AI/tracked-models (zai-org/GLM-5),https://huggingface.co/zai-org/GLM-5,huge_moe_or_cluster
+GLM-5 (Non-reasoning),glm-5-non-reasoning,Z AI,744.0,moe,40.0,True,2026-02-11,large,artificialanalysis.ai embedded model payload,https://huggingface.co/zai-org/GLM-5,huge_moe_or_cluster
+GLM-5 (Reasoning),glm-5,Z AI,744.0,moe,40.0,True,2026-02-11,large,artificialanalysis.ai embedded model payload,https://huggingface.co/zai-org/GLM-5,huge_moe_or_cluster
+GLM-5.1 (Non-reasoning),glm-5-1-non-reasoning,Z AI,744.0,moe,40.0,True,2026-04-07,large,artificialanalysis.ai embedded model payload,https://huggingface.co/zai-org/GLM-5.1,huge_moe_or_cluster
+GLM-5.1 (Reasoning),glm-5-1,Z AI,744.0,moe,40.0,True,2026-04-07,large,artificialanalysis.ai embedded model payload,https://huggingface.co/zai-org/GLM-5.1,huge_moe_or_cluster
+GLM-5.2-Vision-NVFP4,,baseten,744.5,moe,40.0,True,,,Interconnects-AI/tracked-models (baseten/GLM-5.2-Vision-NVFP4),https://huggingface.co/baseten/GLM-5.2-Vision-NVFP4,huge_moe_or_cluster
+K-EXAONE 2.0,k-exaone-2-0-0803,LG AI Research,750.0,moe,37.0,True,2026-08-12,large,artificialanalysis.ai embedded model payload,,huge_moe_or_cluster
+GLM-5.2 (Non-reasoning),glm-5-2-non-reasoning,Z AI,753.0,moe,40.0,True,2026-06-16,large,artificialanalysis.ai embedded model payload,https://huggingface.co/zai-org/GLM-5.2,huge_moe_or_cluster
+GLM-5.2 (max),glm-5-2,Z AI,753.0,moe,40.0,True,2026-06-16,large,artificialanalysis.ai embedded model payload,https://huggingface.co/zai-org/GLM-5.2,huge_moe_or_cluster
+GLM-5.3 (max),glm-5-3,Z AI,753.0,moe,40.0,True,2026-08-18,large,artificialanalysis.ai embedded model payload,https://huggingface.co/zai-org/GLM-5.3,huge_moe_or_cluster
+GLM-5.2,,Z.ai (Zhipu AI),753.3,moe,,True,2026,,d-central.tech local-llm-model-database,https://huggingface.co/zai-org/GLM-5.2,huge_moe_or_cluster
+Inkling,,thinkingmachines,975.0,moe,41.0,True,,,Interconnects-AI/tracked-models (thinkingmachines/Inkling),https://huggingface.co/thinkingmachines/Inkling,huge_moe_or_cluster
+Inkling (xhigh),inkling,Thinking Machines,975.0,moe,41.0,True,2026-07-15,large,artificialanalysis.ai embedded model payload,https://huggingface.co/thinkingmachines/Inkling,huge_moe_or_cluster
+Kimi K2,kimi-k2,Kimi,1000.0,moe,32.0,True,2025-07-11,large,artificialanalysis.ai embedded model payload,https://huggingface.co/moonshotai/Kimi-K2-Instruct,huge_moe_or_cluster
+Kimi K2 0905,kimi-k2-0905,Kimi,1000.0,moe,32.0,True,2025-09-05,large,artificialanalysis.ai embedded model payload,https://huggingface.co/moonshotai/Kimi-K2-Instruct-0905,huge_moe_or_cluster
+Kimi K2 Thinking,kimi-k2-thinking,Kimi,1000.0,moe,32.0,True,2025-11-06,large,artificialanalysis.ai embedded model payload,https://huggingface.co/moonshotai/Kimi-K2-Thinking,huge_moe_or_cluster
+Kimi K2.5 (Non-reasoning),kimi-k2-5-non-reasoning,Kimi,1000.0,moe,32.0,True,2026-01-27,large,artificialanalysis.ai embedded model payload,https://huggingface.co/moonshotai/Kimi-K2.5,huge_moe_or_cluster
+Kimi K2.5 (Reasoning),kimi-k2-5,Kimi,1000.0,moe,32.0,True,2026-01-27,large,artificialanalysis.ai embedded model payload,https://huggingface.co/moonshotai/Kimi-K2.5,huge_moe_or_cluster
+Kimi K2.6,kimi-k2-6,Kimi,1000.0,moe,32.0,True,2026-04-20,large,artificialanalysis.ai embedded model payload,https://huggingface.co/moonshotai/Kimi-K2.6,huge_moe_or_cluster
+Kimi K2.6 (Non-reasoning),kimi-k2-6-non-reasoning,Kimi,1000.0,moe,32.0,True,2026-04-20,large,artificialanalysis.ai embedded model payload,https://huggingface.co/moonshotai/Kimi-K2.6,huge_moe_or_cluster
+Kimi K2.7 Code,kimi-k2-7-code,Kimi,1000.0,moe,32.0,True,2026-06-12,large,artificialanalysis.ai embedded model payload,https://huggingface.co/moonshotai/Kimi-K2.7-Code,huge_moe_or_cluster
+Kimi-K2-Base,,moonshotai,1000.0,moe,32.0,True,,,Interconnects-AI/tracked-models (moonshotai/Kimi-K2-Base),https://huggingface.co/moonshotai/Kimi-K2-Base,huge_moe_or_cluster
+Kimi-K2-Instruct,,moonshotai,1000.0,moe,32.0,True,,,Interconnects-AI/tracked-models (moonshotai/Kimi-K2-Instruct),https://huggingface.co/moonshotai/Kimi-K2-Instruct,huge_moe_or_cluster
+Kimi-K2-Instruct-0905,,moonshotai,1000.0,moe,32.0,True,,,Interconnects-AI/tracked-models (moonshotai/Kimi-K2-Instruct-0905),https://huggingface.co/moonshotai/Kimi-K2-Instruct-0905,huge_moe_or_cluster
+Kimi-K2.5,,moonshotai,1000.0,moe,32.0,True,,,Interconnects-AI/tracked-models (moonshotai/Kimi-K2.5),https://huggingface.co/moonshotai/Kimi-K2.5,huge_moe_or_cluster
+Ling-1T,ling-1t,InclusionAI,1000.0,moe,50.0,True,2025-10-08,large,artificialanalysis.ai embedded model payload,https://huggingface.co/inclusionAI/Ling-1T,huge_moe_or_cluster
+Ling-1T-FP8,,inclusionAI,1000.0,dense,,True,,,Interconnects-AI/tracked-models (inclusionAI/Ling-1T-FP8),https://huggingface.co/inclusionAI/Ling-1T-FP8,huge_moe_or_cluster
+Ring-1T,ring-1t,InclusionAI,1000.0,moe,50.0,True,2025-10-13,large,artificialanalysis.ai embedded model payload,https://huggingface.co/inclusionAI/Ring-1T,huge_moe_or_cluster
+Ring-1T-FP8,,inclusionAI,1000.0,dense,,True,,,Interconnects-AI/tracked-models (inclusionAI/Ring-1T-FP8),https://huggingface.co/inclusionAI/Ring-1T-FP8,huge_moe_or_cluster
+Ring-1T-preview,,inclusionAI,1000.0,dense,,True,,,Interconnects-AI/tracked-models (inclusionAI/Ring-1T-preview),https://huggingface.co/inclusionAI/Ring-1T-preview,huge_moe_or_cluster
+Ring-1T-preview-FP8,,inclusionAI,1000.0,dense,,True,,,Interconnects-AI/tracked-models (inclusionAI/Ring-1T-preview-FP8),https://huggingface.co/inclusionAI/Ring-1T-preview-FP8,huge_moe_or_cluster
+Ring-2.6-1T,ring-2-6-1t,InclusionAI,1000.0,moe,63.0,True,2026-05-08,large,artificialanalysis.ai embedded model payload,https://huggingface.co/inclusionAI/Ring-2.6-1T,huge_moe_or_cluster
+MiMo-V2.5-Pro,mimo-v2-5-pro,Xiaomi,1023.0,moe,42.0,True,2026-04-22,large,artificialanalysis.ai embedded model payload,https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro,huge_moe_or_cluster
+MiMo-V2.5-Pro (Non-reasoning),mimo-v2-5-pro-non-reasoning,Xiaomi,1023.0,moe,41.7,True,2026-04-22,large,artificialanalysis.ai embedded model payload,https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro,huge_moe_or_cluster
+Ling-2.6-1T,ling-2-6-1t,InclusionAI,1026.0,moe,63.0,True,2026-04-23,large,artificialanalysis.ai embedded model payload,https://huggingface.co/inclusionAI/Ling-2.6-1T,huge_moe_or_cluster
+DeepSeek V4 Pro (Non-reasoning),deepseek-v4-pro-0424-non-reasoning,DeepSeek,1600.0,moe,49.0,True,2026-04-24,large,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro,huge_moe_or_cluster
+"DeepSeek V4 Pro (Reasoning, High Effort)",deepseek-v4-pro-0424-high,DeepSeek,1600.0,moe,49.0,True,2026-04-24,large,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro,huge_moe_or_cluster
+"DeepSeek V4 Pro (Reasoning, Max Effort)",deepseek-v4-pro-0424,DeepSeek,1600.0,moe,49.0,True,2026-04-24,large,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro,huge_moe_or_cluster
+"DeepSeek V4 Pro 0813 (Reasoning, Max Effort)",deepseek-v4-pro,DeepSeek,1600.0,moe,49.0,True,2026-08-13,large,artificialanalysis.ai embedded model payload,https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813,huge_moe_or_cluster
+DeepSeek-V4-Pro,,DeepSeek,1600.0,moe,49.0,True,2026,,d-central.tech local-llm-model-database,https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro,huge_moe_or_cluster
+LongCat 2.0,longcat-2-0,LongCat,1600.0,moe,48.0,True,2026-06-29,large,artificialanalysis.ai embedded model payload,https://huggingface.co/meituan-longcat/LongCat-2.0,huge_moe_or_cluster
+Qwen3.8 2.4T A95B,qwen3-8-2-4t-a95b,Alibaba,2400.0,moe,95.0,True,2026-08-12,large,artificialanalysis.ai embedded model payload,https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B,huge_moe_or_cluster
+Kimi K3 (low),kimi-k3-low,Kimi,2780.0,moe,104.0,True,2026-07-16,large,artificialanalysis.ai embedded model payload,https://huggingface.co/moonshotai/Kimi-K3,huge_moe_or_cluster
+Kimi K3 (max),kimi-k3,Kimi,2800.0,moe,104.0,True,2026-07-16,large,artificialanalysis.ai embedded model payload,https://huggingface.co/moonshotai/Kimi-K3,huge_moe_or_cluster
+Kimi-K3,,moonshotai,2800.0,moe,104.0,True,,,Interconnects-AI/tracked-models (moonshotai/Kimi-K3),https://huggingface.co/moonshotai/Kimi-K3,huge_moe_or_cluster
+Gemini 1.5 Flash-8B,gemini-1-5-flash-8b,Google,8.0,dense,,False,2024-10-03,small,artificialanalysis.ai embedded model payload,,api_only_closed
+Motif-2-12.7B-Reasoning,motif-2-12-7b,Motif Technologies,12.7,dense,,False,2025-12-04,small,artificialanalysis.ai embedded model payload,,api_only_closed
+Reka Flash (Sep '24),reka-flash,Reka AI,21.0,dense,,False,2024-10-04,small,artificialanalysis.ai embedded model payload,,api_only_closed
+Mistral Saba,mistral-saba,Mistral,24.0,dense,,False,2025-02-17,small,artificialanalysis.ai embedded model payload,,api_only_closed
+Solar Pro 2 (Preview) (Non-reasoning),solar-pro-2-preview,Upstage,30.9,dense,,False,2025-05-20,small,artificialanalysis.ai embedded model payload,,api_only_closed
+Solar Pro 2 (Preview) (Reasoning),solar-pro-2-preview-reasoning,Upstage,30.9,dense,,False,2025-05-20,small,artificialanalysis.ai embedded model payload,,api_only_closed
+Mi:dm K 2.5 Pro,mi-dm-k-2-5-pro-dec28,Korea Telecom,32.0,dense,,False,2025-12-11,small,artificialanalysis.ai embedded model payload,,api_only_closed
+JT-35B-Flash,jt-35b-flash,China Mobile,35.0,dense,,False,2026-05-14,small,artificialanalysis.ai embedded model payload,,api_only_closed
+LFM 40B,lfm-40b,Liquid AI,40.3,moe,12.0,False,2024-09-30,medium,artificialanalysis.ai embedded model payload,,api_only_closed
+Solar Pro 3,solar-pro-3,Upstage,102.0,moe,12.0,False,2026-04-06,medium,artificialanalysis.ai embedded model payload,,api_only_closed
+JT-4.1 Flash 236B A21B,jt-4-1-flash-236b-a21b,China Mobile,236.0,moe,21.0,False,2026-07-09,large,artificialanalysis.ai embedded model payload,,api_only_closed
+"DeepSeek V4 Flash Vision (Reasoning, Max Effort)",deepseek-v4-flash-vision,DeepSeek,284.0,moe,13.0,False,2026-08-21,large,artificialanalysis.ai embedded model payload,,api_only_closed
+Motif 3 (Beta),motif-0714,Motif Technologies,314.0,moe,13.0,False,2026-07-14,large,artificialanalysis.ai embedded model payload,,api_only_closed
+"Quasar 438B (max, based on GLM-5.2)",quasar-438b,Multiverse Computing,438.0,dense,,False,2026-08-10,large,artificialanalysis.ai embedded model payload,,api_only_closed

@@ -1,0 +1,286 @@
+{
+  "generated": "2026-09-11",
+  "category": "coding",
+  "arena_models_total": 418,
+  "matched_models": 196,
+  "match_rate": 0.4689,
+  "reused_overall_matches": 196,
+  "unmatched_models": 222,
+  "panel_rows": 6738,
+  "weeks_covered": 116,
+  "week_start_min": "2024-04-01",
+  "week_start_max": "2026-08-31",
+  "median_models_per_week": 49.0,
+  "mean_models_per_week": 58.09,
+  "models_per_week_by_year": {
+    "2024": {
+      "median": 14.5,
+      "mean": 17.53,
+      "min": 7,
+      "max": 31,
+      "weeks": 38
+    },
+    "2025": {
+      "median": 52.0,
+      "mean": 51.71,
+      "min": 31,
+      "max": 79,
+      "weeks": 45
+    },
+    "2026": {
+      "median": 108.0,
+      "mean": 113.48,
+      "min": 81,
+      "max": 162,
+      "weeks": 33
+    }
+  },
+  "frontier_rows": 793,
+  "median_frontier_models_per_week": 7.0,
+  "match_rate_by_year": {
+    "2024": {
+      "arena_models": 156,
+      "matched_models": 50,
+      "match_rate": 0.3205,
+      "panel_rows": 666,
+      "panel_unique_models": 34
+    },
+    "2025": {
+      "arena_models": 292,
+      "matched_models": 105,
+      "match_rate": 0.3596,
+      "panel_rows": 2327,
+      "panel_unique_models": 82
+    },
+    "2026": {
+      "arena_models": 410,
+      "matched_models": 192,
+      "match_rate": 0.4683,
+      "panel_rows": 3745,
+      "panel_unique_models": 185
+    }
+  },
+  "example_frontier_early_week": "2024-04-01",
+  "example_frontier_early": [
+    {
+      "model": "gpt-4-1106-preview",
+      "elo": 1267.48,
+      "blended": 15.0,
+      "provider": "OpenAI"
+    },
+    {
+      "model": "claude-3-sonnet-20240229",
+      "elo": 1225.59,
+      "blended": 6.0,
+      "provider": "Anthropic"
+    },
+    {
+      "model": "claude-3-haiku-20240307",
+      "elo": 1196.61,
+      "blended": 0.5,
+      "provider": "Anthropic"
+    }
+  ],
+  "example_frontier_latest_week": "2026-08-31",
+  "example_frontier_latest": [
+    {
+      "model": "claude-opus-4-6-high",
+      "elo": 1535.49,
+      "blended": 10.0,
+      "provider": "Anthropic"
+    },
+    {
+      "model": "glm-5.3-flash",
+      "elo": 1516.19,
+      "blended": 0.11875,
+      "provider": "Z.AI"
+    },
+    {
+      "model": "glm-4.7-flash",
+      "elo": 1384.62,
+      "blended": 0.0,
+      "provider": "Z.AI"
+    }
+  ],
+  "same_elo_cost_decline": {
+    "2024-04-01": {
+      "has_series": true,
+      "anchor_max_elo": 1267.483727997796,
+      "start_price": 15.0,
+      "end_price": 0.11875,
+      "start_week": "2024-04-01",
+      "end_week": "2026-08-31",
+      "declined": true,
+      "pct_change": -99.21,
+      "collapse_ratio": 126.32
+    },
+    "2024-04-08": {
+      "has_series": true,
+      "anchor_max_elo": 1277.627008340256,
+      "start_price": 15.0,
+      "end_price": 0.11875,
+      "start_week": "2024-04-08",
+      "end_week": "2026-08-31",
+      "declined": true,
+      "pct_change": -99.21,
+      "collapse_ratio": 126.32
+    },
+    "2024-07-01": {
+      "has_series": true,
+      "anchor_max_elo": 1300.5086883119295,
+      "start_price": 6.0,
+      "end_price": 0.11875,
+      "start_week": "2024-07-01",
+      "end_week": "2026-08-31",
+      "declined": true,
+      "pct_change": -98.02,
+      "collapse_ratio": 50.53
+    },
+    "2024-12-30": {
+      "has_series": true,
+      "anchor_max_elo": 1359.023816493652,
+      "start_price": 1.9250000000000005,
+      "end_price": 0.11875,
+      "start_week": "2024-12-30",
+      "end_week": "2026-08-31",
+      "declined": true,
+      "pct_change": -93.83,
+      "collapse_ratio": 16.21
+    },
+    "2025-06-30": {
+      "has_series": true,
+      "anchor_max_elo": 1491.0302869359864,
+      "start_price": 3.4375,
+      "end_price": 0.11875,
+      "start_week": "2025-06-30",
+      "end_week": "2026-08-31",
+      "declined": true,
+      "pct_change": -96.55,
+      "collapse_ratio": 28.95
+    },
+    "2025-12-29": {
+      "has_series": true,
+      "anchor_max_elo": 1516.763815407052,
+      "start_price": 10.0,
+      "end_price": 10.0,
+      "start_week": "2025-12-29",
+      "end_week": "2026-08-31",
+      "declined": false,
+      "pct_change": 0.0,
+      "collapse_ratio": 1.0
+    }
+  },
+  "anchors": [
+    "2024-04-01",
+    "2024-04-08",
+    "2024-07-01",
+    "2024-12-30",
+    "2025-06-30",
+    "2025-12-29"
+  ],
+  "top_unmatched": [
+    {
+      "model_name_arena": "RWKV-4-Raven-14B",
+      "n_snapshots": 117
+    },
+    {
+      "model_name_arena": "alpaca-13b",
+      "n_snapshots": 117
+    },
+    {
+      "model_name_arena": "chatglm2-6b",
+      "n_snapshots": 117
+    },
+    {
+      "model_name_arena": "chatglm-6b",
+      "n_snapshots": 117
+    },
+    {
+      "model_name_arena": "codellama-34b-instruct",
+      "n_snapshots": 117
+    },
+    {
+      "model_name_arena": "chatglm3-6b",
+      "n_snapshots": 117
+    },
+    {
+      "model_name_arena": "deepseek-llm-67b-chat",
+      "n_snapshots": 117
+    },
+    {
+      "model_name_arena": "guanaco-33b",
+      "n_snapshots": 117
+    },
+    {
+      "model_name_arena": "gemma-7b-it",
+      "n_snapshots": 117
+    },
+    {
+      "model_name_arena": "gemma-2b-it",
+      "n_snapshots": 117
+    },
+    {
+      "model_name_arena": "gemini-pro",
+      "n_snapshots": 117
+    },
+    {
+      "model_name_arena": "gemini-pro-dev-api",
+      "n_snapshots": 117
+    },
+    {
+      "model_name_arena": "fastchat-t5-3b",
+      "n_snapshots": 117
+    },
+    {
+      "model_name_arena": "dolly-v2-12b",
+      "n_snapshots": 117
+    },
+    {
+      "model_name_arena": "vicuna-7b",
+      "n_snapshots": 117
+    },
+    {
+      "model_name_arena": "mistral-7b-instruct-v0.2",
+      "n_snapshots": 117
+    },
+    {
+      "model_name_arena": "mpt-7b-chat",
+      "n_snapshots": 117
+    },
+    {
+      "model_name_arena": "mistral-7b-instruct",
+      "n_snapshots": 117
+    },
+    {
+      "model_name_arena": "openhermes-2.5-mistral-7b",
+      "n_snapshots": 117
+    },
+    {
+      "model_name_arena": "openchat-3.5-0106",
+      "n_snapshots": 117
+    },
+    {
+      "model_name_arena": "openchat-3.5",
+      "n_snapshots": 117
+    },
+    {
+      "model_name_arena": "oasst-pythia-12b",
+      "n_snapshots": 117
+    },
+    {
+      "model_name_arena": "olmo-7b-instruct",
+      "n_snapshots": 117
+    },
+    {
+      "model_name_arena": "mpt-30b-chat",
+      "n_snapshots": 117
+    },
+    {
+      "model_name_arena": "llama2-70b-steerlm-chat",
+      "n_snapshots": 117
+    }
+  ],
+  "zero_price_panel_rows": 10,
+  "astra_note": "GPT-6 Astra & DeepSeek V4.1 Flash omitted from this coding spine \u2014 no Text-coding Arena Elo in HF dump through 2026-09-02. Do not invent Elo. See Code Arena tip / AA tip for current tip.",
+  "note_span": "Coding category on Arena Text begins 2024-04-03; panel weeks are Mondays with both coding Elo and blended API price."
+}

@@ -1,0 +1,285 @@
+{
+  "generated": "2026-09-11",
+  "arena_models_total": 419,
+  "matched_models": 196,
+  "match_rate": 0.4678,
+  "unmatched_models": 223,
+  "panel_rows": 6774,
+  "weeks_covered": 127,
+  "week_start_min": "2023-12-04",
+  "week_start_max": "2026-08-31",
+  "median_models_per_week": 45.0,
+  "mean_models_per_week": 53.34,
+  "models_per_week_by_year": {
+    "2023": {
+      "median": 2.0,
+      "mean": 2.0,
+      "min": 2,
+      "max": 2,
+      "weeks": 3
+    },
+    "2024": {
+      "median": 13.0,
+      "mean": 15.13,
+      "min": 2,
+      "max": 31,
+      "weeks": 46
+    },
+    "2025": {
+      "median": 52.0,
+      "mean": 51.71,
+      "min": 31,
+      "max": 79,
+      "weeks": 45
+    },
+    "2026": {
+      "median": 108.0,
+      "mean": 113.48,
+      "min": 81,
+      "max": 162,
+      "weeks": 33
+    }
+  },
+  "frontier_rows": 696,
+  "median_frontier_models_per_week": 6.0,
+  "match_rate_by_year": {
+    "2023": {
+      "arena_models": 42,
+      "matched_models": 4,
+      "match_rate": 0.0952,
+      "panel_rows": 6,
+      "panel_unique_models": 2
+    },
+    "2024": {
+      "arena_models": 156,
+      "matched_models": 50,
+      "match_rate": 0.3205,
+      "panel_rows": 696,
+      "panel_unique_models": 34
+    },
+    "2025": {
+      "arena_models": 292,
+      "matched_models": 105,
+      "match_rate": 0.3596,
+      "panel_rows": 2327,
+      "panel_unique_models": 82
+    },
+    "2026": {
+      "arena_models": 415,
+      "matched_models": 192,
+      "match_rate": 0.4627,
+      "panel_rows": 3745,
+      "panel_unique_models": 185
+    }
+  },
+  "example_frontier_early_week": "2023-12-04",
+  "example_frontier_early": [
+    {
+      "model": "gpt-4-0314",
+      "elo": 1124.96,
+      "blended": 37.5,
+      "provider": "OpenAI"
+    }
+  ],
+  "example_frontier_latest_week": "2026-08-31",
+  "example_frontier_latest": [
+    {
+      "model": "claude-opus-5-high",
+      "elo": 1505.02,
+      "blended": 10.0,
+      "provider": "Anthropic"
+    },
+    {
+      "model": "gemini-3.7-flash-high",
+      "elo": 1491.44,
+      "blended": 1.5,
+      "provider": "Google"
+    },
+    {
+      "model": "glm-5.3-flash",
+      "elo": 1470.84,
+      "blended": 0.11875,
+      "provider": "Z.AI"
+    },
+    {
+      "model": "glm-4.7-flash",
+      "elo": 1352.36,
+      "blended": 0.0,
+      "provider": "Z.AI"
+    }
+  ],
+  "same_elo_cost_decline": {
+    "2023-12-18": {
+      "has_series": true,
+      "anchor_max_elo": 1128.6336315397584,
+      "start_price": 37.5,
+      "end_price": 0.06125,
+      "start_week": "2023-12-18",
+      "end_week": "2026-08-31",
+      "declined": true,
+      "pct_change": -99.84
+    },
+    "2024-03-11": {
+      "has_series": true,
+      "anchor_max_elo": 1250.7291052324438,
+      "start_price": 15.0,
+      "end_price": 0.11875,
+      "start_week": "2024-03-11",
+      "end_week": "2026-08-31",
+      "declined": true,
+      "pct_change": -99.21
+    },
+    "2024-07-01": {
+      "has_series": true,
+      "anchor_max_elo": 1287.3959975556716,
+      "start_price": 7.5,
+      "end_price": 0.11875,
+      "start_week": "2024-07-01",
+      "end_week": "2026-08-31",
+      "declined": true,
+      "pct_change": -98.42
+    },
+    "2024-12-30": {
+      "has_series": true,
+      "anchor_max_elo": 1358.7498645326689,
+      "start_price": 26.25,
+      "end_price": 0.11875,
+      "start_week": "2024-12-30",
+      "end_week": "2026-08-31",
+      "declined": true,
+      "pct_change": -99.55
+    },
+    "2025-06-30": {
+      "has_series": true,
+      "anchor_max_elo": 1473.4990849185378,
+      "start_price": 3.4375,
+      "end_price": 1.5,
+      "start_week": "2025-06-30",
+      "end_week": "2026-08-31",
+      "declined": true,
+      "pct_change": -56.36
+    },
+    "2025-12-29": {
+      "has_series": true,
+      "anchor_max_elo": 1472.0191877908092,
+      "start_price": 1.125,
+      "end_price": 1.5,
+      "start_week": "2025-12-29",
+      "end_week": "2026-08-31",
+      "declined": false,
+      "pct_change": 33.33
+    }
+  },
+  "anchors": [
+    "2024-03-11",
+    "2023-12-18",
+    "2024-07-01",
+    "2024-12-30",
+    "2025-06-30",
+    "2025-12-29"
+  ],
+  "top_unmatched": [
+    {
+      "model_name_arena": "RWKV-4-Raven-14B",
+      "n_snapshots": 137
+    },
+    {
+      "model_name_arena": "alpaca-13b",
+      "n_snapshots": 137
+    },
+    {
+      "model_name_arena": "chatglm-6b",
+      "n_snapshots": 137
+    },
+    {
+      "model_name_arena": "fastchat-t5-3b",
+      "n_snapshots": 137
+    },
+    {
+      "model_name_arena": "dolly-v2-12b",
+      "n_snapshots": 137
+    },
+    {
+      "model_name_arena": "koala-13b",
+      "n_snapshots": 137
+    },
+    {
+      "model_name_arena": "llama-13b",
+      "n_snapshots": 137
+    },
+    {
+      "model_name_arena": "vicuna-13b",
+      "n_snapshots": 137
+    },
+    {
+      "model_name_arena": "oasst-pythia-12b",
+      "n_snapshots": 137
+    },
+    {
+      "model_name_arena": "stablelm-tuned-alpha-7b",
+      "n_snapshots": 137
+    },
+    {
+      "model_name_arena": "palm-2",
+      "n_snapshots": 136
+    },
+    {
+      "model_name_arena": "mpt-7b-chat",
+      "n_snapshots": 136
+    },
+    {
+      "model_name_arena": "vicuna-7b",
+      "n_snapshots": 136
+    },
+    {
+      "model_name_arena": "guanaco-33b",
+      "n_snapshots": 135
+    },
+    {
+      "model_name_arena": "wizardlm-13b",
+      "n_snapshots": 135
+    },
+    {
+      "model_name_arena": "mpt-30b-chat",
+      "n_snapshots": 134
+    },
+    {
+      "model_name_arena": "vicuna-33b",
+      "n_snapshots": 134
+    },
+    {
+      "model_name_arena": "llama-2-13b-chat",
+      "n_snapshots": 133
+    },
+    {
+      "model_name_arena": "llama-2-7b-chat",
+      "n_snapshots": 133
+    },
+    {
+      "model_name_arena": "codellama-34b-instruct",
+      "n_snapshots": 132
+    },
+    {
+      "model_name_arena": "chatglm2-6b",
+      "n_snapshots": 132
+    },
+    {
+      "model_name_arena": "llama-2-70b-chat",
+      "n_snapshots": 132
+    },
+    {
+      "model_name_arena": "mistral-7b-instruct",
+      "n_snapshots": 131
+    },
+    {
+      "model_name_arena": "wizardlm-70b",
+      "n_snapshots": 131
+    },
+    {
+      "model_name_arena": "zephyr-7b-beta",
+      "n_snapshots": 130
+    }
+  ],
+  "zero_price_panel_rows": 10,
+  "note_span": "Arena weekly file only starts listing commercial GPT/Claude once they appear on the leaderboard (~2023-12); earlier Arena weeks are mostly open models without API list prices in our price panel."
+}
