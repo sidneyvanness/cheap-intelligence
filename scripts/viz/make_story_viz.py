@@ -58,9 +58,9 @@ EARLY_CURVE = "#78716C"
 LATE_CURVE = "#E11D48"
 
 CURRENCY_FOOTNOTE = (
-    "Arena Text/coding score (legacy files: Elo) × API prices through 2026-08-31. "
+    "Arena Text/coding score (legacy files: Elo) × API prices through 2026-09-07. "
     "Free tiers shown at ≤$0.05; paid headline excludes them. "
-    "Astra is on WebDev; DeepSeek V4.1 Flash is unrated."
+    "DeepSeek V4.1 Flash is rated on WebDev only."
 )
 
 
@@ -1462,7 +1462,7 @@ Editorial charts for Arena Text **coding** score. Legacy files and some labels u
 - **Labels:** sparse callouts with leader lines + paper-backed text in empty margins (no polyline collisions; Opus 5 peak sits above the curve).
 - **Peak chart:** raw weekly maximum score as ghost; bold line is the monotonic **running maximum** (“capability frontier ceiling”). Mid-2025 Arena wiggles annotated as relative rating noise.
 - **Price collapse:** NaN weeks (no qualifying model) filled with LOCF / log-linear interp when the gap is ≤8 weeks; imputed segments drawn **dashed**.
-- **Omitted models:** Astra is shown on the separate WebDev board; DeepSeek V4.1 Flash awaits an independent Arena rating. We do **not** invent or merge scores.
+- **Omitted models:** DeepSeek V4.1 Flash is rated on WebDev only and has no Text/coding score (GPT-6 Astra Max joined the Text/coding panel in week 2026-09-07). We do **not** invent or merge scores.
 - **Encoding:** log price (x), Text/coding score (y). Free ($0) models are explicit and floored at `$0.05` only for log display.
 - **Retina:** PNGs at 220 dpi.
 
@@ -1496,7 +1496,7 @@ Data inputs: `export/coding/01_*.csv`, `02_*.csv`, `03_*.csv`.
 
 **How to read the charts.** Ignore dominated points — only the frontier curve matters. Color = time. In the MP4, older weekly curves **stay on screen** as a muted trail so you watch the migration accumulate.
 
-**Caveats / omissions.** Arena scores are relative and the estimator/model pool changed over time. Panel ends {last.date()}. **Astra is shown on the separate WebDev board; DeepSeek V4.1 Flash awaits an independent Arena rating.** Text/coding and WebDev scores are not interchangeable. Free ($0) prices are explicit and floored at $0.05 only on log axes; the August 31 GLM-5.3 Flash rate was promotional.
+**Caveats / omissions.** Arena scores are relative and the estimator/model pool changed over time. Panel ends {last.date()}. **GPT-6 Astra Max enters the Text/coding panel in week 2026-09-07; DeepSeek V4.1 Flash is rated on WebDev only.** Text/coding and WebDev scores are not interchangeable. Free ($0) prices are explicit and floored at $0.05 only on log axes; the August 31 GLM-5.3 Flash rate was promotional.
 """
     (OUT / "INTERPRETATION.md").write_text(interp)
 

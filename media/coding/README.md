@@ -21,7 +21,7 @@ Editorial charts for Arena Text **coding** score. Legacy files and some labels u
 - **Labels:** sparse callouts with leader lines + paper-backed text in empty margins (no polyline collisions; Opus 5 peak sits above the curve).
 - **Peak chart:** raw weekly maximum score as ghost; bold line is the monotonic **running maximum** (“capability frontier ceiling”). Mid-2025 Arena wiggles annotated as relative rating noise.
 - **Price collapse:** NaN weeks (no qualifying model) filled with LOCF / log-linear interp when the gap is ≤8 weeks; imputed segments drawn **dashed**.
-- **Omitted models:** Astra is shown on the separate WebDev board; DeepSeek V4.1 Flash awaits an independent Arena rating. We do **not** invent or merge scores.
+- **Omitted models:** DeepSeek V4.1 Flash is rated on WebDev only and has no Text/coding score (GPT-6 Astra Max joined the Text/coding panel in week 2026-09-07). We do **not** invent or merge scores.
 - **Encoding:** log price (x), Text/coding score (y). Free ($0) models are explicit and floored at `$0.05` only for log display.
 - **Retina:** PNGs at 220 dpi.
 

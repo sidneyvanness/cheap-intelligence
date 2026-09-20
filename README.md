@@ -2,7 +2,7 @@
 
 **Coding intelligence got ~126× cheaper in 29 months.**
 
-From April 2024 to August 2026, the Chatbot Arena *coding* score–price Pareto frontier marched up and left: peak quality rose, and the cost of clearing yesterday’s published score collapsed. The April 2024 coding peak (~**1267** at ~**$15**/MTok blended, GPT-4 Turbo `1106`) was cleared on August 31, 2026 by `glm-5.3-flash` at a promotional **$0.11875**/MTok — roughly **126×** lower list price for the old score threshold. At GLM-5.3 Flash's standard rate effective September 9, the live comparison is still about **63×**. This repo packages the weekly panels, methods, caveats, exports, and a chaptered movie of that migration.
+From April 2024 to August 2026, the Chatbot Arena *coding* score–price Pareto frontier marched up and left: peak quality rose, and the cost of clearing yesterday’s published score collapsed. The April 2024 coding peak (~**1267** at ~**$15**/MTok blended, GPT-4 Turbo `1106`) was cleared on August 31, 2026 by `glm-5.3-flash` at a promotional **$0.11875**/MTok — roughly **126×** lower list price for the old score threshold. That promotion ended September 9; at standard list prices the week of September 7, 2026, the cheapest matched model clearing the old bar is `gpt-oss-20b` at **$0.1275** — still about **118×**. This repo packages the weekly panels, methods, caveats, exports, and a chaptered movie of that migration.
 
 “Cost of intelligence” is deliberately provocative shorthand, not a claim that Arena is an absolute intelligence meter. The exact factor depends on the benchmark slice, dates, price mix, match coverage, and pricing schedule. The claim is narrower: over 29 months, the list-price cost of exceeding one published human-preference score threshold fell by roughly two orders of magnitude.
 
@@ -18,23 +18,44 @@ Each week we plot matched models in **(blended $/MTok, Arena Text/coding score)*
 |--------|-----------------|--------------------------------------|------------------------|
 | **2024-04-01** | ~**1267** | **$15.00** | `gpt-4-1106-preview` |
 | **2026-08-31 snapshot** | clears the old bar | **$0.11875** (~**126×**) | `glm-5.3-flash`, launch promotion |
-| **2026-09-10 current watch** | clears the old bar | **$0.23750** (~**63×**) | `glm-5.3-flash`, standard rate |
+| **2026-09-07 latest week** | clears the old bar | **$0.12750** (~**118×**) | `gpt-oss-20b` (Fireworks); `glm-5.3-flash` at its standard $0.2375 is ~63× |
 
 Peak *ceiling* also rose: ~1267 → ~1535 weekly maximum score (`claude-opus-4-6-high`), with running-max envelope ~1553. See `data/frontiers/coding/_summary.json` and `media/coding/`.
 
 > **Watch:** [`media/coding/frontier_evolution_chaptered.mp4`](media/coding/frontier_evolution_chaptered.mp4) — seven chapter freezes from the GPT-4-era stub to a near-frontier score at ~$0.12.
 
-## Current frontier watch — September 10, 2026
+## The cost of a fixed amount of intelligence
 
-These are not forced onto one axis. Text/coding and WebDev are separate Arena boards, and a newly released model without an independent rating remains unrated.
+Take the model that led the coding board at some past date, and ask each week since: *what is the cheapest API model rated at least as high as it, on that week's board?* The answer may be a newer model — that is the point.
+
+![Cost of o1-level coding over time](media/coding/fixed_intelligence.png)
+
+OpenAI **o1** topped the Text/coding board in January 2025 at **$26.25**/MTok blended. Six weeks later `o3-mini-high` matched it at $1.93; by August 2025 Gemini 2.5 Flash-Lite did so at $0.175. The week of September 7, 2026 it costs **$0.175** (`qwen3.5-flash`) — about **150× cheaper in 20 months**. Nearly all of that fall came in the first seven months; since August 2025 the price of o1-level coding has been flat at $0.175, apart from GLM-5.3 Flash's one-week $0.119 launch promotion.
+
+The factor depends heavily on which past leader you pick, because some leaders were themselves bargains:
+
+| Past board leader | Anchor week | Price then | Cheapest equal-or-better now | Decline |
+|-------------------|-------------|-----------|------------------------------|---------|
+| `o1-mini` | 2024-09-16 | $1.925 | $0.15 (`mistral-small-2506`) | ~**13×** in 24 months |
+| **`o1`** | 2025-01-13 | $26.25 | $0.175 (`qwen3.5-flash`) | ~**150×** in 20 months |
+| `claude-3-7-sonnet` | 2025-02-24 | $6.00 | $0.1375 (`gpt-5-nano-high`) | ~**44×** in 18 months |
+| `chatgpt-4o-latest` (Mar 2025) | 2025-03-31 | $4.375 | $0.2375 (`glm-5.3-flash`) | ~**18×** in 17 months |
+
+Read the o1 number with care: `o1-mini` sat ~4 rating points below o1 that week (well inside the noise) at under a tenth of the price, so 150× measures the fall from a *flagship's sticker price*, while ~13× measures the fall from the *best deal available* at nearly the same level. Both are true. `o1-preview` and `gpt-4.5-preview` also led the board in this window but have no dated list price in our sources, so they cannot anchor a series.
+
+> **Watch:** [`media/coding/fixed_intelligence.mp4`](media/coding/fixed_intelligence.mp4) (~24s) · all four anchors: [`fixed_intelligence_anchors.png`](media/coding/fixed_intelligence_anchors.png) · data: [`fixed_intelligence_cost.csv`](data/frontiers/coding/fixed_intelligence_cost.csv)
+
+## Current frontier watch — September 13, 2026
+
+These are not forced onto one axis. Text/coding and WebDev are separate Arena boards, and a model is only placed on a board where it has a published rating.
 
 | Model | Independent capability signal | 3:1 blended list price | Status |
 |-------|-------------------------------|------------------------|--------|
-| **GLM-5.3 Flash** | Text/coding **1516.2** (Sep 2); WebDev **1604.5** (Sep 8) | **$0.2375** standard | Rated on both boards; launch promotion ended Sep 9 |
-| **GPT-6 Astra Max** | WebDev **1796.2**, rank 1 (Sep 8) | **$20.00** | No Text/coding score in the latest published snapshot |
-| **DeepSeek V4.1 Flash** | No independent Arena rating yet | **$0.525** peak / **$0.2625** off-peak | Released Sep 10; capability evidence is vendor-reported for now |
+| **GLM-5.3 Flash** | Text/coding **1508.3** (Sep 13); WebDev **1607.1** (Sep 11) | **$0.2375** standard | Rated on both boards; launch promotion ended Sep 9 |
+| **GPT-6 Astra Max** | Text/coding **1488.6**, rank 31 (Sep 13, 645 votes); WebDev **1800.3**, rank 1 (Sep 11) | **$20.00** | First Text/coding score published Sep 11; well inside the coding frontier at its price |
+| **DeepSeek V4.1 Flash** | WebDev **1614.0**, rank 16 (Sep 11); no Text/coding score | **$0.525** peak / **$0.2625** off-peak | Released Sep 10; rated on WebDev only, so absent from the coding panel |
 
-The auditable snapshot is [`data/current/current_model_watch.csv`](data/current/current_model_watch.csv). The normalized September 8 WebDev board is [`data/arena/webdev/arena_webdev_latest.csv`](data/arena/webdev/arena_webdev_latest.csv).
+The auditable snapshot is [`data/current/current_model_watch.csv`](data/current/current_model_watch.csv). The normalized September 11 WebDev board is [`data/arena/webdev/arena_webdev_latest.csv`](data/arena/webdev/arena_webdev_latest.csv).
 
 ## Data sources
 
@@ -53,11 +74,12 @@ Normalized CSVs live under `data/`. Huge raw JSON/Parquet dumps are **not** incl
 
 ## Methods
 
-- **Weekly Mondays.** Arena snapshots and prices are aligned to ISO week starts (Monday). Panel coverage for the coding × price join: **2024-04-01 → 2026-08-31** (116 weeks).
+- **Weekly Mondays.** Arena snapshots and prices are aligned to ISO week starts (Monday). Panel coverage for the coding × price join: **2024-04-01 → 2026-09-07** (117 weeks). Each week uses its last published snapshot and the Monday list price, with one documented exception: GLM-5.3 Flash is priced at its standard rate for week 2026-09-07, because the launch promotion ended September 9, before that week's snapshots (September 11 and 13).
 - **Name matching.** Arena display names ↔ price catalog IDs via normalization + a checked crosswalk (`data/model_name_crosswalk.csv`, `data/frontiers/arena_price_name_matches.csv`). No invented scores or prices — unmatched models are listed, not guessed.
 - **Score terminology.** The source calls the published value an Arena rating/score. Post-January 2024 leaderboard ratings use Bradley–Terry estimation rather than classic Elo; legacy filenames and some rendered labels still say “Elo.”
 - **Pareto.** Per week, `on_frontier` marks non-dominated points in published score ↑ / blended price ↓.
 - **Same-score cost.** For each early anchor week’s maximum published score, track the cheapest later blended price among models that meet or exceed that threshold.
+- **Fixed intelligence (head-to-head bar).** For a named past leader, the bar each week is that model’s score *on that week’s board*, not its frozen launch score. Arena ratings drift as the pool changes — a frozen bar leaves `o1-mini` failing its own threshold for 23 weeks — so comparing within one snapshot is the like-for-like test. The frozen-bar result is kept as a cross-check column (o1: ~175× frozen vs ~150× head-to-head).
 - **Free and promotional prices.** $0 rows remain visible in the frontier data and are floored at $0.05 only for log-axis display. The headline same-score calculation requires a positive paid price. Promotions are dated snapshots, not silently carried forward as current rates.
 - **Chaptered movie.** Quiet weeks advance quickly; seven shape-shift weeks hold with callouts (GPT-4 → GPT-4o → o1-mini → Gemini 2.5 Pro → Opus 4.5/4.6 → Aug 2026 cheap tip). See `scripts/viz/make_chaptered_movie.py`.
 
@@ -68,6 +90,9 @@ Normalized CSVs live under `data/`. Huge raw JSON/Parquet dumps are **not** incl
 | `media/coding/frontier_evolution_chaptered.mp4` | Primary chaptered movie (~55s) |
 | `media/coding/frontier_evolution_chaptered_last_frame.png` | End card still |
 | `media/coding/frontier_evolution_chaptered_ch7_hold.png` | Chapter 7 hold (cheap tip) |
+| `media/coding/fixed_intelligence.mp4` | Animated cost of o1-level coding, Jan 2025 → Sep 2026 (~24s) |
+| `media/coding/fixed_intelligence.png` | Same, static, with each record-low model labeled |
+| `media/coding/fixed_intelligence_anchors.png` | Four past leaders side by side (13×–150×) |
 | `media/coding/migration.png` | Early vs latest frontier |
 | `media/coding/price_collapse.png` | Same-score-threshold cost over time |
 | `media/coding/storyboard.png` | One-pager |
@@ -77,7 +102,7 @@ Normalized CSVs live under `data/`. Huge raw JSON/Parquet dumps are **not** incl
 
 1. **Arena score is a relative human-preference ranking**, not a fixed absolute IQ score. Pairwise battles, estimation methods, sampling, and leaderboard composition change over time; small week-to-week dips are often noise, not capability loss. It is **not** a frozen exam and **≠ SWE-bench** (or other absolute coding benchmarks).
 2. **Price coverage is sparse early** (especially 2023–early 2024). Open / self-hosted models **without list API prices are excluded** from the price axis.
-3. **GPT-6 Astra and DeepSeek V4.1 Flash lack Text-`coding` scores** in the latest published snapshot. Astra is shown separately on the September 8 WebDev board. DeepSeek V4.1 Flash, released September 10, remains explicitly unrated until an independent Arena result appears.
+3. **DeepSeek V4.1 Flash lacks a Text-`coding` score** through the September 13 snapshot; it is rated on WebDev only and stays out of the coding panel. GPT-6 Astra Max received its first Text/coding score on September 11 (1488.6 on September 13), still on few votes with a wide interval. Model Price Watch was unreachable during the September 20 refresh, so prices after September 11 are checked against RoninForge only.
 4. Match rate is incomplete (~47% of coding Arena names matched to prices overall; lower in 2024). Results describe the **matched API-priced subset**.
 5. List prices ≠ discounted enterprise rates; blend assumes a 3:1 input:output mix. Free tiers and promotions are real but unstable, so they are labeled explicitly rather than presented as ordinary durable prices.
 
@@ -90,10 +115,12 @@ pip install -r requirements.txt
 
 # Rebuild coding frontiers from weekly CSVs already in data/
 python scripts/build_coding_frontiers.py
+python scripts/build_fixed_intelligence.py
 python scripts/build_export.py
 
 # Story statics + (optional) full animation; needs ffmpeg for mp4
 python scripts/viz/make_story_viz.py --skip-anim
+python scripts/viz/make_fixed_intelligence.py
 python scripts/viz/make_chaptered_movie.py
 ```
 

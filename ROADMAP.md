@@ -8,7 +8,7 @@ Hold a budget fixed (e.g. $1 / MTok blended) and track the best achievable Arena
 
 ## Declining cost updates
 
-Refresh the same-score-threshold cost series as new price events and Arena snapshots land. Automate weekly rebuild + a small public changelog.
+Refresh the same-score-threshold cost series as new price events and Arena snapshots land. Automate weekly rebuild + a small public changelog. *Started:* `scripts/update_arena_snapshots.py` appends new Arena snapshots; price refresh is still manual.
 
 ## Size vs intelligence
 

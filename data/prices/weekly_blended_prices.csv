@@ -10196,7 +10196,7 @@ week_start,provider,model_id,model_name_canonical,input_usd_per_mtok,output_usd_
 2026-09-07,Z.AI,zhipu-glm-5-1,GLM-5.1,1.4,4.4,2.15,model_price_watch
 2026-09-07,Z.AI,zhipu-glm-5-2,GLM-5.2,1.4,4.4,2.15,model_price_watch
 2026-09-07,Z.AI,zhipu-glm-5-3,GLM-5.3,1.4,4.4,2.15,model_price_watch
-2026-09-07,Z.AI,zhipu-glm-5-3-flash,GLM-5.3-Flash,0.075,0.25,0.11875,model_price_watch
+2026-09-07,Z.AI,zhipu-glm-5-3-flash,GLM-5.3-Flash,0.15,0.5,0.2375,model_price_watch; standard rate effective 2026-09-09 (launch promo ended before the week's Arena snapshots)
 2026-09-07,Z.AI,zhipu-glm-5-turbo,GLM-5-Turbo,1.2,4.0,1.9,model_price_watch
 2026-09-07,Z.AI,zhipu-glm-5v-turbo,GLM-5V-Turbo,1.2,4.0,1.9,model_price_watch
 2026-09-07,Z.AI,zhipu-glm-ocr,GLM-OCR,0.03,0.03,0.03,model_price_watch

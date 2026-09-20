@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+from datetime import date
 from pathlib import Path
 
 import pandas as pd
@@ -11,7 +12,7 @@ REPO = Path(__file__).resolve().parents[1]
 FRONT = REPO / "data" / "frontiers" / "coding"
 OUT = REPO / "data" / "export" / "coding"
 OUT.mkdir(parents=True, exist_ok=True)
-TODAY = "2026-09-11"
+TODAY = date.today().isoformat()
 
 
 def sheet_with_meta(writer, df: pd.DataFrame, name: str):
@@ -74,7 +75,7 @@ def main():
                     "NOT overall Text or WebDev — coding category only",
                     f"Panel weeks: {summary['week_start_min']} → {summary['week_start_max']} ({summary['weeks_covered']} weeks)",
                     f"Match rate: {summary['matched_models']}/{summary['arena_models_total']} ({100*summary['match_rate']:.1f}%)",
-                    "Astra shown on the separate WebDev board; DeepSeek V4.1 Flash awaits an independent Arena rating",
+                    "GPT-6 Astra Max rated on Text/coding from week 2026-09-07; DeepSeek V4.1 Flash is rated on WebDev only",
                     "Viz: frontier polylines by week; label peak + cheap anchors; LOCF/dash ≤8wk gaps on price collapse",
                 ]
             }
@@ -102,10 +103,12 @@ Story-ready tables for Arena Text **coding** score × blended API price (paralle
 - Frontier rows: **{summary['frontier_rows']}**
 
 ## Caveats
-- GPT-6 Astra Max lacks a Text/coding score and is shown separately on the September 8 WebDev board
-- DeepSeek V4.1 Flash awaits an independent Arena rating; no score is invented
+- GPT-6 Astra Max has a Text/coding score from the 2026-09-11 snapshot (week 2026-09-07)
+- DeepSeek V4.1 Flash is rated on WebDev only; no Text/coding score is invented
 """
-    (OUT / "README.md").write_text(readme)
+    # The shipped README is hand-curated; only scaffold one if it is missing.
+    if not (OUT / "README.md").exists():
+        (OUT / "README.md").write_text(readme)
     print(
         json.dumps(
             {

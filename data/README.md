@@ -8,7 +8,7 @@ Normalized tables only — no multi-hundred-MB raw Parquet/JSON dumps.
 | `prices/weekly_blended_prices.csv` | Monday panel + 3:1 blend |
 | `arena/coding/arena_coding_elo_snapshots_weekly.csv` | Arena Text **coding** Elo, ~weekly |
 | `arena/arena_elo_snapshots_weekly.csv` | Arena Text **overall** Elo, ~weekly (~4.4M) |
-| `arena/webdev/arena_webdev_latest.csv` | September 8, 2026 WebDev overall board (separate scale) |
+| `arena/webdev/arena_webdev_latest.csv` | September 11, 2026 WebDev overall board (separate scale) |
 | `current/current_model_watch.csv` | Dated current prices + independent-rating status for GLM, Astra, and DeepSeek V4.1 Flash |
 | `frontiers/coding/arena_coding_elo_price_weekly_panel.csv` | Joined panel + `on_frontier` |
 | `frontiers/coding/same_coding_elo_cost_over_time.csv` | Cost of earlier peak Elo later |

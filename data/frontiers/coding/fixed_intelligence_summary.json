@@ -1,0 +1,67 @@
+{
+  "generated": "2026-09-20",
+  "primary_anchor": "o1-2024-12-17",
+  "method": "head_to_head bar (anchor's score on each week's board); frozen bar as cross-check",
+  "anchors": [
+    {
+      "anchor_week": "2024-09-16",
+      "anchor_model": "o1-mini",
+      "anchor_label": "o1-mini",
+      "anchor_score": 1369.7,
+      "anchor_price": 1.9250000000000005,
+      "latest_week": "2026-09-07",
+      "months_elapsed": 23.7,
+      "latest_price": 0.15,
+      "latest_model": "mistral-small-2506",
+      "fold_cheaper": 12.8,
+      "frozen_bar_latest_price": 0.175,
+      "frozen_bar_fold_cheaper": 11.0,
+      "annualized_decline_factor": 3.6
+    },
+    {
+      "anchor_week": "2025-01-13",
+      "anchor_model": "o1-2024-12-17",
+      "anchor_label": "o1",
+      "anchor_score": 1361.2,
+      "anchor_price": 26.25,
+      "latest_week": "2026-09-07",
+      "months_elapsed": 19.8,
+      "latest_price": 0.175,
+      "latest_model": "qwen3.5-flash",
+      "fold_cheaper": 150.0,
+      "frozen_bar_latest_price": 0.15,
+      "frozen_bar_fold_cheaper": 175.0,
+      "annualized_decline_factor": 20.9
+    },
+    {
+      "anchor_week": "2025-02-24",
+      "anchor_model": "claude-3-7-sonnet-20250219",
+      "anchor_label": "Claude 3.7 Sonnet",
+      "anchor_score": 1371.0,
+      "anchor_price": 6.0,
+      "latest_week": "2026-09-07",
+      "months_elapsed": 18.4,
+      "latest_price": 0.1375,
+      "latest_model": "gpt-5-nano-high",
+      "fold_cheaper": 43.6,
+      "frozen_bar_latest_price": 0.175,
+      "frozen_bar_fold_cheaper": 34.3,
+      "annualized_decline_factor": 11.7
+    },
+    {
+      "anchor_week": "2025-03-31",
+      "anchor_model": "chatgpt-4o-latest-20250326",
+      "anchor_label": "ChatGPT-4o (Mar 2025)",
+      "anchor_score": 1425.0,
+      "anchor_price": 4.375,
+      "latest_week": "2026-09-07",
+      "months_elapsed": 17.2,
+      "latest_price": 0.2375,
+      "latest_model": "glm-5.3-flash",
+      "fold_cheaper": 18.4,
+      "frozen_bar_latest_price": 0.2375,
+      "frozen_bar_fold_cheaper": 18.4,
+      "annualized_decline_factor": 7.6
+    }
+  ]
+}

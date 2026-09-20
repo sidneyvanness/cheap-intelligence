@@ -125,6 +125,7 @@ gpt-5.5-instant,gpt-5.5,OpenAI,GPT-5.5,reused_overall:core_key,0.92,gpt-5.5-inst
 gpt-5.6-luna-xhigh,gpt-5.6-luna,OpenAI,GPT-5.6 Luna,reused_overall:strip_variant,0.9,gpt-5.6-luna-xhigh,gpt-5.6-luna
 gpt-5.6-sol-xhigh,gpt-5.6-sol,OpenAI,GPT-5.6 Sol,reused_overall:strip_variant,0.9,gpt-5.6-sol-xhigh,gpt-5.6-sol
 gpt-5.6-terra-xhigh,gpt-5.6-terra,OpenAI,GPT-5.6 Terra,reused_overall:strip_variant,0.9,gpt-5.6-terra-xhigh,gpt-5.6-terra
+gpt-6-astra-max,gpt-6-astra,OpenAI,GPT-6 Astra,manual_alias,0.9,gpt-6-astra-max,gpt-6-astra
 gpt-oss-120b,fireworks-gpt-oss-120b,Fireworks,GPT-OSS 120B,reused_overall:manual_alias,1.0,gpt-oss-120b,gpt-oss-120b
 gpt-oss-20b,fireworks-gpt-oss-20b,Fireworks,GPT-OSS 20B,reused_overall:manual_alias,1.0,gpt-oss-20b,gpt-oss-20b
 grok-4-0709,xai-grok-4,xAI,Grok 4,reused_overall:manual_alias,0.9,grok-4-0709,grok-4
@@ -170,6 +171,7 @@ mixtral-8x7b-instruct-v0.1,mistral-mixtral-8x7b,Mistral,Mixtral 8x7B Instruct,re
 muse-glimmer,fireworks-muse-glimmer-30b,Fireworks,Muse Glimmer 30B,reused_overall:manual_alias,0.85,muse-glimmer,muse-glimmer-30b
 muse-spark-1.1,meta-muse-spark-1-1,Meta,Muse Spark 1.1,reused_overall:exact_canonical,0.95,muse-spark-1.1,muse-spark-1.1
 muse-spark-1.2 (xHigh),meta-muse-spark-1-2,Meta,Muse Spark 1.2,reused_overall:fuzzy_core,0.82,muse-spark-1.2-xhigh,muse-spark-1-2
+muse-spark-1.3-max,meta-muse-spark-1-3,Meta,Muse Spark 1.3,fuzzy_core,0.82,muse-spark-1.3-max,muse-spark-1-3
 nous-hermes-2-mixtral-8x7b-dpo,mistral-mixtral-8x7b,Mistral,Mixtral 8x7B Instruct,reused_overall:core_key,0.92,nous-hermes-2-mixtral-8x7b-dpo,mistral-mixtral-8x7b
 nova-2-lite,nova-2-lite,Amazon,Nova 2 Lite,reused_overall:manual_alias,1.0,nova-2-lite,nova-2-lite
 o1-2024-12-17,o1,OpenAI,o1,reused_overall:manual_alias,0.95,o1-2024-12-17,o1
