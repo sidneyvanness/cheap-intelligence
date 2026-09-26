@@ -5,8 +5,8 @@ Coding-only intelligence–price frontier with freezes at key shifts.
 - **Primary:** `frontier_evolution_chaptered.mp4`
 - **Last frame:** `frontier_evolution_chaptered_last_frame.png` (end card; date HUD cleared)
 - **Ch7 hold still:** `frontier_evolution_chaptered_ch7_hold.png`
-- **Duration:** 55.25s @ 12 fps (663 frames)
-- **Pacing:** quiet weeks 3/12s each (327 frames); chapter holds variable (ch1=3.0s, ch2=3.0s, ch3=4.5s, ch4=3.5s, ch5=3.0s, ch6=3.0s, ch7=5.0s; 300 frames across 7 beats); end card 36/12s (36 frames)
+- **Duration:** 60.00s @ 12 fps (720 frames)
+- **Pacing:** quiet weeks 3/12s each (330 frames); chapter holds variable (ch1=3.0s, ch2=3.0s, ch3=4.5s, ch4=3.5s, ch5=3.0s, ch6=3.0s, ch7=4.5s, ch8=5.0s; 354 frames across 8 beats); end card 36/12s (36 frames)
 - **Original (kept):** `frontier_evolution.mp4` (~12s rush)
 
 ## Beats (chapter timestamps)
@@ -23,10 +23,12 @@ Coding-only intelligence–price frontier with freezes at key shifts.
    - highlight `peak`: pointer → Claude Opus 4.5 thinking score 1515 @ $10/MTok
 6. **037.2s** (3.0s hold) — `2026-02-09` — Claude Opus 4.6 thinking · score ~1553
    - highlight `peak`: pointer → Claude Opus 4.6 thinking score 1553 @ $10/MTok
-7. **047.2s** (5.0s hold) — `2026-08-31` — Near-frontier score at ~$0.12/MTok · peak still ~$10
+7. **047.2s** (4.5s hold) — `2026-08-31` — Near-frontier score at ~$0.12/MTok (launch promo) · peak still ~$10
    - highlight `max_elo_under_price` ≤$0.25: pointer → GLM-5.3 Flash score 1516 @ $0.12/MTok; faint peak → Claude Opus 4.6 high @ $10
+8. **052.0s** (5.0s hold) — `2026-09-21` — Claude Opus 5.5 · new peak ~1545 at $8 — higher and cheaper
+   - highlight `peak`: pointer → Claude Opus 5.5 high score 1545 @ $8/MTok
 
-**End card** from 052.2s — Same published Arena score threshold (~1267): ~$15 → ~$0.12 · about 126× cheaper
+**End card** from 057.0s — Same published Arena score threshold (~1267): ~$15 → ~$0.13 at standard list prices · about 118× cheaper
 
 ## Design notes
 
@@ -34,7 +36,7 @@ Coding-only intelligence–price frontier with freezes at key shifts.
 - During holds: older curves dimmed further; large ring + leader-line callout on the highlighted frontier point (model · score · price)
 - Quiet weeks: pointer hidden; peak summary in caption HUD only
 - End frames: `date_text` / `caption_text` cleared; centered end-card panel in header band (≈0.78–0.90) — no overlap with Aug 2026 HUD
-- Optional badge `n/7` during chapter freezes
+- Optional badge `n/N` during chapter freezes
 
 ## Re-run
 

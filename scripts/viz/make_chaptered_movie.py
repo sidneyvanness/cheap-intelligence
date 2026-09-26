@@ -50,9 +50,9 @@ ACCENT_SOFT = "#BE185D"
 CMAP_COLORS = ["#A8A29E", "#94A3B8", "#64748B", "#6366F1", "#C026D3", "#E11D48"]
 
 CURRENCY_FOOTNOTE = (
-    "Arena Text/coding score (legacy files: Elo) × API prices through 2026-08-31. "
+    "Arena Text/coding score (legacy files: Elo) × API prices through 2026-09-21. "
     "Free tiers shown at ≤$0.05; paid headline excludes them. "
-    "Astra is on WebDev; DeepSeek V4.1 Flash is unrated."
+    "Aug 31 GLM-5.3 Flash price was a launch promotion; MiMo v2.6 has no list price."
 )
 
 # Pacing (target ~50–70s with longer shape-shock holds)
@@ -107,15 +107,22 @@ CHAPTERS = [
     ),
     (
         "2026-08-31",
-        "Near-frontier score at ~$0.12/MTok · peak still ~$10",
+        "Near-frontier score at ~$0.12/MTok (launch promo) · peak still ~$10",
         "max_elo_under_price",
-        5.0,
+        4.5,
         0.25,
+    ),
+    (
+        "2026-09-21",
+        "Claude Opus 5.5 · new peak ~1545 at $8 — higher and cheaper",
+        "peak",
+        5.0,
+        None,
     ),
 ]
 
 END_CARD_LINE = (
-    "Same published Arena score threshold (~1267): ~$15 → ~$0.12 · about 126× cheaper"
+    "Same published Arena score threshold (~1267): ~$15 → ~$0.13 at standard list prices · about 118× cheaper"
 )
 
 
@@ -294,6 +301,8 @@ def short_model(name: str, n: int = 28) -> str:
     raw = str(name)
     pretty = {
         "claude-opus-4-6-high": "Claude Opus 4.6 high",
+        "claude-opus-5.5-high": "Claude Opus 5.5 high",
+        "gpt-6-luna-max": "GPT-6 Luna max",
         "claude-opus-4-6-thinking": "Claude Opus 4.6 thinking",
         "claude-opus-4-5-20251101-thinking-32k": "Claude Opus 4.5 thinking",
         "gpt-4-1106-preview": "GPT-4 Turbo (1106)",
@@ -930,7 +939,7 @@ def write_chaptered_md(
         "- Quiet weeks: pointer hidden; peak summary in caption HUD only",
         "- End frames: `date_text` / `caption_text` cleared; centered end-card "
         "panel in header band (≈0.78–0.90) — no overlap with Aug 2026 HUD",
-        "- Optional badge `n/7` during chapter freezes",
+        "- Optional badge `n/N` during chapter freezes",
         "",
         "## Re-run",
         "",
@@ -954,7 +963,7 @@ def main():
     for ch in chapters:
         primary, secondary = extras["chapter_highlights"][ch.index]
         print(
-            f"  chapter {ch.index}/7  {ch.week.date()}  hold={ch.hold_seconds:.1f}s  "
+            f"  chapter {ch.index}/{len(chapters)}  {ch.week.date()}  hold={ch.hold_seconds:.1f}s  "
             f"mode={ch.highlight_mode}  → {short_model(primary['model_name_arena'])} "
             f"score {primary['elo']:.0f} @ ${primary['blended_3_1_usd_per_mtok']:.3g}"
         )

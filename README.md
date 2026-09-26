@@ -22,7 +22,7 @@ Each week we plot matched models in **(blended $/MTok, Arena Text/coding score)*
 
 Peak *ceiling* also rose: ~1267 → ~1545 weekly maximum score (`claude-opus-5.5-high`, week of September 21, 2026, on 573 votes; the previous peak, `claude-opus-4-6-high` at ~1535, cost $10 against Opus 5.5's $8), with running-max envelope ~1553. See `data/frontiers/coding/_summary.json` and `media/coding/`.
 
-> **Watch:** [`media/coding/frontier_evolution_chaptered.mp4`](media/coding/frontier_evolution_chaptered.mp4) — seven chapter freezes from the GPT-4-era stub to a near-frontier score at ~$0.12.
+> **Watch:** [`media/coding/frontier_evolution_chaptered.mp4`](media/coding/frontier_evolution_chaptered.mp4) — eight chapter freezes from the GPT-4-era stub through the ~$0.12 launch-promo tip to Opus 5.5's new peak at $8.
 
 ## The cost of a fixed amount of intelligence
 
@@ -84,15 +84,15 @@ Normalized CSVs live under `data/`. Huge raw JSON/Parquet dumps are **not** incl
 - **Same-score cost.** For each early anchor week’s maximum published score, track the cheapest later blended price among models that meet or exceed that threshold.
 - **Fixed intelligence (head-to-head bar).** For a named past leader, the bar each week is that model’s score *on that week’s board*, not its frozen launch score. Arena ratings drift as the pool changes — a frozen bar leaves `o1-mini` failing its own threshold for 23 weeks — so comparing within one snapshot is the like-for-like test. The frozen-bar result is kept as a cross-check column (o1: ~175× frozen vs ~150× head-to-head).
 - **Free and promotional prices.** $0 rows remain visible in the frontier data and are floored at $0.05 only for log-axis display. The headline same-score calculation requires a positive paid price. Promotions are dated snapshots, not silently carried forward as current rates.
-- **Chaptered movie.** Quiet weeks advance quickly; seven shape-shift weeks hold with callouts (GPT-4 → GPT-4o → o1-mini → Gemini 2.5 Pro → Opus 4.5/4.6 → Aug 2026 cheap tip). See `scripts/viz/make_chaptered_movie.py`.
+- **Chaptered movie.** Quiet weeks advance quickly; eight shape-shift weeks hold with callouts (GPT-4 → GPT-4o → o1-mini → Gemini 2.5 Pro → Opus 4.5/4.6 → Aug 2026 cheap tip → Opus 5.5 peak at $8). See `scripts/viz/make_chaptered_movie.py`.
 
 ## Media
 
 | File | Description |
 |------|-------------|
-| `media/coding/frontier_evolution_chaptered.mp4` | Primary chaptered movie (~55s) |
+| `media/coding/frontier_evolution_chaptered.mp4` | Primary chaptered movie (~60s, 8 chapters) |
 | `media/coding/frontier_evolution_chaptered_last_frame.png` | End card still |
-| `media/coding/frontier_evolution_chaptered_ch7_hold.png` | Chapter 7 hold (cheap tip) |
+| `media/coding/frontier_evolution_chaptered_ch7_hold.png` | Chapter 7 hold (Aug 2026 cheap tip, launch promo) |
 | `media/coding/fixed_intelligence.mp4` | Animated cost of o1-level coding, Jan 2025 → Sep 2026 (~24s) |
 | `media/coding/fixed_intelligence.png` | Same, static, with each record-low model labeled |
 | `media/coding/fixed_intelligence_anchors.png` | Four past leaders side by side (13×–150×) |
