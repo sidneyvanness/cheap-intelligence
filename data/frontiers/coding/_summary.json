@@ -1,17 +1,17 @@
 {
-  "generated": "2026-09-20",
+  "generated": "2026-09-26",
   "category": "coding",
-  "arena_models_total": 420,
-  "matched_models": 198,
-  "match_rate": 0.4714,
+  "arena_models_total": 428,
+  "matched_models": 204,
+  "match_rate": 0.4766,
   "reused_overall_matches": 196,
-  "unmatched_models": 222,
-  "panel_rows": 6898,
-  "weeks_covered": 117,
+  "unmatched_models": 224,
+  "panel_rows": 7061,
+  "weeks_covered": 118,
   "week_start_min": "2024-04-01",
-  "week_start_max": "2026-09-07",
-  "median_models_per_week": 49.0,
-  "mean_models_per_week": 58.96,
+  "week_start_max": "2026-09-21",
+  "median_models_per_week": 50.0,
+  "mean_models_per_week": 59.84,
   "models_per_week_by_year": {
     "2024": {
       "median": 14.5,
@@ -29,13 +29,13 @@
     },
     "2026": {
       "median": 108.0,
-      "mean": 114.85,
+      "mean": 116.23,
       "min": 81,
-      "max": 162,
-      "weeks": 34
+      "max": 163,
+      "weeks": 35
     }
   },
-  "frontier_rows": 799,
+  "frontier_rows": 807,
   "median_frontier_models_per_week": 7.0,
   "match_rate_by_year": {
     "2024": {
@@ -53,11 +53,11 @@
       "panel_unique_models": 82
     },
     "2026": {
-      "arena_models": 412,
-      "matched_models": 194,
-      "match_rate": 0.4709,
-      "panel_rows": 3905,
-      "panel_unique_models": 190
+      "arena_models": 420,
+      "matched_models": 200,
+      "match_rate": 0.4762,
+      "panel_rows": 4068,
+      "panel_unique_models": 196
     }
   },
   "example_frontier_early_week": "2024-04-01",
@@ -81,12 +81,12 @@
       "provider": "Anthropic"
     }
   ],
-  "example_frontier_latest_week": "2026-09-07",
+  "example_frontier_latest_week": "2026-09-21",
   "example_frontier_latest": [
     {
-      "model": "claude-opus-4-6-high",
-      "elo": 1535.27,
-      "blended": 10.0,
+      "model": "claude-opus-5.5-high",
+      "elo": 1545.2,
+      "blended": 8.0,
       "provider": "Anthropic"
     },
     {
@@ -97,25 +97,37 @@
     },
     {
       "model": "gemini-3.8-flash-high",
-      "elo": 1513.97,
+      "elo": 1511.51,
       "blended": 1.5,
       "provider": "Google"
     },
     {
+      "model": "deepseek-v4.1-flash-max",
+      "elo": 1511.26,
+      "blended": 0.5249999999999999,
+      "provider": "DeepSeek"
+    },
+    {
       "model": "glm-5.3-flash",
-      "elo": 1508.27,
+      "elo": 1506.05,
       "blended": 0.2375,
       "provider": "Z.AI"
     },
     {
+      "model": "gpt-6-luna-max",
+      "elo": 1447.94,
+      "blended": 0.2,
+      "provider": "OpenAI"
+    },
+    {
       "model": "qwen3.5-flash",
-      "elo": 1413.12,
+      "elo": 1412.19,
       "blended": 0.175,
       "provider": "Alibaba"
     },
     {
       "model": "glm-4.7-flash",
-      "elo": 1384.89,
+      "elo": 1382.93,
       "blended": 0.0,
       "provider": "Z.AI"
     }
@@ -127,7 +139,7 @@
       "start_price": 15.0,
       "end_price": 0.1275,
       "start_week": "2024-04-01",
-      "end_week": "2026-09-07",
+      "end_week": "2026-09-21",
       "declined": true,
       "pct_change": -99.15,
       "collapse_ratio": 117.65
@@ -138,7 +150,7 @@
       "start_price": 15.0,
       "end_price": 0.1275,
       "start_week": "2024-04-08",
-      "end_week": "2026-09-07",
+      "end_week": "2026-09-21",
       "declined": true,
       "pct_change": -99.15,
       "collapse_ratio": 117.65
@@ -149,7 +161,7 @@
       "start_price": 6.0,
       "end_price": 0.1275,
       "start_week": "2024-07-01",
-      "end_week": "2026-09-07",
+      "end_week": "2026-09-21",
       "declined": true,
       "pct_change": -97.88,
       "collapse_ratio": 47.06
@@ -160,7 +172,7 @@
       "start_price": 1.9250000000000005,
       "end_price": 0.15,
       "start_week": "2024-12-30",
-      "end_week": "2026-09-07",
+      "end_week": "2026-09-21",
       "declined": true,
       "pct_change": -92.21,
       "collapse_ratio": 12.83
@@ -171,7 +183,7 @@
       "start_price": 3.4375,
       "end_price": 0.2375,
       "start_week": "2025-06-30",
-      "end_week": "2026-09-07",
+      "end_week": "2026-09-21",
       "declined": true,
       "pct_change": -93.09,
       "collapse_ratio": 14.47
@@ -180,12 +192,12 @@
       "has_series": true,
       "anchor_max_elo": 1516.763815407052,
       "start_price": 10.0,
-      "end_price": 10.0,
+      "end_price": 8.0,
       "start_week": "2025-12-29",
-      "end_week": "2026-09-07",
-      "declined": false,
-      "pct_change": 0.0,
-      "collapse_ratio": 1.0
+      "end_week": "2026-09-21",
+      "declined": true,
+      "pct_change": -20.0,
+      "collapse_ratio": 1.25
     }
   },
   "anchors": [
@@ -199,106 +211,106 @@
   "top_unmatched": [
     {
       "model_name_arena": "RWKV-4-Raven-14B",
-      "n_snapshots": 119
+      "n_snapshots": 120
     },
     {
-      "model_name_arena": "llama2-70b-steerlm-chat",
-      "n_snapshots": 119
-    },
-    {
-      "model_name_arena": "openchat-3.5-0106",
-      "n_snapshots": 119
-    },
-    {
-      "model_name_arena": "openchat-3.5",
-      "n_snapshots": 119
-    },
-    {
-      "model_name_arena": "olmo-7b-instruct",
-      "n_snapshots": 119
-    },
-    {
-      "model_name_arena": "oasst-pythia-12b",
-      "n_snapshots": 119
-    },
-    {
-      "model_name_arena": "mpt-7b-chat",
-      "n_snapshots": 119
-    },
-    {
-      "model_name_arena": "mpt-30b-chat",
-      "n_snapshots": 119
-    },
-    {
-      "model_name_arena": "mistral-7b-instruct-v0.2",
-      "n_snapshots": 119
-    },
-    {
-      "model_name_arena": "mistral-7b-instruct",
-      "n_snapshots": 119
-    },
-    {
-      "model_name_arena": "alpaca-13b",
-      "n_snapshots": 119
-    },
-    {
-      "model_name_arena": "fastchat-t5-3b",
-      "n_snapshots": 119
-    },
-    {
-      "model_name_arena": "llama-2-70b-chat",
-      "n_snapshots": 119
-    },
-    {
-      "model_name_arena": "llama-2-13b-chat",
-      "n_snapshots": 119
-    },
-    {
-      "model_name_arena": "llama-13b",
-      "n_snapshots": 119
-    },
-    {
-      "model_name_arena": "koala-13b",
-      "n_snapshots": 119
-    },
-    {
-      "model_name_arena": "guanaco-33b",
-      "n_snapshots": 119
-    },
-    {
-      "model_name_arena": "gemma-7b-it",
-      "n_snapshots": 119
-    },
-    {
-      "model_name_arena": "gemma-2b-it",
-      "n_snapshots": 119
-    },
-    {
-      "model_name_arena": "gemini-pro-dev-api",
-      "n_snapshots": 119
-    },
-    {
-      "model_name_arena": "openhermes-2.5-mistral-7b",
-      "n_snapshots": 119
-    },
-    {
-      "model_name_arena": "palm-2",
-      "n_snapshots": 119
+      "model_name_arena": "qwen1.5-32b-chat",
+      "n_snapshots": 120
     },
     {
       "model_name_arena": "qwen-14b-chat",
-      "n_snapshots": 119
+      "n_snapshots": 120
     },
     {
-      "model_name_arena": "qwen1.5-14b-chat",
-      "n_snapshots": 119
+      "model_name_arena": "palm-2",
+      "n_snapshots": 120
     },
     {
-      "model_name_arena": "zephyr-7b-beta",
-      "n_snapshots": 119
+      "model_name_arena": "openhermes-2.5-mistral-7b",
+      "n_snapshots": 120
+    },
+    {
+      "model_name_arena": "openchat-3.5-0106",
+      "n_snapshots": 120
+    },
+    {
+      "model_name_arena": "openchat-3.5",
+      "n_snapshots": 120
+    },
+    {
+      "model_name_arena": "olmo-7b-instruct",
+      "n_snapshots": 120
+    },
+    {
+      "model_name_arena": "oasst-pythia-12b",
+      "n_snapshots": 120
+    },
+    {
+      "model_name_arena": "mpt-7b-chat",
+      "n_snapshots": 120
+    },
+    {
+      "model_name_arena": "mpt-30b-chat",
+      "n_snapshots": 120
+    },
+    {
+      "model_name_arena": "dolly-v2-12b",
+      "n_snapshots": 120
+    },
+    {
+      "model_name_arena": "mistral-7b-instruct-v0.2",
+      "n_snapshots": 120
+    },
+    {
+      "model_name_arena": "mistral-7b-instruct",
+      "n_snapshots": 120
+    },
+    {
+      "model_name_arena": "llama2-70b-steerlm-chat",
+      "n_snapshots": 120
+    },
+    {
+      "model_name_arena": "alpaca-13b",
+      "n_snapshots": 120
+    },
+    {
+      "model_name_arena": "llama-2-7b-chat",
+      "n_snapshots": 120
+    },
+    {
+      "model_name_arena": "fastchat-t5-3b",
+      "n_snapshots": 120
+    },
+    {
+      "model_name_arena": "llama-2-70b-chat",
+      "n_snapshots": 120
+    },
+    {
+      "model_name_arena": "gemini-pro",
+      "n_snapshots": 120
+    },
+    {
+      "model_name_arena": "gemini-pro-dev-api",
+      "n_snapshots": 120
+    },
+    {
+      "model_name_arena": "llama-2-13b-chat",
+      "n_snapshots": 120
+    },
+    {
+      "model_name_arena": "llama-13b",
+      "n_snapshots": 120
+    },
+    {
+      "model_name_arena": "koala-13b",
+      "n_snapshots": 120
+    },
+    {
+      "model_name_arena": "guanaco-33b",
+      "n_snapshots": 120
     }
   ],
-  "zero_price_panel_rows": 11,
-  "astra_note": "GPT-6 Astra Max joins this coding spine from the 2026-09-11 snapshot (week 2026-09-07). DeepSeek V4.1 Flash is rated on WebDev only and has no Text/coding score through 2026-09-13. Do not invent or merge scores.",
+  "zero_price_panel_rows": 12,
+  "astra_note": "GPT-6 Astra Max joins this coding spine from the 2026-09-11 snapshot (week 2026-09-07); DeepSeek V4.1 Flash Max, Claude Opus 5.5, GPT-6 Sol/Luna and Grok 4.7 from 2026-09-25 (week 2026-09-21). MiMo v2.6 has no list price in our sources. Do not invent or merge scores.",
   "note_span": "Coding category on Arena Text begins 2024-04-03; panel weeks are Mondays with both a Text/coding score and blended API price."
 }

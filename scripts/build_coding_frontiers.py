@@ -3,8 +3,7 @@
 
 Reuses name-matching from ../build_frontiers.py (and existing
 arena_price_name_matches.csv where the Arena name already matched).
-Does NOT invent or merge ratings for models without a published Text/coding score
-(e.g. DeepSeek V4.1 Flash as of 2026-09-13).
+Does NOT invent or merge ratings for models without a published Text/coding score.
 """
 from __future__ import annotations
 
@@ -114,13 +113,6 @@ def main():
     ].copy()
     matches_out.to_csv(OUT / "arena_price_name_matches.csv", index=False)
     unmatched_freq.to_csv(OUT / "arena_unmatched_models.csv", index=False)
-
-    # Explicit: do not invent Elo for DeepSeek V4.1 (Astra gained a Text/coding score 2026-09-11)
-    banned_substr = ("deepseek-v4.1", "deepseek-v4-1-flash", "deepseek-flash")
-    for name in arena_models:
-        nl = name.lower()
-        if any(b in nl for b in banned_substr):
-            print("WARNING: unexpected DeepSeek V4.1 coding Elo row:", name)
 
     arena = arena.copy()
     arena["week_start"] = arena["snapshot_date"].map(bf.monday_on_or_before)
@@ -361,9 +353,9 @@ def main():
         "top_unmatched": unmatched_freq.head(25).to_dict(orient="records"),
         "zero_price_panel_rows": int((panel2["blended_3_1_usd_per_mtok"] <= 0).sum()),
         "astra_note": (
-            "GPT-6 Astra Max joins this coding spine from the 2026-09-11 snapshot (week 2026-09-07). "
-            "DeepSeek V4.1 Flash is rated on WebDev only and has no Text/coding score through "
-            "2026-09-13. Do not invent or merge scores."
+            "GPT-6 Astra Max joins this coding spine from the 2026-09-11 snapshot (week 2026-09-07); "
+            "DeepSeek V4.1 Flash Max, Claude Opus 5.5, GPT-6 Sol/Luna and Grok 4.7 from 2026-09-25 "
+            "(week 2026-09-21). MiMo v2.6 has no list price in our sources. Do not invent or merge scores."
         ),
         "note_span": (
             "Coding category on Arena Text begins 2024-04-03; panel weeks are Mondays "

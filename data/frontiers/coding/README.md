@@ -16,9 +16,10 @@ Primary analysis spine for this repo.
 
 ## Headline (from `_summary.json`)
 
-- Weeks: **2024-04-01 → 2026-09-07** (117)
-- Apr 2024 peak ~**1267** @ **$15** → Aug 31, 2026 same published score threshold @ **~$0.12** (~**126×**, promotional snapshot) → Sep 7, 2026 @ **$0.1275** (~**118×**, `gpt-oss-20b`, standard list prices)
-- Latest frontier (week 2026-09-07): `claude-opus-4-6-high` ~1535 @ $10 → `muse-spark-1.3-max` ~1516 @ $2 → `gemini-3.8-flash-high` ~1514 @ $1.50 → `glm-5.3-flash` ~1508 @ $0.2375 (standard rate; the launch promotion ended September 9, before that week's Arena snapshots)
+- Weeks: **2024-04-01 → 2026-09-21** (118; no Arena snapshot was published in the week of 2026-09-14)
+- Apr 2024 peak ~**1267** @ **$15** → Aug 31, 2026 same published score threshold @ **~$0.12** (~**126×**, promotional snapshot) → Sep 21, 2026 @ **$0.1275** (~**118×**, `gpt-oss-20b`, standard list prices)
+- Latest frontier (week 2026-09-21): `claude-opus-5.5-high` ~1545 @ $8 → `muse-spark-1.3-max` ~1516 @ $2 → `gemini-3.8-flash-high` ~1512 @ $1.50 → `deepseek-v4.1-flash-max` ~1511 @ $0.525 → `glm-5.3-flash` ~1506 @ $0.2375 → `gpt-6-luna-max` ~1448 @ $0.20 → `qwen3.5-flash` ~1412 @ $0.175
+- Weekly peak rose from ~1535 (`claude-opus-4-6-high`, $10) to ~1545 (`claude-opus-5.5-high`, $8, 573 votes) — higher and cheaper
 - Fixed intelligence: o1-level coding (Jan 2025, $26.25) → **$0.175** (~**150×** in 20 months); see `fixed_intelligence_summary.json`
 
 ## Rebuild

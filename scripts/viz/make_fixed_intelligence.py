@@ -44,6 +44,7 @@ PRETTY = {
     "deepseek-v4-flash": "DeepSeek V4 Flash",
     "qwen3.5-flash": "Qwen3.5 Flash",
     "gpt-5-nano-high": "GPT-5 nano (high)",
+    "gpt-6-luna-max": "GPT-6 Luna max",
     "o3-2025-04-16": "o3",
     "claude-3-7-sonnet-20250219": "Claude 3.7 Sonnet",
 }

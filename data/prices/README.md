@@ -33,3 +33,5 @@ Raw RoninForge / Model Price Watch JSON dumps are **not** shipped in this public
 
 - Sparse early history; no invented prices
 - Cached / tier2 variations exist in events but are **not** used in the weekly blend
+- The weekly panel has no generator: weeks after 2026-09-07 are carried forward from the last week, with delisted models dropped and launches priced from their first list price when that price was in force at the week's Arena snapshot (see `source_note`)
+- DeepSeek is priced at its peak (standard) rate; DeepSeek describes off-peak as a 50% discount

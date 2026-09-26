@@ -438,6 +438,21 @@ MANUAL_ALIASES: dict[str, tuple[str, str, float]] = {
     "grok-4.6-high": ("grok-4.6", "manual_alias", 0.9),
     "grok-4-6-high": ("grok-4.6", "manual_alias", 0.9),
     "grok-4.6-xhigh": ("grok-4.6", "manual_alias", 0.9),
+    # --- 2026-09-25 snapshot: Opus 5.5 / GPT-6 Sol & Luna / Grok 4.7 / Fable 5 / DeepSeek V4.1 Flash Max ---
+    "claude-opus-5.5": ("claude-opus-5-5", "manual_alias", 1.0),
+    "claude-opus-5.5-high": ("claude-opus-5-5", "manual_alias", 0.9),
+    "claude-opus-5.5-max": ("claude-opus-5-5", "manual_alias", 0.9),
+    "claude-fable-5-high": ("claude-fable-5", "manual_alias", 0.9),
+    "gpt-6-sol": ("gpt-6-sol", "manual_alias", 1.0),
+    "gpt-6-sol-max": ("gpt-6-sol", "manual_alias", 0.9),
+    "gpt-6-sol-high": ("gpt-6-sol", "manual_alias", 0.9),
+    "gpt-6-luna": ("gpt-6-luna", "manual_alias", 1.0),
+    "gpt-6-luna-max": ("gpt-6-luna", "manual_alias", 0.9),
+    "gpt-6-luna-high": ("gpt-6-luna", "manual_alias", 0.9),
+    "grok-4.7": ("grok-4.7", "manual_alias", 1.0),
+    "grok-4.7-high": ("grok-4.7", "manual_alias", 0.9),
+    "grok-4.7-xhigh": ("grok-4.7", "manual_alias", 0.9),
+    "deepseek-v4.1-flash-max": ("deepseek-v4-1-flash", "manual_alias", 0.9),
 }
 
 

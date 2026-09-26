@@ -75,7 +75,7 @@ def main():
                     "NOT overall Text or WebDev — coding category only",
                     f"Panel weeks: {summary['week_start_min']} → {summary['week_start_max']} ({summary['weeks_covered']} weeks)",
                     f"Match rate: {summary['matched_models']}/{summary['arena_models_total']} ({100*summary['match_rate']:.1f}%)",
-                    "GPT-6 Astra Max rated on Text/coding from week 2026-09-07; DeepSeek V4.1 Flash is rated on WebDev only",
+                    "Week 2026-09-21 adds Opus 5.5, DeepSeek V4.1 Flash Max, GPT-6 Sol/Luna, Grok 4.7; MiMo v2.6 is unpriced",
                     "Viz: frontier polylines by week; label peak + cheap anchors; LOCF/dash ≤8wk gaps on price collapse",
                 ]
             }
@@ -103,8 +103,8 @@ Story-ready tables for Arena Text **coding** score × blended API price (paralle
 - Frontier rows: **{summary['frontier_rows']}**
 
 ## Caveats
-- GPT-6 Astra Max has a Text/coding score from the 2026-09-11 snapshot (week 2026-09-07)
-- DeepSeek V4.1 Flash is rated on WebDev only; no Text/coding score is invented
+- Week 2026-09-21 (snapshot 2026-09-25) adds Claude Opus 5.5, DeepSeek V4.1 Flash Max, GPT-6 Sol/Luna and Grok 4.7
+- MiMo v2.6 Pro (#2 on the board) has no list price in our sources, so it is excluded; no prices are invented
 """
     # The shipped README is hand-curated; only scaffold one if it is missing.
     if not (OUT / "README.md").exists():

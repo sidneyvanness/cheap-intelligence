@@ -1,10 +1,10 @@
 # Interpretation — coding frontier story
 
-**What changed ( 2024-04-01 → 2026-09-07, 117 weeks ):**
+**What changed ( 2024-04-01 → 2026-09-21, 118 weeks ):**
 
-1. **Shape / migration.** The score–price Pareto frontier marches **up and left**: a higher peak score and a longer cheap tail. Early weeks are short, expensive stubs (GPT-4-class). Later weeks stretch from sub-$0.10 flash/open models up to ~1535 premium peaks. See `migration.png` for the clearest before→after.
+1. **Shape / migration.** The score–price Pareto frontier marches **up and left**: a higher peak score and a longer cheap tail. Early weeks are short, expensive stubs (GPT-4-class). Later weeks stretch from sub-$0.10 flash/open models up to ~1545 premium peaks. See `migration.png` for the clearest before→after.
 
-2. **Peak capability (ceiling, not wiggles).** Raw weekly maximum score rose from **1267** (`gpt-4-1106-preview`) to **1535** (`claude-opus-4-6-high`). The **running maximum** (capability frontier ceiling) ends at **1553** — about **+286 points**.
+2. **Peak capability (ceiling, not wiggles).** Raw weekly maximum score rose from **1267** (`gpt-4-1106-preview`) to **1545** (`claude-opus-5.5-high`). The **running maximum** (capability frontier ceiling) ends at **1553** — about **+286 points**.
 
    **Why the mid-2025 dip?** Around the Gemini 2.5 Pro plateau, the Arena score wobbles a few points week to week. **Arena ratings are relative** (leaderboard composition drifts); small dips are not true capability loss. The bold envelope line tells the real story: the observed ceiling does not go backwards.
 
@@ -18,4 +18,4 @@
 
 **How to read the charts.** Ignore dominated points — only the frontier curve matters. Color = time. In the MP4, older weekly curves **stay on screen** as a muted trail so you watch the migration accumulate.
 
-**Caveats / omissions.** Arena scores are relative and the estimator/model pool changed over time. Panel ends 2026-09-07. **GPT-6 Astra Max enters the Text/coding panel in week 2026-09-07; DeepSeek V4.1 Flash is rated on WebDev only.** Text/coding and WebDev scores are not interchangeable. Free ($0) prices are explicit and floored at $0.05 only on log axes; the August 31 GLM-5.3 Flash rate was promotional.
+**Caveats / omissions.** Arena scores are relative and the estimator/model pool changed over time. Panel ends 2026-09-21. **Opus 5.5, DeepSeek V4.1 Flash Max, GPT-6 Sol/Luna and Grok 4.7 enter the panel in week 2026-09-21; MiMo v2.6 Pro (#2 on the board) has no list price and is excluded.** Text/coding and WebDev scores are not interchangeable. Free ($0) prices are explicit and floored at $0.05 only on log axes; the August 31 GLM-5.3 Flash rate was promotional.
