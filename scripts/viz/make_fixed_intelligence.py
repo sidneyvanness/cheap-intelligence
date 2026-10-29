@@ -156,7 +156,9 @@ def make_anchors(df, summary):
     fig.subplots_adjust(left=0.07, right=0.97, top=0.77, bottom=0.13, hspace=0.66, wspace=0.08)
     sv.add_title_block(
         fig,
-        "Same intelligence, four starting points: 13× to 150× cheaper",
+        "Same intelligence, four starting points: "
+        f"{min(a['fold_cheaper'] for a in summary['anchors']):.0f}× to "
+        f"{max(a['fold_cheaper'] for a in summary['anchors']):.0f}× cheaper",
         "Each panel takes one past leader of the Arena Text/coding board and tracks the cheapest model rated at least\n"
         "as high, week by week  ·  blended USD per 1M tokens (log)",
     )
