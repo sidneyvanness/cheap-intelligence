@@ -10850,3 +10850,1621 @@ week_start,provider,model_id,model_name_canonical,input_usd_per_mtok,output_usd_
 2026-09-21,xAI,xai-grok-4-5,Grok 4.5,2.0,6.0,3.0,model_price_watch
 2026-09-21,xAI,xai-grok-4-6,Grok 4.6,2.0,6.0,3.0,model_price_watch
 2026-09-21,xAI,xai-grok-build-0-1,Grok Build 0.1,1.0,2.0,1.25,model_price_watch
+2026-09-28,01.AI,01ai-yi-large,Yi Large,3.0,9.0,4.5,model_price_watch
+2026-09-28,AI21,jamba-large,Jamba Large,2.0,8.0,3.5,roninforge_ai_price_index
+2026-09-28,AI21,jamba-mini,Jamba Mini,0.2,0.4,0.25,roninforge_ai_price_index
+2026-09-28,Alibaba,alibaba-qwen3-32b,Qwen3-32B,0.16,0.64,0.28,model_price_watch
+2026-09-28,Alibaba,alibaba-qwen3-5-122b-a10b,Qwen3.5-122B-A10B,0.4,3.2,1.1,model_price_watch
+2026-09-28,Alibaba,alibaba-qwen3-5-27b,Qwen3.5-27B,0.3,2.4,0.825,model_price_watch
+2026-09-28,Alibaba,alibaba-qwen3-5-35b-a3b,Qwen3.5-35B-A3B,0.25,2.0,0.6875,model_price_watch
+2026-09-28,Alibaba,alibaba-qwen3-5-397b-a17b,Qwen3.5-397B-A17B,0.6,3.6,1.35,model_price_watch
+2026-09-28,Alibaba,alibaba-qwen3-5-flash,Qwen3.5-Flash,0.1,0.4,0.175,model_price_watch
+2026-09-28,Alibaba,alibaba-qwen3-5-plus,Qwen3.5-Plus,0.4,2.4,0.9,model_price_watch
+2026-09-28,Alibaba,alibaba-qwen3-6-27b,Qwen3.6-27B,0.6,3.6,1.35,model_price_watch
+2026-09-28,Alibaba,alibaba-qwen3-6-flash,Qwen3.6-Flash,0.25,1.5,0.5625,model_price_watch
+2026-09-28,Alibaba,alibaba-qwen3-6-plus,Qwen3.6-Plus,0.5,3.0,1.125,model_price_watch
+2026-09-28,Alibaba,alibaba-qwen3-7-flash,Qwen3.7-Flash,0.03,0.13,0.055,model_price_watch
+2026-09-28,Alibaba,alibaba-qwen3-7-max,Qwen3.7-Max,2.5,7.5,3.75,model_price_watch
+2026-09-28,Alibaba,alibaba-qwen3-7-plus,Qwen3.7-Plus,0.4,1.6,0.7000000000000001,model_price_watch
+2026-09-28,Alibaba,alibaba-qwen3-8-2-4t-a95b,Qwen3.8-2.4T-A95B,2.0,6.0,3.0,model_price_watch
+2026-09-28,Alibaba,alibaba-qwen3-8-27b,Qwen3.8-27B,0.5,3.0,1.125,model_price_watch
+2026-09-28,Alibaba,alibaba-qwen3-8-flash,Qwen3.8-Flash,0.15,0.47,0.2299999999999999,model_price_watch
+2026-09-28,Alibaba,alibaba-qwen3-8-max,Qwen3.8-Max,2.0,6.0,3.0,model_price_watch
+2026-09-28,Alibaba,alibaba-qwq-plus,QwQ-Plus,0.8,2.4,1.2000000000000002,model_price_watch
+2026-09-28,Alibaba,qwen-flash,Qwen-Flash,0.05,0.4,0.1375,roninforge_ai_price_index
+2026-09-28,Alibaba,qwen-max,Qwen Max,1.6,6.4,2.8000000000000003,roninforge_ai_price_index
+2026-09-28,Alibaba,qwen-plus,Qwen-Plus,0.4,1.2,0.6000000000000001,roninforge_ai_price_index
+2026-09-28,Alibaba,qwen-turbo,Qwen-Turbo,0.05,0.2,0.0875,roninforge_ai_price_index
+2026-09-28,Alibaba,qwen3-coder-flash,Qwen3 Coder Flash,0.3,1.5,0.6,roninforge_ai_price_index
+2026-09-28,Alibaba,qwen3-coder-next,Qwen3-Coder-Next,0.3,1.5,0.6,roninforge_ai_price_index
+2026-09-28,Alibaba,qwen3-coder-plus,Qwen3 Coder Plus,1.0,5.0,2.0,roninforge_ai_price_index
+2026-09-28,Alibaba,qwen3-max,Qwen3-Max,1.2,6.0,2.4,roninforge_ai_price_index
+2026-09-28,Alibaba,qwen3.5-flash,Qwen3.5 Flash,0.1,0.4,0.175,roninforge_ai_price_index
+2026-09-28,Alibaba,qwen3.5-plus,Qwen3.5 Plus,0.4,2.4,0.9,roninforge_ai_price_index
+2026-09-28,Alibaba,qwen3.6-flash,Qwen3.6 Flash,0.25,1.5,0.5625,roninforge_ai_price_index
+2026-09-28,Alibaba,qwen3.6-plus,Qwen3.6 Plus,0.5,3.0,1.125,roninforge_ai_price_index
+2026-09-28,Alibaba,qwen3.7-flash,Qwen3.7 Flash,0.03,0.13,0.055,roninforge_ai_price_index
+2026-09-28,Alibaba,qwen3.7-max,Qwen3.7 Max,2.5,7.5,3.75,roninforge_ai_price_index
+2026-09-28,Alibaba,qwen3.7-plus,Qwen3.7 Plus,0.4,1.6,0.7000000000000001,roninforge_ai_price_index
+2026-09-28,Alibaba,qwen3.8-flash,Qwen3.8 Flash,0.15,0.47,0.2299999999999999,roninforge_ai_price_index
+2026-09-28,Alibaba,qwen3.8-max,Qwen3.8 Max,2.0,6.0,3.0,roninforge_ai_price_index
+2026-09-28,Amazon,nova-2-lite,Nova 2 Lite,0.3,2.5,0.85,roninforge_ai_price_index
+2026-09-28,Amazon,nova-2-pro,Nova 2 Pro,1.25,10.0,3.4375,roninforge_ai_price_index
+2026-09-28,Amazon,nova-lite,Nova Lite,0.06,0.24,0.105,roninforge_ai_price_index
+2026-09-28,Amazon,nova-micro,Nova Micro,0.035,0.14,0.06125,roninforge_ai_price_index
+2026-09-28,Amazon,nova-premier,Nova Premier,2.5,12.5,5.0,roninforge_ai_price_index
+2026-09-28,Amazon,nova-pro,Nova Pro,0.8,3.2,1.4,roninforge_ai_price_index
+2026-09-28,Anthropic,anthropic-claude-haiku-3-5,Claude Haiku 3.5,0.8,4.0,1.6,model_price_watch
+2026-09-28,Anthropic,anthropic-claude-haiku-4-5,Claude Haiku 4.5,1.0,5.0,2.0,model_price_watch
+2026-09-28,Anthropic,anthropic-claude-opus-4,Claude Opus 4,15.0,75.0,30.0,model_price_watch
+2026-09-28,Anthropic,anthropic-claude-opus-4-1,Claude Opus 4.1,15.0,75.0,30.0,model_price_watch
+2026-09-28,Anthropic,anthropic-claude-opus-4-5,Claude Opus 4.5,5.0,25.0,10.0,model_price_watch
+2026-09-28,Anthropic,anthropic-claude-sonnet-4,Claude Sonnet 4,3.0,15.0,6.0,model_price_watch
+2026-09-28,Anthropic,anthropic-claude-sonnet-4-5,Claude Sonnet 4.5,3.0,15.0,6.0,model_price_watch
+2026-09-28,Anthropic,claude-fable-5,Claude Fable 5,10.0,50.0,20.0,roninforge_ai_price_index
+2026-09-28,Anthropic,claude-fable-5-1,Claude Fable 5.1,10.0,50.0,20.0,roninforge_ai_price_index
+2026-09-28,Anthropic,claude-haiku-4-5-20251001,Claude Haiku 4 5 20251001,1.0,5.0,2.0,roninforge_ai_price_index
+2026-09-28,Anthropic,claude-mythos-5,Claude Mythos 5,10.0,50.0,20.0,roninforge_ai_price_index
+2026-09-28,Anthropic,claude-mythos-5-1,Claude Mythos 5.1,10.0,50.0,20.0,roninforge_ai_price_index
+2026-09-28,Anthropic,claude-opus-4-1-20250805,Claude Opus 4 1 20250805,15.0,75.0,30.0,roninforge_ai_price_index
+2026-09-28,Anthropic,claude-opus-4-20250514,Claude Opus 4 20250514,15.0,75.0,30.0,roninforge_ai_price_index
+2026-09-28,Anthropic,claude-opus-4-5-20251101,Claude Opus 4 5 20251101,5.0,25.0,10.0,roninforge_ai_price_index
+2026-09-28,Anthropic,claude-opus-4-6,Claude Opus 4.6,5.0,25.0,10.0,roninforge_ai_price_index
+2026-09-28,Anthropic,claude-opus-4-7,Claude Opus 4.7,5.0,25.0,10.0,roninforge_ai_price_index
+2026-09-28,Anthropic,claude-opus-4-8,Claude Opus 4.8,5.0,25.0,10.0,roninforge_ai_price_index
+2026-09-28,Anthropic,claude-opus-5,Claude Opus 5,5.0,25.0,10.0,roninforge_ai_price_index
+2026-09-28,Anthropic,claude-opus-5-5,Claude Opus 5.5,4.0,20.0,8.0,"roninforge_ai_price_index; launched 2026-09-22, in force at the week's Arena snapshot (2026-09-25)"
+2026-09-28,Anthropic,claude-sonnet-4-20250514,Claude Sonnet 4 20250514,3.0,15.0,6.0,roninforge_ai_price_index
+2026-09-28,Anthropic,claude-sonnet-4-5-20250929,Claude Sonnet 4 5 20250929,3.0,15.0,6.0,roninforge_ai_price_index
+2026-09-28,Anthropic,claude-sonnet-4-6,Claude Sonnet 4.6,3.0,15.0,6.0,roninforge_ai_price_index
+2026-09-28,Anthropic,claude-sonnet-5,Claude Sonnet 5,2.0,10.0,4.0,roninforge_ai_price_index
+2026-09-28,Anthropic,claude-sonnet-5-5,Claude Sonnet 5.5,2.0,10.0,4.0,roninforge_ai_price_index
+2026-09-28,Baichuan,baichuan-m2-32b,Baichuan M2-32B,0.07,0.07,0.07,model_price_watch
+2026-09-28,Cohere,cohere-command-a,Command A,2.5,10.0,4.375,model_price_watch
+2026-09-28,Cohere,cohere-command-r-03-2024,Command R 03-2024,0.5,1.5,0.75,model_price_watch
+2026-09-28,Cohere,cohere-command-r-08-2024,Command R 08-2024,0.15,0.6,0.2624999999999999,model_price_watch
+2026-09-28,Cohere,cohere-command-r-plus-08-2024,Command R+ 08-2024,2.5,10.0,4.375,model_price_watch
+2026-09-28,Cohere,cohere-embed-4,Embed 4,0.12,,,model_price_watch
+2026-09-28,Cohere,cohere-rerank-3-5,Rerank 3.5,0.02,,,model_price_watch
+2026-09-28,Cohere,command-r,Command R,0.15,0.6,0.2624999999999999,roninforge_ai_price_index
+2026-09-28,Cohere,command-r7b,Command R7b,0.0375,0.15,0.0656249999999999,roninforge_ai_price_index
+2026-09-28,DeepInfra,deepinfra-deepseek-v4-flash,DeepSeek V4 Flash (DeepInfra),0.06,0.18,0.09,"model_price_watch; effective 2026-09-30, in force at the week's Arena snapshot (2026-10-02); price cut from $0.09 input"
+2026-09-28,DeepInfra,deepinfra-deepseek-v4-pro,DeepSeek V4 Pro,1.3,2.6,1.625,model_price_watch
+2026-09-28,DeepInfra,deepinfra-llama-4-maverick,Llama 4 Maverick,0.2,0.8,0.35,model_price_watch
+2026-09-28,DeepInfra,deepinfra-llama-4-scout,Llama 4 Scout,0.1,0.3,0.15,model_price_watch
+2026-09-28,DeepInfra,deepinfra-nvidia-nemotron-3-5-lightning,NVIDIA Nemotron 3.5 Lightning,0.08,0.2,0.11,model_price_watch
+2026-09-28,DeepInfra,deepinfra-nvidia-nemotron-70b-instruct,Nemotron 70B Instruct,1.2,1.2,1.2,model_price_watch
+2026-09-28,DeepInfra,deepinfra-qwen3-32b,Qwen3-32B,0.08,0.28,0.13,model_price_watch
+2026-09-28,DeepSeek,deepseek-v4-1-flash,DeepSeek V4.1 Flash,0.3,1.2,0.5249999999999999,"official_docs_deepseek; peak (standard) rate, off-peak is a 50% discount"
+2026-09-28,DeepSeek,deepseek-v4-pro,DeepSeek V4 Pro,0.66,1.98,0.99,roninforge_ai_price_index
+2026-09-28,Fireworks,fireworks-deepseek-v4-flash,DeepSeek V4 Flash,0.14,0.28,0.175,model_price_watch
+2026-09-28,Fireworks,fireworks-deepseek-v4-pro,DeepSeek V4 Pro,1.32,3.96,1.98,model_price_watch
+2026-09-28,Fireworks,fireworks-glm-5-1,GLM-5.1,1.4,4.4,2.15,model_price_watch
+2026-09-28,Fireworks,fireworks-glm-5-2,GLM-5.2,1.4,4.4,2.15,model_price_watch
+2026-09-28,Fireworks,fireworks-glm-5-3,GLM-5.3,1.4,4.4,2.15,model_price_watch
+2026-09-28,Fireworks,fireworks-gpt-oss-120b,GPT-OSS 120B,0.15,0.6,0.2624999999999999,model_price_watch
+2026-09-28,Fireworks,fireworks-gpt-oss-20b,GPT-OSS 20B,0.07,0.3,0.1275,model_price_watch
+2026-09-28,Fireworks,fireworks-kimi-k2-5,Kimi K2.5,0.6,3.0,1.2,model_price_watch
+2026-09-28,Fireworks,fireworks-kimi-k2-6,Kimi K2.6,0.95,4.0,1.7125,model_price_watch
+2026-09-28,Fireworks,fireworks-kimi-k2-7-code,Kimi K2.7 Code,0.95,4.0,1.7125,model_price_watch
+2026-09-28,Fireworks,fireworks-minimax-2-5,MiniMax-M2.5,0.3,1.2,0.5249999999999999,model_price_watch
+2026-09-28,Fireworks,fireworks-minimax-2-7,MiniMax-M2.7,0.3,1.2,0.5249999999999999,model_price_watch
+2026-09-28,Fireworks,fireworks-minimax-m3,MiniMax-M3,0.3,1.2,0.5249999999999999,model_price_watch
+2026-09-28,Fireworks,fireworks-muse-glimmer-30b,Muse Glimmer 30B,0.35,1.5,0.6375,model_price_watch
+2026-09-28,Fireworks,fireworks-nemotron-3-ultra,NVIDIA Nemotron 3 Ultra,0.6,2.4,1.0499999999999998,model_price_watch
+2026-09-28,Fireworks,fireworks-qwen3-6-plus,Qwen3.6-Plus,0.5,3.0,1.125,model_price_watch
+2026-09-28,Fireworks,fireworks-qwen3-7-plus,Qwen3.7-Plus,0.4,1.6,0.7000000000000001,model_price_watch
+2026-09-28,Google,gemini-2.5-flash,Gemini 2.5 Flash,0.3,2.5,0.85,roninforge_ai_price_index
+2026-09-28,Google,gemini-2.5-flash-lite,Gemini 2.5 Flash-Lite,0.1,0.4,0.175,roninforge_ai_price_index
+2026-09-28,Google,gemini-2.5-pro,Gemini 2.5 Pro,1.25,10.0,3.4375,roninforge_ai_price_index
+2026-09-28,Google,gemini-3-flash-preview,Gemini 3 Flash Preview,0.5,3.0,1.125,roninforge_ai_price_index
+2026-09-28,Google,gemini-3.1-flash-lite,Gemini 3.1 Flash-Lite,0.25,1.5,0.5625,roninforge_ai_price_index
+2026-09-28,Google,gemini-3.1-pro-preview,Gemini 3.1 Pro Preview,2.0,12.0,4.5,roninforge_ai_price_index
+2026-09-28,Google,gemini-3.5-flash,Gemini 3.5 Flash,1.5,9.0,3.375,roninforge_ai_price_index
+2026-09-28,Google,gemini-3.5-flash-lite,Gemini 3.5 Flash-Lite,0.3,2.5,0.85,roninforge_ai_price_index
+2026-09-28,Google,gemini-3.6-flash,Gemini 3.6 Flash,0.75,3.75,1.5,roninforge_ai_price_index
+2026-09-28,Google,gemini-3.7-flash,Gemini 3.7 Flash,0.75,3.75,1.5,roninforge_ai_price_index
+2026-09-28,Google,gemini-3.8-flash,Gemini 3.8 Flash,0.75,3.75,1.5,roninforge_ai_price_index
+2026-09-28,Google,google-gemini-2-5-flash,Gemini 2.5 Flash,0.3,2.5,0.85,model_price_watch
+2026-09-28,Google,google-gemini-2-5-flash-lite,Gemini 2.5 Flash-Lite,0.1,0.4,0.175,model_price_watch
+2026-09-28,Google,google-gemini-2-5-pro,Gemini 2.5 Pro,1.25,10.0,3.4375,model_price_watch
+2026-09-28,Google,google-gemini-3-1-flash-image,Gemini 3.1 Flash Image,0.5,60.0,15.375,model_price_watch
+2026-09-28,Google,google-gemini-3-1-flash-lite,Gemini 3.1 Flash-Lite,0.25,1.5,0.5625,model_price_watch
+2026-09-28,Google,google-gemini-3-1-flash-lite-image,Gemini 3.1 Flash Lite Image,0.25,30.0,7.6875,model_price_watch
+2026-09-28,Google,google-gemini-3-1-pro,Gemini 3.1 Pro,2.0,12.0,4.5,model_price_watch
+2026-09-28,Google,google-gemini-3-5-flash,Gemini 3.5 Flash,1.5,9.0,3.375,model_price_watch
+2026-09-28,Google,google-gemini-3-5-flash-lite,Gemini 3.5 Flash-Lite,0.3,2.5,0.85,model_price_watch
+2026-09-28,Google,google-gemini-3-6-flash,Gemini 3.6 Flash,0.75,3.75,1.5,model_price_watch
+2026-09-28,Google,google-gemini-3-7-flash,Gemini 3.7 Flash,0.75,3.75,1.5,model_price_watch
+2026-09-28,Google,google-gemini-3-8-flash,Gemini 3.8 Flash,0.75,3.75,1.5,model_price_watch
+2026-09-28,Google,google-gemini-3-pro-image,Gemini 3 Pro Image,2.0,120.0,31.5,model_price_watch
+2026-09-28,Google,google-text-embedding-004,text-embedding-004,0.025,,,model_price_watch
+2026-09-28,Groq,groq-gpt-oss-120b,GPT-OSS 120B,0.15,0.6,0.2624999999999999,model_price_watch
+2026-09-28,Groq,groq-gpt-oss-20b,GPT-OSS 20B,0.075,0.3,0.1312499999999999,model_price_watch
+2026-09-28,Groq,groq-llama-3-1-8b-instant,Llama 3.1 8B Instant,0.05,0.08,0.0575,model_price_watch
+2026-09-28,Groq,groq-llama-3-3-70b-versatile,Llama 3.3 70B Versatile,0.59,0.79,0.64,model_price_watch
+2026-09-28,Groq,groq-llama-4-scout,Llama 4 Scout,0.11,0.34,0.1675,model_price_watch
+2026-09-28,Groq,groq-qwen-3-6-27b,Qwen3.6-27B,0.6,3.0,1.2,model_price_watch
+2026-09-28,Groq,groq-qwen3-32b,Qwen3-32B,0.29,0.59,0.365,model_price_watch
+2026-09-28,IBM,ibm-granite-4-0-h-micro,Granite 4.0 H Micro,0.017,0.112,0.04075,model_price_watch
+2026-09-28,IBM,ibm-granite-4-h-small,Granite 4 H Small,0.0636,0.265,0.11395,model_price_watch
+2026-09-28,IBM,ibm-granite-embedding-278m,Granite Embedding 278M Multilingual,0.106,,,model_price_watch
+2026-09-28,Inception,inception-mercury-2,Mercury 2,0.25,0.75,0.375,model_price_watch
+2026-09-28,Kwaipilot,kwaipilot-kat-coder-air-v2-5,KAT-Coder-Air V2.5,0.148,0.593,0.25925,model_price_watch
+2026-09-28,Kwaipilot,kwaipilot-kat-coder-pro-v2-5,KAT-Coder-Pro V2.5,0.741,2.964,1.2967499999999998,model_price_watch
+2026-09-28,Meituan,meituan-longcat-2,LongCat-2.0,0.75,2.95,1.3,model_price_watch
+2026-09-28,Meta,llama-3.1-405b,Llama 3.1 405b,3.5,3.5,3.5,roninforge_ai_price_index
+2026-09-28,Meta,llama-3.1-8b,Llama 3.1 8b,0.18,0.18,0.18,roninforge_ai_price_index
+2026-09-28,Meta,llama-3.3-70b,Llama 3.3 70b,1.04,1.04,1.04,roninforge_ai_price_index
+2026-09-28,Meta,llama-4-maverick,Llama 4 Maverick,0.27,0.85,0.415,roninforge_ai_price_index
+2026-09-28,Meta,llama-4-scout,Llama 4 Scout,0.18,0.59,0.2825,roninforge_ai_price_index
+2026-09-28,Meta,meta-llama-3-1-8b,Llama 3.1 8B,0.05,0.08,0.0575,model_price_watch
+2026-09-28,Meta,meta-llama-3-3-70b,Llama 3.3 70B,0.59,0.79,0.64,model_price_watch
+2026-09-28,Meta,meta-muse-spark-1-1,Muse Spark 1.1,1.25,4.25,2.0,model_price_watch
+2026-09-28,Meta,meta-muse-spark-1-2,Muse Spark 1.2,1.25,4.25,2.0,model_price_watch
+2026-09-28,Meta,meta-muse-spark-1-3,Muse Spark 1.3,1.25,4.25,2.0,model_price_watch
+2026-09-28,MiniMax,minimax-m2,MiniMax-M2,0.3,1.2,0.5249999999999999,model_price_watch
+2026-09-28,MiniMax,minimax-m2-1,MiniMax-M2.1,0.3,1.2,0.5249999999999999,model_price_watch
+2026-09-28,MiniMax,minimax-m2-5,MiniMax-M2.5,0.3,1.2,0.5249999999999999,model_price_watch
+2026-09-28,MiniMax,minimax-m2-7,MiniMax-M2.7,0.3,1.2,0.5249999999999999,model_price_watch
+2026-09-28,MiniMax,minimax-m3,MiniMax-M3,0.3,1.2,0.5249999999999999,model_price_watch
+2026-09-28,Mistral,codestral-25.08,Codestral 25.08,0.3,0.9,0.4499999999999999,roninforge_ai_price_index
+2026-09-28,Mistral,devstral-2,Devstral 2 2512,0.4,2.0,0.8,roninforge_ai_price_index
+2026-09-28,Mistral,devstral-small-2,Devstral Small 2,0.1,0.3,0.15,roninforge_ai_price_index
+2026-09-28,Mistral,magistral-medium,Magistral Medium,2.0,5.0,2.75,roninforge_ai_price_index
+2026-09-28,Mistral,magistral-small,Magistral Small,0.5,1.5,0.75,roninforge_ai_price_index
+2026-09-28,Mistral,ministral-3-14b,Ministral 3 14b,0.2,0.2,0.2,roninforge_ai_price_index
+2026-09-28,Mistral,ministral-3-3b,Ministral 3 3b,0.1,0.1,0.1,roninforge_ai_price_index
+2026-09-28,Mistral,ministral-3-8b,Ministral 3 8b,0.15,0.15,0.15,roninforge_ai_price_index
+2026-09-28,Mistral,mistral-codestral,Codestral,0.3,0.9,0.4499999999999999,model_price_watch
+2026-09-28,Mistral,mistral-codestral-2508,Codestral 2508,0.3,0.9,0.4499999999999999,model_price_watch
+2026-09-28,Mistral,mistral-large-3,Mistral Large 3,0.5,1.5,0.75,roninforge_ai_price_index
+2026-09-28,Mistral,mistral-medium-3,Mistral Medium 3,0.4,2.0,0.8,model_price_watch
+2026-09-28,Mistral,mistral-medium-3-5,Mistral Medium 3.5,1.5,7.5,3.0,model_price_watch
+2026-09-28,Mistral,mistral-medium-3.5,Mistral Medium 3.5,1.5,7.5,3.0,roninforge_ai_price_index
+2026-09-28,Mistral,mistral-ministral-3b,Ministral 3 3B,0.1,0.1,0.1,model_price_watch
+2026-09-28,Mistral,mistral-mixtral-8x22b,Mixtral 8x22B Instruct,2.0,6.0,3.0,model_price_watch
+2026-09-28,Mistral,mistral-mixtral-8x7b,Mixtral 8x7B Instruct,0.7,0.7,0.7,model_price_watch
+2026-09-28,Mistral,mistral-pixtral-12b,Pixtral 12B,0.1,0.1,0.1,model_price_watch
+2026-09-28,Mistral,mistral-pixtral-large,Pixtral Large 2411,2.0,6.0,3.0,model_price_watch
+2026-09-28,Mistral,mistral-small-3-2,Mistral Small 3.2 24B,0.1,0.3,0.15,model_price_watch
+2026-09-28,Mistral,mistral-small-4,Mistral Small 4,0.15,0.6,0.2624999999999999,roninforge_ai_price_index
+2026-09-28,Mistral,mistral-voxtral-small,Voxtral Small 24B,0.1,0.4,0.175,model_price_watch
+2026-09-28,Moonshot,moonshot-kimi-k2-5,Kimi K2.5,0.6,3.0,1.2,model_price_watch
+2026-09-28,Moonshot,moonshot-kimi-k2-6,Kimi K2.6,0.95,4.0,1.7125,model_price_watch
+2026-09-28,Moonshot,moonshot-kimi-k2-7-code,Kimi K2.7 Code,0.95,4.0,1.7125,model_price_watch
+2026-09-28,Moonshot,moonshot-kimi-k2-7-code-highspeed,Kimi K2.7 Code HighSpeed,1.9,8.0,3.425,model_price_watch
+2026-09-28,Moonshot,moonshot-kimi-k3,Kimi K3,3.0,15.0,6.0,model_price_watch
+2026-09-28,OpenAI,gpt-4.1,GPT-4.1,2.0,8.0,3.5,roninforge_ai_price_index
+2026-09-28,OpenAI,gpt-4o,GPT-4o,2.5,10.0,4.375,roninforge_ai_price_index
+2026-09-28,OpenAI,gpt-4o-mini,GPT-4o mini,0.15,0.6,0.2624999999999999,roninforge_ai_price_index
+2026-09-28,OpenAI,gpt-5,GPT-5,1.25,10.0,3.4375,roninforge_ai_price_index
+2026-09-28,OpenAI,gpt-5.1,GPT-5.1,1.25,10.0,3.4375,roninforge_ai_price_index
+2026-09-28,OpenAI,gpt-5.2,GPT-5.2,1.75,14.0,4.8125,roninforge_ai_price_index
+2026-09-28,OpenAI,gpt-5.2-pro,GPT-5.2 Pro,21.0,168.0,57.75,roninforge_ai_price_index
+2026-09-28,OpenAI,gpt-5.3-codex,GPT-5.3 Codex,1.75,14.0,4.8125,roninforge_ai_price_index
+2026-09-28,OpenAI,gpt-5.4,GPT-5.4,2.5,15.0,5.625,roninforge_ai_price_index
+2026-09-28,OpenAI,gpt-5.4-mini,GPT-5.4 mini,0.75,4.5,1.6875,roninforge_ai_price_index
+2026-09-28,OpenAI,gpt-5.4-nano,GPT-5.4 nano,0.2,1.25,0.4625,roninforge_ai_price_index
+2026-09-28,OpenAI,gpt-5.4-pro,GPT-5.4 Pro,30.0,180.0,67.5,roninforge_ai_price_index
+2026-09-28,OpenAI,gpt-5.5,GPT-5.5,5.0,30.0,11.25,roninforge_ai_price_index
+2026-09-28,OpenAI,gpt-5.5-pro,GPT-5.5 Pro,30.0,180.0,67.5,roninforge_ai_price_index
+2026-09-28,OpenAI,gpt-5.6-luna,GPT-5.6 Luna,0.2,1.2,0.45,roninforge_ai_price_index
+2026-09-28,OpenAI,gpt-5.6-sol,GPT-5.6 Sol,4.0,20.0,8.0,roninforge_ai_price_index
+2026-09-28,OpenAI,gpt-5.6-terra,GPT-5.6 Terra,2.0,12.0,4.5,roninforge_ai_price_index
+2026-09-28,OpenAI,gpt-6-astra,GPT-6 Astra,10.0,50.0,20.0,roninforge_ai_price_index
+2026-09-28,OpenAI,gpt-6-luna,GPT-6 Luna,0.1,0.5,0.2,"roninforge_ai_price_index; launched 2026-09-23, in force at the week's Arena snapshot (2026-09-25)"
+2026-09-28,OpenAI,gpt-6-sol,GPT-6 Sol,2.0,10.0,4.0,"roninforge_ai_price_index; launched 2026-09-23, in force at the week's Arena snapshot (2026-09-25)"
+2026-09-28,OpenAI,gpt-6.1-sol,GPT-6.1 Sol,2.0,10.0,4.0,"roninforge_ai_price_index; effective 2026-09-29, in force at the week's Arena snapshot (2026-10-02)"
+2026-09-28,OpenAI,o1,o1,15.0,60.0,26.25,roninforge_ai_price_index
+2026-09-28,OpenAI,o1-mini,O1 Mini,1.1,4.4,1.9250000000000005,roninforge_ai_price_index
+2026-09-28,OpenAI,o1-pro,o1-pro,150.0,600.0,262.5,roninforge_ai_price_index
+2026-09-28,OpenAI,o3,o3,2.0,8.0,3.5,roninforge_ai_price_index
+2026-09-28,OpenAI,o3-deep-research,O3 Deep Research,10.0,40.0,17.5,roninforge_ai_price_index
+2026-09-28,OpenAI,o3-mini,o3-mini,1.1,4.4,1.9250000000000005,roninforge_ai_price_index
+2026-09-28,OpenAI,o3-pro,o3-pro,20.0,80.0,35.0,roninforge_ai_price_index
+2026-09-28,OpenAI,o4-mini,o4-mini,1.1,4.4,1.9250000000000005,roninforge_ai_price_index
+2026-09-28,OpenAI,o4-mini-deep-research,O4 Mini Deep Research,2.0,8.0,3.5,roninforge_ai_price_index
+2026-09-28,OpenAI,openai-gpt-3-5-turbo,GPT-3.5 Turbo,0.5,1.5,0.75,model_price_watch
+2026-09-28,OpenAI,openai-gpt-4-0613,GPT-4,30.0,60.0,37.5,model_price_watch
+2026-09-28,OpenAI,openai-gpt-4-1,GPT-4.1,2.0,8.0,3.5,model_price_watch
+2026-09-28,OpenAI,openai-gpt-4-1-mini,GPT-4.1 mini,0.4,1.6,0.7000000000000001,model_price_watch
+2026-09-28,OpenAI,openai-gpt-4-1-nano,GPT-4.1 nano,0.1,0.4,0.175,model_price_watch
+2026-09-28,OpenAI,openai-gpt-4-turbo-2024-04-09,GPT-4 Turbo,10.0,30.0,15.0,model_price_watch
+2026-09-28,OpenAI,openai-gpt-5-1,GPT-5.1,1.25,10.0,3.4375,model_price_watch
+2026-09-28,OpenAI,openai-gpt-5-2,GPT-5.2,1.75,14.0,4.8125,model_price_watch
+2026-09-28,OpenAI,openai-gpt-5-2-chat,GPT-5.2 Chat,1.75,14.0,4.8125,model_price_watch
+2026-09-28,OpenAI,openai-gpt-5-2-codex,GPT-5.2 Codex,1.75,14.0,4.8125,model_price_watch
+2026-09-28,OpenAI,openai-gpt-5-2-pro,GPT-5.2 Pro,21.0,168.0,57.75,model_price_watch
+2026-09-28,OpenAI,openai-gpt-5-3-chat,GPT-5.3 Chat,1.75,14.0,4.8125,model_price_watch
+2026-09-28,OpenAI,openai-gpt-5-3-codex,GPT-5.3 Codex,1.75,14.0,4.8125,model_price_watch
+2026-09-28,OpenAI,openai-gpt-5-4,GPT-5.4,2.5,15.0,5.625,model_price_watch
+2026-09-28,OpenAI,openai-gpt-5-4-mini,GPT-5.4 mini,0.75,4.5,1.6875,model_price_watch
+2026-09-28,OpenAI,openai-gpt-5-4-nano,GPT-5.4 nano,0.2,1.25,0.4625,model_price_watch
+2026-09-28,OpenAI,openai-gpt-5-4-pro,GPT-5.4 Pro,30.0,180.0,67.5,model_price_watch
+2026-09-28,OpenAI,openai-gpt-5-5,GPT-5.5,5.0,30.0,11.25,model_price_watch
+2026-09-28,OpenAI,openai-gpt-5-5-pro,GPT-5.5 Pro,30.0,180.0,67.5,model_price_watch
+2026-09-28,OpenAI,openai-gpt-5-6-cyber,GPT-5.6 Cyber,12.5,75.0,28.125,model_price_watch
+2026-09-28,OpenAI,openai-gpt-5-6-luna,GPT-5.6 Luna,0.2,1.2,0.45,model_price_watch
+2026-09-28,OpenAI,openai-gpt-5-6-sol,GPT-5.6 Sol,4.0,20.0,8.0,model_price_watch
+2026-09-28,OpenAI,openai-gpt-5-6-terra,GPT-5.6 Terra,2.0,12.0,4.5,model_price_watch
+2026-09-28,OpenAI,openai-gpt-5-mini,GPT-5 mini,0.25,2.0,0.6875,model_price_watch
+2026-09-28,OpenAI,openai-gpt-5-nano,GPT-5 nano,0.05,0.4,0.1375,model_price_watch
+2026-09-28,OpenAI,openai-gpt-5-pro,GPT-5 Pro,15.0,120.0,41.25,model_price_watch
+2026-09-28,OpenAI,openai-gpt-audio-1-5,GPT-Audio-1.5,2.5,10.0,4.375,model_price_watch
+2026-09-28,OpenAI,openai-gpt-image-2,GPT-Image-2,8.0,30.0,13.5,model_price_watch
+2026-09-28,OpenAI,openai-gpt-realtime-2,GPT-Realtime-2,4.0,24.0,9.0,model_price_watch
+2026-09-28,OpenAI,openai-gpt-realtime-2-1,GPT-Realtime-2.1,4.0,24.0,9.0,model_price_watch
+2026-09-28,OpenAI,openai-gpt-realtime-2-1-mini,GPT-Realtime-2.1 mini,0.6,2.4,1.0499999999999998,model_price_watch
+2026-09-28,OpenAI,openai-text-embedding-3-large,text-embedding-3-large,0.13,,,model_price_watch
+2026-09-28,OpenAI,openai-text-embedding-3-small,text-embedding-3-small,0.02,,,model_price_watch
+2026-09-28,Perplexity,perplexity-sonar,Sonar,1.0,1.0,1.0,model_price_watch
+2026-09-28,Perplexity,perplexity-sonar-deep-research,Sonar Deep Research,2.0,8.0,3.5,model_price_watch
+2026-09-28,Perplexity,perplexity-sonar-pro,Sonar Pro,3.0,15.0,6.0,model_price_watch
+2026-09-28,Perplexity,perplexity-sonar-reasoning-pro,Sonar Reasoning Pro,2.0,8.0,3.5,model_price_watch
+2026-09-28,Reka,reka-core,Reka Core,2.0,6.0,3.0,model_price_watch
+2026-09-28,Reka,reka-edge,Reka Edge,0.1,0.1,0.1,model_price_watch
+2026-09-28,Reka,reka-flash,Reka Flash,0.8,2.0,1.1,model_price_watch
+2026-09-28,Relace,relace-apply-3,Relace Apply 3,0.8,1.2,0.9000000000000001,model_price_watch
+2026-09-28,Relace,relace-search,Relace Search,1.0,3.0,1.5,model_price_watch
+2026-09-28,Sakana AI,sakana-fugu-ultra,Fugu Ultra,5.0,30.0,11.25,model_price_watch
+2026-09-28,Sakana AI,sakana-namazu,Sakana Namazu,0.95,4.0,1.7125,model_price_watch
+2026-09-28,Tencent,tencent-hunyuan-hy3-preview,Hunyuan Hy3,0.147,0.588,0.25725,model_price_watch
+2026-09-28,Tencent,tencent-hy-mt2-1-8b,Hy-MT2 1.8B,0.044,0.177,0.07725,model_price_watch
+2026-09-28,Tencent,tencent-hy-mt2-30b-a3b,Hy-MT2 30B-A3B,0.074,0.295,0.1292499999999999,model_price_watch
+2026-09-28,Tencent,tencent-hy4-preview,Hy4 preview,0.834,2.501,1.25075,model_price_watch
+2026-09-28,Thinking Machines,thinking-machines-inkling,Inkling,1.0,4.05,1.7625,model_price_watch
+2026-09-28,Thinking Machines,thinking-machines-inkling-small,Inkling Small,0.3,1.2,0.5249999999999999,model_price_watch
+2026-09-28,Together,together-deepseek-v4-pro,DeepSeek V4 Pro,1.32,3.96,1.98,model_price_watch
+2026-09-28,Together,together-gemma-4-31b-pearl,Gemma-4-31B-it-Pearl,0.28,0.86,0.425,model_price_watch
+2026-09-28,Together,together-glm-5-2,GLM-5.2,1.4,4.4,2.15,model_price_watch
+2026-09-28,Together,together-glm-5-3,GLM-5.3,1.4,4.4,2.15,model_price_watch
+2026-09-28,Together,together-gpt-oss-120b,GPT-OSS 120B,0.15,0.6,0.2624999999999999,model_price_watch
+2026-09-28,Together,together-kimi-k2-7-code,Kimi K2.7 Code,0.95,4.0,1.7125,model_price_watch
+2026-09-28,Together,together-lfm2-24b-a2b,LFM2 24B A2B,0.03,0.12,0.0525,model_price_watch
+2026-09-28,Together,together-lfm2-5-8b-a1b,LFM2.5 8B A1B,0.03,0.12,0.0525,model_price_watch
+2026-09-28,Together,together-llama-3-3-70b,Llama 3.3 70B,1.04,1.04,1.04,model_price_watch
+2026-09-28,Together,together-minimax-m2-5,MiniMax-M2.5,0.3,1.2,0.5249999999999999,model_price_watch
+2026-09-28,Together,together-minimax-m3,MiniMax-M3,0.3,1.2,0.5249999999999999,model_price_watch
+2026-09-28,Together,together-muse-glimmer-30b,Muse Glimmer 30B,0.35,1.5,0.6375,model_price_watch
+2026-09-28,Together,together-nvidia-nemotron-3-ultra,NVIDIA Nemotron 3 Ultra,0.6,3.6,1.35,model_price_watch
+2026-09-28,Together,together-qwen3-5-397b-a17b,Qwen3.5-397B-A17B,0.6,3.6,1.35,model_price_watch
+2026-09-28,Together,together-qwen3-7-max,Qwen3.7-Max,1.25,3.75,1.875,model_price_watch
+2026-09-28,Together,together-qwen3-7-plus,Qwen3.7-Plus,0.32,1.28,0.56,model_price_watch
+2026-09-28,Upstage,upstage-solar-pro-3,Solar Pro 3,0.15,0.6,0.2624999999999999,model_price_watch
+2026-09-28,Upstage,upstage-solar-pro-4,Solar Pro 4,0.03,0.12,0.0525,model_price_watch
+2026-09-28,Voyage AI,voyage-4,voyage-4,0.06,,,model_price_watch
+2026-09-28,Voyage AI,voyage-4-large,voyage-4-large,0.12,,,model_price_watch
+2026-09-28,Voyage AI,voyage-4-lite,voyage-4-lite,0.02,,,model_price_watch
+2026-09-28,Voyage AI,voyage-code-3,voyage-code-3,0.18,,,model_price_watch
+2026-09-28,Voyage AI,voyage-context-3,voyage-context-3,0.18,,,model_price_watch
+2026-09-28,Voyage AI,voyage-multimodal-3-5,voyage-multimodal-3.5,0.12,,,model_price_watch
+2026-09-28,Voyage AI,voyage-rerank-2-5,rerank-2.5,0.05,,,model_price_watch
+2026-09-28,Voyage AI,voyage-rerank-2-5-lite,rerank-2.5-lite,0.02,,,model_price_watch
+2026-09-28,Z.AI,zhipu-glm-4-32b,GLM-4-32B-0414,0.1,0.1,0.1,model_price_watch
+2026-09-28,Z.AI,zhipu-glm-4-5,GLM-4.5,0.6,2.2,1.0,model_price_watch
+2026-09-28,Z.AI,zhipu-glm-4-5-air,GLM-4.5-Air,0.2,1.1,0.425,model_price_watch
+2026-09-28,Z.AI,zhipu-glm-4-6,GLM-4.6,0.6,2.2,1.0,model_price_watch
+2026-09-28,Z.AI,zhipu-glm-4-6v,GLM-4.6V,0.3,0.9,0.4499999999999999,model_price_watch
+2026-09-28,Z.AI,zhipu-glm-4-7,GLM-4.7,0.6,2.2,1.0,model_price_watch
+2026-09-28,Z.AI,zhipu-glm-4-7-flash,GLM-4.7-Flash,0.0,0.0,0.0,model_price_watch
+2026-09-28,Z.AI,zhipu-glm-4-7-flashx,GLM-4.7-FlashX,0.07,0.4,0.1525,model_price_watch
+2026-09-28,Z.AI,zhipu-glm-5,GLM-5,1.0,3.2,1.55,model_price_watch
+2026-09-28,Z.AI,zhipu-glm-5-1,GLM-5.1,1.4,4.4,2.15,model_price_watch
+2026-09-28,Z.AI,zhipu-glm-5-2,GLM-5.2,1.4,4.4,2.15,model_price_watch
+2026-09-28,Z.AI,zhipu-glm-5-3,GLM-5.3,1.4,4.4,2.15,model_price_watch
+2026-09-28,Z.AI,zhipu-glm-5-3-flash,GLM-5.3-Flash,0.15,0.5,0.2375,model_price_watch
+2026-09-28,Z.AI,zhipu-glm-5-turbo,GLM-5-Turbo,1.2,4.0,1.9,model_price_watch
+2026-09-28,Z.AI,zhipu-glm-5v-turbo,GLM-5V-Turbo,1.2,4.0,1.9,model_price_watch
+2026-09-28,Z.AI,zhipu-glm-ocr,GLM-OCR,0.03,0.03,0.03,model_price_watch
+2026-09-28,xAI,grok-4.20-0309-non-reasoning,Grok 4.20 0309 Non Reasoning,1.25,2.5,1.5625,roninforge_ai_price_index
+2026-09-28,xAI,grok-4.20-0309-reasoning,Grok 4.20 0309 Reasoning,1.25,2.5,1.5625,roninforge_ai_price_index
+2026-09-28,xAI,grok-4.20-multi-agent-0309,Grok 4.20 Multi Agent 0309,1.25,2.5,1.5625,roninforge_ai_price_index
+2026-09-28,xAI,grok-4.3,Grok 4.3,1.25,2.5,1.5625,roninforge_ai_price_index
+2026-09-28,xAI,grok-4.5,Grok 4.5,2.0,6.0,3.0,roninforge_ai_price_index
+2026-09-28,xAI,grok-4.6,Grok 4.6,2.0,6.0,3.0,roninforge_ai_price_index
+2026-09-28,xAI,grok-4.7,Grok 4.7,2.0,6.0,3.0,roninforge_ai_price_index
+2026-09-28,xAI,grok-build-0.1,Grok Build 0.1,1.0,2.0,1.25,roninforge_ai_price_index
+2026-09-28,xAI,xai-grok-4,Grok 4,3.0,15.0,6.0,model_price_watch
+2026-09-28,xAI,xai-grok-4-1-fast,Grok 4.1 Fast,0.2,0.5,0.275,model_price_watch
+2026-09-28,xAI,xai-grok-4-20,Grok 4.20,1.25,2.5,1.5625,model_price_watch
+2026-09-28,xAI,xai-grok-4-3,Grok 4.3,1.25,2.5,1.5625,model_price_watch
+2026-09-28,xAI,xai-grok-4-5,Grok 4.5,2.0,6.0,3.0,model_price_watch
+2026-09-28,xAI,xai-grok-4-6,Grok 4.6,2.0,6.0,3.0,model_price_watch
+2026-09-28,xAI,xai-grok-build-0-1,Grok Build 0.1,1.0,2.0,1.25,model_price_watch
+2026-10-05,01.AI,01ai-yi-large,Yi Large,3.0,9.0,4.5,model_price_watch
+2026-10-05,AI21,jamba-large,Jamba Large,2.0,8.0,3.5,roninforge_ai_price_index
+2026-10-05,AI21,jamba-mini,Jamba Mini,0.2,0.4,0.25,roninforge_ai_price_index
+2026-10-05,Alibaba,alibaba-qwen3-32b,Qwen3-32B,0.16,0.64,0.28,model_price_watch
+2026-10-05,Alibaba,alibaba-qwen3-5-122b-a10b,Qwen3.5-122B-A10B,0.4,3.2,1.1,model_price_watch
+2026-10-05,Alibaba,alibaba-qwen3-5-27b,Qwen3.5-27B,0.3,2.4,0.825,model_price_watch
+2026-10-05,Alibaba,alibaba-qwen3-5-35b-a3b,Qwen3.5-35B-A3B,0.25,2.0,0.6875,model_price_watch
+2026-10-05,Alibaba,alibaba-qwen3-5-397b-a17b,Qwen3.5-397B-A17B,0.6,3.6,1.35,model_price_watch
+2026-10-05,Alibaba,alibaba-qwen3-5-flash,Qwen3.5-Flash,0.1,0.4,0.175,model_price_watch
+2026-10-05,Alibaba,alibaba-qwen3-5-plus,Qwen3.5-Plus,0.4,2.4,0.9,model_price_watch
+2026-10-05,Alibaba,alibaba-qwen3-6-27b,Qwen3.6-27B,0.6,3.6,1.35,model_price_watch
+2026-10-05,Alibaba,alibaba-qwen3-6-flash,Qwen3.6-Flash,0.25,1.5,0.5625,model_price_watch
+2026-10-05,Alibaba,alibaba-qwen3-6-plus,Qwen3.6-Plus,0.5,3.0,1.125,model_price_watch
+2026-10-05,Alibaba,alibaba-qwen3-7-flash,Qwen3.7-Flash,0.03,0.13,0.055,model_price_watch
+2026-10-05,Alibaba,alibaba-qwen3-7-max,Qwen3.7-Max,2.5,7.5,3.75,model_price_watch
+2026-10-05,Alibaba,alibaba-qwen3-7-plus,Qwen3.7-Plus,0.4,1.6,0.7000000000000001,model_price_watch
+2026-10-05,Alibaba,alibaba-qwen3-8-2-4t-a95b,Qwen3.8-2.4T-A95B,2.0,6.0,3.0,model_price_watch
+2026-10-05,Alibaba,alibaba-qwen3-8-27b,Qwen3.8-27B,0.5,3.0,1.125,model_price_watch
+2026-10-05,Alibaba,alibaba-qwen3-8-flash,Qwen3.8-Flash,0.15,0.47,0.2299999999999999,model_price_watch
+2026-10-05,Alibaba,alibaba-qwen3-8-max,Qwen3.8-Max,2.0,6.0,3.0,model_price_watch
+2026-10-05,Alibaba,alibaba-qwq-plus,QwQ-Plus,0.8,2.4,1.2000000000000002,model_price_watch
+2026-10-05,Alibaba,qwen-flash,Qwen-Flash,0.05,0.4,0.1375,roninforge_ai_price_index
+2026-10-05,Alibaba,qwen-max,Qwen Max,1.6,6.4,2.8000000000000003,roninforge_ai_price_index
+2026-10-05,Alibaba,qwen-plus,Qwen-Plus,0.4,1.2,0.6000000000000001,roninforge_ai_price_index
+2026-10-05,Alibaba,qwen-turbo,Qwen-Turbo,0.05,0.2,0.0875,roninforge_ai_price_index
+2026-10-05,Alibaba,qwen3-coder-flash,Qwen3 Coder Flash,0.3,1.5,0.6,roninforge_ai_price_index
+2026-10-05,Alibaba,qwen3-coder-next,Qwen3-Coder-Next,0.3,1.5,0.6,roninforge_ai_price_index
+2026-10-05,Alibaba,qwen3-coder-plus,Qwen3 Coder Plus,1.0,5.0,2.0,roninforge_ai_price_index
+2026-10-05,Alibaba,qwen3-max,Qwen3-Max,1.2,6.0,2.4,roninforge_ai_price_index
+2026-10-05,Alibaba,qwen3.5-flash,Qwen3.5 Flash,0.1,0.4,0.175,roninforge_ai_price_index
+2026-10-05,Alibaba,qwen3.5-plus,Qwen3.5 Plus,0.4,2.4,0.9,roninforge_ai_price_index
+2026-10-05,Alibaba,qwen3.6-flash,Qwen3.6 Flash,0.25,1.5,0.5625,roninforge_ai_price_index
+2026-10-05,Alibaba,qwen3.6-plus,Qwen3.6 Plus,0.5,3.0,1.125,roninforge_ai_price_index
+2026-10-05,Alibaba,qwen3.7-flash,Qwen3.7 Flash,0.03,0.13,0.055,roninforge_ai_price_index
+2026-10-05,Alibaba,qwen3.7-max,Qwen3.7 Max,2.5,7.5,3.75,roninforge_ai_price_index
+2026-10-05,Alibaba,qwen3.7-plus,Qwen3.7 Plus,0.4,1.6,0.7000000000000001,roninforge_ai_price_index
+2026-10-05,Alibaba,qwen3.8-flash,Qwen3.8 Flash,0.15,0.47,0.2299999999999999,roninforge_ai_price_index
+2026-10-05,Alibaba,qwen3.8-max,Qwen3.8 Max,2.0,6.0,3.0,roninforge_ai_price_index
+2026-10-05,Amazon,nova-2-lite,Nova 2 Lite,0.3,2.5,0.85,roninforge_ai_price_index
+2026-10-05,Amazon,nova-2-pro,Nova 2 Pro,1.25,10.0,3.4375,roninforge_ai_price_index
+2026-10-05,Amazon,nova-lite,Nova Lite,0.06,0.24,0.105,roninforge_ai_price_index
+2026-10-05,Amazon,nova-micro,Nova Micro,0.035,0.14,0.06125,roninforge_ai_price_index
+2026-10-05,Amazon,nova-premier,Nova Premier,2.5,12.5,5.0,roninforge_ai_price_index
+2026-10-05,Amazon,nova-pro,Nova Pro,0.8,3.2,1.4,roninforge_ai_price_index
+2026-10-05,Anthropic,anthropic-claude-haiku-3-5,Claude Haiku 3.5,0.8,4.0,1.6,model_price_watch
+2026-10-05,Anthropic,anthropic-claude-haiku-4-5,Claude Haiku 4.5,1.0,5.0,2.0,model_price_watch
+2026-10-05,Anthropic,anthropic-claude-opus-4,Claude Opus 4,15.0,75.0,30.0,model_price_watch
+2026-10-05,Anthropic,anthropic-claude-opus-4-1,Claude Opus 4.1,15.0,75.0,30.0,model_price_watch
+2026-10-05,Anthropic,anthropic-claude-opus-4-5,Claude Opus 4.5,5.0,25.0,10.0,model_price_watch
+2026-10-05,Anthropic,anthropic-claude-sonnet-4,Claude Sonnet 4,3.0,15.0,6.0,model_price_watch
+2026-10-05,Anthropic,anthropic-claude-sonnet-4-5,Claude Sonnet 4.5,3.0,15.0,6.0,model_price_watch
+2026-10-05,Anthropic,claude-fable-5,Claude Fable 5,10.0,50.0,20.0,roninforge_ai_price_index
+2026-10-05,Anthropic,claude-fable-5-1,Claude Fable 5.1,10.0,50.0,20.0,roninforge_ai_price_index
+2026-10-05,Anthropic,claude-haiku-4-5-20251001,Claude Haiku 4 5 20251001,1.0,5.0,2.0,roninforge_ai_price_index
+2026-10-05,Anthropic,claude-haiku-5-5,Claude Haiku 5.5,0.1,0.5,0.2,"roninforge_ai_price_index; effective 2026-10-07, in force at the week's Arena snapshot (2026-10-08)"
+2026-10-05,Anthropic,claude-mythos-5,Claude Mythos 5,10.0,50.0,20.0,roninforge_ai_price_index
+2026-10-05,Anthropic,claude-mythos-5-1,Claude Mythos 5.1,10.0,50.0,20.0,roninforge_ai_price_index
+2026-10-05,Anthropic,claude-opus-4-1-20250805,Claude Opus 4 1 20250805,15.0,75.0,30.0,roninforge_ai_price_index
+2026-10-05,Anthropic,claude-opus-4-20250514,Claude Opus 4 20250514,15.0,75.0,30.0,roninforge_ai_price_index
+2026-10-05,Anthropic,claude-opus-4-5-20251101,Claude Opus 4 5 20251101,5.0,25.0,10.0,roninforge_ai_price_index
+2026-10-05,Anthropic,claude-opus-4-6,Claude Opus 4.6,5.0,25.0,10.0,roninforge_ai_price_index
+2026-10-05,Anthropic,claude-opus-4-7,Claude Opus 4.7,5.0,25.0,10.0,roninforge_ai_price_index
+2026-10-05,Anthropic,claude-opus-4-8,Claude Opus 4.8,5.0,25.0,10.0,roninforge_ai_price_index
+2026-10-05,Anthropic,claude-opus-5,Claude Opus 5,5.0,25.0,10.0,roninforge_ai_price_index
+2026-10-05,Anthropic,claude-opus-5-5,Claude Opus 5.5,4.0,20.0,8.0,"roninforge_ai_price_index; launched 2026-09-22, in force at the week's Arena snapshot (2026-09-25)"
+2026-10-05,Anthropic,claude-sonnet-4-20250514,Claude Sonnet 4 20250514,3.0,15.0,6.0,roninforge_ai_price_index
+2026-10-05,Anthropic,claude-sonnet-4-5-20250929,Claude Sonnet 4 5 20250929,3.0,15.0,6.0,roninforge_ai_price_index
+2026-10-05,Anthropic,claude-sonnet-4-6,Claude Sonnet 4.6,3.0,15.0,6.0,roninforge_ai_price_index
+2026-10-05,Anthropic,claude-sonnet-5,Claude Sonnet 5,2.0,10.0,4.0,roninforge_ai_price_index
+2026-10-05,Anthropic,claude-sonnet-5-5,Claude Sonnet 5.5,2.0,10.0,4.0,roninforge_ai_price_index
+2026-10-05,Baichuan,baichuan-m2-32b,Baichuan M2-32B,0.07,0.07,0.07,model_price_watch
+2026-10-05,Cohere,cohere-command-a,Command A,2.5,10.0,4.375,model_price_watch
+2026-10-05,Cohere,cohere-command-r-03-2024,Command R 03-2024,0.5,1.5,0.75,model_price_watch
+2026-10-05,Cohere,cohere-command-r-08-2024,Command R 08-2024,0.15,0.6,0.2624999999999999,model_price_watch
+2026-10-05,Cohere,cohere-command-r-plus-08-2024,Command R+ 08-2024,2.5,10.0,4.375,model_price_watch
+2026-10-05,Cohere,cohere-embed-4,Embed 4,0.12,,,model_price_watch
+2026-10-05,Cohere,cohere-rerank-3-5,Rerank 3.5,0.02,,,model_price_watch
+2026-10-05,Cohere,command-r,Command R,0.15,0.6,0.2624999999999999,roninforge_ai_price_index
+2026-10-05,Cohere,command-r7b,Command R7b,0.0375,0.15,0.0656249999999999,roninforge_ai_price_index
+2026-10-05,DeepInfra,deepinfra-deepseek-v4-flash,DeepSeek V4 Flash (DeepInfra),0.06,0.18,0.09,model_price_watch; price cut from $0.09 input
+2026-10-05,DeepInfra,deepinfra-deepseek-v4-pro,DeepSeek V4 Pro,1.3,2.6,1.625,model_price_watch
+2026-10-05,DeepInfra,deepinfra-llama-4-maverick,Llama 4 Maverick,0.2,0.8,0.35,model_price_watch
+2026-10-05,DeepInfra,deepinfra-llama-4-scout,Llama 4 Scout,0.1,0.3,0.15,model_price_watch
+2026-10-05,DeepInfra,deepinfra-nvidia-nemotron-3-5-lightning,NVIDIA Nemotron 3.5 Lightning,0.08,0.2,0.11,model_price_watch
+2026-10-05,DeepInfra,deepinfra-nvidia-nemotron-70b-instruct,Nemotron 70B Instruct,1.2,1.2,1.2,model_price_watch
+2026-10-05,DeepInfra,deepinfra-qwen3-32b,Qwen3-32B,0.08,0.28,0.13,model_price_watch
+2026-10-05,DeepSeek,deepseek-v4-1-flash,DeepSeek V4.1 Flash,0.3,1.2,0.5249999999999999,"official_docs_deepseek; peak (standard) rate, off-peak is a 50% discount"
+2026-10-05,DeepSeek,deepseek-v4-pro,DeepSeek V4 Pro,0.66,1.98,0.99,roninforge_ai_price_index
+2026-10-05,Fireworks,fireworks-deepseek-v4-flash,DeepSeek V4 Flash,0.14,0.28,0.175,model_price_watch
+2026-10-05,Fireworks,fireworks-deepseek-v4-pro,DeepSeek V4 Pro,1.32,3.96,1.98,model_price_watch
+2026-10-05,Fireworks,fireworks-glm-5-1,GLM-5.1,1.4,4.4,2.15,model_price_watch
+2026-10-05,Fireworks,fireworks-glm-5-2,GLM-5.2,1.4,4.4,2.15,model_price_watch
+2026-10-05,Fireworks,fireworks-glm-5-3,GLM-5.3,1.4,4.4,2.15,model_price_watch
+2026-10-05,Fireworks,fireworks-gpt-oss-120b,GPT-OSS 120B,0.15,0.6,0.2624999999999999,model_price_watch
+2026-10-05,Fireworks,fireworks-gpt-oss-20b,GPT-OSS 20B,0.07,0.3,0.1275,model_price_watch
+2026-10-05,Fireworks,fireworks-kimi-k2-5,Kimi K2.5,0.6,3.0,1.2,model_price_watch
+2026-10-05,Fireworks,fireworks-kimi-k2-6,Kimi K2.6,0.95,4.0,1.7125,model_price_watch
+2026-10-05,Fireworks,fireworks-kimi-k2-7-code,Kimi K2.7 Code,0.95,4.0,1.7125,model_price_watch
+2026-10-05,Fireworks,fireworks-minimax-2-5,MiniMax-M2.5,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-05,Fireworks,fireworks-minimax-2-7,MiniMax-M2.7,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-05,Fireworks,fireworks-minimax-m3,MiniMax-M3,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-05,Fireworks,fireworks-muse-glimmer-30b,Muse Glimmer 30B,0.35,1.5,0.6375,model_price_watch
+2026-10-05,Fireworks,fireworks-nemotron-3-ultra,NVIDIA Nemotron 3 Ultra,0.6,2.4,1.0499999999999998,model_price_watch
+2026-10-05,Fireworks,fireworks-qwen3-6-plus,Qwen3.6-Plus,0.5,3.0,1.125,model_price_watch
+2026-10-05,Fireworks,fireworks-qwen3-7-plus,Qwen3.7-Plus,0.4,1.6,0.7000000000000001,model_price_watch
+2026-10-05,Google,gemini-2.5-flash,Gemini 2.5 Flash,0.3,2.5,0.85,roninforge_ai_price_index
+2026-10-05,Google,gemini-2.5-flash-lite,Gemini 2.5 Flash-Lite,0.1,0.4,0.175,roninforge_ai_price_index
+2026-10-05,Google,gemini-2.5-pro,Gemini 2.5 Pro,1.25,10.0,3.4375,roninforge_ai_price_index
+2026-10-05,Google,gemini-3-flash-preview,Gemini 3 Flash Preview,0.5,3.0,1.125,roninforge_ai_price_index
+2026-10-05,Google,gemini-3.1-flash-lite,Gemini 3.1 Flash-Lite,0.25,1.5,0.5625,roninforge_ai_price_index
+2026-10-05,Google,gemini-3.1-pro-preview,Gemini 3.1 Pro Preview,2.0,12.0,4.5,roninforge_ai_price_index
+2026-10-05,Google,gemini-3.5-flash-lite,Gemini 3.5 Flash-Lite,0.3,2.5,0.85,roninforge_ai_price_index
+2026-10-05,Google,gemini-3.6-flash,Gemini 3.6 Flash,0.75,3.75,1.5,roninforge_ai_price_index
+2026-10-05,Google,gemini-3.8-flash,Gemini 3.8 Flash,0.75,3.75,1.5,roninforge_ai_price_index
+2026-10-05,Google,google-gemini-2-5-flash,Gemini 2.5 Flash,0.3,2.5,0.85,model_price_watch
+2026-10-05,Google,google-gemini-2-5-flash-lite,Gemini 2.5 Flash-Lite,0.1,0.4,0.175,model_price_watch
+2026-10-05,Google,google-gemini-2-5-pro,Gemini 2.5 Pro,1.25,10.0,3.4375,model_price_watch
+2026-10-05,Google,google-gemini-3-1-flash-image,Gemini 3.1 Flash Image,0.5,60.0,15.375,model_price_watch
+2026-10-05,Google,google-gemini-3-1-flash-lite,Gemini 3.1 Flash-Lite,0.25,1.5,0.5625,model_price_watch
+2026-10-05,Google,google-gemini-3-1-flash-lite-image,Gemini 3.1 Flash Lite Image,0.25,30.0,7.6875,model_price_watch
+2026-10-05,Google,google-gemini-3-1-pro,Gemini 3.1 Pro,2.0,12.0,4.5,model_price_watch
+2026-10-05,Google,google-gemini-3-5-flash-lite,Gemini 3.5 Flash-Lite,0.3,2.5,0.85,model_price_watch
+2026-10-05,Google,google-gemini-3-6-flash,Gemini 3.6 Flash,0.75,3.75,1.5,model_price_watch
+2026-10-05,Google,google-gemini-3-8-flash,Gemini 3.8 Flash,0.75,3.75,1.5,model_price_watch
+2026-10-05,Google,google-gemini-3-pro-image,Gemini 3 Pro Image,2.0,120.0,31.5,model_price_watch
+2026-10-05,Google,google-text-embedding-004,text-embedding-004,0.025,,,model_price_watch
+2026-10-05,Groq,groq-gpt-oss-120b,GPT-OSS 120B,0.15,0.6,0.2624999999999999,model_price_watch
+2026-10-05,Groq,groq-gpt-oss-20b,GPT-OSS 20B,0.075,0.3,0.1312499999999999,model_price_watch
+2026-10-05,Groq,groq-llama-3-1-8b-instant,Llama 3.1 8B Instant,0.05,0.08,0.0575,model_price_watch
+2026-10-05,Groq,groq-llama-3-3-70b-versatile,Llama 3.3 70B Versatile,0.59,0.79,0.64,model_price_watch
+2026-10-05,Groq,groq-llama-4-scout,Llama 4 Scout,0.11,0.34,0.1675,model_price_watch
+2026-10-05,Groq,groq-qwen-3-6-27b,Qwen3.6-27B,0.6,3.0,1.2,model_price_watch
+2026-10-05,Groq,groq-qwen3-32b,Qwen3-32B,0.29,0.59,0.365,model_price_watch
+2026-10-05,IBM,ibm-granite-4-0-h-micro,Granite 4.0 H Micro,0.017,0.112,0.04075,model_price_watch
+2026-10-05,IBM,ibm-granite-4-h-small,Granite 4 H Small,0.0636,0.265,0.11395,model_price_watch
+2026-10-05,IBM,ibm-granite-embedding-278m,Granite Embedding 278M Multilingual,0.106,,,model_price_watch
+2026-10-05,Inception,inception-mercury-2,Mercury 2,0.25,0.75,0.375,model_price_watch
+2026-10-05,Kwaipilot,kwaipilot-kat-coder-air-v2-5,KAT-Coder-Air V2.5,0.148,0.593,0.25925,model_price_watch
+2026-10-05,Kwaipilot,kwaipilot-kat-coder-pro-v2-5,KAT-Coder-Pro V2.5,0.741,2.964,1.2967499999999998,model_price_watch
+2026-10-05,Meituan,meituan-longcat-2,LongCat-2.0,0.75,2.95,1.3,model_price_watch
+2026-10-05,Meta,llama-3.1-405b,Llama 3.1 405b,3.5,3.5,3.5,roninforge_ai_price_index
+2026-10-05,Meta,llama-3.1-8b,Llama 3.1 8b,0.18,0.18,0.18,roninforge_ai_price_index
+2026-10-05,Meta,llama-3.3-70b,Llama 3.3 70b,1.04,1.04,1.04,roninforge_ai_price_index
+2026-10-05,Meta,llama-4-maverick,Llama 4 Maverick,0.27,0.85,0.415,roninforge_ai_price_index
+2026-10-05,Meta,llama-4-scout,Llama 4 Scout,0.18,0.59,0.2825,roninforge_ai_price_index
+2026-10-05,Meta,meta-llama-3-1-8b,Llama 3.1 8B,0.05,0.08,0.0575,model_price_watch
+2026-10-05,Meta,meta-llama-3-3-70b,Llama 3.3 70B,0.59,0.79,0.64,model_price_watch
+2026-10-05,Meta,meta-muse-spark-1-1,Muse Spark 1.1,1.25,4.25,2.0,model_price_watch
+2026-10-05,Meta,meta-muse-spark-1-2,Muse Spark 1.2,1.25,4.25,2.0,model_price_watch
+2026-10-05,Meta,meta-muse-spark-1-3,Muse Spark 1.3,1.25,4.25,2.0,model_price_watch
+2026-10-05,MiniMax,minimax-m2,MiniMax-M2,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-05,MiniMax,minimax-m2-1,MiniMax-M2.1,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-05,MiniMax,minimax-m2-5,MiniMax-M2.5,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-05,MiniMax,minimax-m2-7,MiniMax-M2.7,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-05,MiniMax,minimax-m3,MiniMax-M3,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-05,Mistral,codestral-25.08,Codestral 25.08,0.3,0.9,0.4499999999999999,roninforge_ai_price_index
+2026-10-05,Mistral,devstral-2,Devstral 2 2512,0.4,2.0,0.8,roninforge_ai_price_index
+2026-10-05,Mistral,devstral-small-2,Devstral Small 2,0.1,0.3,0.15,roninforge_ai_price_index
+2026-10-05,Mistral,magistral-medium,Magistral Medium,2.0,5.0,2.75,roninforge_ai_price_index
+2026-10-05,Mistral,magistral-small,Magistral Small,0.5,1.5,0.75,roninforge_ai_price_index
+2026-10-05,Mistral,ministral-3-14b,Ministral 3 14b,0.2,0.2,0.2,roninforge_ai_price_index
+2026-10-05,Mistral,ministral-3-3b,Ministral 3 3b,0.1,0.1,0.1,roninforge_ai_price_index
+2026-10-05,Mistral,ministral-3-8b,Ministral 3 8b,0.15,0.15,0.15,roninforge_ai_price_index
+2026-10-05,Mistral,mistral-codestral,Codestral,0.3,0.9,0.4499999999999999,model_price_watch
+2026-10-05,Mistral,mistral-codestral-2508,Codestral 2508,0.3,0.9,0.4499999999999999,model_price_watch
+2026-10-05,Mistral,mistral-large-3,Mistral Large 3,0.5,1.5,0.75,roninforge_ai_price_index
+2026-10-05,Mistral,mistral-large-4,Mistral Large 4,0.68,2.09,1.0325,"roninforge_ai_price_index; effective 2026-10-07, in force at the week's Arena snapshot (2026-10-08)"
+2026-10-05,Mistral,mistral-medium-3,Mistral Medium 3,0.4,2.0,0.8,model_price_watch
+2026-10-05,Mistral,mistral-medium-3-5,Mistral Medium 3.5,1.5,7.5,3.0,model_price_watch
+2026-10-05,Mistral,mistral-medium-3.5,Mistral Medium 3.5,1.5,7.5,3.0,roninforge_ai_price_index
+2026-10-05,Mistral,mistral-ministral-3b,Ministral 3 3B,0.1,0.1,0.1,model_price_watch
+2026-10-05,Mistral,mistral-mixtral-8x22b,Mixtral 8x22B Instruct,2.0,6.0,3.0,model_price_watch
+2026-10-05,Mistral,mistral-mixtral-8x7b,Mixtral 8x7B Instruct,0.7,0.7,0.7,model_price_watch
+2026-10-05,Mistral,mistral-pixtral-12b,Pixtral 12B,0.1,0.1,0.1,model_price_watch
+2026-10-05,Mistral,mistral-pixtral-large,Pixtral Large 2411,2.0,6.0,3.0,model_price_watch
+2026-10-05,Mistral,mistral-small-3-2,Mistral Small 3.2 24B,0.1,0.3,0.15,model_price_watch
+2026-10-05,Mistral,mistral-small-4,Mistral Small 4,0.15,0.6,0.2624999999999999,roninforge_ai_price_index
+2026-10-05,Mistral,mistral-voxtral-small,Voxtral Small 24B,0.1,0.4,0.175,model_price_watch
+2026-10-05,Moonshot,moonshot-kimi-k2-5,Kimi K2.5,0.6,3.0,1.2,model_price_watch
+2026-10-05,Moonshot,moonshot-kimi-k2-6,Kimi K2.6,0.95,4.0,1.7125,model_price_watch
+2026-10-05,Moonshot,moonshot-kimi-k2-7-code,Kimi K2.7 Code,0.95,4.0,1.7125,model_price_watch
+2026-10-05,Moonshot,moonshot-kimi-k2-7-code-highspeed,Kimi K2.7 Code HighSpeed,1.9,8.0,3.425,model_price_watch
+2026-10-05,Moonshot,moonshot-kimi-k3,Kimi K3,3.0,15.0,6.0,model_price_watch
+2026-10-05,OpenAI,gpt-4.1,GPT-4.1,2.0,8.0,3.5,roninforge_ai_price_index
+2026-10-05,OpenAI,gpt-4o,GPT-4o,2.5,10.0,4.375,roninforge_ai_price_index
+2026-10-05,OpenAI,gpt-4o-mini,GPT-4o mini,0.15,0.6,0.2624999999999999,roninforge_ai_price_index
+2026-10-05,OpenAI,gpt-5,GPT-5,1.25,10.0,3.4375,roninforge_ai_price_index
+2026-10-05,OpenAI,gpt-5.1,GPT-5.1,1.25,10.0,3.4375,roninforge_ai_price_index
+2026-10-05,OpenAI,gpt-5.2,GPT-5.2,1.75,14.0,4.8125,roninforge_ai_price_index
+2026-10-05,OpenAI,gpt-5.2-pro,GPT-5.2 Pro,21.0,168.0,57.75,roninforge_ai_price_index
+2026-10-05,OpenAI,gpt-5.3-codex,GPT-5.3 Codex,1.75,14.0,4.8125,roninforge_ai_price_index
+2026-10-05,OpenAI,gpt-5.4,GPT-5.4,2.5,15.0,5.625,roninforge_ai_price_index
+2026-10-05,OpenAI,gpt-5.4-mini,GPT-5.4 mini,0.75,4.5,1.6875,roninforge_ai_price_index
+2026-10-05,OpenAI,gpt-5.4-nano,GPT-5.4 nano,0.2,1.25,0.4625,roninforge_ai_price_index
+2026-10-05,OpenAI,gpt-5.4-pro,GPT-5.4 Pro,30.0,180.0,67.5,roninforge_ai_price_index
+2026-10-05,OpenAI,gpt-5.5,GPT-5.5,5.0,30.0,11.25,roninforge_ai_price_index
+2026-10-05,OpenAI,gpt-5.5-pro,GPT-5.5 Pro,30.0,180.0,67.5,roninforge_ai_price_index
+2026-10-05,OpenAI,gpt-5.6-luna,GPT-5.6 Luna,0.2,1.2,0.45,roninforge_ai_price_index
+2026-10-05,OpenAI,gpt-5.6-sol,GPT-5.6 Sol,4.0,20.0,8.0,roninforge_ai_price_index
+2026-10-05,OpenAI,gpt-5.6-terra,GPT-5.6 Terra,2.0,12.0,4.5,roninforge_ai_price_index
+2026-10-05,OpenAI,gpt-6-astra,GPT-6 Astra,10.0,50.0,20.0,roninforge_ai_price_index
+2026-10-05,OpenAI,gpt-6-luna,GPT-6 Luna,0.1,0.5,0.2,"roninforge_ai_price_index; launched 2026-09-23, in force at the week's Arena snapshot (2026-09-25)"
+2026-10-05,OpenAI,gpt-6-sol,GPT-6 Sol,2.0,10.0,4.0,"roninforge_ai_price_index; launched 2026-09-23, in force at the week's Arena snapshot (2026-09-25)"
+2026-10-05,OpenAI,gpt-6.1-sol,GPT-6.1 Sol,2.0,10.0,4.0,roninforge_ai_price_index
+2026-10-05,OpenAI,o1,o1,15.0,60.0,26.25,roninforge_ai_price_index
+2026-10-05,OpenAI,o1-mini,O1 Mini,1.1,4.4,1.9250000000000005,roninforge_ai_price_index
+2026-10-05,OpenAI,o1-pro,o1-pro,150.0,600.0,262.5,roninforge_ai_price_index
+2026-10-05,OpenAI,o3,o3,2.0,8.0,3.5,roninforge_ai_price_index
+2026-10-05,OpenAI,o3-deep-research,O3 Deep Research,10.0,40.0,17.5,roninforge_ai_price_index
+2026-10-05,OpenAI,o3-mini,o3-mini,1.1,4.4,1.9250000000000005,roninforge_ai_price_index
+2026-10-05,OpenAI,o3-pro,o3-pro,20.0,80.0,35.0,roninforge_ai_price_index
+2026-10-05,OpenAI,o4-mini,o4-mini,1.1,4.4,1.9250000000000005,roninforge_ai_price_index
+2026-10-05,OpenAI,o4-mini-deep-research,O4 Mini Deep Research,2.0,8.0,3.5,roninforge_ai_price_index
+2026-10-05,OpenAI,openai-gpt-3-5-turbo,GPT-3.5 Turbo,0.5,1.5,0.75,model_price_watch
+2026-10-05,OpenAI,openai-gpt-4-0613,GPT-4,30.0,60.0,37.5,model_price_watch
+2026-10-05,OpenAI,openai-gpt-4-1,GPT-4.1,2.0,8.0,3.5,model_price_watch
+2026-10-05,OpenAI,openai-gpt-4-1-mini,GPT-4.1 mini,0.4,1.6,0.7000000000000001,model_price_watch
+2026-10-05,OpenAI,openai-gpt-4-1-nano,GPT-4.1 nano,0.1,0.4,0.175,model_price_watch
+2026-10-05,OpenAI,openai-gpt-4-turbo-2024-04-09,GPT-4 Turbo,10.0,30.0,15.0,model_price_watch
+2026-10-05,OpenAI,openai-gpt-5-1,GPT-5.1,1.25,10.0,3.4375,model_price_watch
+2026-10-05,OpenAI,openai-gpt-5-2,GPT-5.2,1.75,14.0,4.8125,model_price_watch
+2026-10-05,OpenAI,openai-gpt-5-2-chat,GPT-5.2 Chat,1.75,14.0,4.8125,model_price_watch
+2026-10-05,OpenAI,openai-gpt-5-2-codex,GPT-5.2 Codex,1.75,14.0,4.8125,model_price_watch
+2026-10-05,OpenAI,openai-gpt-5-2-pro,GPT-5.2 Pro,21.0,168.0,57.75,model_price_watch
+2026-10-05,OpenAI,openai-gpt-5-3-chat,GPT-5.3 Chat,1.75,14.0,4.8125,model_price_watch
+2026-10-05,OpenAI,openai-gpt-5-3-codex,GPT-5.3 Codex,1.75,14.0,4.8125,model_price_watch
+2026-10-05,OpenAI,openai-gpt-5-4,GPT-5.4,2.5,15.0,5.625,model_price_watch
+2026-10-05,OpenAI,openai-gpt-5-4-mini,GPT-5.4 mini,0.75,4.5,1.6875,model_price_watch
+2026-10-05,OpenAI,openai-gpt-5-4-nano,GPT-5.4 nano,0.2,1.25,0.4625,model_price_watch
+2026-10-05,OpenAI,openai-gpt-5-4-pro,GPT-5.4 Pro,30.0,180.0,67.5,model_price_watch
+2026-10-05,OpenAI,openai-gpt-5-5,GPT-5.5,5.0,30.0,11.25,model_price_watch
+2026-10-05,OpenAI,openai-gpt-5-5-pro,GPT-5.5 Pro,30.0,180.0,67.5,model_price_watch
+2026-10-05,OpenAI,openai-gpt-5-6-cyber,GPT-5.6 Cyber,12.5,75.0,28.125,model_price_watch
+2026-10-05,OpenAI,openai-gpt-5-6-luna,GPT-5.6 Luna,0.2,1.2,0.45,model_price_watch
+2026-10-05,OpenAI,openai-gpt-5-6-sol,GPT-5.6 Sol,4.0,20.0,8.0,model_price_watch
+2026-10-05,OpenAI,openai-gpt-5-6-terra,GPT-5.6 Terra,2.0,12.0,4.5,model_price_watch
+2026-10-05,OpenAI,openai-gpt-5-mini,GPT-5 mini,0.25,2.0,0.6875,model_price_watch
+2026-10-05,OpenAI,openai-gpt-5-nano,GPT-5 nano,0.05,0.4,0.1375,model_price_watch
+2026-10-05,OpenAI,openai-gpt-5-pro,GPT-5 Pro,15.0,120.0,41.25,model_price_watch
+2026-10-05,OpenAI,openai-gpt-audio-1-5,GPT-Audio-1.5,2.5,10.0,4.375,model_price_watch
+2026-10-05,OpenAI,openai-gpt-image-2,GPT-Image-2,8.0,30.0,13.5,model_price_watch
+2026-10-05,OpenAI,openai-gpt-realtime-2,GPT-Realtime-2,4.0,24.0,9.0,model_price_watch
+2026-10-05,OpenAI,openai-gpt-realtime-2-1,GPT-Realtime-2.1,4.0,24.0,9.0,model_price_watch
+2026-10-05,OpenAI,openai-gpt-realtime-2-1-mini,GPT-Realtime-2.1 mini,0.6,2.4,1.0499999999999998,model_price_watch
+2026-10-05,OpenAI,openai-text-embedding-3-large,text-embedding-3-large,0.13,,,model_price_watch
+2026-10-05,OpenAI,openai-text-embedding-3-small,text-embedding-3-small,0.02,,,model_price_watch
+2026-10-05,Perplexity,perplexity-sonar,Sonar,1.0,1.0,1.0,model_price_watch
+2026-10-05,Perplexity,perplexity-sonar-deep-research,Sonar Deep Research,2.0,8.0,3.5,model_price_watch
+2026-10-05,Perplexity,perplexity-sonar-pro,Sonar Pro,3.0,15.0,6.0,model_price_watch
+2026-10-05,Perplexity,perplexity-sonar-reasoning-pro,Sonar Reasoning Pro,2.0,8.0,3.5,model_price_watch
+2026-10-05,Reka,reka-core,Reka Core,2.0,6.0,3.0,model_price_watch
+2026-10-05,Reka,reka-edge,Reka Edge,0.1,0.1,0.1,model_price_watch
+2026-10-05,Reka,reka-flash,Reka Flash,0.8,2.0,1.1,model_price_watch
+2026-10-05,Relace,relace-apply-3,Relace Apply 3,0.8,1.2,0.9000000000000001,model_price_watch
+2026-10-05,Relace,relace-search,Relace Search,1.0,3.0,1.5,model_price_watch
+2026-10-05,Sakana AI,sakana-fugu-ultra,Fugu Ultra,5.0,30.0,11.25,model_price_watch
+2026-10-05,Sakana AI,sakana-namazu,Sakana Namazu,0.95,4.0,1.7125,model_price_watch
+2026-10-05,StepFun,stepfun-step-3-5-flash,Step 3.5 Flash,0.1,0.3,0.15,"model_price_watch; effective 2026-10-08, in force at the week's Arena snapshot (2026-10-08); first tracked 2026-10-08"
+2026-10-05,StepFun,stepfun-step-3-7-flash,Step 3.7 Flash,0.2,1.15,0.4375,"model_price_watch; effective 2026-10-08, in force at the week's Arena snapshot (2026-10-08)"
+2026-10-05,StepFun,stepfun-step-5-preview,Step 5 Preview,1.0,2.7,1.425,"model_price_watch; effective 2026-10-08, in force at the week's Arena snapshot (2026-10-08); preview"
+2026-10-05,Tencent,tencent-hunyuan-hy3-preview,Hunyuan Hy3,0.147,0.588,0.25725,model_price_watch
+2026-10-05,Tencent,tencent-hy-mt2-1-8b,Hy-MT2 1.8B,0.044,0.177,0.07725,model_price_watch
+2026-10-05,Tencent,tencent-hy-mt2-30b-a3b,Hy-MT2 30B-A3B,0.074,0.295,0.1292499999999999,model_price_watch
+2026-10-05,Tencent,tencent-hy4-preview,Hy4 preview,0.834,2.501,1.25075,model_price_watch
+2026-10-05,Thinking Machines,thinking-machines-inkling,Inkling,1.0,4.05,1.7625,model_price_watch
+2026-10-05,Thinking Machines,thinking-machines-inkling-small,Inkling Small,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-05,Together,together-deepseek-v4-pro,DeepSeek V4 Pro,1.32,3.96,1.98,model_price_watch
+2026-10-05,Together,together-gemma-4-31b-pearl,Gemma-4-31B-it-Pearl,0.28,0.86,0.425,model_price_watch
+2026-10-05,Together,together-glm-5-2,GLM-5.2,1.4,4.4,2.15,model_price_watch
+2026-10-05,Together,together-glm-5-3,GLM-5.3,1.4,4.4,2.15,model_price_watch
+2026-10-05,Together,together-gpt-oss-120b,GPT-OSS 120B,0.15,0.6,0.2624999999999999,model_price_watch
+2026-10-05,Together,together-kimi-k2-7-code,Kimi K2.7 Code,0.95,4.0,1.7125,model_price_watch
+2026-10-05,Together,together-lfm2-24b-a2b,LFM2 24B A2B,0.03,0.12,0.0525,model_price_watch
+2026-10-05,Together,together-lfm2-5-8b-a1b,LFM2.5 8B A1B,0.03,0.12,0.0525,model_price_watch
+2026-10-05,Together,together-llama-3-3-70b,Llama 3.3 70B,1.04,1.04,1.04,model_price_watch
+2026-10-05,Together,together-minimax-m2-5,MiniMax-M2.5,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-05,Together,together-minimax-m3,MiniMax-M3,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-05,Together,together-muse-glimmer-30b,Muse Glimmer 30B,0.35,1.5,0.6375,model_price_watch
+2026-10-05,Together,together-nvidia-nemotron-3-ultra,NVIDIA Nemotron 3 Ultra,0.6,3.6,1.35,model_price_watch
+2026-10-05,Together,together-qwen3-5-397b-a17b,Qwen3.5-397B-A17B,0.6,3.6,1.35,model_price_watch
+2026-10-05,Together,together-qwen3-7-max,Qwen3.7-Max,1.25,3.75,1.875,model_price_watch
+2026-10-05,Together,together-qwen3-7-plus,Qwen3.7-Plus,0.32,1.28,0.56,model_price_watch
+2026-10-05,Upstage,upstage-solar-pro-3,Solar Pro 3,0.15,0.6,0.2624999999999999,model_price_watch
+2026-10-05,Upstage,upstage-solar-pro-4,Solar Pro 4,0.03,0.12,0.0525,model_price_watch
+2026-10-05,Voyage AI,voyage-4,voyage-4,0.06,,,model_price_watch
+2026-10-05,Voyage AI,voyage-4-large,voyage-4-large,0.12,,,model_price_watch
+2026-10-05,Voyage AI,voyage-4-lite,voyage-4-lite,0.02,,,model_price_watch
+2026-10-05,Voyage AI,voyage-code-3,voyage-code-3,0.18,,,model_price_watch
+2026-10-05,Voyage AI,voyage-context-3,voyage-context-3,0.18,,,model_price_watch
+2026-10-05,Voyage AI,voyage-multimodal-3-5,voyage-multimodal-3.5,0.12,,,model_price_watch
+2026-10-05,Voyage AI,voyage-rerank-2-5,rerank-2.5,0.05,,,model_price_watch
+2026-10-05,Voyage AI,voyage-rerank-2-5-lite,rerank-2.5-lite,0.02,,,model_price_watch
+2026-10-05,Z.AI,zhipu-glm-4-32b,GLM-4-32B-0414,0.1,0.1,0.1,model_price_watch
+2026-10-05,Z.AI,zhipu-glm-4-5,GLM-4.5,0.6,2.2,1.0,model_price_watch
+2026-10-05,Z.AI,zhipu-glm-4-5-air,GLM-4.5-Air,0.2,1.1,0.425,model_price_watch
+2026-10-05,Z.AI,zhipu-glm-4-6,GLM-4.6,0.6,2.2,1.0,model_price_watch
+2026-10-05,Z.AI,zhipu-glm-4-6v,GLM-4.6V,0.3,0.9,0.4499999999999999,model_price_watch
+2026-10-05,Z.AI,zhipu-glm-4-7,GLM-4.7,0.6,2.2,1.0,model_price_watch
+2026-10-05,Z.AI,zhipu-glm-4-7-flash,GLM-4.7-Flash,0.0,0.0,0.0,model_price_watch
+2026-10-05,Z.AI,zhipu-glm-4-7-flashx,GLM-4.7-FlashX,0.07,0.4,0.1525,model_price_watch
+2026-10-05,Z.AI,zhipu-glm-5,GLM-5,1.0,3.2,1.55,model_price_watch
+2026-10-05,Z.AI,zhipu-glm-5-1,GLM-5.1,1.4,4.4,2.15,model_price_watch
+2026-10-05,Z.AI,zhipu-glm-5-2,GLM-5.2,1.4,4.4,2.15,model_price_watch
+2026-10-05,Z.AI,zhipu-glm-5-3,GLM-5.3,1.4,4.4,2.15,model_price_watch
+2026-10-05,Z.AI,zhipu-glm-5-3-flash,GLM-5.3-Flash,0.15,0.5,0.2375,model_price_watch
+2026-10-05,Z.AI,zhipu-glm-5-turbo,GLM-5-Turbo,1.2,4.0,1.9,model_price_watch
+2026-10-05,Z.AI,zhipu-glm-5v-turbo,GLM-5V-Turbo,1.2,4.0,1.9,model_price_watch
+2026-10-05,Z.AI,zhipu-glm-ocr,GLM-OCR,0.03,0.03,0.03,model_price_watch
+2026-10-05,xAI,grok-4.20-0309-non-reasoning,Grok 4.20 0309 Non Reasoning,1.25,2.5,1.5625,roninforge_ai_price_index
+2026-10-05,xAI,grok-4.20-0309-reasoning,Grok 4.20 0309 Reasoning,1.25,2.5,1.5625,roninforge_ai_price_index
+2026-10-05,xAI,grok-4.20-multi-agent-0309,Grok 4.20 Multi Agent 0309,1.25,2.5,1.5625,roninforge_ai_price_index
+2026-10-05,xAI,grok-4.3,Grok 4.3,1.25,2.5,1.5625,roninforge_ai_price_index
+2026-10-05,xAI,grok-4.5,Grok 4.5,2.0,6.0,3.0,roninforge_ai_price_index
+2026-10-05,xAI,grok-4.6,Grok 4.6,2.0,6.0,3.0,roninforge_ai_price_index
+2026-10-05,xAI,grok-4.7,Grok 4.7,2.0,6.0,3.0,roninforge_ai_price_index
+2026-10-05,xAI,grok-build-0.1,Grok Build 0.1,1.0,2.0,1.25,roninforge_ai_price_index
+2026-10-05,xAI,xai-grok-4,Grok 4,3.0,15.0,6.0,model_price_watch
+2026-10-05,xAI,xai-grok-4-1-fast,Grok 4.1 Fast,0.2,0.5,0.275,model_price_watch
+2026-10-05,xAI,xai-grok-4-20,Grok 4.20,1.25,2.5,1.5625,model_price_watch
+2026-10-05,xAI,xai-grok-4-3,Grok 4.3,1.25,2.5,1.5625,model_price_watch
+2026-10-05,xAI,xai-grok-4-5,Grok 4.5,2.0,6.0,3.0,model_price_watch
+2026-10-05,xAI,xai-grok-4-6,Grok 4.6,2.0,6.0,3.0,model_price_watch
+2026-10-05,xAI,xai-grok-build-0-1,Grok Build 0.1,1.0,2.0,1.25,model_price_watch
+2026-10-12,01.AI,01ai-yi-large,Yi Large,3.0,9.0,4.5,model_price_watch
+2026-10-12,AI21,jamba-large,Jamba Large,2.0,8.0,3.5,roninforge_ai_price_index
+2026-10-12,AI21,jamba-mini,Jamba Mini,0.2,0.4,0.25,roninforge_ai_price_index
+2026-10-12,Alibaba,alibaba-qwen3-32b,Qwen3-32B,0.16,0.64,0.28,model_price_watch
+2026-10-12,Alibaba,alibaba-qwen3-5-122b-a10b,Qwen3.5-122B-A10B,0.4,3.2,1.1,model_price_watch
+2026-10-12,Alibaba,alibaba-qwen3-5-27b,Qwen3.5-27B,0.3,2.4,0.825,model_price_watch
+2026-10-12,Alibaba,alibaba-qwen3-5-35b-a3b,Qwen3.5-35B-A3B,0.25,2.0,0.6875,model_price_watch
+2026-10-12,Alibaba,alibaba-qwen3-5-397b-a17b,Qwen3.5-397B-A17B,0.6,3.6,1.35,model_price_watch
+2026-10-12,Alibaba,alibaba-qwen3-5-flash,Qwen3.5-Flash,0.1,0.4,0.175,model_price_watch
+2026-10-12,Alibaba,alibaba-qwen3-5-plus,Qwen3.5-Plus,0.4,2.4,0.9,model_price_watch
+2026-10-12,Alibaba,alibaba-qwen3-6-27b,Qwen3.6-27B,0.6,3.6,1.35,model_price_watch
+2026-10-12,Alibaba,alibaba-qwen3-6-flash,Qwen3.6-Flash,0.25,1.5,0.5625,model_price_watch
+2026-10-12,Alibaba,alibaba-qwen3-6-plus,Qwen3.6-Plus,0.5,3.0,1.125,model_price_watch
+2026-10-12,Alibaba,alibaba-qwen3-7-flash,Qwen3.7-Flash,0.03,0.13,0.055,model_price_watch
+2026-10-12,Alibaba,alibaba-qwen3-7-max,Qwen3.7-Max,2.5,7.5,3.75,model_price_watch
+2026-10-12,Alibaba,alibaba-qwen3-7-plus,Qwen3.7-Plus,0.4,1.6,0.7000000000000001,model_price_watch
+2026-10-12,Alibaba,alibaba-qwen3-8-2-4t-a95b,Qwen3.8-2.4T-A95B,2.0,6.0,3.0,model_price_watch
+2026-10-12,Alibaba,alibaba-qwen3-8-27b,Qwen3.8-27B,0.5,3.0,1.125,model_price_watch
+2026-10-12,Alibaba,alibaba-qwen3-8-flash,Qwen3.8-Flash,0.15,0.47,0.2299999999999999,model_price_watch
+2026-10-12,Alibaba,alibaba-qwen3-8-max,Qwen3.8-Max,2.0,6.0,3.0,model_price_watch
+2026-10-12,Alibaba,alibaba-qwq-plus,QwQ-Plus,0.8,2.4,1.2000000000000002,model_price_watch
+2026-10-12,Alibaba,qwen-flash,Qwen-Flash,0.05,0.4,0.1375,roninforge_ai_price_index
+2026-10-12,Alibaba,qwen-max,Qwen Max,1.6,6.4,2.8000000000000003,roninforge_ai_price_index
+2026-10-12,Alibaba,qwen-plus,Qwen-Plus,0.4,1.2,0.6000000000000001,roninforge_ai_price_index
+2026-10-12,Alibaba,qwen3-coder-flash,Qwen3 Coder Flash,0.3,1.5,0.6,roninforge_ai_price_index
+2026-10-12,Alibaba,qwen3.5-flash,Qwen3.5 Flash,0.1,0.4,0.175,roninforge_ai_price_index
+2026-10-12,Alibaba,qwen3.5-plus,Qwen3.5 Plus,0.4,2.4,0.9,roninforge_ai_price_index
+2026-10-12,Alibaba,qwen3.6-flash,Qwen3.6 Flash,0.25,1.5,0.5625,roninforge_ai_price_index
+2026-10-12,Alibaba,qwen3.6-plus,Qwen3.6 Plus,0.5,3.0,1.125,roninforge_ai_price_index
+2026-10-12,Alibaba,qwen3.7-flash,Qwen3.7 Flash,0.03,0.13,0.055,roninforge_ai_price_index
+2026-10-12,Alibaba,qwen3.7-max,Qwen3.7 Max,2.5,7.5,3.75,roninforge_ai_price_index
+2026-10-12,Alibaba,qwen3.7-plus,Qwen3.7 Plus,0.4,1.6,0.7000000000000001,roninforge_ai_price_index
+2026-10-12,Alibaba,qwen3.8-flash,Qwen3.8 Flash,0.15,0.47,0.2299999999999999,roninforge_ai_price_index
+2026-10-12,Alibaba,qwen3.8-max,Qwen3.8 Max,2.0,6.0,3.0,roninforge_ai_price_index
+2026-10-12,Amazon,nova-2-lite,Nova 2 Lite,0.3,2.5,0.85,roninforge_ai_price_index
+2026-10-12,Amazon,nova-2-pro,Nova 2 Pro,1.25,10.0,3.4375,roninforge_ai_price_index
+2026-10-12,Amazon,nova-lite,Nova Lite,0.06,0.24,0.105,roninforge_ai_price_index
+2026-10-12,Amazon,nova-micro,Nova Micro,0.035,0.14,0.06125,roninforge_ai_price_index
+2026-10-12,Amazon,nova-premier,Nova Premier,2.5,12.5,5.0,roninforge_ai_price_index
+2026-10-12,Amazon,nova-pro,Nova Pro,0.8,3.2,1.4,roninforge_ai_price_index
+2026-10-12,Anthropic,anthropic-claude-haiku-3-5,Claude Haiku 3.5,0.8,4.0,1.6,model_price_watch
+2026-10-12,Anthropic,anthropic-claude-haiku-4-5,Claude Haiku 4.5,1.0,5.0,2.0,model_price_watch
+2026-10-12,Anthropic,anthropic-claude-opus-4,Claude Opus 4,15.0,75.0,30.0,model_price_watch
+2026-10-12,Anthropic,anthropic-claude-opus-4-1,Claude Opus 4.1,15.0,75.0,30.0,model_price_watch
+2026-10-12,Anthropic,anthropic-claude-opus-4-5,Claude Opus 4.5,5.0,25.0,10.0,model_price_watch
+2026-10-12,Anthropic,anthropic-claude-sonnet-4,Claude Sonnet 4,3.0,15.0,6.0,model_price_watch
+2026-10-12,Anthropic,anthropic-claude-sonnet-4-5,Claude Sonnet 4.5,3.0,15.0,6.0,model_price_watch
+2026-10-12,Anthropic,claude-fable-5,Claude Fable 5,10.0,50.0,20.0,roninforge_ai_price_index
+2026-10-12,Anthropic,claude-fable-5-1,Claude Fable 5.1,10.0,50.0,20.0,roninforge_ai_price_index
+2026-10-12,Anthropic,claude-haiku-4-5-20251001,Claude Haiku 4 5 20251001,1.0,5.0,2.0,roninforge_ai_price_index
+2026-10-12,Anthropic,claude-haiku-5-5,Claude Haiku 5.5,0.1,0.5,0.2,roninforge_ai_price_index
+2026-10-12,Anthropic,claude-mythos-5,Claude Mythos 5,10.0,50.0,20.0,roninforge_ai_price_index
+2026-10-12,Anthropic,claude-mythos-5-1,Claude Mythos 5.1,10.0,50.0,20.0,roninforge_ai_price_index
+2026-10-12,Anthropic,claude-opus-4-1-20250805,Claude Opus 4 1 20250805,15.0,75.0,30.0,roninforge_ai_price_index
+2026-10-12,Anthropic,claude-opus-4-20250514,Claude Opus 4 20250514,15.0,75.0,30.0,roninforge_ai_price_index
+2026-10-12,Anthropic,claude-opus-4-5-20251101,Claude Opus 4 5 20251101,5.0,25.0,10.0,roninforge_ai_price_index
+2026-10-12,Anthropic,claude-opus-4-6,Claude Opus 4.6,5.0,25.0,10.0,roninforge_ai_price_index
+2026-10-12,Anthropic,claude-opus-4-7,Claude Opus 4.7,5.0,25.0,10.0,roninforge_ai_price_index
+2026-10-12,Anthropic,claude-opus-4-8,Claude Opus 4.8,5.0,25.0,10.0,roninforge_ai_price_index
+2026-10-12,Anthropic,claude-opus-5,Claude Opus 5,5.0,25.0,10.0,roninforge_ai_price_index
+2026-10-12,Anthropic,claude-opus-5-5,Claude Opus 5.5,4.0,20.0,8.0,"roninforge_ai_price_index; launched 2026-09-22, in force at the week's Arena snapshot (2026-09-25)"
+2026-10-12,Anthropic,claude-sonnet-4-20250514,Claude Sonnet 4 20250514,3.0,15.0,6.0,roninforge_ai_price_index
+2026-10-12,Anthropic,claude-sonnet-4-5-20250929,Claude Sonnet 4 5 20250929,3.0,15.0,6.0,roninforge_ai_price_index
+2026-10-12,Anthropic,claude-sonnet-4-6,Claude Sonnet 4.6,3.0,15.0,6.0,roninforge_ai_price_index
+2026-10-12,Anthropic,claude-sonnet-5,Claude Sonnet 5,2.0,10.0,4.0,roninforge_ai_price_index
+2026-10-12,Anthropic,claude-sonnet-5-5,Claude Sonnet 5.5,2.0,10.0,4.0,roninforge_ai_price_index
+2026-10-12,Baichuan,baichuan-m2-32b,Baichuan M2-32B,0.07,0.07,0.07,model_price_watch
+2026-10-12,Cohere,cohere-command-a,Command A,2.5,10.0,4.375,model_price_watch
+2026-10-12,Cohere,cohere-command-r-03-2024,Command R 03-2024,0.5,1.5,0.75,model_price_watch
+2026-10-12,Cohere,cohere-command-r-08-2024,Command R 08-2024,0.15,0.6,0.2624999999999999,model_price_watch
+2026-10-12,Cohere,cohere-command-r-plus-08-2024,Command R+ 08-2024,2.5,10.0,4.375,model_price_watch
+2026-10-12,Cohere,cohere-embed-4,Embed 4,0.12,,,model_price_watch
+2026-10-12,Cohere,cohere-rerank-3-5,Rerank 3.5,0.02,,,model_price_watch
+2026-10-12,Cohere,command-r,Command R,0.15,0.6,0.2624999999999999,roninforge_ai_price_index
+2026-10-12,Cohere,command-r7b,Command R7b,0.0375,0.15,0.0656249999999999,roninforge_ai_price_index
+2026-10-12,DeepInfra,deepinfra-deepseek-v4-flash,DeepSeek V4 Flash (DeepInfra),0.06,0.18,0.09,model_price_watch; price cut from $0.09 input
+2026-10-12,DeepInfra,deepinfra-deepseek-v4-pro,DeepSeek V4 Pro,1.3,2.6,1.625,model_price_watch
+2026-10-12,DeepInfra,deepinfra-llama-4-maverick,Llama 4 Maverick,0.2,0.8,0.35,model_price_watch
+2026-10-12,DeepInfra,deepinfra-llama-4-scout,Llama 4 Scout,0.1,0.3,0.15,model_price_watch
+2026-10-12,DeepInfra,deepinfra-nvidia-nemotron-3-5-lightning,NVIDIA Nemotron 3.5 Lightning,0.08,0.2,0.11,model_price_watch
+2026-10-12,DeepInfra,deepinfra-nvidia-nemotron-70b-instruct,Nemotron 70B Instruct,1.2,1.2,1.2,model_price_watch
+2026-10-12,DeepInfra,deepinfra-qwen3-32b,Qwen3-32B,0.08,0.28,0.13,model_price_watch
+2026-10-12,DeepSeek,deepseek-v4-1-flash,DeepSeek V4.1 Flash,0.3,1.2,0.5249999999999999,"official_docs_deepseek; peak (standard) rate, off-peak is a 50% discount"
+2026-10-12,DeepSeek,deepseek-v4-pro,DeepSeek V4 Pro,0.66,1.98,0.99,roninforge_ai_price_index
+2026-10-12,Fireworks,fireworks-deepseek-v4-flash,DeepSeek V4 Flash,0.14,0.28,0.175,model_price_watch
+2026-10-12,Fireworks,fireworks-deepseek-v4-pro,DeepSeek V4 Pro,1.32,3.96,1.98,model_price_watch
+2026-10-12,Fireworks,fireworks-glm-5-1,GLM-5.1,1.4,4.4,2.15,model_price_watch
+2026-10-12,Fireworks,fireworks-glm-5-2,GLM-5.2,1.4,4.4,2.15,model_price_watch
+2026-10-12,Fireworks,fireworks-glm-5-3,GLM-5.3,1.4,4.4,2.15,model_price_watch
+2026-10-12,Fireworks,fireworks-gpt-oss-120b,GPT-OSS 120B,0.15,0.6,0.2624999999999999,model_price_watch
+2026-10-12,Fireworks,fireworks-gpt-oss-20b,GPT-OSS 20B,0.07,0.3,0.1275,model_price_watch
+2026-10-12,Fireworks,fireworks-kimi-k2-5,Kimi K2.5,0.6,3.0,1.2,model_price_watch
+2026-10-12,Fireworks,fireworks-kimi-k2-6,Kimi K2.6,0.95,4.0,1.7125,model_price_watch
+2026-10-12,Fireworks,fireworks-kimi-k2-7-code,Kimi K2.7 Code,0.95,4.0,1.7125,model_price_watch
+2026-10-12,Fireworks,fireworks-minimax-2-5,MiniMax-M2.5,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-12,Fireworks,fireworks-minimax-2-7,MiniMax-M2.7,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-12,Fireworks,fireworks-minimax-m3,MiniMax-M3,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-12,Fireworks,fireworks-muse-glimmer-30b,Muse Glimmer 30B,0.35,1.5,0.6375,model_price_watch
+2026-10-12,Fireworks,fireworks-nemotron-3-ultra,NVIDIA Nemotron 3 Ultra,0.6,2.4,1.0499999999999998,model_price_watch
+2026-10-12,Fireworks,fireworks-qwen3-6-plus,Qwen3.6-Plus,0.5,3.0,1.125,model_price_watch
+2026-10-12,Fireworks,fireworks-qwen3-7-plus,Qwen3.7-Plus,0.4,1.6,0.7000000000000001,model_price_watch
+2026-10-12,Google,gemini-2.5-flash,Gemini 2.5 Flash,0.3,2.5,0.85,roninforge_ai_price_index
+2026-10-12,Google,gemini-2.5-flash-lite,Gemini 2.5 Flash-Lite,0.1,0.4,0.175,roninforge_ai_price_index
+2026-10-12,Google,gemini-2.5-pro,Gemini 2.5 Pro,1.25,10.0,3.4375,roninforge_ai_price_index
+2026-10-12,Google,gemini-3-flash-preview,Gemini 3 Flash Preview,0.5,3.0,1.125,roninforge_ai_price_index
+2026-10-12,Google,gemini-3.1-flash-lite,Gemini 3.1 Flash-Lite,0.25,1.5,0.5625,roninforge_ai_price_index
+2026-10-12,Google,gemini-3.1-pro-preview,Gemini 3.1 Pro Preview,2.0,12.0,4.5,roninforge_ai_price_index
+2026-10-12,Google,gemini-3.5-flash-lite,Gemini 3.5 Flash-Lite,0.3,2.5,0.85,roninforge_ai_price_index
+2026-10-12,Google,gemini-3.6-flash,Gemini 3.6 Flash,0.75,3.75,1.5,roninforge_ai_price_index
+2026-10-12,Google,gemini-3.8-flash,Gemini 3.8 Flash,0.75,3.75,1.5,roninforge_ai_price_index
+2026-10-12,Google,gemini-4-argon,Gemini 4 Argon,2.0,10.0,4.0,"roninforge_ai_price_index; effective 2026-10-13, in force at the week's Arena snapshot (2026-10-15); introductory rate through 2026-11-30; $4/$20 from 2026-12-01"
+2026-10-12,Google,google-gemini-2-5-flash,Gemini 2.5 Flash,0.3,2.5,0.85,model_price_watch
+2026-10-12,Google,google-gemini-2-5-flash-lite,Gemini 2.5 Flash-Lite,0.1,0.4,0.175,model_price_watch
+2026-10-12,Google,google-gemini-2-5-pro,Gemini 2.5 Pro,1.25,10.0,3.4375,model_price_watch
+2026-10-12,Google,google-gemini-3-1-flash-image,Gemini 3.1 Flash Image,0.5,60.0,15.375,model_price_watch
+2026-10-12,Google,google-gemini-3-1-flash-lite,Gemini 3.1 Flash-Lite,0.25,1.5,0.5625,model_price_watch
+2026-10-12,Google,google-gemini-3-1-flash-lite-image,Gemini 3.1 Flash Lite Image,0.25,30.0,7.6875,model_price_watch
+2026-10-12,Google,google-gemini-3-1-pro,Gemini 3.1 Pro,2.0,12.0,4.5,model_price_watch
+2026-10-12,Google,google-gemini-3-5-flash-lite,Gemini 3.5 Flash-Lite,0.3,2.5,0.85,model_price_watch
+2026-10-12,Google,google-gemini-3-6-flash,Gemini 3.6 Flash,0.75,3.75,1.5,model_price_watch
+2026-10-12,Google,google-gemini-3-8-flash,Gemini 3.8 Flash,0.75,3.75,1.5,model_price_watch
+2026-10-12,Google,google-gemini-3-pro-image,Gemini 3 Pro Image,2.0,120.0,31.5,model_price_watch
+2026-10-12,Google,google-text-embedding-004,text-embedding-004,0.025,,,model_price_watch
+2026-10-12,Groq,groq-gpt-oss-120b,GPT-OSS 120B,0.15,0.6,0.2624999999999999,model_price_watch
+2026-10-12,Groq,groq-gpt-oss-20b,GPT-OSS 20B,0.075,0.3,0.1312499999999999,model_price_watch
+2026-10-12,Groq,groq-llama-3-1-8b-instant,Llama 3.1 8B Instant,0.05,0.08,0.0575,model_price_watch
+2026-10-12,Groq,groq-llama-3-3-70b-versatile,Llama 3.3 70B Versatile,0.59,0.79,0.64,model_price_watch
+2026-10-12,Groq,groq-llama-4-scout,Llama 4 Scout,0.11,0.34,0.1675,model_price_watch
+2026-10-12,Groq,groq-qwen-3-6-27b,Qwen3.6-27B,0.6,3.0,1.2,model_price_watch
+2026-10-12,Groq,groq-qwen3-32b,Qwen3-32B,0.29,0.59,0.365,model_price_watch
+2026-10-12,IBM,ibm-granite-4-0-h-micro,Granite 4.0 H Micro,0.017,0.112,0.04075,model_price_watch
+2026-10-12,IBM,ibm-granite-4-h-small,Granite 4 H Small,0.0636,0.265,0.11395,model_price_watch
+2026-10-12,IBM,ibm-granite-embedding-278m,Granite Embedding 278M Multilingual,0.106,,,model_price_watch
+2026-10-12,Inception,inception-mercury-2,Mercury 2,0.25,0.75,0.375,model_price_watch
+2026-10-12,Kwaipilot,kwaipilot-kat-coder-air-v2-5,KAT-Coder-Air V2.5,0.148,0.593,0.25925,model_price_watch
+2026-10-12,Kwaipilot,kwaipilot-kat-coder-pro-v2-5,KAT-Coder-Pro V2.5,0.741,2.964,1.2967499999999998,model_price_watch
+2026-10-12,Meituan,meituan-longcat-2,LongCat-2.0,0.75,2.95,1.3,model_price_watch
+2026-10-12,Meta,llama-3.1-405b,Llama 3.1 405b,3.5,3.5,3.5,roninforge_ai_price_index
+2026-10-12,Meta,llama-3.1-8b,Llama 3.1 8b,0.18,0.18,0.18,roninforge_ai_price_index
+2026-10-12,Meta,llama-3.3-70b,Llama 3.3 70b,1.04,1.04,1.04,roninforge_ai_price_index
+2026-10-12,Meta,llama-4-maverick,Llama 4 Maverick,0.27,0.85,0.415,roninforge_ai_price_index
+2026-10-12,Meta,llama-4-scout,Llama 4 Scout,0.18,0.59,0.2825,roninforge_ai_price_index
+2026-10-12,Meta,meta-llama-3-1-8b,Llama 3.1 8B,0.05,0.08,0.0575,model_price_watch
+2026-10-12,Meta,meta-llama-3-3-70b,Llama 3.3 70B,0.59,0.79,0.64,model_price_watch
+2026-10-12,Meta,meta-muse-spark-1-1,Muse Spark 1.1,1.25,4.25,2.0,model_price_watch
+2026-10-12,Meta,meta-muse-spark-1-2,Muse Spark 1.2,1.25,4.25,2.0,model_price_watch
+2026-10-12,Meta,meta-muse-spark-1-3,Muse Spark 1.3,1.25,4.25,2.0,model_price_watch
+2026-10-12,Meta,meta-muse-wonder,Muse Wonder,4.0,20.0,8.0,model_price_watch; preview; Standard mode
+2026-10-12,MiniMax,minimax-m2,MiniMax-M2,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-12,MiniMax,minimax-m2-1,MiniMax-M2.1,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-12,MiniMax,minimax-m2-5,MiniMax-M2.5,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-12,MiniMax,minimax-m2-7,MiniMax-M2.7,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-12,MiniMax,minimax-m3,MiniMax-M3,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-12,Mistral,codestral-25.08,Codestral 25.08,0.3,0.9,0.4499999999999999,roninforge_ai_price_index
+2026-10-12,Mistral,devstral-2,Devstral 2 2512,0.4,2.0,0.8,roninforge_ai_price_index
+2026-10-12,Mistral,devstral-small-2,Devstral Small 2,0.1,0.3,0.15,roninforge_ai_price_index
+2026-10-12,Mistral,magistral-medium,Magistral Medium,2.0,5.0,2.75,roninforge_ai_price_index
+2026-10-12,Mistral,magistral-small,Magistral Small,0.5,1.5,0.75,roninforge_ai_price_index
+2026-10-12,Mistral,ministral-3-14b,Ministral 3 14b,0.2,0.2,0.2,roninforge_ai_price_index
+2026-10-12,Mistral,ministral-3-3b,Ministral 3 3b,0.1,0.1,0.1,roninforge_ai_price_index
+2026-10-12,Mistral,ministral-3-8b,Ministral 3 8b,0.15,0.15,0.15,roninforge_ai_price_index
+2026-10-12,Mistral,mistral-codestral,Codestral,0.3,0.9,0.4499999999999999,model_price_watch
+2026-10-12,Mistral,mistral-codestral-2508,Codestral 2508,0.3,0.9,0.4499999999999999,model_price_watch
+2026-10-12,Mistral,mistral-large-3,Mistral Large 3,0.5,1.5,0.75,roninforge_ai_price_index
+2026-10-12,Mistral,mistral-large-4,Mistral Large 4,0.68,2.09,1.0325,roninforge_ai_price_index
+2026-10-12,Mistral,mistral-medium-3,Mistral Medium 3,0.4,2.0,0.8,model_price_watch
+2026-10-12,Mistral,mistral-medium-3-5,Mistral Medium 3.5,1.5,7.5,3.0,model_price_watch
+2026-10-12,Mistral,mistral-medium-3.5,Mistral Medium 3.5,1.5,7.5,3.0,roninforge_ai_price_index
+2026-10-12,Mistral,mistral-ministral-3b,Ministral 3 3B,0.1,0.1,0.1,model_price_watch
+2026-10-12,Mistral,mistral-mixtral-8x22b,Mixtral 8x22B Instruct,2.0,6.0,3.0,model_price_watch
+2026-10-12,Mistral,mistral-mixtral-8x7b,Mixtral 8x7B Instruct,0.7,0.7,0.7,model_price_watch
+2026-10-12,Mistral,mistral-pixtral-12b,Pixtral 12B,0.1,0.1,0.1,model_price_watch
+2026-10-12,Mistral,mistral-pixtral-large,Pixtral Large 2411,2.0,6.0,3.0,model_price_watch
+2026-10-12,Mistral,mistral-small-3-2,Mistral Small 3.2 24B,0.1,0.3,0.15,model_price_watch
+2026-10-12,Mistral,mistral-small-4,Mistral Small 4,0.15,0.6,0.2624999999999999,roninforge_ai_price_index
+2026-10-12,Mistral,mistral-voxtral-small,Voxtral Small 24B,0.1,0.4,0.175,model_price_watch
+2026-10-12,Moonshot,moonshot-kimi-k2-5,Kimi K2.5,0.6,3.0,1.2,model_price_watch
+2026-10-12,Moonshot,moonshot-kimi-k2-6,Kimi K2.6,0.95,4.0,1.7125,model_price_watch
+2026-10-12,Moonshot,moonshot-kimi-k2-7-code,Kimi K2.7 Code,0.95,4.0,1.7125,model_price_watch
+2026-10-12,Moonshot,moonshot-kimi-k2-7-code-highspeed,Kimi K2.7 Code HighSpeed,1.9,8.0,3.425,model_price_watch
+2026-10-12,Moonshot,moonshot-kimi-k3,Kimi K3,3.0,15.0,6.0,model_price_watch
+2026-10-12,OpenAI,gpt-4.1,GPT-4.1,2.0,8.0,3.5,roninforge_ai_price_index
+2026-10-12,OpenAI,gpt-4o,GPT-4o,2.5,10.0,4.375,roninforge_ai_price_index
+2026-10-12,OpenAI,gpt-4o-mini,GPT-4o mini,0.15,0.6,0.2624999999999999,roninforge_ai_price_index
+2026-10-12,OpenAI,gpt-5,GPT-5,1.25,10.0,3.4375,roninforge_ai_price_index
+2026-10-12,OpenAI,gpt-5.1,GPT-5.1,1.25,10.0,3.4375,roninforge_ai_price_index
+2026-10-12,OpenAI,gpt-5.2,GPT-5.2,1.75,14.0,4.8125,roninforge_ai_price_index
+2026-10-12,OpenAI,gpt-5.2-pro,GPT-5.2 Pro,21.0,168.0,57.75,roninforge_ai_price_index
+2026-10-12,OpenAI,gpt-5.3-codex,GPT-5.3 Codex,1.75,14.0,4.8125,roninforge_ai_price_index
+2026-10-12,OpenAI,gpt-5.4,GPT-5.4,2.5,15.0,5.625,roninforge_ai_price_index
+2026-10-12,OpenAI,gpt-5.4-mini,GPT-5.4 mini,0.75,4.5,1.6875,roninforge_ai_price_index
+2026-10-12,OpenAI,gpt-5.4-nano,GPT-5.4 nano,0.2,1.25,0.4625,roninforge_ai_price_index
+2026-10-12,OpenAI,gpt-5.4-pro,GPT-5.4 Pro,30.0,180.0,67.5,roninforge_ai_price_index
+2026-10-12,OpenAI,gpt-5.5,GPT-5.5,5.0,30.0,11.25,roninforge_ai_price_index
+2026-10-12,OpenAI,gpt-5.5-pro,GPT-5.5 Pro,30.0,180.0,67.5,roninforge_ai_price_index
+2026-10-12,OpenAI,gpt-5.6-luna,GPT-5.6 Luna,0.2,1.2,0.45,roninforge_ai_price_index
+2026-10-12,OpenAI,gpt-5.6-sol,GPT-5.6 Sol,4.0,20.0,8.0,roninforge_ai_price_index
+2026-10-12,OpenAI,gpt-5.6-terra,GPT-5.6 Terra,2.0,12.0,4.5,roninforge_ai_price_index
+2026-10-12,OpenAI,gpt-6-astra,GPT-6 Astra,10.0,50.0,20.0,roninforge_ai_price_index
+2026-10-12,OpenAI,gpt-6-luna,GPT-6 Luna,0.1,0.5,0.2,"roninforge_ai_price_index; launched 2026-09-23, in force at the week's Arena snapshot (2026-09-25)"
+2026-10-12,OpenAI,gpt-6-sol,GPT-6 Sol,2.0,10.0,4.0,"roninforge_ai_price_index; launched 2026-09-23, in force at the week's Arena snapshot (2026-09-25)"
+2026-10-12,OpenAI,gpt-6.1-sol,GPT-6.1 Sol,2.0,10.0,4.0,roninforge_ai_price_index
+2026-10-12,OpenAI,o1,o1,15.0,60.0,26.25,roninforge_ai_price_index
+2026-10-12,OpenAI,o1-mini,O1 Mini,1.1,4.4,1.9250000000000005,roninforge_ai_price_index
+2026-10-12,OpenAI,o1-pro,o1-pro,150.0,600.0,262.5,roninforge_ai_price_index
+2026-10-12,OpenAI,o3,o3,2.0,8.0,3.5,roninforge_ai_price_index
+2026-10-12,OpenAI,o3-deep-research,O3 Deep Research,10.0,40.0,17.5,roninforge_ai_price_index
+2026-10-12,OpenAI,o3-mini,o3-mini,1.1,4.4,1.9250000000000005,roninforge_ai_price_index
+2026-10-12,OpenAI,o3-pro,o3-pro,20.0,80.0,35.0,roninforge_ai_price_index
+2026-10-12,OpenAI,o4-mini,o4-mini,1.1,4.4,1.9250000000000005,roninforge_ai_price_index
+2026-10-12,OpenAI,o4-mini-deep-research,O4 Mini Deep Research,2.0,8.0,3.5,roninforge_ai_price_index
+2026-10-12,OpenAI,openai-gpt-3-5-turbo,GPT-3.5 Turbo,0.5,1.5,0.75,model_price_watch
+2026-10-12,OpenAI,openai-gpt-4-0613,GPT-4,30.0,60.0,37.5,model_price_watch
+2026-10-12,OpenAI,openai-gpt-4-1,GPT-4.1,2.0,8.0,3.5,model_price_watch
+2026-10-12,OpenAI,openai-gpt-4-1-mini,GPT-4.1 mini,0.4,1.6,0.7000000000000001,model_price_watch
+2026-10-12,OpenAI,openai-gpt-4-1-nano,GPT-4.1 nano,0.1,0.4,0.175,model_price_watch
+2026-10-12,OpenAI,openai-gpt-4-turbo-2024-04-09,GPT-4 Turbo,10.0,30.0,15.0,model_price_watch
+2026-10-12,OpenAI,openai-gpt-5-1,GPT-5.1,1.25,10.0,3.4375,model_price_watch
+2026-10-12,OpenAI,openai-gpt-5-2,GPT-5.2,1.75,14.0,4.8125,model_price_watch
+2026-10-12,OpenAI,openai-gpt-5-2-chat,GPT-5.2 Chat,1.75,14.0,4.8125,model_price_watch
+2026-10-12,OpenAI,openai-gpt-5-2-codex,GPT-5.2 Codex,1.75,14.0,4.8125,model_price_watch
+2026-10-12,OpenAI,openai-gpt-5-2-pro,GPT-5.2 Pro,21.0,168.0,57.75,model_price_watch
+2026-10-12,OpenAI,openai-gpt-5-3-chat,GPT-5.3 Chat,1.75,14.0,4.8125,model_price_watch
+2026-10-12,OpenAI,openai-gpt-5-3-codex,GPT-5.3 Codex,1.75,14.0,4.8125,model_price_watch
+2026-10-12,OpenAI,openai-gpt-5-4,GPT-5.4,2.5,15.0,5.625,model_price_watch
+2026-10-12,OpenAI,openai-gpt-5-4-mini,GPT-5.4 mini,0.75,4.5,1.6875,model_price_watch
+2026-10-12,OpenAI,openai-gpt-5-4-nano,GPT-5.4 nano,0.2,1.25,0.4625,model_price_watch
+2026-10-12,OpenAI,openai-gpt-5-4-pro,GPT-5.4 Pro,30.0,180.0,67.5,model_price_watch
+2026-10-12,OpenAI,openai-gpt-5-5,GPT-5.5,5.0,30.0,11.25,model_price_watch
+2026-10-12,OpenAI,openai-gpt-5-5-pro,GPT-5.5 Pro,30.0,180.0,67.5,model_price_watch
+2026-10-12,OpenAI,openai-gpt-5-6-cyber,GPT-5.6 Cyber,12.5,75.0,28.125,model_price_watch
+2026-10-12,OpenAI,openai-gpt-5-6-luna,GPT-5.6 Luna,0.2,1.2,0.45,model_price_watch
+2026-10-12,OpenAI,openai-gpt-5-6-sol,GPT-5.6 Sol,4.0,20.0,8.0,model_price_watch
+2026-10-12,OpenAI,openai-gpt-5-6-terra,GPT-5.6 Terra,2.0,12.0,4.5,model_price_watch
+2026-10-12,OpenAI,openai-gpt-5-mini,GPT-5 mini,0.25,2.0,0.6875,model_price_watch
+2026-10-12,OpenAI,openai-gpt-5-nano,GPT-5 nano,0.05,0.4,0.1375,model_price_watch
+2026-10-12,OpenAI,openai-gpt-5-pro,GPT-5 Pro,15.0,120.0,41.25,model_price_watch
+2026-10-12,OpenAI,openai-gpt-audio-1-5,GPT-Audio-1.5,2.5,10.0,4.375,model_price_watch
+2026-10-12,OpenAI,openai-gpt-image-2,GPT-Image-2,8.0,30.0,13.5,model_price_watch
+2026-10-12,OpenAI,openai-gpt-realtime-2,GPT-Realtime-2,4.0,24.0,9.0,model_price_watch
+2026-10-12,OpenAI,openai-gpt-realtime-2-1,GPT-Realtime-2.1,4.0,24.0,9.0,model_price_watch
+2026-10-12,OpenAI,openai-gpt-realtime-2-1-mini,GPT-Realtime-2.1 mini,0.6,2.4,1.0499999999999998,model_price_watch
+2026-10-12,OpenAI,openai-text-embedding-3-large,text-embedding-3-large,0.13,,,model_price_watch
+2026-10-12,OpenAI,openai-text-embedding-3-small,text-embedding-3-small,0.02,,,model_price_watch
+2026-10-12,Perplexity,perplexity-sonar,Sonar,1.0,1.0,1.0,model_price_watch
+2026-10-12,Perplexity,perplexity-sonar-deep-research,Sonar Deep Research,2.0,8.0,3.5,model_price_watch
+2026-10-12,Perplexity,perplexity-sonar-pro,Sonar Pro,3.0,15.0,6.0,model_price_watch
+2026-10-12,Perplexity,perplexity-sonar-reasoning-pro,Sonar Reasoning Pro,2.0,8.0,3.5,model_price_watch
+2026-10-12,Reka,reka-core,Reka Core,2.0,6.0,3.0,model_price_watch
+2026-10-12,Reka,reka-edge,Reka Edge,0.1,0.1,0.1,model_price_watch
+2026-10-12,Reka,reka-flash,Reka Flash,0.8,2.0,1.1,model_price_watch
+2026-10-12,Reka,reka-flash-3,Reka Flash 3,0.1,0.2,0.125,model_price_watch
+2026-10-12,Relace,relace-apply-3,Relace Apply 3,0.8,1.2,0.9000000000000001,model_price_watch
+2026-10-12,Relace,relace-search,Relace Search,1.0,3.0,1.5,model_price_watch
+2026-10-12,Sakana AI,sakana-fugu-ultra,Fugu Ultra,5.0,30.0,11.25,model_price_watch
+2026-10-12,Sakana AI,sakana-namazu,Sakana Namazu,0.95,4.0,1.7125,model_price_watch
+2026-10-12,StepFun,stepfun-step-3-5-flash,Step 3.5 Flash,0.1,0.3,0.15,model_price_watch; first tracked 2026-10-08
+2026-10-12,StepFun,stepfun-step-3-7-flash,Step 3.7 Flash,0.2,1.15,0.4375,model_price_watch
+2026-10-12,StepFun,stepfun-step-5-preview,Step 5 Preview,1.0,2.7,1.425,model_price_watch; preview
+2026-10-12,Tencent,tencent-hunyuan-hy3-preview,Hunyuan Hy3,0.147,0.588,0.25725,model_price_watch
+2026-10-12,Tencent,tencent-hy-mt2-1-8b,Hy-MT2 1.8B,0.044,0.177,0.07725,model_price_watch
+2026-10-12,Tencent,tencent-hy-mt2-30b-a3b,Hy-MT2 30B-A3B,0.074,0.295,0.1292499999999999,model_price_watch
+2026-10-12,Tencent,tencent-hy4-preview,Hy4 preview,0.834,2.501,1.25075,model_price_watch
+2026-10-12,Thinking Machines,thinking-machines-inkling,Inkling,1.0,4.05,1.7625,model_price_watch
+2026-10-12,Thinking Machines,thinking-machines-inkling-small,Inkling Small,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-12,Together,together-deepseek-v4-pro,DeepSeek V4 Pro,1.32,3.96,1.98,model_price_watch
+2026-10-12,Together,together-gemma-4-31b-pearl,Gemma-4-31B-it-Pearl,0.28,0.86,0.425,model_price_watch
+2026-10-12,Together,together-glm-5-2,GLM-5.2,1.4,4.4,2.15,model_price_watch
+2026-10-12,Together,together-glm-5-3,GLM-5.3,1.4,4.4,2.15,model_price_watch
+2026-10-12,Together,together-gpt-oss-120b,GPT-OSS 120B,0.15,0.6,0.2624999999999999,model_price_watch
+2026-10-12,Together,together-kimi-k2-7-code,Kimi K2.7 Code,0.95,4.0,1.7125,model_price_watch
+2026-10-12,Together,together-lfm2-24b-a2b,LFM2 24B A2B,0.03,0.12,0.0525,model_price_watch
+2026-10-12,Together,together-lfm2-5-8b-a1b,LFM2.5 8B A1B,0.03,0.12,0.0525,model_price_watch
+2026-10-12,Together,together-llama-3-3-70b,Llama 3.3 70B,1.04,1.04,1.04,model_price_watch
+2026-10-12,Together,together-minimax-m2-5,MiniMax-M2.5,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-12,Together,together-minimax-m3,MiniMax-M3,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-12,Together,together-muse-glimmer-30b,Muse Glimmer 30B,0.35,1.5,0.6375,model_price_watch
+2026-10-12,Together,together-nvidia-nemotron-3-ultra,NVIDIA Nemotron 3 Ultra,0.6,3.6,1.35,model_price_watch
+2026-10-12,Together,together-qwen3-5-397b-a17b,Qwen3.5-397B-A17B,0.6,3.6,1.35,model_price_watch
+2026-10-12,Together,together-qwen3-7-max,Qwen3.7-Max,1.25,3.75,1.875,model_price_watch
+2026-10-12,Together,together-qwen3-7-plus,Qwen3.7-Plus,0.32,1.28,0.56,model_price_watch
+2026-10-12,Upstage,upstage-solar-pro-3,Solar Pro 3,0.15,0.6,0.2624999999999999,model_price_watch
+2026-10-12,Upstage,upstage-solar-pro-4,Solar Pro 4,0.3,1.2,0.525,model_price_watch; price raise
+2026-10-12,Voyage AI,voyage-4,voyage-4,0.06,,,model_price_watch
+2026-10-12,Voyage AI,voyage-4-large,voyage-4-large,0.12,,,model_price_watch
+2026-10-12,Voyage AI,voyage-4-lite,voyage-4-lite,0.02,,,model_price_watch
+2026-10-12,Voyage AI,voyage-code-3,voyage-code-3,0.18,,,model_price_watch
+2026-10-12,Voyage AI,voyage-context-3,voyage-context-3,0.18,,,model_price_watch
+2026-10-12,Voyage AI,voyage-multimodal-3-5,voyage-multimodal-3.5,0.12,,,model_price_watch
+2026-10-12,Voyage AI,voyage-rerank-2-5,rerank-2.5,0.05,,,model_price_watch
+2026-10-12,Voyage AI,voyage-rerank-2-5-lite,rerank-2.5-lite,0.02,,,model_price_watch
+2026-10-12,Z.AI,zhipu-glm-4-32b,GLM-4-32B-0414,0.1,0.1,0.1,model_price_watch
+2026-10-12,Z.AI,zhipu-glm-4-5,GLM-4.5,0.6,2.2,1.0,model_price_watch
+2026-10-12,Z.AI,zhipu-glm-4-5-air,GLM-4.5-Air,0.2,1.1,0.425,model_price_watch
+2026-10-12,Z.AI,zhipu-glm-4-6,GLM-4.6,0.6,2.2,1.0,model_price_watch
+2026-10-12,Z.AI,zhipu-glm-4-6v,GLM-4.6V,0.3,0.9,0.4499999999999999,model_price_watch
+2026-10-12,Z.AI,zhipu-glm-4-7,GLM-4.7,0.6,2.2,1.0,model_price_watch
+2026-10-12,Z.AI,zhipu-glm-4-7-flash,GLM-4.7-Flash,0.0,0.0,0.0,model_price_watch
+2026-10-12,Z.AI,zhipu-glm-4-7-flashx,GLM-4.7-FlashX,0.07,0.4,0.1525,model_price_watch
+2026-10-12,Z.AI,zhipu-glm-5,GLM-5,1.0,3.2,1.55,model_price_watch
+2026-10-12,Z.AI,zhipu-glm-5-1,GLM-5.1,1.4,4.4,2.15,model_price_watch
+2026-10-12,Z.AI,zhipu-glm-5-2,GLM-5.2,1.4,4.4,2.15,model_price_watch
+2026-10-12,Z.AI,zhipu-glm-5-3,GLM-5.3,1.4,4.4,2.15,model_price_watch
+2026-10-12,Z.AI,zhipu-glm-5-3-flash,GLM-5.3-Flash,0.15,0.5,0.2375,model_price_watch
+2026-10-12,Z.AI,zhipu-glm-5-turbo,GLM-5-Turbo,1.2,4.0,1.9,model_price_watch
+2026-10-12,Z.AI,zhipu-glm-5v-turbo,GLM-5V-Turbo,1.2,4.0,1.9,model_price_watch
+2026-10-12,Z.AI,zhipu-glm-ocr,GLM-OCR,0.03,0.03,0.03,model_price_watch
+2026-10-12,xAI,grok-4.20-0309-non-reasoning,Grok 4.20 0309 Non Reasoning,1.25,2.5,1.5625,roninforge_ai_price_index
+2026-10-12,xAI,grok-4.20-0309-reasoning,Grok 4.20 0309 Reasoning,1.25,2.5,1.5625,roninforge_ai_price_index
+2026-10-12,xAI,grok-4.20-multi-agent-0309,Grok 4.20 Multi Agent 0309,1.25,2.5,1.5625,roninforge_ai_price_index
+2026-10-12,xAI,grok-4.3,Grok 4.3,1.25,2.5,1.5625,roninforge_ai_price_index
+2026-10-12,xAI,grok-4.5,Grok 4.5,2.0,6.0,3.0,roninforge_ai_price_index
+2026-10-12,xAI,grok-4.6,Grok 4.6,2.0,6.0,3.0,roninforge_ai_price_index
+2026-10-12,xAI,grok-4.7,Grok 4.7,2.0,6.0,3.0,roninforge_ai_price_index
+2026-10-12,xAI,grok-build-0.1,Grok Build 0.1,1.0,2.0,1.25,roninforge_ai_price_index
+2026-10-12,xAI,xai-grok-4,Grok 4,3.0,15.0,6.0,model_price_watch
+2026-10-12,xAI,xai-grok-4-1-fast,Grok 4.1 Fast,0.2,0.5,0.275,model_price_watch
+2026-10-12,xAI,xai-grok-4-20,Grok 4.20,1.25,2.5,1.5625,model_price_watch
+2026-10-12,xAI,xai-grok-4-3,Grok 4.3,1.25,2.5,1.5625,model_price_watch
+2026-10-12,xAI,xai-grok-4-5,Grok 4.5,2.0,6.0,3.0,model_price_watch
+2026-10-12,xAI,xai-grok-4-6,Grok 4.6,2.0,6.0,3.0,model_price_watch
+2026-10-12,xAI,xai-grok-build-0-1,Grok Build 0.1,1.0,2.0,1.25,model_price_watch
+2026-10-19,01.AI,01ai-yi-large,Yi Large,3.0,9.0,4.5,model_price_watch
+2026-10-19,AI21,jamba-large,Jamba Large,2.0,8.0,3.5,roninforge_ai_price_index
+2026-10-19,AI21,jamba-mini,Jamba Mini,0.2,0.4,0.25,roninforge_ai_price_index
+2026-10-19,Alibaba,alibaba-glm-5-3-prime,GLM-5.3 Prime (Alibaba),2.8,8.8,4.3,"model_price_watch; effective 2026-10-22, in force at the week's Arena snapshot (2026-10-22)"
+2026-10-19,Alibaba,alibaba-qwen3-32b,Qwen3-32B,0.16,0.64,0.28,model_price_watch
+2026-10-19,Alibaba,alibaba-qwen3-5-122b-a10b,Qwen3.5-122B-A10B,0.4,3.2,1.1,model_price_watch
+2026-10-19,Alibaba,alibaba-qwen3-5-27b,Qwen3.5-27B,0.3,2.4,0.825,model_price_watch
+2026-10-19,Alibaba,alibaba-qwen3-5-35b-a3b,Qwen3.5-35B-A3B,0.25,2.0,0.6875,model_price_watch
+2026-10-19,Alibaba,alibaba-qwen3-5-397b-a17b,Qwen3.5-397B-A17B,0.6,3.6,1.35,model_price_watch
+2026-10-19,Alibaba,alibaba-qwen3-5-flash,Qwen3.5-Flash,0.1,0.4,0.175,model_price_watch
+2026-10-19,Alibaba,alibaba-qwen3-5-plus,Qwen3.5-Plus,0.4,2.4,0.9,model_price_watch
+2026-10-19,Alibaba,alibaba-qwen3-6-27b,Qwen3.6-27B,0.6,3.6,1.35,model_price_watch
+2026-10-19,Alibaba,alibaba-qwen3-6-flash,Qwen3.6-Flash,0.25,1.5,0.5625,model_price_watch
+2026-10-19,Alibaba,alibaba-qwen3-6-plus,Qwen3.6-Plus,0.5,3.0,1.125,model_price_watch
+2026-10-19,Alibaba,alibaba-qwen3-7-flash,Qwen3.7-Flash,0.03,0.13,0.055,model_price_watch
+2026-10-19,Alibaba,alibaba-qwen3-7-max,Qwen3.7-Max,2.5,7.5,3.75,model_price_watch
+2026-10-19,Alibaba,alibaba-qwen3-7-plus,Qwen3.7-Plus,0.4,1.6,0.7000000000000001,model_price_watch
+2026-10-19,Alibaba,alibaba-qwen3-8-2-4t-a95b,Qwen3.8-2.4T-A95B,2.0,6.0,3.0,model_price_watch
+2026-10-19,Alibaba,alibaba-qwen3-8-27b,Qwen3.8-27B,0.5,3.0,1.125,model_price_watch
+2026-10-19,Alibaba,alibaba-qwen3-8-flash,Qwen3.8-Flash,0.15,0.47,0.2299999999999999,model_price_watch
+2026-10-19,Alibaba,alibaba-qwen3-8-max,Qwen3.8-Max,2.0,6.0,3.0,model_price_watch
+2026-10-19,Alibaba,alibaba-qwq-plus,QwQ-Plus,0.8,2.4,1.2000000000000002,model_price_watch
+2026-10-19,Alibaba,qwen-flash,Qwen-Flash,0.05,0.4,0.1375,roninforge_ai_price_index
+2026-10-19,Alibaba,qwen-max,Qwen Max,1.6,6.4,2.8000000000000003,roninforge_ai_price_index
+2026-10-19,Alibaba,qwen-plus,Qwen-Plus,0.4,1.2,0.6000000000000001,roninforge_ai_price_index
+2026-10-19,Alibaba,qwen3-coder-flash,Qwen3 Coder Flash,0.3,1.5,0.6,roninforge_ai_price_index
+2026-10-19,Alibaba,qwen3.5-flash,Qwen3.5 Flash,0.1,0.4,0.175,roninforge_ai_price_index
+2026-10-19,Alibaba,qwen3.5-plus,Qwen3.5 Plus,0.4,2.4,0.9,roninforge_ai_price_index
+2026-10-19,Alibaba,qwen3.6-flash,Qwen3.6 Flash,0.25,1.5,0.5625,roninforge_ai_price_index
+2026-10-19,Alibaba,qwen3.6-plus,Qwen3.6 Plus,0.5,3.0,1.125,roninforge_ai_price_index
+2026-10-19,Alibaba,qwen3.7-flash,Qwen3.7 Flash,0.03,0.13,0.055,roninforge_ai_price_index
+2026-10-19,Alibaba,qwen3.7-max,Qwen3.7 Max,2.5,7.5,3.75,roninforge_ai_price_index
+2026-10-19,Alibaba,qwen3.7-plus,Qwen3.7 Plus,0.4,1.6,0.7000000000000001,roninforge_ai_price_index
+2026-10-19,Alibaba,qwen3.8-flash,Qwen3.8 Flash,0.15,0.47,0.2299999999999999,roninforge_ai_price_index
+2026-10-19,Alibaba,qwen3.8-max,Qwen3.8 Max,2.0,6.0,3.0,roninforge_ai_price_index
+2026-10-19,Amazon,nova-2-lite,Nova 2 Lite,0.3,2.5,0.85,roninforge_ai_price_index
+2026-10-19,Amazon,nova-2-pro,Nova 2 Pro,1.25,10.0,3.4375,roninforge_ai_price_index
+2026-10-19,Amazon,nova-lite,Nova Lite,0.06,0.24,0.105,roninforge_ai_price_index
+2026-10-19,Amazon,nova-micro,Nova Micro,0.035,0.14,0.06125,roninforge_ai_price_index
+2026-10-19,Amazon,nova-premier,Nova Premier,2.5,12.5,5.0,roninforge_ai_price_index
+2026-10-19,Amazon,nova-pro,Nova Pro,0.8,3.2,1.4,roninforge_ai_price_index
+2026-10-19,Anthropic,anthropic-claude-haiku-3-5,Claude Haiku 3.5,0.8,4.0,1.6,model_price_watch
+2026-10-19,Anthropic,anthropic-claude-haiku-4-5,Claude Haiku 4.5,1.0,5.0,2.0,model_price_watch
+2026-10-19,Anthropic,anthropic-claude-opus-4,Claude Opus 4,15.0,75.0,30.0,model_price_watch
+2026-10-19,Anthropic,anthropic-claude-opus-4-1,Claude Opus 4.1,15.0,75.0,30.0,model_price_watch
+2026-10-19,Anthropic,anthropic-claude-opus-4-5,Claude Opus 4.5,5.0,25.0,10.0,model_price_watch
+2026-10-19,Anthropic,anthropic-claude-sonnet-4,Claude Sonnet 4,3.0,15.0,6.0,model_price_watch
+2026-10-19,Anthropic,anthropic-claude-sonnet-4-5,Claude Sonnet 4.5,3.0,15.0,6.0,model_price_watch
+2026-10-19,Anthropic,claude-fable-5,Claude Fable 5,10.0,50.0,20.0,roninforge_ai_price_index
+2026-10-19,Anthropic,claude-fable-5-1,Claude Fable 5.1,10.0,50.0,20.0,roninforge_ai_price_index
+2026-10-19,Anthropic,claude-haiku-4-5-20251001,Claude Haiku 4 5 20251001,1.0,5.0,2.0,roninforge_ai_price_index
+2026-10-19,Anthropic,claude-haiku-5-5,Claude Haiku 5.5,0.1,0.5,0.2,roninforge_ai_price_index
+2026-10-19,Anthropic,claude-mythos-5,Claude Mythos 5,10.0,50.0,20.0,roninforge_ai_price_index
+2026-10-19,Anthropic,claude-mythos-5-1,Claude Mythos 5.1,10.0,50.0,20.0,roninforge_ai_price_index
+2026-10-19,Anthropic,claude-opus-4-1-20250805,Claude Opus 4 1 20250805,15.0,75.0,30.0,roninforge_ai_price_index
+2026-10-19,Anthropic,claude-opus-4-20250514,Claude Opus 4 20250514,15.0,75.0,30.0,roninforge_ai_price_index
+2026-10-19,Anthropic,claude-opus-4-5-20251101,Claude Opus 4 5 20251101,5.0,25.0,10.0,roninforge_ai_price_index
+2026-10-19,Anthropic,claude-opus-4-6,Claude Opus 4.6,5.0,25.0,10.0,roninforge_ai_price_index
+2026-10-19,Anthropic,claude-opus-4-7,Claude Opus 4.7,5.0,25.0,10.0,roninforge_ai_price_index
+2026-10-19,Anthropic,claude-opus-4-8,Claude Opus 4.8,5.0,25.0,10.0,roninforge_ai_price_index
+2026-10-19,Anthropic,claude-opus-5,Claude Opus 5,5.0,25.0,10.0,roninforge_ai_price_index
+2026-10-19,Anthropic,claude-opus-5-5,Claude Opus 5.5,4.0,20.0,8.0,"roninforge_ai_price_index; launched 2026-09-22, in force at the week's Arena snapshot (2026-09-25)"
+2026-10-19,Anthropic,claude-sonnet-4-20250514,Claude Sonnet 4 20250514,3.0,15.0,6.0,roninforge_ai_price_index
+2026-10-19,Anthropic,claude-sonnet-4-5-20250929,Claude Sonnet 4 5 20250929,3.0,15.0,6.0,roninforge_ai_price_index
+2026-10-19,Anthropic,claude-sonnet-4-6,Claude Sonnet 4.6,3.0,15.0,6.0,roninforge_ai_price_index
+2026-10-19,Anthropic,claude-sonnet-5,Claude Sonnet 5,2.0,10.0,4.0,roninforge_ai_price_index
+2026-10-19,Anthropic,claude-sonnet-5-5,Claude Sonnet 5.5,2.0,10.0,4.0,roninforge_ai_price_index
+2026-10-19,Baichuan,baichuan-m2-32b,Baichuan M2-32B,0.07,0.07,0.07,model_price_watch
+2026-10-19,Cohere,cohere-command-a,Command A,2.5,10.0,4.375,model_price_watch
+2026-10-19,Cohere,cohere-command-r-03-2024,Command R 03-2024,0.5,1.5,0.75,model_price_watch
+2026-10-19,Cohere,cohere-command-r-08-2024,Command R 08-2024,0.15,0.6,0.2624999999999999,model_price_watch
+2026-10-19,Cohere,cohere-command-r-plus-08-2024,Command R+ 08-2024,2.5,10.0,4.375,model_price_watch
+2026-10-19,Cohere,cohere-embed-4,Embed 4,0.12,,,model_price_watch
+2026-10-19,Cohere,cohere-rerank-3-5,Rerank 3.5,0.02,,,model_price_watch
+2026-10-19,Cohere,command-r,Command R,0.15,0.6,0.2624999999999999,roninforge_ai_price_index
+2026-10-19,Cohere,command-r7b,Command R7b,0.0375,0.15,0.0656249999999999,roninforge_ai_price_index
+2026-10-19,DeepInfra,deepinfra-deepseek-v4-flash,DeepSeek V4 Flash (DeepInfra),0.06,0.18,0.09,model_price_watch; price cut from $0.09 input
+2026-10-19,DeepInfra,deepinfra-deepseek-v4-pro,DeepSeek V4 Pro,1.3,2.6,1.625,model_price_watch
+2026-10-19,DeepInfra,deepinfra-llama-4-maverick,Llama 4 Maverick,0.2,0.8,0.35,model_price_watch
+2026-10-19,DeepInfra,deepinfra-llama-4-scout,Llama 4 Scout,0.1,0.3,0.15,model_price_watch
+2026-10-19,DeepInfra,deepinfra-nvidia-nemotron-3-5-lightning,Nemotron 3.5 Lightning (DeepInfra),0.06,0.16,0.085,model_price_watch
+2026-10-19,DeepInfra,deepinfra-nvidia-nemotron-70b-instruct,Nemotron 70B Instruct,1.2,1.2,1.2,model_price_watch
+2026-10-19,DeepInfra,deepinfra-qwen3-32b,Qwen3-32B,0.08,0.28,0.13,model_price_watch
+2026-10-19,DeepSeek,deepseek-v4-1-flash-1017,DeepSeek V4.1 Flash 1017,0.3,1.2,0.525,model_price_watch; peak (standard) rate; replaced V4.1 Flash behind deepseek-flash
+2026-10-19,DeepSeek,deepseek-v4-pro,DeepSeek V4 Pro,0.66,1.98,0.99,roninforge_ai_price_index
+2026-10-19,Fireworks,fireworks-deepseek-v4-flash,DeepSeek V4 Flash,0.14,0.28,0.175,model_price_watch
+2026-10-19,Fireworks,fireworks-deepseek-v4-pro,DeepSeek V4 Pro,1.32,3.96,1.98,model_price_watch
+2026-10-19,Fireworks,fireworks-glm-5-1,GLM-5.1,1.4,4.4,2.15,model_price_watch
+2026-10-19,Fireworks,fireworks-glm-5-2,GLM-5.2,1.4,4.4,2.15,model_price_watch
+2026-10-19,Fireworks,fireworks-glm-5-3,GLM-5.3,1.4,4.4,2.15,model_price_watch
+2026-10-19,Fireworks,fireworks-gpt-oss-120b,GPT-OSS 120B,0.15,0.6,0.2624999999999999,model_price_watch
+2026-10-19,Fireworks,fireworks-gpt-oss-20b,GPT-OSS 20B,0.07,0.3,0.1275,model_price_watch
+2026-10-19,Fireworks,fireworks-kimi-k2-5,Kimi K2.5,0.6,3.0,1.2,model_price_watch
+2026-10-19,Fireworks,fireworks-kimi-k2-6,Kimi K2.6,0.95,4.0,1.7125,model_price_watch
+2026-10-19,Fireworks,fireworks-kimi-k2-7-code,Kimi K2.7 Code,0.95,4.0,1.7125,model_price_watch
+2026-10-19,Fireworks,fireworks-minimax-2-5,MiniMax-M2.5,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-19,Fireworks,fireworks-minimax-2-7,MiniMax-M2.7,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-19,Fireworks,fireworks-minimax-m3,MiniMax-M3,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-19,Fireworks,fireworks-muse-glimmer-30b,Muse Glimmer 30B,0.35,1.5,0.6375,model_price_watch
+2026-10-19,Fireworks,fireworks-nemotron-3-ultra,NVIDIA Nemotron 3 Ultra,0.6,2.4,1.0499999999999998,model_price_watch
+2026-10-19,Fireworks,fireworks-qwen3-6-plus,Qwen3.6-Plus,0.5,3.0,1.125,model_price_watch
+2026-10-19,Fireworks,fireworks-qwen3-7-plus,Qwen3.7-Plus,0.4,1.6,0.7000000000000001,model_price_watch
+2026-10-19,Google,gemini-2.5-flash,Gemini 2.5 Flash,0.3,2.5,0.85,roninforge_ai_price_index
+2026-10-19,Google,gemini-2.5-flash-lite,Gemini 2.5 Flash-Lite,0.1,0.4,0.175,roninforge_ai_price_index
+2026-10-19,Google,gemini-2.5-pro,Gemini 2.5 Pro,1.25,10.0,3.4375,roninforge_ai_price_index
+2026-10-19,Google,gemini-3-flash-preview,Gemini 3 Flash Preview,0.5,3.0,1.125,roninforge_ai_price_index
+2026-10-19,Google,gemini-3.1-flash-lite,Gemini 3.1 Flash-Lite,0.25,1.5,0.5625,roninforge_ai_price_index
+2026-10-19,Google,gemini-3.1-pro-preview,Gemini 3.1 Pro Preview,2.0,12.0,4.5,roninforge_ai_price_index
+2026-10-19,Google,gemini-3.5-flash-lite,Gemini 3.5 Flash-Lite,0.3,2.5,0.85,roninforge_ai_price_index
+2026-10-19,Google,gemini-3.6-flash,Gemini 3.6 Flash,0.75,3.75,1.5,roninforge_ai_price_index
+2026-10-19,Google,gemini-3.8-flash,Gemini 3.8 Flash,0.75,3.75,1.5,roninforge_ai_price_index
+2026-10-19,Google,gemini-4-argon,Gemini 4 Argon,2.0,10.0,4.0,roninforge_ai_price_index; introductory rate through 2026-11-30; $4/$20 from 2026-12-01
+2026-10-19,Google,google-gemini-2-5-flash,Gemini 2.5 Flash,0.3,2.5,0.85,model_price_watch
+2026-10-19,Google,google-gemini-2-5-flash-lite,Gemini 2.5 Flash-Lite,0.1,0.4,0.175,model_price_watch
+2026-10-19,Google,google-gemini-2-5-pro,Gemini 2.5 Pro,1.25,10.0,3.4375,model_price_watch
+2026-10-19,Google,google-gemini-3-1-flash-image,Gemini 3.1 Flash Image,0.5,60.0,15.375,model_price_watch
+2026-10-19,Google,google-gemini-3-1-flash-lite,Gemini 3.1 Flash-Lite,0.25,1.5,0.5625,model_price_watch
+2026-10-19,Google,google-gemini-3-1-flash-lite-image,Gemini 3.1 Flash Lite Image,0.25,30.0,7.6875,model_price_watch
+2026-10-19,Google,google-gemini-3-1-pro,Gemini 3.1 Pro,2.0,12.0,4.5,model_price_watch
+2026-10-19,Google,google-gemini-3-5-flash-lite,Gemini 3.5 Flash-Lite,0.3,2.5,0.85,model_price_watch
+2026-10-19,Google,google-gemini-3-6-flash,Gemini 3.6 Flash,0.75,3.75,1.5,model_price_watch
+2026-10-19,Google,google-gemini-3-8-flash,Gemini 3.8 Flash,0.75,3.75,1.5,model_price_watch
+2026-10-19,Google,google-gemini-3-pro-image,Gemini 3 Pro Image,2.0,120.0,31.5,model_price_watch
+2026-10-19,Google,google-text-embedding-004,text-embedding-004,0.025,,,model_price_watch
+2026-10-19,Groq,groq-gpt-oss-120b,GPT-OSS 120B,0.15,0.6,0.2624999999999999,model_price_watch
+2026-10-19,Groq,groq-gpt-oss-20b,GPT-OSS 20B,0.075,0.3,0.1312499999999999,model_price_watch
+2026-10-19,Groq,groq-llama-3-1-8b-instant,Llama 3.1 8B Instant,0.05,0.08,0.0575,model_price_watch
+2026-10-19,Groq,groq-llama-3-3-70b-versatile,Llama 3.3 70B Versatile,0.59,0.79,0.64,model_price_watch
+2026-10-19,Groq,groq-llama-4-scout,Llama 4 Scout,0.11,0.34,0.1675,model_price_watch
+2026-10-19,Groq,groq-qwen-3-6-27b,Qwen3.6-27B,0.6,3.0,1.2,model_price_watch
+2026-10-19,Groq,groq-qwen-3-8-27b,Qwen 3.8 27B (Groq),0.8,4.0,1.6,model_price_watch; preview
+2026-10-19,Groq,groq-qwen3-32b,Qwen3-32B,0.29,0.59,0.365,model_price_watch
+2026-10-19,IBM,ibm-granite-4-0-h-micro,Granite 4.0 H Micro,0.017,0.112,0.04075,model_price_watch
+2026-10-19,IBM,ibm-granite-4-h-small,Granite 4 H Small,0.0636,0.265,0.11395,model_price_watch
+2026-10-19,IBM,ibm-granite-embedding-278m,Granite Embedding 278M Multilingual,0.106,,,model_price_watch
+2026-10-19,Inception,inception-mercury-2,Mercury 2,0.25,0.75,0.375,model_price_watch
+2026-10-19,Inception,inception-mercury-3,Mercury 3,0.2,0.7,0.325,"model_price_watch; effective 2026-10-20, in force at the week's Arena snapshot (2026-10-22); list price; launched at 50% off"
+2026-10-19,Kwaipilot,kwaipilot-kat-coder-air-v2-5,KAT-Coder-Air V2.5,0.148,0.593,0.25925,model_price_watch
+2026-10-19,Kwaipilot,kwaipilot-kat-coder-pro-v2-5,KAT-Coder-Pro V2.5,0.741,2.964,1.2967499999999998,model_price_watch
+2026-10-19,Meituan,meituan-longcat-2,LongCat-2.0,0.75,2.95,1.3,model_price_watch
+2026-10-19,Meta,llama-3.1-405b,Llama 3.1 405b,3.5,3.5,3.5,roninforge_ai_price_index
+2026-10-19,Meta,llama-3.1-8b,Llama 3.1 8b,0.18,0.18,0.18,roninforge_ai_price_index
+2026-10-19,Meta,llama-3.3-70b,Llama 3.3 70b,1.04,1.04,1.04,roninforge_ai_price_index
+2026-10-19,Meta,llama-4-maverick,Llama 4 Maverick,0.27,0.85,0.415,roninforge_ai_price_index
+2026-10-19,Meta,llama-4-scout,Llama 4 Scout,0.18,0.59,0.2825,roninforge_ai_price_index
+2026-10-19,Meta,meta-llama-3-1-8b,Llama 3.1 8B,0.05,0.08,0.0575,model_price_watch
+2026-10-19,Meta,meta-llama-3-3-70b,Llama 3.3 70B,0.59,0.79,0.64,model_price_watch
+2026-10-19,Meta,meta-muse-spark-1-1,Muse Spark 1.1,1.25,4.25,2.0,model_price_watch
+2026-10-19,Meta,meta-muse-spark-1-2,Muse Spark 1.2,1.25,4.25,2.0,model_price_watch
+2026-10-19,Meta,meta-muse-spark-1-3,Muse Spark 1.3,1.25,4.25,2.0,model_price_watch
+2026-10-19,Meta,meta-muse-wonder,Muse Wonder,4.0,20.0,8.0,model_price_watch; preview; Standard mode
+2026-10-19,MiniMax,minimax-m2,MiniMax-M2,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-19,MiniMax,minimax-m2-1,MiniMax-M2.1,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-19,MiniMax,minimax-m2-5,MiniMax-M2.5,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-19,MiniMax,minimax-m2-7,MiniMax-M2.7,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-19,MiniMax,minimax-m3,MiniMax-M3,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-19,MiniMax,minimax-m3-1-flash,MiniMax M3.1 Flash,0.15,0.6,0.2625,"model_price_watch; effective 2026-10-20, in force at the week's Arena snapshot (2026-10-22)"
+2026-10-19,Mistral,codestral-25.08,Codestral 25.08,0.3,0.9,0.4499999999999999,roninforge_ai_price_index
+2026-10-19,Mistral,devstral-2,Devstral 2 2512,0.4,2.0,0.8,roninforge_ai_price_index
+2026-10-19,Mistral,devstral-small-2,Devstral Small 2,0.1,0.3,0.15,roninforge_ai_price_index
+2026-10-19,Mistral,magistral-medium,Magistral Medium,2.0,5.0,2.75,roninforge_ai_price_index
+2026-10-19,Mistral,magistral-small,Magistral Small,0.5,1.5,0.75,roninforge_ai_price_index
+2026-10-19,Mistral,ministral-3-14b,Ministral 3 14b,0.2,0.2,0.2,roninforge_ai_price_index
+2026-10-19,Mistral,ministral-3-3b,Ministral 3 3b,0.1,0.1,0.1,roninforge_ai_price_index
+2026-10-19,Mistral,ministral-3-8b,Ministral 3 8b,0.15,0.15,0.15,roninforge_ai_price_index
+2026-10-19,Mistral,mistral-codestral,Codestral,0.3,0.9,0.4499999999999999,model_price_watch
+2026-10-19,Mistral,mistral-codestral-2508,Codestral 2508,0.3,0.9,0.4499999999999999,model_price_watch
+2026-10-19,Mistral,mistral-large-3,Mistral Large 3,0.5,1.5,0.75,roninforge_ai_price_index
+2026-10-19,Mistral,mistral-large-4,Mistral Large 4,0.68,2.09,1.0325,roninforge_ai_price_index
+2026-10-19,Mistral,mistral-medium-3,Mistral Medium 3,0.4,2.0,0.8,model_price_watch
+2026-10-19,Mistral,mistral-medium-3-5,Mistral Medium 3.5,1.5,7.5,3.0,model_price_watch
+2026-10-19,Mistral,mistral-medium-3.5,Mistral Medium 3.5,1.5,7.5,3.0,roninforge_ai_price_index
+2026-10-19,Mistral,mistral-ministral-3b,Ministral 3 3B,0.1,0.1,0.1,model_price_watch
+2026-10-19,Mistral,mistral-mixtral-8x22b,Mixtral 8x22B Instruct,2.0,6.0,3.0,model_price_watch
+2026-10-19,Mistral,mistral-mixtral-8x7b,Mixtral 8x7B Instruct,0.7,0.7,0.7,model_price_watch
+2026-10-19,Mistral,mistral-pixtral-12b,Pixtral 12B,0.1,0.1,0.1,model_price_watch
+2026-10-19,Mistral,mistral-pixtral-large,Pixtral Large 2411,2.0,6.0,3.0,model_price_watch
+2026-10-19,Mistral,mistral-small-3-2,Mistral Small 3.2 24B,0.1,0.3,0.15,model_price_watch
+2026-10-19,Mistral,mistral-small-4,Mistral Small 4,0.15,0.6,0.2624999999999999,roninforge_ai_price_index
+2026-10-19,Mistral,mistral-voxtral-small,Voxtral Small 24B,0.1,0.4,0.175,model_price_watch
+2026-10-19,Moonshot,moonshot-kimi-k2-5,Kimi K2.5,0.6,3.0,1.2,model_price_watch
+2026-10-19,Moonshot,moonshot-kimi-k2-6,Kimi K2.6,0.95,4.0,1.7125,model_price_watch
+2026-10-19,Moonshot,moonshot-kimi-k2-7-code,Kimi K2.7 Code,0.95,4.0,1.7125,model_price_watch
+2026-10-19,Moonshot,moonshot-kimi-k2-7-code-highspeed,Kimi K2.7 Code HighSpeed,1.9,8.0,3.425,model_price_watch
+2026-10-19,Moonshot,moonshot-kimi-k3,Kimi K3,3.0,15.0,6.0,model_price_watch
+2026-10-19,OpenAI,gpt-4.1,GPT-4.1,2.0,8.0,3.5,roninforge_ai_price_index
+2026-10-19,OpenAI,gpt-4o,GPT-4o,2.5,10.0,4.375,roninforge_ai_price_index
+2026-10-19,OpenAI,gpt-4o-mini,GPT-4o mini,0.15,0.6,0.2624999999999999,roninforge_ai_price_index
+2026-10-19,OpenAI,gpt-5,GPT-5,1.25,10.0,3.4375,roninforge_ai_price_index
+2026-10-19,OpenAI,gpt-5.1,GPT-5.1,1.25,10.0,3.4375,roninforge_ai_price_index
+2026-10-19,OpenAI,gpt-5.2,GPT-5.2,1.75,14.0,4.8125,roninforge_ai_price_index
+2026-10-19,OpenAI,gpt-5.2-pro,GPT-5.2 Pro,21.0,168.0,57.75,roninforge_ai_price_index
+2026-10-19,OpenAI,gpt-5.3-codex,GPT-5.3 Codex,1.75,14.0,4.8125,roninforge_ai_price_index
+2026-10-19,OpenAI,gpt-5.4,GPT-5.4,2.5,15.0,5.625,roninforge_ai_price_index
+2026-10-19,OpenAI,gpt-5.4-mini,GPT-5.4 mini,0.75,4.5,1.6875,roninforge_ai_price_index
+2026-10-19,OpenAI,gpt-5.4-nano,GPT-5.4 nano,0.2,1.25,0.4625,roninforge_ai_price_index
+2026-10-19,OpenAI,gpt-5.4-pro,GPT-5.4 Pro,30.0,180.0,67.5,roninforge_ai_price_index
+2026-10-19,OpenAI,gpt-5.5,GPT-5.5,5.0,30.0,11.25,roninforge_ai_price_index
+2026-10-19,OpenAI,gpt-5.5-pro,GPT-5.5 Pro,30.0,180.0,67.5,roninforge_ai_price_index
+2026-10-19,OpenAI,gpt-5.6-luna,GPT-5.6 Luna,0.2,1.2,0.45,roninforge_ai_price_index
+2026-10-19,OpenAI,gpt-5.6-sol,GPT-5.6 Sol,4.0,20.0,8.0,roninforge_ai_price_index
+2026-10-19,OpenAI,gpt-5.6-terra,GPT-5.6 Terra,2.0,12.0,4.5,roninforge_ai_price_index
+2026-10-19,OpenAI,gpt-6-astra,GPT-6 Astra,10.0,50.0,20.0,roninforge_ai_price_index
+2026-10-19,OpenAI,gpt-6-luna,GPT-6 Luna,0.1,0.5,0.2,"roninforge_ai_price_index; launched 2026-09-23, in force at the week's Arena snapshot (2026-09-25)"
+2026-10-19,OpenAI,gpt-6-sol,GPT-6 Sol,2.0,10.0,4.0,"roninforge_ai_price_index; launched 2026-09-23, in force at the week's Arena snapshot (2026-09-25)"
+2026-10-19,OpenAI,gpt-6.1-sol,GPT-6.1 Sol,2.0,10.0,4.0,roninforge_ai_price_index
+2026-10-19,OpenAI,o1,o1,15.0,60.0,26.25,roninforge_ai_price_index
+2026-10-19,OpenAI,o1-mini,O1 Mini,1.1,4.4,1.9250000000000005,roninforge_ai_price_index
+2026-10-19,OpenAI,o1-pro,o1-pro,150.0,600.0,262.5,roninforge_ai_price_index
+2026-10-19,OpenAI,o3,o3,2.0,8.0,3.5,roninforge_ai_price_index
+2026-10-19,OpenAI,o3-deep-research,O3 Deep Research,10.0,40.0,17.5,roninforge_ai_price_index
+2026-10-19,OpenAI,o3-mini,o3-mini,1.1,4.4,1.9250000000000005,roninforge_ai_price_index
+2026-10-19,OpenAI,o3-pro,o3-pro,20.0,80.0,35.0,roninforge_ai_price_index
+2026-10-19,OpenAI,o4-mini,o4-mini,1.1,4.4,1.9250000000000005,roninforge_ai_price_index
+2026-10-19,OpenAI,o4-mini-deep-research,O4 Mini Deep Research,2.0,8.0,3.5,roninforge_ai_price_index
+2026-10-19,OpenAI,openai-gpt-3-5-turbo,GPT-3.5 Turbo,0.5,1.5,0.75,model_price_watch
+2026-10-19,OpenAI,openai-gpt-4-0613,GPT-4,30.0,60.0,37.5,model_price_watch
+2026-10-19,OpenAI,openai-gpt-4-1,GPT-4.1,2.0,8.0,3.5,model_price_watch
+2026-10-19,OpenAI,openai-gpt-4-1-mini,GPT-4.1 mini,0.4,1.6,0.7000000000000001,model_price_watch
+2026-10-19,OpenAI,openai-gpt-4-1-nano,GPT-4.1 nano,0.1,0.4,0.175,model_price_watch
+2026-10-19,OpenAI,openai-gpt-4-turbo-2024-04-09,GPT-4 Turbo,10.0,30.0,15.0,model_price_watch
+2026-10-19,OpenAI,openai-gpt-5-1,GPT-5.1,1.25,10.0,3.4375,model_price_watch
+2026-10-19,OpenAI,openai-gpt-5-2,GPT-5.2,1.75,14.0,4.8125,model_price_watch
+2026-10-19,OpenAI,openai-gpt-5-2-chat,GPT-5.2 Chat,1.75,14.0,4.8125,model_price_watch
+2026-10-19,OpenAI,openai-gpt-5-2-codex,GPT-5.2 Codex,1.75,14.0,4.8125,model_price_watch
+2026-10-19,OpenAI,openai-gpt-5-2-pro,GPT-5.2 Pro,21.0,168.0,57.75,model_price_watch
+2026-10-19,OpenAI,openai-gpt-5-3-chat,GPT-5.3 Chat,1.75,14.0,4.8125,model_price_watch
+2026-10-19,OpenAI,openai-gpt-5-3-codex,GPT-5.3 Codex,1.75,14.0,4.8125,model_price_watch
+2026-10-19,OpenAI,openai-gpt-5-4,GPT-5.4,2.5,15.0,5.625,model_price_watch
+2026-10-19,OpenAI,openai-gpt-5-4-mini,GPT-5.4 mini,0.75,4.5,1.6875,model_price_watch
+2026-10-19,OpenAI,openai-gpt-5-4-nano,GPT-5.4 nano,0.2,1.25,0.4625,model_price_watch
+2026-10-19,OpenAI,openai-gpt-5-4-pro,GPT-5.4 Pro,30.0,180.0,67.5,model_price_watch
+2026-10-19,OpenAI,openai-gpt-5-5,GPT-5.5,5.0,30.0,11.25,model_price_watch
+2026-10-19,OpenAI,openai-gpt-5-5-pro,GPT-5.5 Pro,30.0,180.0,67.5,model_price_watch
+2026-10-19,OpenAI,openai-gpt-5-6-cyber,GPT-5.6 Cyber,12.5,75.0,28.125,model_price_watch
+2026-10-19,OpenAI,openai-gpt-5-6-luna,GPT-5.6 Luna,0.2,1.2,0.45,model_price_watch
+2026-10-19,OpenAI,openai-gpt-5-6-sol,GPT-5.6 Sol,4.0,20.0,8.0,model_price_watch
+2026-10-19,OpenAI,openai-gpt-5-6-terra,GPT-5.6 Terra,2.0,12.0,4.5,model_price_watch
+2026-10-19,OpenAI,openai-gpt-5-mini,GPT-5 mini,0.25,2.0,0.6875,model_price_watch
+2026-10-19,OpenAI,openai-gpt-5-nano,GPT-5 nano,0.05,0.4,0.1375,model_price_watch
+2026-10-19,OpenAI,openai-gpt-5-pro,GPT-5 Pro,15.0,120.0,41.25,model_price_watch
+2026-10-19,OpenAI,openai-gpt-audio-1-5,GPT-Audio-1.5,2.5,10.0,4.375,model_price_watch
+2026-10-19,OpenAI,openai-gpt-image-2,GPT-Image-2,8.0,30.0,13.5,model_price_watch
+2026-10-19,OpenAI,openai-gpt-realtime-2,GPT-Realtime-2,4.0,24.0,9.0,model_price_watch
+2026-10-19,OpenAI,openai-gpt-realtime-2-1,GPT-Realtime-2.1,4.0,24.0,9.0,model_price_watch
+2026-10-19,OpenAI,openai-gpt-realtime-2-1-mini,GPT-Realtime-2.1 mini,0.6,2.4,1.0499999999999998,model_price_watch
+2026-10-19,OpenAI,openai-text-embedding-3-large,text-embedding-3-large,0.13,,,model_price_watch
+2026-10-19,OpenAI,openai-text-embedding-3-small,text-embedding-3-small,0.02,,,model_price_watch
+2026-10-19,Perplexity,perplexity-sonar,Sonar,1.0,1.0,1.0,model_price_watch
+2026-10-19,Perplexity,perplexity-sonar-deep-research,Sonar Deep Research,2.0,8.0,3.5,model_price_watch
+2026-10-19,Perplexity,perplexity-sonar-pro,Sonar Pro,3.0,15.0,6.0,model_price_watch
+2026-10-19,Perplexity,perplexity-sonar-reasoning-pro,Sonar Reasoning Pro,2.0,8.0,3.5,model_price_watch
+2026-10-19,Reka,reka-core,Reka Core,2.0,6.0,3.0,model_price_watch
+2026-10-19,Reka,reka-edge,Reka Edge,0.1,0.1,0.1,model_price_watch
+2026-10-19,Reka,reka-flash,Reka Flash,0.8,2.0,1.1,model_price_watch
+2026-10-19,Reka,reka-flash-3,Reka Flash 3,0.1,0.2,0.125,model_price_watch
+2026-10-19,Relace,relace-apply-3,Relace Apply 3,0.8,1.2,0.9000000000000001,model_price_watch
+2026-10-19,Relace,relace-search,Relace Search,1.0,3.0,1.5,model_price_watch
+2026-10-19,Sakana AI,sakana-fugu-ultra,Fugu Ultra,5.0,30.0,11.25,model_price_watch
+2026-10-19,Sakana AI,sakana-namazu,Sakana Namazu,0.95,4.0,1.7125,model_price_watch
+2026-10-19,StepFun,stepfun-step-3-5-flash,Step 3.5 Flash,0.1,0.3,0.15,model_price_watch; first tracked 2026-10-08
+2026-10-19,StepFun,stepfun-step-3-7-flash,Step 3.7 Flash,0.2,1.15,0.4375,model_price_watch
+2026-10-19,StepFun,stepfun-step-5-preview,Step 5 Preview,1.0,2.7,1.425,model_price_watch; preview
+2026-10-19,Tencent,tencent-hunyuan-hy3-preview,Hunyuan Hy3 Preview,0.132,0.528,0.231,"model_price_watch; effective 2026-10-20, in force at the week's Arena snapshot (2026-10-22); price cut"
+2026-10-19,Tencent,tencent-hy-mt2-1-8b,Hy-MT2 1.8B,0.044,0.177,0.07725,model_price_watch
+2026-10-19,Tencent,tencent-hy-mt2-30b-a3b,Hy-MT2 30B-A3B,0.074,0.295,0.1292499999999999,model_price_watch
+2026-10-19,Tencent,tencent-hy4-preview,Hy4 preview,0.834,2.501,1.25075,model_price_watch
+2026-10-19,Thinking Machines,thinking-machines-inkling,Inkling,1.0,4.05,1.7625,model_price_watch
+2026-10-19,Thinking Machines,thinking-machines-inkling-small,Inkling Small,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-19,Together,together-deepseek-v4-pro,DeepSeek V4 Pro,1.32,3.96,1.98,model_price_watch
+2026-10-19,Together,together-gemma-4-31b-pearl,Gemma-4-31B-it-Pearl,0.28,0.86,0.425,model_price_watch
+2026-10-19,Together,together-glm-5-2,GLM-5.2,1.4,4.4,2.15,model_price_watch
+2026-10-19,Together,together-glm-5-3,GLM-5.3,1.4,4.4,2.15,model_price_watch
+2026-10-19,Together,together-gpt-oss-120b,GPT-OSS 120B,0.15,0.6,0.2624999999999999,model_price_watch
+2026-10-19,Together,together-kimi-k2-7-code,Kimi K2.7 Code,0.95,4.0,1.7125,model_price_watch
+2026-10-19,Together,together-lfm2-24b-a2b,LFM2 24B A2B,0.03,0.12,0.0525,model_price_watch
+2026-10-19,Together,together-lfm2-5-8b-a1b,LFM2.5 8B A1B,0.03,0.12,0.0525,model_price_watch
+2026-10-19,Together,together-llama-3-3-70b,Llama 3.3 70B,1.04,1.04,1.04,model_price_watch
+2026-10-19,Together,together-minimax-m2-5,MiniMax-M2.5,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-19,Together,together-minimax-m3,MiniMax-M3,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-19,Together,together-muse-glimmer-30b,Muse Glimmer 30B,0.35,1.5,0.6375,model_price_watch
+2026-10-19,Together,together-nvidia-nemotron-3-ultra,NVIDIA Nemotron 3 Ultra,0.6,3.6,1.35,model_price_watch
+2026-10-19,Together,together-qwen3-5-397b-a17b,Qwen3.5-397B-A17B,0.6,3.6,1.35,model_price_watch
+2026-10-19,Together,together-qwen3-7-max,Qwen3.7 Max (Together),1.5,4.5,2.25,model_price_watch
+2026-10-19,Together,together-qwen3-7-plus,Qwen3.7-Plus,0.32,1.28,0.56,model_price_watch
+2026-10-19,Upstage,upstage-solar-pro-3,Solar Pro 3,0.15,0.6,0.2624999999999999,model_price_watch
+2026-10-19,Upstage,upstage-solar-pro-4,Solar Pro 4,0.3,1.2,0.525,model_price_watch; price raise
+2026-10-19,Voyage AI,voyage-4,voyage-4,0.06,,,model_price_watch
+2026-10-19,Voyage AI,voyage-4-large,voyage-4-large,0.12,,,model_price_watch
+2026-10-19,Voyage AI,voyage-4-lite,voyage-4-lite,0.02,,,model_price_watch
+2026-10-19,Voyage AI,voyage-code-3,voyage-code-3,0.18,,,model_price_watch
+2026-10-19,Voyage AI,voyage-context-3,voyage-context-3,0.18,,,model_price_watch
+2026-10-19,Voyage AI,voyage-multimodal-3-5,voyage-multimodal-3.5,0.12,,,model_price_watch
+2026-10-19,Voyage AI,voyage-rerank-2-5,rerank-2.5,0.05,,,model_price_watch
+2026-10-19,Voyage AI,voyage-rerank-2-5-lite,rerank-2.5-lite,0.02,,,model_price_watch
+2026-10-19,Z.AI,zhipu-glm-4-32b,GLM-4-32B-0414,0.1,0.1,0.1,model_price_watch
+2026-10-19,Z.AI,zhipu-glm-4-5,GLM-4.5,0.6,2.2,1.0,model_price_watch
+2026-10-19,Z.AI,zhipu-glm-4-5-air,GLM-4.5-Air,0.2,1.1,0.425,model_price_watch
+2026-10-19,Z.AI,zhipu-glm-4-6,GLM-4.6,0.6,2.2,1.0,model_price_watch
+2026-10-19,Z.AI,zhipu-glm-4-6v,GLM-4.6V,0.3,0.9,0.4499999999999999,model_price_watch
+2026-10-19,Z.AI,zhipu-glm-4-7,GLM-4.7,0.6,2.2,1.0,model_price_watch
+2026-10-19,Z.AI,zhipu-glm-4-7-flash,GLM-4.7-Flash,0.0,0.0,0.0,model_price_watch
+2026-10-19,Z.AI,zhipu-glm-4-7-flashx,GLM-4.7-FlashX,0.07,0.4,0.1525,model_price_watch
+2026-10-19,Z.AI,zhipu-glm-5,GLM-5,1.0,3.2,1.55,model_price_watch
+2026-10-19,Z.AI,zhipu-glm-5-1,GLM-5.1,1.4,4.4,2.15,model_price_watch
+2026-10-19,Z.AI,zhipu-glm-5-2,GLM-5.2,1.4,4.4,2.15,model_price_watch
+2026-10-19,Z.AI,zhipu-glm-5-3,GLM-5.3,1.4,4.4,2.15,model_price_watch
+2026-10-19,Z.AI,zhipu-glm-5-3-flash,GLM-5.3-Flash,0.15,0.5,0.2375,model_price_watch
+2026-10-19,Z.AI,zhipu-glm-5-turbo,GLM-5-Turbo,1.2,4.0,1.9,model_price_watch
+2026-10-19,Z.AI,zhipu-glm-5v-turbo,GLM-5V-Turbo,1.2,4.0,1.9,model_price_watch
+2026-10-19,Z.AI,zhipu-glm-ocr,GLM-OCR,0.03,0.03,0.03,model_price_watch
+2026-10-19,xAI,grok-4.20-0309-non-reasoning,Grok 4.20 0309 Non Reasoning,1.25,2.5,1.5625,roninforge_ai_price_index
+2026-10-19,xAI,grok-4.20-0309-reasoning,Grok 4.20 0309 Reasoning,1.25,2.5,1.5625,roninforge_ai_price_index
+2026-10-19,xAI,grok-4.20-multi-agent-0309,Grok 4.20 Multi Agent 0309,1.25,2.5,1.5625,roninforge_ai_price_index
+2026-10-19,xAI,grok-4.3,Grok 4.3,1.25,2.5,1.5625,roninforge_ai_price_index
+2026-10-19,xAI,grok-4.5,Grok 4.5,2.0,6.0,3.0,roninforge_ai_price_index
+2026-10-19,xAI,grok-4.6,Grok 4.6,2.0,6.0,3.0,roninforge_ai_price_index
+2026-10-19,xAI,grok-4.7,Grok 4.7,2.0,6.0,3.0,roninforge_ai_price_index
+2026-10-19,xAI,grok-build-0.1,Grok Build 0.1,1.0,2.0,1.25,roninforge_ai_price_index
+2026-10-19,xAI,xai-grok-4,Grok 4,3.0,15.0,6.0,model_price_watch
+2026-10-19,xAI,xai-grok-4-1-fast,Grok 4.1 Fast,0.2,0.5,0.275,model_price_watch
+2026-10-19,xAI,xai-grok-4-20,Grok 4.20,1.25,2.5,1.5625,model_price_watch
+2026-10-19,xAI,xai-grok-4-3,Grok 4.3,1.25,2.5,1.5625,model_price_watch
+2026-10-19,xAI,xai-grok-4-5,Grok 4.5,2.0,6.0,3.0,model_price_watch
+2026-10-19,xAI,xai-grok-4-6,Grok 4.6,2.0,6.0,3.0,model_price_watch
+2026-10-19,xAI,xai-grok-build-0-1,Grok Build 0.1,1.0,2.0,1.25,model_price_watch
+2026-10-26,01.AI,01ai-yi-large,Yi Large,3.0,9.0,4.5,model_price_watch
+2026-10-26,AI21,jamba-large,Jamba Large,2.0,8.0,3.5,roninforge_ai_price_index
+2026-10-26,AI21,jamba-mini,Jamba Mini,0.2,0.4,0.25,roninforge_ai_price_index
+2026-10-26,Alibaba,alibaba-glm-5-3-prime,GLM-5.3 Prime (Alibaba),2.8,8.8,4.3,model_price_watch
+2026-10-26,Alibaba,alibaba-qwen3-32b,Qwen3-32B,0.16,0.64,0.28,model_price_watch
+2026-10-26,Alibaba,alibaba-qwen3-5-122b-a10b,Qwen3.5-122B-A10B,0.4,3.2,1.1,model_price_watch
+2026-10-26,Alibaba,alibaba-qwen3-5-27b,Qwen3.5-27B,0.3,2.4,0.825,model_price_watch
+2026-10-26,Alibaba,alibaba-qwen3-5-35b-a3b,Qwen3.5-35B-A3B,0.25,2.0,0.6875,model_price_watch
+2026-10-26,Alibaba,alibaba-qwen3-5-397b-a17b,Qwen3.5-397B-A17B,0.6,3.6,1.35,model_price_watch
+2026-10-26,Alibaba,alibaba-qwen3-5-flash,Qwen3.5-Flash,0.1,0.4,0.175,model_price_watch
+2026-10-26,Alibaba,alibaba-qwen3-5-plus,Qwen3.5-Plus,0.4,2.4,0.9,model_price_watch
+2026-10-26,Alibaba,alibaba-qwen3-6-27b,Qwen3.6-27B,0.6,3.6,1.35,model_price_watch
+2026-10-26,Alibaba,alibaba-qwen3-6-flash,Qwen3.6-Flash,0.25,1.5,0.5625,model_price_watch
+2026-10-26,Alibaba,alibaba-qwen3-6-plus,Qwen3.6-Plus,0.5,3.0,1.125,model_price_watch
+2026-10-26,Alibaba,alibaba-qwen3-7-flash,Qwen3.7-Flash,0.03,0.13,0.055,model_price_watch
+2026-10-26,Alibaba,alibaba-qwen3-7-max,Qwen3.7-Max,2.5,7.5,3.75,model_price_watch
+2026-10-26,Alibaba,alibaba-qwen3-7-plus,Qwen3.7-Plus,0.4,1.6,0.7000000000000001,model_price_watch
+2026-10-26,Alibaba,alibaba-qwen3-8-2-4t-a95b,Qwen3.8-2.4T-A95B,2.0,6.0,3.0,model_price_watch
+2026-10-26,Alibaba,alibaba-qwen3-8-27b,Qwen3.8-27B,0.5,3.0,1.125,model_price_watch
+2026-10-26,Alibaba,alibaba-qwen3-8-flash,Qwen3.8-Flash,0.15,0.47,0.2299999999999999,model_price_watch
+2026-10-26,Alibaba,alibaba-qwen3-8-max,Qwen3.8-Max,2.0,6.0,3.0,model_price_watch
+2026-10-26,Alibaba,alibaba-qwq-plus,QwQ-Plus,0.8,2.4,1.2000000000000002,model_price_watch
+2026-10-26,Alibaba,qwen-flash,Qwen-Flash,0.05,0.4,0.1375,roninforge_ai_price_index
+2026-10-26,Alibaba,qwen-max,Qwen Max,1.6,6.4,2.8000000000000003,roninforge_ai_price_index
+2026-10-26,Alibaba,qwen-plus,Qwen-Plus,0.4,1.2,0.6000000000000001,roninforge_ai_price_index
+2026-10-26,Alibaba,qwen3-coder-flash,Qwen3 Coder Flash,0.3,1.5,0.6,roninforge_ai_price_index
+2026-10-26,Alibaba,qwen3.5-flash,Qwen3.5 Flash,0.1,0.4,0.175,roninforge_ai_price_index
+2026-10-26,Alibaba,qwen3.5-plus,Qwen3.5 Plus,0.4,2.4,0.9,roninforge_ai_price_index
+2026-10-26,Alibaba,qwen3.6-flash,Qwen3.6 Flash,0.25,1.5,0.5625,roninforge_ai_price_index
+2026-10-26,Alibaba,qwen3.6-plus,Qwen3.6 Plus,0.5,3.0,1.125,roninforge_ai_price_index
+2026-10-26,Alibaba,qwen3.7-flash,Qwen3.7 Flash,0.03,0.13,0.055,roninforge_ai_price_index
+2026-10-26,Alibaba,qwen3.7-max,Qwen3.7 Max,2.5,7.5,3.75,roninforge_ai_price_index
+2026-10-26,Alibaba,qwen3.7-plus,Qwen3.7 Plus,0.4,1.6,0.7000000000000001,roninforge_ai_price_index
+2026-10-26,Alibaba,qwen3.8-flash,Qwen3.8 Flash,0.15,0.47,0.2299999999999999,roninforge_ai_price_index
+2026-10-26,Alibaba,qwen3.8-max,Qwen3.8 Max,2.0,6.0,3.0,roninforge_ai_price_index
+2026-10-26,Amazon,nova-2-lite,Nova 2 Lite,0.3,2.5,0.85,roninforge_ai_price_index
+2026-10-26,Amazon,nova-2-pro,Nova 2 Pro,1.25,10.0,3.4375,roninforge_ai_price_index
+2026-10-26,Amazon,nova-lite,Nova Lite,0.06,0.24,0.105,roninforge_ai_price_index
+2026-10-26,Amazon,nova-micro,Nova Micro,0.035,0.14,0.06125,roninforge_ai_price_index
+2026-10-26,Amazon,nova-premier,Nova Premier,2.5,12.5,5.0,roninforge_ai_price_index
+2026-10-26,Amazon,nova-pro,Nova Pro,0.8,3.2,1.4,roninforge_ai_price_index
+2026-10-26,Anthropic,anthropic-claude-haiku-3-5,Claude Haiku 3.5,0.8,4.0,1.6,model_price_watch
+2026-10-26,Anthropic,anthropic-claude-haiku-4-5,Claude Haiku 4.5,1.0,5.0,2.0,model_price_watch
+2026-10-26,Anthropic,anthropic-claude-opus-4,Claude Opus 4,15.0,75.0,30.0,model_price_watch
+2026-10-26,Anthropic,anthropic-claude-opus-4-1,Claude Opus 4.1,15.0,75.0,30.0,model_price_watch
+2026-10-26,Anthropic,anthropic-claude-opus-4-5,Claude Opus 4.5,5.0,25.0,10.0,model_price_watch
+2026-10-26,Anthropic,anthropic-claude-sonnet-4,Claude Sonnet 4,3.0,15.0,6.0,model_price_watch
+2026-10-26,Anthropic,anthropic-claude-sonnet-4-5,Claude Sonnet 4.5,3.0,15.0,6.0,model_price_watch
+2026-10-26,Anthropic,claude-fable-5,Claude Fable 5,10.0,50.0,20.0,roninforge_ai_price_index
+2026-10-26,Anthropic,claude-fable-5-1,Claude Fable 5.1,10.0,50.0,20.0,roninforge_ai_price_index
+2026-10-26,Anthropic,claude-haiku-4-5-20251001,Claude Haiku 4 5 20251001,1.0,5.0,2.0,roninforge_ai_price_index
+2026-10-26,Anthropic,claude-haiku-5-5,Claude Haiku 5.5,0.1,0.5,0.2,roninforge_ai_price_index
+2026-10-26,Anthropic,claude-mythos-5,Claude Mythos 5,10.0,50.0,20.0,roninforge_ai_price_index
+2026-10-26,Anthropic,claude-mythos-5-1,Claude Mythos 5.1,10.0,50.0,20.0,roninforge_ai_price_index
+2026-10-26,Anthropic,claude-opus-4-1-20250805,Claude Opus 4 1 20250805,15.0,75.0,30.0,roninforge_ai_price_index
+2026-10-26,Anthropic,claude-opus-4-20250514,Claude Opus 4 20250514,15.0,75.0,30.0,roninforge_ai_price_index
+2026-10-26,Anthropic,claude-opus-4-5-20251101,Claude Opus 4 5 20251101,5.0,25.0,10.0,roninforge_ai_price_index
+2026-10-26,Anthropic,claude-opus-4-6,Claude Opus 4.6,5.0,25.0,10.0,roninforge_ai_price_index
+2026-10-26,Anthropic,claude-opus-4-7,Claude Opus 4.7,5.0,25.0,10.0,roninforge_ai_price_index
+2026-10-26,Anthropic,claude-opus-4-8,Claude Opus 4.8,5.0,25.0,10.0,roninforge_ai_price_index
+2026-10-26,Anthropic,claude-opus-5,Claude Opus 5,5.0,25.0,10.0,roninforge_ai_price_index
+2026-10-26,Anthropic,claude-opus-5-5,Claude Opus 5.5,4.0,20.0,8.0,"roninforge_ai_price_index; launched 2026-09-22, in force at the week's Arena snapshot (2026-09-25)"
+2026-10-26,Anthropic,claude-sonnet-4-20250514,Claude Sonnet 4 20250514,3.0,15.0,6.0,roninforge_ai_price_index
+2026-10-26,Anthropic,claude-sonnet-4-5-20250929,Claude Sonnet 4 5 20250929,3.0,15.0,6.0,roninforge_ai_price_index
+2026-10-26,Anthropic,claude-sonnet-4-6,Claude Sonnet 4.6,3.0,15.0,6.0,roninforge_ai_price_index
+2026-10-26,Anthropic,claude-sonnet-5,Claude Sonnet 5,2.0,10.0,4.0,roninforge_ai_price_index
+2026-10-26,Anthropic,claude-sonnet-5-5,Claude Sonnet 5.5,2.0,10.0,4.0,roninforge_ai_price_index
+2026-10-26,Baichuan,baichuan-m2-32b,Baichuan M2-32B,0.07,0.07,0.07,model_price_watch
+2026-10-26,Cohere,cohere-command-a,Command A,2.5,10.0,4.375,model_price_watch
+2026-10-26,Cohere,cohere-command-r-03-2024,Command R 03-2024,0.5,1.5,0.75,model_price_watch
+2026-10-26,Cohere,cohere-command-r-08-2024,Command R 08-2024,0.15,0.6,0.2624999999999999,model_price_watch
+2026-10-26,Cohere,cohere-command-r-plus-08-2024,Command R+ 08-2024,2.5,10.0,4.375,model_price_watch
+2026-10-26,Cohere,cohere-embed-4,Embed 4,0.12,,,model_price_watch
+2026-10-26,Cohere,cohere-rerank-3-5,Rerank 3.5,0.02,,,model_price_watch
+2026-10-26,Cohere,command-r,Command R,0.15,0.6,0.2624999999999999,roninforge_ai_price_index
+2026-10-26,Cohere,command-r7b,Command R7b,0.0375,0.15,0.0656249999999999,roninforge_ai_price_index
+2026-10-26,DeepInfra,deepinfra-deepseek-v4-flash,DeepSeek V4 Flash (DeepInfra),0.06,0.18,0.09,model_price_watch; price cut from $0.09 input
+2026-10-26,DeepInfra,deepinfra-deepseek-v4-pro,DeepSeek V4 Pro,1.3,2.6,1.625,model_price_watch
+2026-10-26,DeepInfra,deepinfra-llama-4-maverick,Llama 4 Maverick,0.2,0.8,0.35,model_price_watch
+2026-10-26,DeepInfra,deepinfra-llama-4-scout,Llama 4 Scout,0.1,0.3,0.15,model_price_watch
+2026-10-26,DeepInfra,deepinfra-nvidia-nemotron-3-5-lightning,Nemotron 3.5 Lightning (DeepInfra),0.06,0.16,0.085,model_price_watch
+2026-10-26,DeepInfra,deepinfra-nvidia-nemotron-70b-instruct,Nemotron 70B Instruct,1.2,1.2,1.2,model_price_watch
+2026-10-26,DeepInfra,deepinfra-qwen3-32b,Qwen3-32B,0.08,0.28,0.13,model_price_watch
+2026-10-26,DeepSeek,deepseek-v4-1-flash-1017,DeepSeek V4.1 Flash 1017,0.3,1.2,0.525,model_price_watch; peak (standard) rate; replaced V4.1 Flash behind deepseek-flash
+2026-10-26,DeepSeek,deepseek-v4-pro,DeepSeek V4 Pro,0.66,1.98,0.99,roninforge_ai_price_index
+2026-10-26,Fireworks,fireworks-deepseek-v4-flash,DeepSeek V4 Flash,0.14,0.28,0.175,model_price_watch
+2026-10-26,Fireworks,fireworks-deepseek-v4-pro,DeepSeek V4 Pro,1.32,3.96,1.98,model_price_watch
+2026-10-26,Fireworks,fireworks-glm-5-1,GLM-5.1,1.4,4.4,2.15,model_price_watch
+2026-10-26,Fireworks,fireworks-glm-5-2,GLM-5.2,1.4,4.4,2.15,model_price_watch
+2026-10-26,Fireworks,fireworks-glm-5-3,GLM-5.3,1.4,4.4,2.15,model_price_watch
+2026-10-26,Fireworks,fireworks-gpt-oss-120b,GPT-OSS 120B,0.15,0.6,0.2624999999999999,model_price_watch
+2026-10-26,Fireworks,fireworks-gpt-oss-20b,GPT-OSS 20B,0.07,0.3,0.1275,model_price_watch
+2026-10-26,Fireworks,fireworks-kimi-k2-5,Kimi K2.5,0.6,3.0,1.2,model_price_watch
+2026-10-26,Fireworks,fireworks-kimi-k2-6,Kimi K2.6,0.95,4.0,1.7125,model_price_watch
+2026-10-26,Fireworks,fireworks-kimi-k2-7-code,Kimi K2.7 Code,0.95,4.0,1.7125,model_price_watch
+2026-10-26,Fireworks,fireworks-minimax-2-5,MiniMax-M2.5,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-26,Fireworks,fireworks-minimax-2-7,MiniMax-M2.7,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-26,Fireworks,fireworks-minimax-m3,MiniMax-M3,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-26,Fireworks,fireworks-muse-glimmer-30b,Muse Glimmer 30B,0.35,1.5,0.6375,model_price_watch
+2026-10-26,Fireworks,fireworks-nemotron-3-ultra,NVIDIA Nemotron 3 Ultra,0.6,2.4,1.0499999999999998,model_price_watch
+2026-10-26,Fireworks,fireworks-qwen3-6-plus,Qwen3.6-Plus,0.5,3.0,1.125,model_price_watch
+2026-10-26,Fireworks,fireworks-qwen3-7-plus,Qwen3.7-Plus,0.4,1.6,0.7000000000000001,model_price_watch
+2026-10-26,Google,gemini-2.5-flash,Gemini 2.5 Flash,0.3,2.5,0.85,roninforge_ai_price_index
+2026-10-26,Google,gemini-2.5-flash-lite,Gemini 2.5 Flash-Lite,0.1,0.4,0.175,roninforge_ai_price_index
+2026-10-26,Google,gemini-2.5-pro,Gemini 2.5 Pro,1.25,10.0,3.4375,roninforge_ai_price_index
+2026-10-26,Google,gemini-3-flash-preview,Gemini 3 Flash Preview,0.5,3.0,1.125,roninforge_ai_price_index
+2026-10-26,Google,gemini-3.1-flash-lite,Gemini 3.1 Flash-Lite,0.25,1.5,0.5625,roninforge_ai_price_index
+2026-10-26,Google,gemini-3.1-pro-preview,Gemini 3.1 Pro Preview,2.0,12.0,4.5,roninforge_ai_price_index
+2026-10-26,Google,gemini-3.5-flash-lite,Gemini 3.5 Flash-Lite,0.3,2.5,0.85,roninforge_ai_price_index
+2026-10-26,Google,gemini-3.6-flash,Gemini 3.6 Flash,0.75,3.75,1.5,roninforge_ai_price_index
+2026-10-26,Google,gemini-3.8-flash,Gemini 3.8 Flash,0.75,3.75,1.5,roninforge_ai_price_index
+2026-10-26,Google,gemini-4-argon,Gemini 4 Argon,2.0,10.0,4.0,roninforge_ai_price_index; introductory rate through 2026-11-30; $4/$20 from 2026-12-01
+2026-10-26,Google,google-gemini-3-1-flash-image,Gemini 3.1 Flash Image,0.5,60.0,15.375,model_price_watch
+2026-10-26,Google,google-gemini-3-1-flash-lite,Gemini 3.1 Flash-Lite,0.25,1.5,0.5625,model_price_watch
+2026-10-26,Google,google-gemini-3-1-flash-lite-image,Gemini 3.1 Flash Lite Image,0.25,30.0,7.6875,model_price_watch
+2026-10-26,Google,google-gemini-3-1-pro,Gemini 3.1 Pro,2.0,12.0,4.5,model_price_watch
+2026-10-26,Google,google-gemini-3-5-flash-lite,Gemini 3.5 Flash-Lite,0.3,2.5,0.85,model_price_watch
+2026-10-26,Google,google-gemini-3-6-flash,Gemini 3.6 Flash,0.75,3.75,1.5,model_price_watch
+2026-10-26,Google,google-gemini-3-8-flash,Gemini 3.8 Flash,0.75,3.75,1.5,model_price_watch
+2026-10-26,Google,google-gemini-3-pro-image,Gemini 3 Pro Image,2.0,120.0,31.5,model_price_watch
+2026-10-26,Google,google-text-embedding-004,text-embedding-004,0.025,,,model_price_watch
+2026-10-26,Groq,groq-gpt-oss-120b,GPT-OSS 120B,0.15,0.6,0.2624999999999999,model_price_watch
+2026-10-26,Groq,groq-gpt-oss-20b,GPT-OSS 20B,0.075,0.3,0.1312499999999999,model_price_watch
+2026-10-26,Groq,groq-llama-3-1-8b-instant,Llama 3.1 8B Instant,0.05,0.08,0.0575,model_price_watch
+2026-10-26,Groq,groq-llama-3-3-70b-versatile,Llama 3.3 70B Versatile,0.59,0.79,0.64,model_price_watch
+2026-10-26,Groq,groq-llama-4-scout,Llama 4 Scout,0.11,0.34,0.1675,model_price_watch
+2026-10-26,Groq,groq-qwen-3-6-27b,Qwen3.6-27B,0.6,3.0,1.2,model_price_watch
+2026-10-26,Groq,groq-qwen-3-8-27b,Qwen 3.8 27B (Groq),0.8,4.0,1.6,model_price_watch; preview
+2026-10-26,Groq,groq-qwen3-32b,Qwen3-32B,0.29,0.59,0.365,model_price_watch
+2026-10-26,IBM,ibm-granite-4-0-h-micro,Granite 4.0 H Micro,0.017,0.112,0.04075,model_price_watch
+2026-10-26,IBM,ibm-granite-4-h-small,Granite 4 H Small,0.0636,0.265,0.11395,model_price_watch
+2026-10-26,IBM,ibm-granite-embedding-278m,Granite Embedding 278M Multilingual,0.106,,,model_price_watch
+2026-10-26,Inception,inception-mercury-2,Mercury 2,0.25,0.75,0.375,model_price_watch
+2026-10-26,Inception,inception-mercury-3,Mercury 3,0.2,0.7,0.325,model_price_watch; list price; launched at 50% off
+2026-10-26,Kwaipilot,kwaipilot-kat-coder-air-v2-5,KAT-Coder-Air V2.5,0.148,0.593,0.25925,model_price_watch
+2026-10-26,Kwaipilot,kwaipilot-kat-coder-pro-v2-5,KAT-Coder-Pro V2.5,0.741,2.964,1.2967499999999998,model_price_watch
+2026-10-26,Meituan,meituan-longcat-2,LongCat-2.0,0.75,2.95,1.3,model_price_watch
+2026-10-26,Meta,llama-3.1-405b,Llama 3.1 405b,3.5,3.5,3.5,roninforge_ai_price_index
+2026-10-26,Meta,llama-3.1-8b,Llama 3.1 8b,0.18,0.18,0.18,roninforge_ai_price_index
+2026-10-26,Meta,llama-3.3-70b,Llama 3.3 70b,1.04,1.04,1.04,roninforge_ai_price_index
+2026-10-26,Meta,llama-4-maverick,Llama 4 Maverick,0.27,0.85,0.415,roninforge_ai_price_index
+2026-10-26,Meta,llama-4-scout,Llama 4 Scout,0.18,0.59,0.2825,roninforge_ai_price_index
+2026-10-26,Meta,meta-llama-3-1-8b,Llama 3.1 8B,0.05,0.08,0.0575,model_price_watch
+2026-10-26,Meta,meta-llama-3-3-70b,Llama 3.3 70B,0.59,0.79,0.64,model_price_watch
+2026-10-26,Meta,meta-muse-spark-1-1,Muse Spark 1.1,1.25,4.25,2.0,model_price_watch
+2026-10-26,Meta,meta-muse-spark-1-2,Muse Spark 1.2,1.25,4.25,2.0,model_price_watch
+2026-10-26,Meta,meta-muse-spark-1-3,Muse Spark 1.3,1.25,4.25,2.0,model_price_watch
+2026-10-26,Meta,meta-muse-wonder,Muse Wonder,4.0,20.0,8.0,model_price_watch; preview; Standard mode
+2026-10-26,MiniMax,minimax-m2,MiniMax-M2,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-26,MiniMax,minimax-m2-1,MiniMax-M2.1,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-26,MiniMax,minimax-m2-5,MiniMax-M2.5,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-26,MiniMax,minimax-m2-7,MiniMax-M2.7,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-26,MiniMax,minimax-m3,MiniMax-M3,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-26,MiniMax,minimax-m3-1-flash,MiniMax M3.1 Flash,0.15,0.6,0.2625,model_price_watch
+2026-10-26,Mistral,codestral-25.08,Codestral 25.08,0.3,0.9,0.4499999999999999,roninforge_ai_price_index
+2026-10-26,Mistral,devstral-2,Devstral 2 2512,0.4,2.0,0.8,roninforge_ai_price_index
+2026-10-26,Mistral,devstral-small-2,Devstral Small 2,0.1,0.3,0.15,roninforge_ai_price_index
+2026-10-26,Mistral,magistral-medium,Magistral Medium,2.0,5.0,2.75,roninforge_ai_price_index
+2026-10-26,Mistral,magistral-small,Magistral Small,0.5,1.5,0.75,roninforge_ai_price_index
+2026-10-26,Mistral,ministral-3-14b,Ministral 3 14b,0.2,0.2,0.2,roninforge_ai_price_index
+2026-10-26,Mistral,ministral-3-3b,Ministral 3 3b,0.1,0.1,0.1,roninforge_ai_price_index
+2026-10-26,Mistral,ministral-3-8b,Ministral 3 8b,0.15,0.15,0.15,roninforge_ai_price_index
+2026-10-26,Mistral,mistral-codestral,Codestral,0.3,0.9,0.4499999999999999,model_price_watch
+2026-10-26,Mistral,mistral-codestral-2508,Codestral 2508,0.3,0.9,0.4499999999999999,model_price_watch
+2026-10-26,Mistral,mistral-large-3,Mistral Large 3,0.5,1.5,0.75,roninforge_ai_price_index
+2026-10-26,Mistral,mistral-large-4,Mistral Large 4,1.36,4.18,2.065,roninforge_ai_price_index; price doubled 2026-10-24
+2026-10-26,Mistral,mistral-medium-3,Mistral Medium 3,0.4,2.0,0.8,model_price_watch
+2026-10-26,Mistral,mistral-medium-3-5,Mistral Medium 3.5,1.5,7.5,3.0,model_price_watch
+2026-10-26,Mistral,mistral-medium-3.5,Mistral Medium 3.5,1.5,7.5,3.0,roninforge_ai_price_index
+2026-10-26,Mistral,mistral-ministral-3b,Ministral 3 3B,0.1,0.1,0.1,model_price_watch
+2026-10-26,Mistral,mistral-mixtral-8x22b,Mixtral 8x22B Instruct,2.0,6.0,3.0,model_price_watch
+2026-10-26,Mistral,mistral-mixtral-8x7b,Mixtral 8x7B Instruct,0.7,0.7,0.7,model_price_watch
+2026-10-26,Mistral,mistral-pixtral-12b,Pixtral 12B,0.1,0.1,0.1,model_price_watch
+2026-10-26,Mistral,mistral-pixtral-large,Pixtral Large 2411,2.0,6.0,3.0,model_price_watch
+2026-10-26,Mistral,mistral-small-3-2,Mistral Small 3.2 24B,0.1,0.3,0.15,model_price_watch
+2026-10-26,Mistral,mistral-small-4,Mistral Small 4,0.15,0.6,0.2624999999999999,roninforge_ai_price_index
+2026-10-26,Mistral,mistral-voxtral-small,Voxtral Small 24B,0.1,0.4,0.175,model_price_watch
+2026-10-26,Moonshot,moonshot-kimi-k2-5,Kimi K2.5,0.6,3.0,1.2,model_price_watch
+2026-10-26,Moonshot,moonshot-kimi-k2-6,Kimi K2.6,0.95,4.0,1.7125,model_price_watch
+2026-10-26,Moonshot,moonshot-kimi-k2-7-code,Kimi K2.7 Code,0.95,4.0,1.7125,model_price_watch
+2026-10-26,Moonshot,moonshot-kimi-k2-7-code-highspeed,Kimi K2.7 Code HighSpeed,1.9,8.0,3.425,model_price_watch
+2026-10-26,Moonshot,moonshot-kimi-k3,Kimi K3,3.0,15.0,6.0,model_price_watch
+2026-10-26,Moonshot,moonshot-kimi-k3-1-pro,Kimi K3.1 Pro,2.0,10.0,4.0,model_price_watch
+2026-10-26,OpenAI,gpt-4.1,GPT-4.1,2.0,8.0,3.5,roninforge_ai_price_index
+2026-10-26,OpenAI,gpt-4o,GPT-4o,2.5,10.0,4.375,roninforge_ai_price_index
+2026-10-26,OpenAI,gpt-4o-mini,GPT-4o mini,0.15,0.6,0.2624999999999999,roninforge_ai_price_index
+2026-10-26,OpenAI,gpt-5,GPT-5,1.25,10.0,3.4375,roninforge_ai_price_index
+2026-10-26,OpenAI,gpt-5.1,GPT-5.1,1.25,10.0,3.4375,roninforge_ai_price_index
+2026-10-26,OpenAI,gpt-5.2,GPT-5.2,1.75,14.0,4.8125,roninforge_ai_price_index
+2026-10-26,OpenAI,gpt-5.2-pro,GPT-5.2 Pro,21.0,168.0,57.75,roninforge_ai_price_index
+2026-10-26,OpenAI,gpt-5.3-codex,GPT-5.3 Codex,1.75,14.0,4.8125,roninforge_ai_price_index
+2026-10-26,OpenAI,gpt-5.4,GPT-5.4,2.5,15.0,5.625,roninforge_ai_price_index
+2026-10-26,OpenAI,gpt-5.4-mini,GPT-5.4 mini,0.75,4.5,1.6875,roninforge_ai_price_index
+2026-10-26,OpenAI,gpt-5.4-nano,GPT-5.4 nano,0.2,1.25,0.4625,roninforge_ai_price_index
+2026-10-26,OpenAI,gpt-5.4-pro,GPT-5.4 Pro,30.0,180.0,67.5,roninforge_ai_price_index
+2026-10-26,OpenAI,gpt-5.5,GPT-5.5,5.0,30.0,11.25,roninforge_ai_price_index
+2026-10-26,OpenAI,gpt-5.5-pro,GPT-5.5 Pro,30.0,180.0,67.5,roninforge_ai_price_index
+2026-10-26,OpenAI,gpt-5.6-luna,GPT-5.6 Luna,0.2,1.2,0.45,roninforge_ai_price_index
+2026-10-26,OpenAI,gpt-5.6-sol,GPT-5.6 Sol,4.0,20.0,8.0,roninforge_ai_price_index
+2026-10-26,OpenAI,gpt-5.6-terra,GPT-5.6 Terra,2.0,12.0,4.5,roninforge_ai_price_index
+2026-10-26,OpenAI,gpt-6-astra,GPT-6 Astra,10.0,50.0,20.0,roninforge_ai_price_index
+2026-10-26,OpenAI,gpt-6-luna,GPT-6 Luna,0.1,0.5,0.2,"roninforge_ai_price_index; launched 2026-09-23, in force at the week's Arena snapshot (2026-09-25)"
+2026-10-26,OpenAI,gpt-6-sol,GPT-6 Sol,2.0,10.0,4.0,"roninforge_ai_price_index; launched 2026-09-23, in force at the week's Arena snapshot (2026-09-25)"
+2026-10-26,OpenAI,gpt-6.1-sol,GPT-6.1 Sol,2.0,10.0,4.0,roninforge_ai_price_index
+2026-10-26,OpenAI,gpt-6.1-terra,GPT-6.1 Terra,1.0,5.0,2.0,roninforge_ai_price_index
+2026-10-26,OpenAI,o1,o1,15.0,60.0,26.25,roninforge_ai_price_index
+2026-10-26,OpenAI,o1-mini,O1 Mini,1.1,4.4,1.9250000000000005,roninforge_ai_price_index
+2026-10-26,OpenAI,o1-pro,o1-pro,150.0,600.0,262.5,roninforge_ai_price_index
+2026-10-26,OpenAI,o3,o3,2.0,8.0,3.5,roninforge_ai_price_index
+2026-10-26,OpenAI,o3-deep-research,O3 Deep Research,10.0,40.0,17.5,roninforge_ai_price_index
+2026-10-26,OpenAI,o3-mini,o3-mini,1.1,4.4,1.9250000000000005,roninforge_ai_price_index
+2026-10-26,OpenAI,o3-pro,o3-pro,20.0,80.0,35.0,roninforge_ai_price_index
+2026-10-26,OpenAI,o4-mini,o4-mini,1.1,4.4,1.9250000000000005,roninforge_ai_price_index
+2026-10-26,OpenAI,o4-mini-deep-research,O4 Mini Deep Research,2.0,8.0,3.5,roninforge_ai_price_index
+2026-10-26,OpenAI,openai-gpt-3-5-turbo,GPT-3.5 Turbo,0.5,1.5,0.75,model_price_watch
+2026-10-26,OpenAI,openai-gpt-4-0613,GPT-4,30.0,60.0,37.5,model_price_watch
+2026-10-26,OpenAI,openai-gpt-4-1,GPT-4.1,2.0,8.0,3.5,model_price_watch
+2026-10-26,OpenAI,openai-gpt-4-1-mini,GPT-4.1 mini,0.4,1.6,0.7000000000000001,model_price_watch
+2026-10-26,OpenAI,openai-gpt-4-1-nano,GPT-4.1 nano,0.1,0.4,0.175,model_price_watch
+2026-10-26,OpenAI,openai-gpt-4-turbo-2024-04-09,GPT-4 Turbo,10.0,30.0,15.0,model_price_watch
+2026-10-26,OpenAI,openai-gpt-5-1,GPT-5.1,1.25,10.0,3.4375,model_price_watch
+2026-10-26,OpenAI,openai-gpt-5-2,GPT-5.2,1.75,14.0,4.8125,model_price_watch
+2026-10-26,OpenAI,openai-gpt-5-2-chat,GPT-5.2 Chat,1.75,14.0,4.8125,model_price_watch
+2026-10-26,OpenAI,openai-gpt-5-2-codex,GPT-5.2 Codex,1.75,14.0,4.8125,model_price_watch
+2026-10-26,OpenAI,openai-gpt-5-2-pro,GPT-5.2 Pro,21.0,168.0,57.75,model_price_watch
+2026-10-26,OpenAI,openai-gpt-5-3-chat,GPT-5.3 Chat,1.75,14.0,4.8125,model_price_watch
+2026-10-26,OpenAI,openai-gpt-5-3-codex,GPT-5.3 Codex,1.75,14.0,4.8125,model_price_watch
+2026-10-26,OpenAI,openai-gpt-5-4,GPT-5.4,2.5,15.0,5.625,model_price_watch
+2026-10-26,OpenAI,openai-gpt-5-4-mini,GPT-5.4 mini,0.75,4.5,1.6875,model_price_watch
+2026-10-26,OpenAI,openai-gpt-5-4-nano,GPT-5.4 nano,0.2,1.25,0.4625,model_price_watch
+2026-10-26,OpenAI,openai-gpt-5-4-pro,GPT-5.4 Pro,30.0,180.0,67.5,model_price_watch
+2026-10-26,OpenAI,openai-gpt-5-5,GPT-5.5,5.0,30.0,11.25,model_price_watch
+2026-10-26,OpenAI,openai-gpt-5-5-pro,GPT-5.5 Pro,30.0,180.0,67.5,model_price_watch
+2026-10-26,OpenAI,openai-gpt-5-6-cyber,GPT-5.6 Cyber,12.5,75.0,28.125,model_price_watch
+2026-10-26,OpenAI,openai-gpt-5-6-luna,GPT-5.6 Luna,0.2,1.2,0.45,model_price_watch
+2026-10-26,OpenAI,openai-gpt-5-6-sol,GPT-5.6 Sol,4.0,20.0,8.0,model_price_watch
+2026-10-26,OpenAI,openai-gpt-5-6-terra,GPT-5.6 Terra,2.0,12.0,4.5,model_price_watch
+2026-10-26,OpenAI,openai-gpt-5-mini,GPT-5 mini,0.25,2.0,0.6875,model_price_watch
+2026-10-26,OpenAI,openai-gpt-5-nano,GPT-5 nano,0.05,0.4,0.1375,model_price_watch
+2026-10-26,OpenAI,openai-gpt-5-pro,GPT-5 Pro,15.0,120.0,41.25,model_price_watch
+2026-10-26,OpenAI,openai-gpt-audio-1-5,GPT-Audio-1.5,2.5,10.0,4.375,model_price_watch
+2026-10-26,OpenAI,openai-gpt-image-2,GPT-Image-2,8.0,30.0,13.5,model_price_watch
+2026-10-26,OpenAI,openai-gpt-realtime-2,GPT-Realtime-2,4.0,24.0,9.0,model_price_watch
+2026-10-26,OpenAI,openai-gpt-realtime-2-1,GPT-Realtime-2.1,4.0,24.0,9.0,model_price_watch
+2026-10-26,OpenAI,openai-gpt-realtime-2-1-mini,GPT-Realtime-2.1 mini,0.6,2.4,1.0499999999999998,model_price_watch
+2026-10-26,OpenAI,openai-text-embedding-3-large,text-embedding-3-large,0.13,,,model_price_watch
+2026-10-26,OpenAI,openai-text-embedding-3-small,text-embedding-3-small,0.02,,,model_price_watch
+2026-10-26,Perplexity,perplexity-sonar,Sonar,1.0,1.0,1.0,model_price_watch
+2026-10-26,Perplexity,perplexity-sonar-deep-research,Sonar Deep Research,2.0,8.0,3.5,model_price_watch
+2026-10-26,Perplexity,perplexity-sonar-pro,Sonar Pro,3.0,15.0,6.0,model_price_watch
+2026-10-26,Perplexity,perplexity-sonar-reasoning-pro,Sonar Reasoning Pro,2.0,8.0,3.5,model_price_watch
+2026-10-26,Reka,reka-core,Reka Core,2.0,6.0,3.0,model_price_watch
+2026-10-26,Reka,reka-edge,Reka Edge,0.1,0.1,0.1,model_price_watch
+2026-10-26,Reka,reka-flash,Reka Flash,0.8,2.0,1.1,model_price_watch
+2026-10-26,Reka,reka-flash-3,Reka Flash 3,0.1,0.2,0.125,model_price_watch
+2026-10-26,Relace,relace-apply-3,Relace Apply 3,0.8,1.2,0.9000000000000001,model_price_watch
+2026-10-26,Relace,relace-search,Relace Search,1.0,3.0,1.5,model_price_watch
+2026-10-26,Sakana AI,sakana-fugu-ultra,Fugu Ultra,5.0,30.0,11.25,model_price_watch
+2026-10-26,Sakana AI,sakana-namazu,Sakana Namazu,0.95,4.0,1.7125,model_price_watch
+2026-10-26,StepFun,stepfun-step-3-5-flash,Step 3.5 Flash,0.1,0.3,0.15,model_price_watch; first tracked 2026-10-08
+2026-10-26,StepFun,stepfun-step-3-7-flash,Step 3.7 Flash,0.2,1.15,0.4375,model_price_watch
+2026-10-26,StepFun,stepfun-step-5-preview,Step 5 Preview,1.0,2.7,1.425,model_price_watch; preview
+2026-10-26,Tencent,tencent-hunyuan-hy3-preview,Hunyuan Hy3 Preview,0.132,0.528,0.231,model_price_watch; price cut
+2026-10-26,Tencent,tencent-hy-mt2-1-8b,Hy-MT2 1.8B,0.044,0.177,0.07725,model_price_watch
+2026-10-26,Tencent,tencent-hy-mt2-30b-a3b,Hy-MT2 30B-A3B,0.074,0.295,0.1292499999999999,model_price_watch
+2026-10-26,Tencent,tencent-hy4-preview,Hy4 preview,0.834,2.501,1.25075,model_price_watch
+2026-10-26,Thinking Machines,thinking-machines-inkling,Inkling,1.0,4.05,1.7625,model_price_watch
+2026-10-26,Thinking Machines,thinking-machines-inkling-small,Inkling Small,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-26,Together,together-deepseek-v4-pro,DeepSeek V4 Pro,1.32,3.96,1.98,model_price_watch
+2026-10-26,Together,together-gemma-4-31b-pearl,Gemma-4-31B-it-Pearl,0.28,0.86,0.425,model_price_watch
+2026-10-26,Together,together-glm-5-2,GLM-5.2,1.4,4.4,2.15,model_price_watch
+2026-10-26,Together,together-glm-5-3,GLM-5.3,1.4,4.4,2.15,model_price_watch
+2026-10-26,Together,together-gpt-oss-120b,GPT-OSS 120B,0.15,0.6,0.2624999999999999,model_price_watch
+2026-10-26,Together,together-kimi-k2-7-code,Kimi K2.7 Code,0.95,4.0,1.7125,model_price_watch
+2026-10-26,Together,together-lfm2-24b-a2b,LFM2 24B A2B,0.03,0.12,0.0525,model_price_watch
+2026-10-26,Together,together-lfm2-5-8b-a1b,LFM2.5 8B A1B,0.03,0.12,0.0525,model_price_watch
+2026-10-26,Together,together-llama-3-3-70b,Llama 3.3 70B,1.04,1.04,1.04,model_price_watch
+2026-10-26,Together,together-minimax-m2-5,MiniMax-M2.5,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-26,Together,together-minimax-m3,MiniMax-M3,0.3,1.2,0.5249999999999999,model_price_watch
+2026-10-26,Together,together-muse-glimmer-30b,Muse Glimmer 30B,0.35,1.5,0.6375,model_price_watch
+2026-10-26,Together,together-nvidia-nemotron-3-ultra,NVIDIA Nemotron 3 Ultra,0.6,3.6,1.35,model_price_watch
+2026-10-26,Together,together-qwen3-5-397b-a17b,Qwen3.5-397B-A17B,0.6,3.6,1.35,model_price_watch
+2026-10-26,Together,together-qwen3-7-max,Qwen3.7 Max (Together),1.5,4.5,2.25,model_price_watch
+2026-10-26,Together,together-qwen3-7-plus,Qwen3.7-Plus,0.32,1.28,0.56,model_price_watch
+2026-10-26,Upstage,upstage-solar-pro-3,Solar Pro 3,0.15,0.6,0.2624999999999999,model_price_watch
+2026-10-26,Upstage,upstage-solar-pro-4,Solar Pro 4,0.3,1.2,0.525,model_price_watch; price raise
+2026-10-26,Voyage AI,voyage-4,voyage-4,0.06,,,model_price_watch
+2026-10-26,Voyage AI,voyage-4-large,voyage-4-large,0.12,,,model_price_watch
+2026-10-26,Voyage AI,voyage-4-lite,voyage-4-lite,0.02,,,model_price_watch
+2026-10-26,Voyage AI,voyage-code-3,voyage-code-3,0.18,,,model_price_watch
+2026-10-26,Voyage AI,voyage-context-3,voyage-context-3,0.18,,,model_price_watch
+2026-10-26,Voyage AI,voyage-multimodal-3-5,voyage-multimodal-3.5,0.12,,,model_price_watch
+2026-10-26,Voyage AI,voyage-rerank-2-5,rerank-2.5,0.05,,,model_price_watch
+2026-10-26,Voyage AI,voyage-rerank-2-5-lite,rerank-2.5-lite,0.02,,,model_price_watch
+2026-10-26,Z.AI,zhipu-glm-4-32b,GLM-4-32B-0414,0.1,0.1,0.1,model_price_watch
+2026-10-26,Z.AI,zhipu-glm-4-5,GLM-4.5,0.6,2.2,1.0,model_price_watch
+2026-10-26,Z.AI,zhipu-glm-4-5-air,GLM-4.5-Air,0.2,1.1,0.425,model_price_watch
+2026-10-26,Z.AI,zhipu-glm-4-6,GLM-4.6,0.6,2.2,1.0,model_price_watch
+2026-10-26,Z.AI,zhipu-glm-4-6v,GLM-4.6V,0.3,0.9,0.4499999999999999,model_price_watch
+2026-10-26,Z.AI,zhipu-glm-4-7,GLM-4.7,0.6,2.2,1.0,model_price_watch
+2026-10-26,Z.AI,zhipu-glm-4-7-flash,GLM-4.7-Flash,0.0,0.0,0.0,model_price_watch
+2026-10-26,Z.AI,zhipu-glm-4-7-flashx,GLM-4.7-FlashX,0.07,0.4,0.1525,model_price_watch
+2026-10-26,Z.AI,zhipu-glm-5,GLM-5,1.0,3.2,1.55,model_price_watch
+2026-10-26,Z.AI,zhipu-glm-5-1,GLM-5.1,1.4,4.4,2.15,model_price_watch
+2026-10-26,Z.AI,zhipu-glm-5-2,GLM-5.2,1.4,4.4,2.15,model_price_watch
+2026-10-26,Z.AI,zhipu-glm-5-3,GLM-5.3,1.4,4.4,2.15,model_price_watch
+2026-10-26,Z.AI,zhipu-glm-5-3-flash,GLM-5.3-Flash,0.15,0.5,0.2375,model_price_watch
+2026-10-26,Z.AI,zhipu-glm-5-turbo,GLM-5-Turbo,1.2,4.0,1.9,model_price_watch
+2026-10-26,Z.AI,zhipu-glm-5v-turbo,GLM-5V-Turbo,1.2,4.0,1.9,model_price_watch
+2026-10-26,Z.AI,zhipu-glm-ocr,GLM-OCR,0.03,0.03,0.03,model_price_watch
+2026-10-26,xAI,grok-4.20-0309-non-reasoning,Grok 4.20 0309 Non Reasoning,1.25,2.5,1.5625,roninforge_ai_price_index
+2026-10-26,xAI,grok-4.20-0309-reasoning,Grok 4.20 0309 Reasoning,1.25,2.5,1.5625,roninforge_ai_price_index
+2026-10-26,xAI,grok-4.20-multi-agent-0309,Grok 4.20 Multi Agent 0309,1.25,2.5,1.5625,roninforge_ai_price_index
+2026-10-26,xAI,grok-4.3,Grok 4.3,1.25,2.5,1.5625,roninforge_ai_price_index
+2026-10-26,xAI,grok-4.5,Grok 4.5,2.0,6.0,3.0,roninforge_ai_price_index
+2026-10-26,xAI,grok-4.6,Grok 4.6,2.0,6.0,3.0,roninforge_ai_price_index
+2026-10-26,xAI,grok-4.7,Grok 4.7,2.0,6.0,3.0,roninforge_ai_price_index
+2026-10-26,xAI,grok-build-0.1,Grok Build 0.1,1.0,2.0,1.25,roninforge_ai_price_index
+2026-10-26,xAI,xai-grok-4,Grok 4,3.0,15.0,6.0,model_price_watch
+2026-10-26,xAI,xai-grok-4-1-fast,Grok 4.1 Fast,0.2,0.5,0.275,model_price_watch
+2026-10-26,xAI,xai-grok-4-20,Grok 4.20,1.25,2.5,1.5625,model_price_watch
+2026-10-26,xAI,xai-grok-4-3,Grok 4.3,1.25,2.5,1.5625,model_price_watch
+2026-10-26,xAI,xai-grok-4-5,Grok 4.5,2.0,6.0,3.0,model_price_watch
+2026-10-26,xAI,xai-grok-4-6,Grok 4.6,2.0,6.0,3.0,model_price_watch
+2026-10-26,xAI,xai-grok-build-0-1,Grok Build 0.1,1.0,2.0,1.25,model_price_watch

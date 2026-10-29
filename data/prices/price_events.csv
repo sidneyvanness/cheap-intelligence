@@ -57,22 +57,22 @@ Alibaba,qwen-plus,Qwen-Plus,cache_write,0.5,2026-09-07,,roninforge_ai_price_inde
 Alibaba,qwen-plus,Qwen-Plus,cached,0.04,2026-09-07,,roninforge_ai_price_index,inferred,https://www.alibabacloud.com/help/en/model-studio/context-cache,
 Alibaba,qwen-plus,Qwen-Plus,input,0.4,2025-12-01,,roninforge_ai_price_index,verified,https://www.alibabacloud.com/help/en/model-studio/model-pricing,
 Alibaba,qwen-plus,Qwen-Plus,output,1.2,2025-12-01,,roninforge_ai_price_index,verified,https://www.alibabacloud.com/help/en/model-studio/model-pricing,
-Alibaba,qwen-turbo,Qwen-Turbo,input,0.05,2025-04-28,,roninforge_ai_price_index,verified,https://www.alibabacloud.com/help/en/model-studio/model-pricing,
-Alibaba,qwen-turbo,Qwen-Turbo,output,0.2,2025-04-28,,roninforge_ai_price_index,verified,https://www.alibabacloud.com/help/en/model-studio/model-pricing,
+Alibaba,qwen-turbo,Qwen-Turbo,input,0.05,2025-04-28,2026-10-09,roninforge_ai_price_index,verified,https://www.alibabacloud.com/help/en/model-studio/model-pricing,retired on Alibaba Model Studio
+Alibaba,qwen-turbo,Qwen-Turbo,output,0.2,2025-04-28,2026-10-09,roninforge_ai_price_index,verified,https://www.alibabacloud.com/help/en/model-studio/model-pricing,retired on Alibaba Model Studio
 Alibaba,qwen3-coder-flash,Qwen3 Coder Flash,cache_write,0.375,2026-09-07,,roninforge_ai_price_index,inferred,https://www.alibabacloud.com/help/en/model-studio/context-cache,
 Alibaba,qwen3-coder-flash,Qwen3 Coder Flash,cached,0.03,2026-09-07,,roninforge_ai_price_index,inferred,https://www.alibabacloud.com/help/en/model-studio/context-cache,
 Alibaba,qwen3-coder-flash,Qwen3 Coder Flash,input,0.3,2026-08-21,,roninforge_ai_price_index,verified,https://www.alibabacloud.com/help/en/model-studio/model-pricing,
 Alibaba,qwen3-coder-flash,Qwen3 Coder Flash,output,1.5,2026-08-21,,roninforge_ai_price_index,verified,https://www.alibabacloud.com/help/en/model-studio/model-pricing,
-Alibaba,qwen3-coder-next,Qwen3-Coder-Next,input,0.3,2026-08-21,,roninforge_ai_price_index,verified,https://www.alibabacloud.com/help/en/model-studio/model-pricing,
-Alibaba,qwen3-coder-next,Qwen3-Coder-Next,output,1.5,2026-08-21,,roninforge_ai_price_index,verified,https://www.alibabacloud.com/help/en/model-studio/model-pricing,
+Alibaba,qwen3-coder-next,Qwen3-Coder-Next,input,0.3,2026-08-21,2026-10-09,roninforge_ai_price_index,verified,https://www.alibabacloud.com/help/en/model-studio/model-pricing,retired on Alibaba Model Studio
+Alibaba,qwen3-coder-next,Qwen3-Coder-Next,output,1.5,2026-08-21,2026-10-09,roninforge_ai_price_index,verified,https://www.alibabacloud.com/help/en/model-studio/model-pricing,retired on Alibaba Model Studio
 Alibaba,qwen3-coder-plus,Qwen3 Coder Plus,cache_write,1.25,2026-09-07,,roninforge_ai_price_index,inferred,https://www.alibabacloud.com/help/en/model-studio/context-cache,
 Alibaba,qwen3-coder-plus,Qwen3 Coder Plus,cached,0.1,2026-09-07,,roninforge_ai_price_index,inferred,https://www.alibabacloud.com/help/en/model-studio/context-cache,
-Alibaba,qwen3-coder-plus,Qwen3 Coder Plus,input,1.0,2025-07-22,,roninforge_ai_price_index,verified,https://www.alibabacloud.com/help/en/model-studio/model-pricing,
-Alibaba,qwen3-coder-plus,Qwen3 Coder Plus,output,5.0,2025-07-22,,roninforge_ai_price_index,verified,https://www.alibabacloud.com/help/en/model-studio/model-pricing,
+Alibaba,qwen3-coder-plus,Qwen3 Coder Plus,input,1.0,2025-07-22,2026-10-09,roninforge_ai_price_index,verified,https://www.alibabacloud.com/help/en/model-studio/model-pricing,retired on Alibaba Model Studio
+Alibaba,qwen3-coder-plus,Qwen3 Coder Plus,output,5.0,2025-07-22,2026-10-09,roninforge_ai_price_index,verified,https://www.alibabacloud.com/help/en/model-studio/model-pricing,retired on Alibaba Model Studio
 Alibaba,qwen3-max,Qwen3-Max,cache_write,1.5,2026-09-07,,roninforge_ai_price_index,inferred,https://www.alibabacloud.com/help/en/model-studio/context-cache,
 Alibaba,qwen3-max,Qwen3-Max,cached,0.12,2026-09-07,,roninforge_ai_price_index,inferred,https://www.alibabacloud.com/help/en/model-studio/context-cache,
-Alibaba,qwen3-max,Qwen3-Max,input,1.2,2026-01-23,,roninforge_ai_price_index,verified,https://www.alibabacloud.com/help/en/model-studio/model-pricing,
-Alibaba,qwen3-max,Qwen3-Max,output,6.0,2026-01-23,,roninforge_ai_price_index,verified,https://www.alibabacloud.com/help/en/model-studio/model-pricing,
+Alibaba,qwen3-max,Qwen3-Max,input,1.2,2026-01-23,2026-10-09,roninforge_ai_price_index,verified,https://www.alibabacloud.com/help/en/model-studio/model-pricing,retired on Alibaba Model Studio
+Alibaba,qwen3-max,Qwen3-Max,output,6.0,2026-01-23,2026-10-09,roninforge_ai_price_index,verified,https://www.alibabacloud.com/help/en/model-studio/model-pricing,retired on Alibaba Model Studio
 Alibaba,qwen3.5-flash,Qwen3.5 Flash,cache_write,0.125,2026-09-07,,roninforge_ai_price_index,inferred,https://www.alibabacloud.com/help/en/model-studio/context-cache,
 Alibaba,qwen3.5-flash,Qwen3.5 Flash,cached,0.01,2026-09-07,,roninforge_ai_price_index,inferred,https://www.alibabacloud.com/help/en/model-studio/context-cache,
 Alibaba,qwen3.5-flash,Qwen3.5 Flash,input,0.1,2026-02-23,,roninforge_ai_price_index,verified,https://www.alibabacloud.com/help/en/model-studio/model-pricing,
@@ -279,9 +279,9 @@ Cohere,command-r7b,Command R7b,input,0.0375,2024-12-13,,roninforge_ai_price_inde
 Cohere,command-r7b,Command R7b,output,0.15,2024-12-13,,roninforge_ai_price_index,verified,https://cohere.com/pricing,
 DeepInfra,deepinfra-deepseek-v4-flash,DeepSeek V4 Flash,cached,0.018,2026-08-15,,model_price_watch,snapshot,https://deepinfra.com/pricing,
 DeepInfra,deepinfra-deepseek-v4-flash,DeepSeek V4 Flash,input,0.09,2026-07-10,2026-08-14,model_price_watch,verified,https://deepinfra.com/pricing,
-DeepInfra,deepinfra-deepseek-v4-flash,DeepSeek V4 Flash,input,0.09,2026-08-15,,model_price_watch,snapshot,https://deepinfra.com/pricing,
+DeepInfra,deepinfra-deepseek-v4-flash,DeepSeek V4 Flash,input,0.09,2026-08-15,2026-09-29,model_price_watch,snapshot,https://deepinfra.com/pricing,
 DeepInfra,deepinfra-deepseek-v4-flash,DeepSeek V4 Flash,output,0.18,2026-07-10,2026-08-14,model_price_watch,verified,https://deepinfra.com/pricing,
-DeepInfra,deepinfra-deepseek-v4-flash,DeepSeek V4 Flash,output,0.18,2026-08-15,,model_price_watch,snapshot,https://deepinfra.com/pricing,
+DeepInfra,deepinfra-deepseek-v4-flash,DeepSeek V4 Flash,output,0.18,2026-08-15,2026-09-29,model_price_watch,snapshot,https://deepinfra.com/pricing,
 DeepInfra,deepinfra-deepseek-v4-pro,DeepSeek V4 Pro,cached,0.1,2026-08-15,,model_price_watch,snapshot,https://deepinfra.com/pricing,
 DeepInfra,deepinfra-deepseek-v4-pro,DeepSeek V4 Pro,input,1.3,2026-08-14,2026-08-14,model_price_watch,unproven,https://deepinfra.com/pricing,
 DeepInfra,deepinfra-deepseek-v4-pro,DeepSeek V4 Pro,input,1.3,2026-08-15,,model_price_watch,snapshot,https://deepinfra.com/pricing,
@@ -295,19 +295,19 @@ DeepInfra,deepinfra-llama-4-scout,Llama 4 Scout,input,0.1,2026-07-10,,model_pric
 DeepInfra,deepinfra-llama-4-scout,Llama 4 Scout,output,0.3,2026-07-10,,model_price_watch,verified,https://deepinfra.com/pricing,
 DeepInfra,deepinfra-nvidia-nemotron-3-5-lightning,NVIDIA Nemotron 3.5 Lightning,cached,0.04,2026-08-18,,model_price_watch,snapshot,https://deepinfra.com/pricing,
 DeepInfra,deepinfra-nvidia-nemotron-3-5-lightning,NVIDIA Nemotron 3.5 Lightning,input,0.08,2026-08-17,2026-08-17,model_price_watch,verified,https://deepinfra.com/pricing,
-DeepInfra,deepinfra-nvidia-nemotron-3-5-lightning,NVIDIA Nemotron 3.5 Lightning,input,0.08,2026-08-18,,model_price_watch,snapshot,https://deepinfra.com/pricing,
+DeepInfra,deepinfra-nvidia-nemotron-3-5-lightning,NVIDIA Nemotron 3.5 Lightning,input,0.08,2026-08-18,2026-10-18,model_price_watch,snapshot,https://deepinfra.com/pricing,
 DeepInfra,deepinfra-nvidia-nemotron-3-5-lightning,NVIDIA Nemotron 3.5 Lightning,output,0.2,2026-08-17,2026-08-17,model_price_watch,verified,https://deepinfra.com/pricing,
-DeepInfra,deepinfra-nvidia-nemotron-3-5-lightning,NVIDIA Nemotron 3.5 Lightning,output,0.2,2026-08-18,,model_price_watch,snapshot,https://deepinfra.com/pricing,
+DeepInfra,deepinfra-nvidia-nemotron-3-5-lightning,NVIDIA Nemotron 3.5 Lightning,output,0.2,2026-08-18,2026-10-18,model_price_watch,snapshot,https://deepinfra.com/pricing,
 DeepInfra,deepinfra-nvidia-nemotron-70b-instruct,Nemotron 70B Instruct,input,1.2,2026-06-27,,model_price_watch,baseline,https://deepinfra.com/blog/nvidia-nemotron-api-pricing-guide-2026,
 DeepInfra,deepinfra-nvidia-nemotron-70b-instruct,Nemotron 70B Instruct,output,1.2,2026-06-27,,model_price_watch,baseline,https://deepinfra.com/blog/nvidia-nemotron-api-pricing-guide-2026,
 DeepInfra,deepinfra-qwen3-32b,Qwen3-32B,input,0.08,2026-07-10,,model_price_watch,verified,https://deepinfra.com/pricing,
 DeepInfra,deepinfra-qwen3-32b,Qwen3-32B,output,0.28,2026-07-10,,model_price_watch,verified,https://deepinfra.com/pricing,
 DeepSeek,deepseek-v4-1-flash,DeepSeek V4.1 Flash,cached,0.006,2026-09-10,,official_docs_deepseek,verified_peak,https://api-docs.deepseek.com/quick_start/pricing,PEAK headline (cache-miss input $0.30 / output $1.20 / cache-hit $0.006 per MTok). Off-peak is exactly half ($0.15 / $0.60 / $0.003). Peak hours UTC Mon–Fri 01:00–04:00 and 06:00–10:00; all other hours off-peak. API model id: deepseek-flash. Sources: https://api-docs.deepseek.com/news/news260910 and https://api-docs.deepseek.com/quick_start/pricing
-DeepSeek,deepseek-v4-1-flash,DeepSeek V4.1 Flash,input,0.3,2026-09-10,,official_docs_deepseek,verified_peak,https://api-docs.deepseek.com/quick_start/pricing,PEAK headline (cache-miss input $0.30 / output $1.20 / cache-hit $0.006 per MTok). Off-peak is exactly half ($0.15 / $0.60 / $0.003). Peak hours UTC Mon–Fri 01:00–04:00 and 06:00–10:00; all other hours off-peak. API model id: deepseek-flash. Sources: https://api-docs.deepseek.com/news/news260910 and https://api-docs.deepseek.com/quick_start/pricing
-DeepSeek,deepseek-v4-1-flash,DeepSeek V4.1 Flash,output,1.2,2026-09-10,,official_docs_deepseek,verified_peak,https://api-docs.deepseek.com/quick_start/pricing,PEAK headline (cache-miss input $0.30 / output $1.20 / cache-hit $0.006 per MTok). Off-peak is exactly half ($0.15 / $0.60 / $0.003). Peak hours UTC Mon–Fri 01:00–04:00 and 06:00–10:00; all other hours off-peak. API model id: deepseek-flash. Sources: https://api-docs.deepseek.com/news/news260910 and https://api-docs.deepseek.com/quick_start/pricing
+DeepSeek,deepseek-v4-1-flash,DeepSeek V4.1 Flash,input,0.3,2026-09-10,2026-10-16,official_docs_deepseek,verified_peak,https://api-docs.deepseek.com/quick_start/pricing,PEAK headline (cache-miss input $0.30 / output $1.20 / cache-hit $0.006 per MTok). Off-peak is exactly half ($0.15 / $0.60 / $0.003). Peak hours UTC Mon–Fri 01:00–04:00 and 06:00–10:00; all other hours off-peak. API model id: deepseek-flash. Sources: https://api-docs.deepseek.com/news/news260910 and https://api-docs.deepseek.com/quick_start/pricing; replaced by DeepSeek V4.1 Flash 1017 behind deepseek-flash
+DeepSeek,deepseek-v4-1-flash,DeepSeek V4.1 Flash,output,1.2,2026-09-10,2026-10-16,official_docs_deepseek,verified_peak,https://api-docs.deepseek.com/quick_start/pricing,PEAK headline (cache-miss input $0.30 / output $1.20 / cache-hit $0.006 per MTok). Off-peak is exactly half ($0.15 / $0.60 / $0.003). Peak hours UTC Mon–Fri 01:00–04:00 and 06:00–10:00; all other hours off-peak. API model id: deepseek-flash. Sources: https://api-docs.deepseek.com/news/news260910 and https://api-docs.deepseek.com/quick_start/pricing; replaced by DeepSeek V4.1 Flash 1017 behind deepseek-flash
 DeepSeek,deepseek-v4-1-flash,DeepSeek V4.1 Flash,cached,0.003,2026-09-10,,roninforge_ai_price_index,verified,https://api-docs.deepseek.com/quick_start/pricing/,RoninForge lists V4.1 Flash under API id deepseek-flash at the off-peak schedule; peak schedule is in the official_docs_deepseek rows
-DeepSeek,deepseek-v4-1-flash,DeepSeek V4.1 Flash,input,0.15,2026-09-10,,roninforge_ai_price_index,verified,https://api-docs.deepseek.com/quick_start/pricing/,RoninForge lists V4.1 Flash under API id deepseek-flash at the off-peak schedule; peak schedule is in the official_docs_deepseek rows
-DeepSeek,deepseek-v4-1-flash,DeepSeek V4.1 Flash,output,0.6,2026-09-10,,roninforge_ai_price_index,verified,https://api-docs.deepseek.com/quick_start/pricing/,RoninForge lists V4.1 Flash under API id deepseek-flash at the off-peak schedule; peak schedule is in the official_docs_deepseek rows
+DeepSeek,deepseek-v4-1-flash,DeepSeek V4.1 Flash,input,0.15,2026-09-10,2026-10-16,roninforge_ai_price_index,verified,https://api-docs.deepseek.com/quick_start/pricing/,RoninForge lists V4.1 Flash under API id deepseek-flash at the off-peak schedule; peak schedule is in the official_docs_deepseek rows; replaced by DeepSeek V4.1 Flash 1017 behind deepseek-flash
+DeepSeek,deepseek-v4-1-flash,DeepSeek V4.1 Flash,output,0.6,2026-09-10,2026-10-16,roninforge_ai_price_index,verified,https://api-docs.deepseek.com/quick_start/pricing/,RoninForge lists V4.1 Flash under API id deepseek-flash at the off-peak schedule; peak schedule is in the official_docs_deepseek rows; replaced by DeepSeek V4.1 Flash 1017 behind deepseek-flash
 DeepSeek,deepseek-v4-flash,DeepSeek V4 Flash,cached,0.0028,2026-07-31,2026-08-16,roninforge_ai_price_index,verified,https://api-docs.deepseek.com/quick_start/pricing,
 DeepSeek,deepseek-v4-flash,DeepSeek V4 Flash,cached,0.007,2026-08-16,2026-09-10,roninforge_ai_price_index,verified,https://api-docs.deepseek.com/quick_start/pricing/,
 DeepSeek,deepseek-v4-flash,DeepSeek V4 Flash,input,0.14,2026-04-24,2026-08-16,roninforge_ai_price_index,verified,https://api-docs.deepseek.com/quick_start/pricing,
@@ -453,8 +453,8 @@ Google,gemini-3.1-pro-preview,Gemini 3.1 Pro Preview,tier2_cache_read,0.4,2026-0
 Google,gemini-3.1-pro-preview,Gemini 3.1 Pro Preview,tier2_input,4.0,2026-07-31,,roninforge_ai_price_index,verified,https://ai.google.dev/gemini-api/docs/pricing,
 Google,gemini-3.1-pro-preview,Gemini 3.1 Pro Preview,tier2_output,18.0,2026-07-31,,roninforge_ai_price_index,verified,https://ai.google.dev/gemini-api/docs/pricing,
 Google,gemini-3.5-flash,Gemini 3.5 Flash,cached,0.15,2026-09-09,,roninforge_ai_price_index,verified,https://ai.google.dev/gemini-api/docs/pricing,
-Google,gemini-3.5-flash,Gemini 3.5 Flash,input,1.5,2026-05-19,,roninforge_ai_price_index,verified,https://ai.google.dev/gemini-api/docs/pricing,
-Google,gemini-3.5-flash,Gemini 3.5 Flash,output,9.0,2026-05-19,,roninforge_ai_price_index,verified,https://ai.google.dev/gemini-api/docs/pricing,
+Google,gemini-3.5-flash,Gemini 3.5 Flash,input,1.5,2026-05-19,2026-10-07,roninforge_ai_price_index,verified,https://ai.google.dev/gemini-api/docs/pricing,removed from Google pricing page; alias served by Gemini 3.6 Flash
+Google,gemini-3.5-flash,Gemini 3.5 Flash,output,9.0,2026-05-19,2026-10-07,roninforge_ai_price_index,verified,https://ai.google.dev/gemini-api/docs/pricing,removed from Google pricing page; alias served by Gemini 3.6 Flash
 Google,gemini-3.5-flash-lite,Gemini 3.5 Flash-Lite,cached,0.03,2026-09-09,,roninforge_ai_price_index,verified,https://ai.google.dev/gemini-api/docs/pricing,
 Google,gemini-3.5-flash-lite,Gemini 3.5 Flash-Lite,input,0.3,2026-07-21,,roninforge_ai_price_index,verified,https://ai.google.dev/gemini-api/docs/pricing,
 Google,gemini-3.5-flash-lite,Gemini 3.5 Flash-Lite,output,2.5,2026-07-21,,roninforge_ai_price_index,verified,https://ai.google.dev/gemini-api/docs/pricing,
@@ -464,21 +464,21 @@ Google,gemini-3.6-flash,Gemini 3.6 Flash,input,0.75,2026-08-13,,roninforge_ai_pr
 Google,gemini-3.6-flash,Gemini 3.6 Flash,output,7.5,2026-07-21,2026-08-13,roninforge_ai_price_index,verified,https://ai.google.dev/gemini-api/docs/pricing,
 Google,gemini-3.6-flash,Gemini 3.6 Flash,output,3.75,2026-08-13,,roninforge_ai_price_index,verified,https://ai.google.dev/gemini-api/docs/pricing,
 Google,gemini-3.7-flash,Gemini 3.7 Flash,cached,0.075,2026-09-09,,roninforge_ai_price_index,verified,https://ai.google.dev/gemini-api/docs/pricing,
-Google,gemini-3.7-flash,Gemini 3.7 Flash,input,0.75,2026-08-13,,roninforge_ai_price_index,verified,https://ai.google.dev/gemini-api/docs/pricing,
-Google,gemini-3.7-flash,Gemini 3.7 Flash,output,3.75,2026-08-13,,roninforge_ai_price_index,verified,https://ai.google.dev/gemini-api/docs/pricing,
+Google,gemini-3.7-flash,Gemini 3.7 Flash,input,0.75,2026-08-13,2026-10-07,roninforge_ai_price_index,verified,https://ai.google.dev/gemini-api/docs/pricing,removed from Google pricing page; alias served by Gemini 3.8 Flash
+Google,gemini-3.7-flash,Gemini 3.7 Flash,output,3.75,2026-08-13,2026-10-07,roninforge_ai_price_index,verified,https://ai.google.dev/gemini-api/docs/pricing,removed from Google pricing page; alias served by Gemini 3.8 Flash
 Google,gemini-3.8-flash,Gemini 3.8 Flash,cached,0.075,2026-09-09,,roninforge_ai_price_index,verified,https://ai.google.dev/gemini-api/docs/pricing,
 Google,gemini-3.8-flash,Gemini 3.8 Flash,input,0.75,2026-09-02,,roninforge_ai_price_index,verified,https://ai.google.dev/gemini-api/docs/pricing,
 Google,gemini-3.8-flash,Gemini 3.8 Flash,output,3.75,2026-09-02,,roninforge_ai_price_index,verified,https://ai.google.dev/gemini-api/docs/pricing,
 Google,google-gemini-2-5-flash,Gemini 2.5 Flash,input,0.3,2025-06-23,2026-06-24,model_price_watch,reconstructed,https://ai.google.dev/gemini-api/docs/pricing,
 Google,google-gemini-2-5-flash,Gemini 2.5 Flash,input,0.075,2026-06-25,2026-07-03,model_price_watch,baseline,https://ai.google.dev/gemini-api/docs/pricing,
-Google,google-gemini-2-5-flash,Gemini 2.5 Flash,input,0.3,2026-07-04,,model_price_watch,unproven,https://ai.google.dev/gemini-api/docs/pricing,
+Google,google-gemini-2-5-flash,Gemini 2.5 Flash,input,0.3,2026-07-04,2026-10-23,model_price_watch,unproven,https://ai.google.dev/gemini-api/docs/pricing,dropped by Model Price Watch; RoninForge row kept
 Google,google-gemini-2-5-flash,Gemini 2.5 Flash,output,2.5,2025-06-23,2026-06-24,model_price_watch,reconstructed,https://ai.google.dev/gemini-api/docs/pricing,
 Google,google-gemini-2-5-flash,Gemini 2.5 Flash,output,0.3,2026-06-25,2026-07-03,model_price_watch,baseline,https://ai.google.dev/gemini-api/docs/pricing,
-Google,google-gemini-2-5-flash,Gemini 2.5 Flash,output,2.5,2026-07-04,,model_price_watch,unproven,https://ai.google.dev/gemini-api/docs/pricing,
-Google,google-gemini-2-5-flash-lite,Gemini 2.5 Flash-Lite,input,0.1,2025-07-28,,model_price_watch,reconstructed,https://ai.google.dev/gemini-api/docs/pricing,
-Google,google-gemini-2-5-flash-lite,Gemini 2.5 Flash-Lite,output,0.4,2025-07-28,,model_price_watch,reconstructed,https://ai.google.dev/gemini-api/docs/pricing,
-Google,google-gemini-2-5-pro,Gemini 2.5 Pro,input,1.25,2025-06-23,,model_price_watch,reconstructed,https://ai.google.dev/gemini-api/docs/pricing,
-Google,google-gemini-2-5-pro,Gemini 2.5 Pro,output,10.0,2025-06-23,,model_price_watch,reconstructed,https://ai.google.dev/gemini-api/docs/pricing,
+Google,google-gemini-2-5-flash,Gemini 2.5 Flash,output,2.5,2026-07-04,2026-10-23,model_price_watch,unproven,https://ai.google.dev/gemini-api/docs/pricing,dropped by Model Price Watch; RoninForge row kept
+Google,google-gemini-2-5-flash-lite,Gemini 2.5 Flash-Lite,input,0.1,2025-07-28,2026-10-23,model_price_watch,reconstructed,https://ai.google.dev/gemini-api/docs/pricing,dropped by Model Price Watch; RoninForge row kept
+Google,google-gemini-2-5-flash-lite,Gemini 2.5 Flash-Lite,output,0.4,2025-07-28,2026-10-23,model_price_watch,reconstructed,https://ai.google.dev/gemini-api/docs/pricing,dropped by Model Price Watch; RoninForge row kept
+Google,google-gemini-2-5-pro,Gemini 2.5 Pro,input,1.25,2025-06-23,2026-10-23,model_price_watch,reconstructed,https://ai.google.dev/gemini-api/docs/pricing,dropped by Model Price Watch; RoninForge row kept
+Google,google-gemini-2-5-pro,Gemini 2.5 Pro,output,10.0,2025-06-23,2026-10-23,model_price_watch,reconstructed,https://ai.google.dev/gemini-api/docs/pricing,dropped by Model Price Watch; RoninForge row kept
 Google,google-gemini-3-1-flash-image,Gemini 3.1 Flash Image,input,0.5,2026-08-01,,model_price_watch,unproven,https://ai.google.dev/gemini-api/docs/pricing,
 Google,google-gemini-3-1-flash-image,Gemini 3.1 Flash Image,output,60.0,2026-08-01,,model_price_watch,unproven,https://ai.google.dev/gemini-api/docs/pricing,
 Google,google-gemini-3-1-flash-lite,Gemini 3.1 Flash-Lite,input,0.45,2026-05-25,2026-06-08,model_price_watch,reconstructed,https://ai.google.dev/gemini-api/docs/pricing,
@@ -492,8 +492,8 @@ Google,google-gemini-3-1-pro,Gemini 3.1 Pro,input,2.0,2026-02-23,2026-07-03,mode
 Google,google-gemini-3-1-pro,Gemini 3.1 Pro,input,2.0,2026-07-04,,model_price_watch,unproven,https://ai.google.dev/gemini-api/docs/pricing,
 Google,google-gemini-3-1-pro,Gemini 3.1 Pro,output,12.0,2026-02-23,2026-07-03,model_price_watch,reconstructed,https://ai.google.dev/gemini-api/docs/pricing,
 Google,google-gemini-3-1-pro,Gemini 3.1 Pro,output,12.0,2026-07-04,,model_price_watch,unproven,https://ai.google.dev/gemini-api/docs/pricing,
-Google,google-gemini-3-5-flash,Gemini 3.5 Flash,input,1.5,2026-05-20,,model_price_watch,reconstructed,https://ai.google.dev/gemini-api/docs/pricing,
-Google,google-gemini-3-5-flash,Gemini 3.5 Flash,output,9.0,2026-05-20,,model_price_watch,reconstructed,https://ai.google.dev/gemini-api/docs/pricing,
+Google,google-gemini-3-5-flash,Gemini 3.5 Flash,input,1.5,2026-05-20,2026-10-07,model_price_watch,reconstructed,https://ai.google.dev/gemini-api/docs/pricing,removed from Google pricing page
+Google,google-gemini-3-5-flash,Gemini 3.5 Flash,output,9.0,2026-05-20,2026-10-07,model_price_watch,reconstructed,https://ai.google.dev/gemini-api/docs/pricing,removed from Google pricing page
 Google,google-gemini-3-5-flash-lite,Gemini 3.5 Flash-Lite,cached,0.03,2026-07-29,,model_price_watch,snapshot,https://ai.google.dev/gemini-api/docs/pricing,
 Google,google-gemini-3-5-flash-lite,Gemini 3.5 Flash-Lite,input,0.3,2026-07-21,2026-07-28,model_price_watch,unproven,https://ai.google.dev/gemini-api/docs/pricing,
 Google,google-gemini-3-5-flash-lite,Gemini 3.5 Flash-Lite,input,0.3,2026-07-29,,model_price_watch,snapshot,https://ai.google.dev/gemini-api/docs/pricing,
@@ -506,9 +506,9 @@ Google,google-gemini-3-6-flash,Gemini 3.6 Flash,output,7.5,2026-07-21,2026-08-12
 Google,google-gemini-3-6-flash,Gemini 3.6 Flash,output,3.75,2026-08-13,,model_price_watch,unproven,https://ai.google.dev/gemini-api/docs/pricing,
 Google,google-gemini-3-7-flash,Gemini 3.7 Flash,cached,0.075,2026-08-14,,model_price_watch,snapshot,https://ai.google.dev/gemini-api/docs/pricing,
 Google,google-gemini-3-7-flash,Gemini 3.7 Flash,input,0.75,2026-08-13,2026-08-13,model_price_watch,unproven,https://ai.google.dev/gemini-api/docs/pricing,
-Google,google-gemini-3-7-flash,Gemini 3.7 Flash,input,0.75,2026-08-14,,model_price_watch,snapshot,https://ai.google.dev/gemini-api/docs/pricing,
+Google,google-gemini-3-7-flash,Gemini 3.7 Flash,input,0.75,2026-08-14,2026-10-07,model_price_watch,snapshot,https://ai.google.dev/gemini-api/docs/pricing,removed from Google pricing page
 Google,google-gemini-3-7-flash,Gemini 3.7 Flash,output,3.75,2026-08-13,2026-08-13,model_price_watch,unproven,https://ai.google.dev/gemini-api/docs/pricing,
-Google,google-gemini-3-7-flash,Gemini 3.7 Flash,output,3.75,2026-08-14,,model_price_watch,snapshot,https://ai.google.dev/gemini-api/docs/pricing,
+Google,google-gemini-3-7-flash,Gemini 3.7 Flash,output,3.75,2026-08-14,2026-10-07,model_price_watch,snapshot,https://ai.google.dev/gemini-api/docs/pricing,removed from Google pricing page
 Google,google-gemini-3-8-flash,Gemini 3.8 Flash,cached,0.075,2026-09-04,,model_price_watch,snapshot,https://ai.google.dev/gemini-api/docs/pricing,
 Google,google-gemini-3-8-flash,Gemini 3.8 Flash,input,0.75,2026-09-03,2026-09-03,model_price_watch,verified,https://ai.google.dev/gemini-api/docs/pricing,
 Google,google-gemini-3-8-flash,Gemini 3.8 Flash,input,0.75,2026-09-04,,model_price_watch,snapshot,https://ai.google.dev/gemini-api/docs/pricing,
@@ -1039,9 +1039,9 @@ Sakana AI,sakana-namazu,Sakana Namazu,output,4.0,2026-08-11,2026-08-11,model_pri
 Sakana AI,sakana-namazu,Sakana Namazu,output,4.0,2026-08-12,,model_price_watch,snapshot,https://console.sakana.ai/pricing,
 Tencent,tencent-hunyuan-hy3-preview,Hunyuan Hy3,cached,0.037,2026-07-09,,model_price_watch,snapshot,https://cloud.tencent.com/document/product/1823/130055,
 Tencent,tencent-hunyuan-hy3-preview,Hunyuan Hy3,input,0.147,2026-07-08,2026-07-08,model_price_watch,unproven,https://cloud.tencent.com/document/product/1823/130055,
-Tencent,tencent-hunyuan-hy3-preview,Hunyuan Hy3,input,0.147,2026-07-09,,model_price_watch,snapshot,https://cloud.tencent.com/document/product/1823/130055,
+Tencent,tencent-hunyuan-hy3-preview,Hunyuan Hy3,input,0.147,2026-07-09,2026-10-19,model_price_watch,snapshot,https://cloud.tencent.com/document/product/1823/130055,
 Tencent,tencent-hunyuan-hy3-preview,Hunyuan Hy3,output,0.588,2026-07-08,2026-07-08,model_price_watch,unproven,https://cloud.tencent.com/document/product/1823/130055,
-Tencent,tencent-hunyuan-hy3-preview,Hunyuan Hy3,output,0.588,2026-07-09,,model_price_watch,snapshot,https://cloud.tencent.com/document/product/1823/130055,
+Tencent,tencent-hunyuan-hy3-preview,Hunyuan Hy3,output,0.588,2026-07-09,2026-10-19,model_price_watch,snapshot,https://cloud.tencent.com/document/product/1823/130055,
 Tencent,tencent-hy-mt2-1-8b,Hy-MT2 1.8B,input,0.044,2026-08-20,,model_price_watch,unproven,https://cloud.tencent.com/document/product/1823/130055,
 Tencent,tencent-hy-mt2-1-8b,Hy-MT2 1.8B,output,0.177,2026-08-20,,model_price_watch,unproven,https://cloud.tencent.com/document/product/1823/130055,
 Tencent,tencent-hy-mt2-30b-a3b,Hy-MT2 30B-A3B,input,0.074,2026-08-20,,model_price_watch,unproven,https://cloud.tencent.com/document/product/1823/130055,
@@ -1110,8 +1110,8 @@ Together,together-qwen3-5-397b-a17b,Qwen3.5-397B-A17B,input,0.6,2026-06-25,,mode
 Together,together-qwen3-5-397b-a17b,Qwen3.5-397B-A17B,output,3.6,2026-03-09,2026-06-24,model_price_watch,reconstructed,https://www.together.ai/pricing,
 Together,together-qwen3-5-397b-a17b,Qwen3.5-397B-A17B,output,3.6,2026-06-25,,model_price_watch,baseline,https://www.together.ai/pricing,
 Together,together-qwen3-7-max,Qwen3.7-Max,cached,0.13,2026-06-25,,model_price_watch,baseline,https://www.together.ai/pricing,
-Together,together-qwen3-7-max,Qwen3.7-Max,input,1.25,2026-06-25,,model_price_watch,baseline,https://www.together.ai/pricing,
-Together,together-qwen3-7-max,Qwen3.7-Max,output,3.75,2026-06-25,,model_price_watch,baseline,https://www.together.ai/pricing,
+Together,together-qwen3-7-max,Qwen3.7-Max,input,1.25,2026-06-25,2026-10-18,model_price_watch,baseline,https://www.together.ai/pricing,
+Together,together-qwen3-7-max,Qwen3.7-Max,output,3.75,2026-06-25,2026-10-18,model_price_watch,baseline,https://www.together.ai/pricing,
 Together,together-qwen3-7-plus,Qwen3.7-Plus,input,0.32,2026-06-25,,model_price_watch,baseline,https://www.together.ai/pricing,
 Together,together-qwen3-7-plus,Qwen3.7-Plus,output,1.28,2026-06-25,,model_price_watch,baseline,https://www.together.ai/pricing,
 Upstage,upstage-solar-pro-3,Solar Pro 3,cached,0.015,2026-08-08,,model_price_watch,snapshot,https://www.upstage.ai/pricing/api,
@@ -1123,10 +1123,10 @@ Upstage,upstage-solar-pro-4,Solar Pro 4,cached,0.006,2026-08-12,2026-09-10,model
 Upstage,upstage-solar-pro-4,Solar Pro 4,cached,0.018,2026-09-11,,model_price_watch,unproven,https://www.upstage.ai/pricing/api,
 Upstage,upstage-solar-pro-4,Solar Pro 4,input,0.03,2026-08-11,2026-08-11,model_price_watch,unproven,https://www.upstage.ai/pricing/api,
 Upstage,upstage-solar-pro-4,Solar Pro 4,input,0.03,2026-08-12,2026-09-10,model_price_watch,snapshot,https://www.upstage.ai/pricing/api,
-Upstage,upstage-solar-pro-4,Solar Pro 4,input,0.09,2026-09-11,,model_price_watch,unproven,https://www.upstage.ai/pricing/api,
+Upstage,upstage-solar-pro-4,Solar Pro 4,input,0.09,2026-09-11,2026-10-09,model_price_watch,unproven,https://www.upstage.ai/pricing/api,
 Upstage,upstage-solar-pro-4,Solar Pro 4,output,0.12,2026-08-11,2026-08-11,model_price_watch,unproven,https://www.upstage.ai/pricing/api,
 Upstage,upstage-solar-pro-4,Solar Pro 4,output,0.12,2026-08-12,2026-09-10,model_price_watch,snapshot,https://www.upstage.ai/pricing/api,
-Upstage,upstage-solar-pro-4,Solar Pro 4,output,0.36,2026-09-11,,model_price_watch,unproven,https://www.upstage.ai/pricing/api,
+Upstage,upstage-solar-pro-4,Solar Pro 4,output,0.36,2026-09-11,2026-10-09,model_price_watch,unproven,https://www.upstage.ai/pricing/api,
 Voyage AI,voyage-4,voyage-4,input,0.06,2026-06-25,,model_price_watch,baseline,https://docs.voyageai.com/docs/pricing,
 Voyage AI,voyage-4-large,voyage-4-large,input,0.12,2026-06-25,,model_price_watch,baseline,https://docs.voyageai.com/docs/pricing,
 Voyage AI,voyage-4-lite,voyage-4-lite,input,0.02,2026-06-25,,model_price_watch,baseline,https://docs.voyageai.com/docs/pricing,
@@ -1310,3 +1310,49 @@ OpenAI,gpt-6-luna,GPT-6 Luna,cached,0.01,2026-09-23,,roninforge_ai_price_index,v
 xAI,grok-4.7,Grok 4.7,input,2.0,2026-09-21,,roninforge_ai_price_index,verified,https://docs.x.ai/developers/models,
 xAI,grok-4.7,Grok 4.7,output,6.0,2026-09-21,,roninforge_ai_price_index,verified,https://docs.x.ai/developers/models,
 xAI,grok-4.7,Grok 4.7,cached,0.5,2026-09-21,,roninforge_ai_price_index,verified,https://docs.x.ai/developers/models,
+Anthropic,claude-sonnet-5-5,Claude Sonnet 5.5,input,2.0,2026-09-28,,roninforge_ai_price_index,verified,https://docs.claude.com/en/docs/about-claude/pricing,
+Anthropic,claude-sonnet-5-5,Claude Sonnet 5.5,output,10.0,2026-09-28,,roninforge_ai_price_index,verified,https://docs.claude.com/en/docs/about-claude/pricing,
+OpenAI,gpt-6.1-sol,GPT-6.1 Sol,input,2.0,2026-09-29,,roninforge_ai_price_index,verified,https://developers.openai.com/api/docs/pricing,
+OpenAI,gpt-6.1-sol,GPT-6.1 Sol,output,10.0,2026-09-29,,roninforge_ai_price_index,verified,https://developers.openai.com/api/docs/pricing,
+DeepInfra,deepinfra-deepseek-v4-flash,DeepSeek V4 Flash (DeepInfra),input,0.06,2026-09-30,,model_price_watch,snapshot,https://deepinfra.com/deepseek-ai/DeepSeek-V4-Flash,price cut from $0.09 input
+DeepInfra,deepinfra-deepseek-v4-flash,DeepSeek V4 Flash (DeepInfra),output,0.18,2026-09-30,,model_price_watch,snapshot,https://deepinfra.com/deepseek-ai/DeepSeek-V4-Flash,price cut from $0.09 input
+Anthropic,claude-haiku-5-5,Claude Haiku 5.5,input,0.1,2026-10-07,,roninforge_ai_price_index,verified,https://docs.claude.com/en/docs/about-claude/pricing,
+Anthropic,claude-haiku-5-5,Claude Haiku 5.5,output,0.5,2026-10-07,,roninforge_ai_price_index,verified,https://docs.claude.com/en/docs/about-claude/pricing,
+Mistral,mistral-large-4,Mistral Large 4,input,0.68,2026-10-07,2026-10-23,roninforge_ai_price_index,verified,https://docs.mistral.ai/inference/pricing,
+Mistral,mistral-large-4,Mistral Large 4,output,2.09,2026-10-07,2026-10-23,roninforge_ai_price_index,verified,https://docs.mistral.ai/inference/pricing,
+Mistral,mistral-large-4,Mistral Large 4,input,1.36,2026-10-24,,roninforge_ai_price_index,verified,https://docs.mistral.ai/inference/pricing,price doubled 2026-10-24
+Mistral,mistral-large-4,Mistral Large 4,output,4.18,2026-10-24,,roninforge_ai_price_index,verified,https://docs.mistral.ai/inference/pricing,price doubled 2026-10-24
+StepFun,stepfun-step-5-preview,Step 5 Preview,input,1.0,2026-10-08,,model_price_watch,snapshot,https://platform.stepfun.ai/docs/en/guides/pricing/details,preview
+StepFun,stepfun-step-5-preview,Step 5 Preview,output,2.7,2026-10-08,,model_price_watch,snapshot,https://platform.stepfun.ai/docs/en/guides/pricing/details,preview
+StepFun,stepfun-step-3-5-flash,Step 3.5 Flash,input,0.1,2026-10-08,,model_price_watch,snapshot,https://platform.stepfun.ai/docs/en/guides/pricing/details,first tracked 2026-10-08
+StepFun,stepfun-step-3-5-flash,Step 3.5 Flash,output,0.3,2026-10-08,,model_price_watch,snapshot,https://platform.stepfun.ai/docs/en/guides/pricing/details,first tracked 2026-10-08
+StepFun,stepfun-step-3-7-flash,Step 3.7 Flash,input,0.2,2026-10-08,,model_price_watch,snapshot,https://platform.stepfun.ai/docs/en/guides/pricing/details,
+StepFun,stepfun-step-3-7-flash,Step 3.7 Flash,output,1.15,2026-10-08,,model_price_watch,snapshot,https://platform.stepfun.ai/docs/en/guides/pricing/details,
+Upstage,upstage-solar-pro-4,Solar Pro 4,input,0.3,2026-10-10,,model_price_watch,snapshot,https://console.upstage.ai/docs/models/solar-pro-4.md,price raise
+Upstage,upstage-solar-pro-4,Solar Pro 4,output,1.2,2026-10-10,,model_price_watch,snapshot,https://console.upstage.ai/docs/models/solar-pro-4.md,price raise
+Reka,reka-flash-3,Reka Flash 3,input,0.1,2026-10-10,,model_price_watch,snapshot,https://developer.reka.ai/models,
+Reka,reka-flash-3,Reka Flash 3,output,0.2,2026-10-10,,model_price_watch,snapshot,https://developer.reka.ai/models,
+Meta,meta-muse-wonder,Muse Wonder,input,4.0,2026-10-12,,model_price_watch,snapshot,https://modelpricewatch.com/models/meta-muse-wonder/,preview; Standard mode
+Meta,meta-muse-wonder,Muse Wonder,output,20.0,2026-10-12,,model_price_watch,snapshot,https://modelpricewatch.com/models/meta-muse-wonder/,preview; Standard mode
+Google,gemini-4-argon,Gemini 4 Argon,input,2.0,2026-10-13,2026-11-30,roninforge_ai_price_index,verified,https://ai.google.dev/gemini-api/docs/pricing,introductory rate through 2026-11-30; $4/$20 from 2026-12-01
+Google,gemini-4-argon,Gemini 4 Argon,output,10.0,2026-10-13,2026-11-30,roninforge_ai_price_index,verified,https://ai.google.dev/gemini-api/docs/pricing,introductory rate through 2026-11-30; $4/$20 from 2026-12-01
+DeepSeek,deepseek-v4-1-flash-1017,DeepSeek V4.1 Flash 1017,input,0.3,2026-10-17,,model_price_watch,snapshot,https://api-docs.deepseek.com/quick_start/pricing,peak (standard) rate; replaced V4.1 Flash behind deepseek-flash
+DeepSeek,deepseek-v4-1-flash-1017,DeepSeek V4.1 Flash 1017,output,1.2,2026-10-17,,model_price_watch,snapshot,https://api-docs.deepseek.com/quick_start/pricing,peak (standard) rate; replaced V4.1 Flash behind deepseek-flash
+Together,together-qwen3-7-max,Qwen3.7 Max (Together),input,1.5,2026-10-19,,model_price_watch,snapshot,https://docs.together.ai/docs/serverless-models,
+Together,together-qwen3-7-max,Qwen3.7 Max (Together),output,4.5,2026-10-19,,model_price_watch,snapshot,https://docs.together.ai/docs/serverless-models,
+DeepInfra,deepinfra-nvidia-nemotron-3-5-lightning,Nemotron 3.5 Lightning (DeepInfra),input,0.06,2026-10-19,,model_price_watch,snapshot,https://deepinfra.com/pricing,
+DeepInfra,deepinfra-nvidia-nemotron-3-5-lightning,Nemotron 3.5 Lightning (DeepInfra),output,0.16,2026-10-19,,model_price_watch,snapshot,https://deepinfra.com/pricing,
+Groq,groq-qwen-3-8-27b,Qwen 3.8 27B (Groq),input,0.8,2026-10-19,,model_price_watch,snapshot,https://console.groq.com/docs/models,preview
+Groq,groq-qwen-3-8-27b,Qwen 3.8 27B (Groq),output,4.0,2026-10-19,,model_price_watch,snapshot,https://console.groq.com/docs/models,preview
+MiniMax,minimax-m3-1-flash,MiniMax M3.1 Flash,input,0.15,2026-10-20,,model_price_watch,snapshot,https://modelpricewatch.com/models/minimax-m3-1-flash/,
+MiniMax,minimax-m3-1-flash,MiniMax M3.1 Flash,output,0.6,2026-10-20,,model_price_watch,snapshot,https://modelpricewatch.com/models/minimax-m3-1-flash/,
+Inception,inception-mercury-3,Mercury 3,input,0.2,2026-10-20,,model_price_watch,snapshot,https://docs.inceptionlabs.ai/get-started/models,list price; launched at 50% off
+Inception,inception-mercury-3,Mercury 3,output,0.7,2026-10-20,,model_price_watch,snapshot,https://docs.inceptionlabs.ai/get-started/models,list price; launched at 50% off
+Tencent,tencent-hunyuan-hy3-preview,Hunyuan Hy3 Preview,input,0.132,2026-10-20,,model_price_watch,snapshot,https://modelpricewatch.com/models/tencent-hunyuan-hy3-preview/,price cut
+Tencent,tencent-hunyuan-hy3-preview,Hunyuan Hy3 Preview,output,0.528,2026-10-20,,model_price_watch,snapshot,https://modelpricewatch.com/models/tencent-hunyuan-hy3-preview/,price cut
+Alibaba,alibaba-glm-5-3-prime,GLM-5.3 Prime (Alibaba),input,2.8,2026-10-22,,model_price_watch,snapshot,https://www.alibabacloud.com/help/en/model-studio/model-pricing,
+Alibaba,alibaba-glm-5-3-prime,GLM-5.3 Prime (Alibaba),output,8.8,2026-10-22,,model_price_watch,snapshot,https://www.alibabacloud.com/help/en/model-studio/model-pricing,
+Moonshot,moonshot-kimi-k3-1-pro,Kimi K3.1 Pro,input,2.0,2026-10-24,,model_price_watch,snapshot,https://platform.moonshot.ai/docs/pricing,
+Moonshot,moonshot-kimi-k3-1-pro,Kimi K3.1 Pro,output,10.0,2026-10-24,,model_price_watch,snapshot,https://platform.moonshot.ai/docs/pricing,
+OpenAI,gpt-6.1-terra,GPT-6.1 Terra,input,1.0,2026-10-26,,roninforge_ai_price_index,verified,https://developers.openai.com/api/docs/pricing,
+OpenAI,gpt-6.1-terra,GPT-6.1 Terra,output,5.0,2026-10-26,,roninforge_ai_price_index,verified,https://developers.openai.com/api/docs/pricing,

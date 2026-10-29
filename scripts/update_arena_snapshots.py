@@ -26,6 +26,9 @@ TEXT_TARGETS = {
     "overall": ROOT / "data" / "arena" / "arena_elo_snapshots_weekly.csv",
 }
 WEBDEV_PATH = ROOT / "data" / "arena" / "webdev" / "arena_webdev_latest.csv"
+# Text boards switched from slugs to display names on 2026-10-20; map back so
+# per-model series, aliases and anchors stay continuous.
+DISPLAY_MAP_PATH = ROOT / "data" / "arena" / "display_name_map.csv"
 
 
 def append_text(text: pd.DataFrame, category: str, path: Path) -> None:
@@ -35,6 +38,13 @@ def append_text(text: pd.DataFrame, category: str, path: Path) -> None:
     if new.empty:
         print(f"{category}: no snapshots after {last}")
         return
+    names = pd.read_csv(DISPLAY_MAP_PATH)
+    new = new.assign(
+        model_name=new["model_name"].replace(dict(zip(names["display_name"], names["legacy_slug"])))
+    )
+    unknown = sorted(set(new["model_name"]) - set(shipped["model_name"]))
+    if unknown:
+        print(f"{category}: names not seen before (new models or missing map rows): {unknown}")
     new = new.sort_values(
         ["leaderboard_publish_date", "rank", "rating"], ascending=[True, True, False]
     )

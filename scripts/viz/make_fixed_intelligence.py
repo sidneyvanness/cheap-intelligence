@@ -45,6 +45,7 @@ PRETTY = {
     "qwen3.5-flash": "Qwen3.5 Flash",
     "gpt-5-nano-high": "GPT-5 nano (high)",
     "gpt-6-luna-max": "GPT-6 Luna max",
+    "step-3.5-flash": "Step 3.5 Flash",
     "o3-2025-04-16": "o3",
     "claude-3-7-sonnet-20250219": "Claude 3.7 Sonnet",
 }

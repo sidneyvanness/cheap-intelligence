@@ -58,9 +58,9 @@ EARLY_CURVE = "#78716C"
 LATE_CURVE = "#E11D48"
 
 CURRENCY_FOOTNOTE = (
-    "Arena Text/coding score (legacy files: Elo) × API prices through 2026-09-21. "
+    "Arena Text/coding score (legacy files: Elo) × API prices through 2026-10-26. "
     "Free tiers shown at ≤$0.05; paid headline excludes them. "
-    "MiMo v2.6 has no list price and is excluded."
+    "Gemini 4 Carbon and MiMo v2.6 have no list price and are excluded."
 )
 
 
@@ -142,6 +142,9 @@ def short_model(name: str, n: int = 20) -> str:
         "claude-opus-4-6-high": "Claude Opus 4.6 high",
         "claude-opus-5.5-high": "Claude Opus 5.5 high",
         "gpt-6-luna-max": "GPT-6 Luna max",
+        "gemini-4-argon-high": "Gemini 4 Argon high",
+        "Claude Haiku 5.5 (High)": "Claude Haiku 5.5 high",
+        "step-3.5-flash": "Step 3.5 Flash",
         "deepseek-v4.1-flash-max": "DeepSeek V4.1 Flash max",
         "claude-3-sonnet-20240229": "Claude 3 Sonnet",
         "claude-3-haiku-20240307": "Claude 3 Haiku",
@@ -1465,7 +1468,7 @@ Editorial charts for Arena Text **coding** score. Legacy files and some labels u
 - **Labels:** sparse callouts with leader lines + paper-backed text in empty margins (no polyline collisions; Opus 5 peak sits above the curve).
 - **Peak chart:** raw weekly maximum score as ghost; bold line is the monotonic **running maximum** (“capability frontier ceiling”). Mid-2025 Arena wiggles annotated as relative rating noise.
 - **Price collapse:** NaN weeks (no qualifying model) filled with LOCF / log-linear interp when the gap is ≤8 weeks; imputed segments drawn **dashed**.
-- **Omitted models:** MiMo v2.6 Pro / Flash (Xiaomi) are rated but have no list price in our sources, so they are excluded from the price axis. We do **not** invent or merge scores.
+- **Omitted models:** Gemini 4 Carbon (#1 on the 2026-10-28 board; announced at $2/$10 introductory but not yet on Google's pricing page) and MiMo v2.6 Pro / Flash (Xiaomi) are rated but have no list price in our sources, so they are excluded from the price axis. We do **not** invent or merge scores.
 - **Encoding:** log price (x), Text/coding score (y). Free ($0) models are explicit and floored at `$0.05` only for log display.
 - **Retina:** PNGs at 220 dpi.
 
@@ -1499,7 +1502,7 @@ Data inputs: `export/coding/01_*.csv`, `02_*.csv`, `03_*.csv`.
 
 **How to read the charts.** Ignore dominated points — only the frontier curve matters. Color = time. In the MP4, older weekly curves **stay on screen** as a muted trail so you watch the migration accumulate.
 
-**Caveats / omissions.** Arena scores are relative and the estimator/model pool changed over time. Panel ends {last.date()}. **Opus 5.5, DeepSeek V4.1 Flash Max, GPT-6 Sol/Luna and Grok 4.7 enter the panel in week 2026-09-21; MiMo v2.6 Pro (#2 on the board) has no list price and is excluded.** Text/coding and WebDev scores are not interchangeable. Free ($0) prices are explicit and floored at $0.05 only on log axes; the August 31 GLM-5.3 Flash rate was promotional.
+**Caveats / omissions.** Arena scores are relative and the estimator/model pool changed over time. Panel ends {last.date()}. **Gemini 4 Argon (introductory $2/$10 through Nov 30), Claude Sonnet/Haiku 5.5, GPT-6.1 Sol, Muse Wonder and Step 3.5 Flash/Step 5 Preview enter the panel between weeks 2026-09-28 and 2026-10-26. Gemini 4 Carbon (#1 on the 2026-10-28 board) and MiMo v2.6 Pro have no list price and are excluded.** Text/coding and WebDev scores are not interchangeable. Free ($0) prices are explicit and floored at $0.05 only on log axes; the August 31 GLM-5.3 Flash rate was promotional.
 """
     (OUT / "INTERPRETATION.md").write_text(interp)
 

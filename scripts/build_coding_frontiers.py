@@ -355,7 +355,9 @@ def main():
         "astra_note": (
             "GPT-6 Astra Max joins this coding spine from the 2026-09-11 snapshot (week 2026-09-07); "
             "DeepSeek V4.1 Flash Max, Claude Opus 5.5, GPT-6 Sol/Luna and Grok 4.7 from 2026-09-25 "
-            "(week 2026-09-21). MiMo v2.6 has no list price in our sources. Do not invent or merge scores."
+            "(week 2026-09-21); Gemini 4 Argon, Claude Sonnet/Haiku 5.5, GPT-6.1 Sol, Muse Wonder and "
+            "Step 3.5 Flash/Step 5 Preview from weeks 2026-09-28 to 2026-10-26. Gemini 4 Carbon and MiMo v2.6 "
+            "have no list price in our sources. Do not invent or merge scores."
         ),
         "note_span": (
             "Coding category on Arena Text begins 2024-04-03; panel weeks are Mondays "

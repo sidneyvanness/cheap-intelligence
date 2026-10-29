@@ -21,7 +21,7 @@ Editorial charts for Arena Text **coding** score. Legacy files and some labels u
 - **Labels:** sparse callouts with leader lines + paper-backed text in empty margins (no polyline collisions; Opus 5 peak sits above the curve).
 - **Peak chart:** raw weekly maximum score as ghost; bold line is the monotonic **running maximum** (“capability frontier ceiling”). Mid-2025 Arena wiggles annotated as relative rating noise.
 - **Price collapse:** NaN weeks (no qualifying model) filled with LOCF / log-linear interp when the gap is ≤8 weeks; imputed segments drawn **dashed**.
-- **Omitted models:** MiMo v2.6 Pro / Flash (Xiaomi) are rated but have no list price in our sources, so they are excluded from the price axis. We do **not** invent or merge scores.
+- **Omitted models:** Gemini 4 Carbon (#1 on the 2026-10-28 board; announced at $2/$10 introductory but not yet on Google's pricing page) and MiMo v2.6 Pro / Flash (Xiaomi) are rated but have no list price in our sources, so they are excluded from the price axis. We do **not** invent or merge scores.
 - **Encoding:** log price (x), Text/coding score (y). Free ($0) models are explicit and floored at `$0.05` only for log display.
 - **Retina:** PNGs at 220 dpi.
 

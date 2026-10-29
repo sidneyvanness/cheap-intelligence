@@ -2,7 +2,7 @@
 
 Normalized historical list prices for quality–price Pareto analysis.
 
-**Generated:** 2026-09-11  
+**Generated:** 2026-09-11; extended to week 2026-10-26 on 2026-10-28  
 **Price unit:** USD per 1M tokens  
 **Blended (v1):** `(3 * input + 1 * output) / 4`
 
@@ -33,5 +33,6 @@ Raw RoninForge / Model Price Watch JSON dumps are **not** shipped in this public
 
 - Sparse early history; no invented prices
 - Cached / tier2 variations exist in events but are **not** used in the weekly blend
-- The weekly panel has no generator: weeks after 2026-09-07 are carried forward from the last week, with delisted models dropped and launches priced from their first list price when that price was in force at the week's Arena snapshot (see `source_note`)
+- The weekly panel has no generator: weeks after 2026-09-07 are carried forward from the last week, with delisted models dropped and launches or price changes applied when they were in force at the week's Arena snapshot (see `source_note`). Every such change has a matching row in `price_events.csv`
+- Gemini 4 Argon is carried at its introductory rate ($2/$10, through 2026-11-30); the event row ends on that date
 - DeepSeek is priced at its peak (standard) rate; DeepSeek describes off-peak as a 50% discount

@@ -453,6 +453,16 @@ MANUAL_ALIASES: dict[str, tuple[str, str, float]] = {
     "grok-4.7-high": ("grok-4.7", "manual_alias", 0.9),
     "grok-4.7-xhigh": ("grok-4.7", "manual_alias", 0.9),
     "deepseek-v4.1-flash-max": ("deepseek-v4-1-flash", "manual_alias", 0.9),
+    # --- 2026-10-28 snapshot: Gemini 4 Argon / Claude 5.5 Sonnet & Haiku / GPT-6.1 Sol / Muse Wonder ---
+    "gemini-4-argon-high": ("gemini-4-argon", "manual_alias", 0.9),
+    "claude-sonnet-5.5-xhigh": ("claude-sonnet-5-5", "manual_alias", 0.9),
+    "claude-haiku-5.5-high": ("claude-haiku-5-5", "manual_alias", 0.9),
+    "gpt-6.1-sol-max": ("gpt-6.1-sol", "manual_alias", 0.9),
+    "muse-wonder-max": ("meta-muse-wonder", "manual_alias", 0.9),
+    "mistral-large-4": ("mistral-large-4", "manual_alias", 1.0),
+    "step-5-preview": ("stepfun-step-5-preview", "manual_alias", 0.95),
+    "step-3.5-flash": ("stepfun-step-3-5-flash", "manual_alias", 0.95),
+    "kimi-k3-max": ("moonshot-kimi-k3", "manual_alias", 0.9),
 }
 
 

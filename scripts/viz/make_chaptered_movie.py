@@ -50,9 +50,9 @@ ACCENT_SOFT = "#BE185D"
 CMAP_COLORS = ["#A8A29E", "#94A3B8", "#64748B", "#6366F1", "#C026D3", "#E11D48"]
 
 CURRENCY_FOOTNOTE = (
-    "Arena Text/coding score (legacy files: Elo) × API prices through 2026-09-21. "
-    "Free tiers shown at ≤$0.05; paid headline excludes them. "
-    "Aug 31 GLM-5.3 Flash price was a launch promotion; MiMo v2.6 has no list price."
+    "Arena Text/coding score (legacy files: Elo) × API prices through 2026-10-26. "
+    "Free tiers at ≤$0.05. GLM-5.3 Flash Aug 31 = launch promo; "
+    "Gemini 4 Argon = intro rate; Gemini 4 Carbon, MiMo v2.6: no list price."
 )
 
 # Pacing (target ~50–70s with longer shape-shock holds)
@@ -116,8 +116,15 @@ CHAPTERS = [
         "2026-09-21",
         "Claude Opus 5.5 · new peak ~1545 at $8 — higher and cheaper",
         "peak",
-        5.0,
+        4.0,
         None,
+    ),
+    (
+        "2026-10-26",
+        "Gemini 4 Argon · ~1538 at $4, within 9 points of Opus 5.5 at half the price",
+        "max_elo_under_price",
+        5.0,
+        4.0,
     ),
 ]
 
@@ -303,6 +310,9 @@ def short_model(name: str, n: int = 28) -> str:
         "claude-opus-4-6-high": "Claude Opus 4.6 high",
         "claude-opus-5.5-high": "Claude Opus 5.5 high",
         "gpt-6-luna-max": "GPT-6 Luna max",
+        "gemini-4-argon-high": "Gemini 4 Argon high",
+        "Claude Haiku 5.5 (High)": "Claude Haiku 5.5 high",
+        "step-3.5-flash": "Step 3.5 Flash",
         "claude-opus-4-6-thinking": "Claude Opus 4.6 thinking",
         "claude-opus-4-5-20251101-thinking-32k": "Claude Opus 4.5 thinking",
         "gpt-4-1106-preview": "GPT-4 Turbo (1106)",

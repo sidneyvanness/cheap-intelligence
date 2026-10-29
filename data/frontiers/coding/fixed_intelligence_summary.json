@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-26",
+  "generated": "2026-10-28",
   "primary_anchor": "o1-2024-12-17",
   "method": "head_to_head bar (anchor's score on each week's board); frozen bar as cross-check",
   "anchors": [
@@ -9,14 +9,14 @@
       "anchor_label": "o1-mini",
       "anchor_score": 1369.7,
       "anchor_price": 1.9250000000000005,
-      "latest_week": "2026-09-21",
-      "months_elapsed": 24.1,
+      "latest_week": "2026-10-26",
+      "months_elapsed": 25.3,
       "latest_price": 0.15,
-      "latest_model": "mistral-small-2506",
+      "latest_model": "step-3.5-flash",
       "fold_cheaper": 12.8,
-      "frozen_bar_latest_price": 0.175,
-      "frozen_bar_fold_cheaper": 11.0,
-      "annualized_decline_factor": 3.6
+      "frozen_bar_latest_price": 0.15,
+      "frozen_bar_fold_cheaper": 12.8,
+      "annualized_decline_factor": 3.4
     },
     {
       "anchor_week": "2025-01-13",
@@ -24,14 +24,14 @@
       "anchor_label": "o1",
       "anchor_score": 1361.2,
       "anchor_price": 26.25,
-      "latest_week": "2026-09-21",
-      "months_elapsed": 20.2,
-      "latest_price": 0.175,
-      "latest_model": "qwen3.5-flash",
-      "fold_cheaper": 150.0,
+      "latest_week": "2026-10-26",
+      "months_elapsed": 21.4,
+      "latest_price": 0.15,
+      "latest_model": "step-3.5-flash",
+      "fold_cheaper": 175.0,
       "frozen_bar_latest_price": 0.15,
       "frozen_bar_fold_cheaper": 175.0,
-      "annualized_decline_factor": 19.5
+      "annualized_decline_factor": 18.1
     },
     {
       "anchor_week": "2025-02-24",
@@ -39,14 +39,14 @@
       "anchor_label": "Claude 3.7 Sonnet",
       "anchor_score": 1371.0,
       "anchor_price": 6.0,
-      "latest_week": "2026-09-21",
-      "months_elapsed": 18.9,
+      "latest_week": "2026-10-26",
+      "months_elapsed": 20.0,
       "latest_price": 0.1375,
       "latest_model": "gpt-5-nano-high",
       "fold_cheaper": 43.6,
-      "frozen_bar_latest_price": 0.175,
-      "frozen_bar_fold_cheaper": 34.3,
-      "annualized_decline_factor": 11.1
+      "frozen_bar_latest_price": 0.15,
+      "frozen_bar_fold_cheaper": 40.0,
+      "annualized_decline_factor": 9.6
     },
     {
       "anchor_week": "2025-03-31",
@@ -54,14 +54,14 @@
       "anchor_label": "ChatGPT-4o (Mar 2025)",
       "anchor_score": 1425.0,
       "anchor_price": 4.375,
-      "latest_week": "2026-09-21",
-      "months_elapsed": 17.7,
-      "latest_price": 0.2,
-      "latest_model": "gpt-6-luna-max",
-      "fold_cheaper": 21.9,
-      "frozen_bar_latest_price": 0.2,
-      "frozen_bar_fold_cheaper": 21.9,
-      "annualized_decline_factor": 8.1
+      "latest_week": "2026-10-26",
+      "months_elapsed": 18.9,
+      "latest_price": 0.15,
+      "latest_model": "step-3.5-flash",
+      "fold_cheaper": 29.2,
+      "frozen_bar_latest_price": 0.15,
+      "frozen_bar_fold_cheaper": 29.2,
+      "annualized_decline_factor": 8.6
     }
   ]
 }
