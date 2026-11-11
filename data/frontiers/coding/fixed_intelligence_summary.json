@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-28",
+  "generated": "2026-11-10",
   "primary_anchor": "o1-2024-12-17",
   "method": "head_to_head bar (anchor's score on each week's board); frozen bar as cross-check",
   "anchors": [
@@ -8,15 +8,15 @@
       "anchor_model": "o1-mini",
       "anchor_label": "o1-mini",
       "anchor_score": 1369.7,
-      "anchor_price": 1.9250000000000005,
-      "latest_week": "2026-10-26",
-      "months_elapsed": 25.3,
+      "anchor_price": 1.9250000000000003,
+      "latest_week": "2026-11-09",
+      "months_elapsed": 25.8,
       "latest_price": 0.15,
       "latest_model": "step-3.5-flash",
       "fold_cheaper": 12.8,
       "frozen_bar_latest_price": 0.15,
       "frozen_bar_fold_cheaper": 12.8,
-      "annualized_decline_factor": 3.4
+      "annualized_decline_factor": 3.3
     },
     {
       "anchor_week": "2025-01-13",
@@ -24,14 +24,14 @@
       "anchor_label": "o1",
       "anchor_score": 1361.2,
       "anchor_price": 26.25,
-      "latest_week": "2026-10-26",
-      "months_elapsed": 21.4,
+      "latest_week": "2026-11-09",
+      "months_elapsed": 21.8,
       "latest_price": 0.15,
       "latest_model": "step-3.5-flash",
       "fold_cheaper": 175.0,
       "frozen_bar_latest_price": 0.15,
       "frozen_bar_fold_cheaper": 175.0,
-      "annualized_decline_factor": 18.1
+      "annualized_decline_factor": 17.1
     },
     {
       "anchor_week": "2025-02-24",
@@ -39,14 +39,14 @@
       "anchor_label": "Claude 3.7 Sonnet",
       "anchor_score": 1371.0,
       "anchor_price": 6.0,
-      "latest_week": "2026-10-26",
-      "months_elapsed": 20.0,
+      "latest_week": "2026-11-09",
+      "months_elapsed": 20.5,
       "latest_price": 0.1375,
       "latest_model": "gpt-5-nano-high",
       "fold_cheaper": 43.6,
       "frozen_bar_latest_price": 0.15,
       "frozen_bar_fold_cheaper": 40.0,
-      "annualized_decline_factor": 9.6
+      "annualized_decline_factor": 9.2
     },
     {
       "anchor_week": "2025-03-31",
@@ -54,14 +54,14 @@
       "anchor_label": "ChatGPT-4o (Mar 2025)",
       "anchor_score": 1425.0,
       "anchor_price": 4.375,
-      "latest_week": "2026-10-26",
-      "months_elapsed": 18.9,
+      "latest_week": "2026-11-09",
+      "months_elapsed": 19.3,
       "latest_price": 0.15,
       "latest_model": "step-3.5-flash",
       "fold_cheaper": 29.2,
       "frozen_bar_latest_price": 0.15,
       "frozen_bar_fold_cheaper": 29.2,
-      "annualized_decline_factor": 8.6
+      "annualized_decline_factor": 8.1
     }
   ]
 }

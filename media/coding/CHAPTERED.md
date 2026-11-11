@@ -5,8 +5,8 @@ Coding-only intelligence–price frontier with freezes at key shifts.
 - **Primary:** `frontier_evolution_chaptered.mp4`
 - **Last frame:** `frontier_evolution_chaptered_last_frame.png` (end card; date HUD cleared)
 - **Ch7 hold still:** `frontier_evolution_chaptered_ch7_hold.png`
-- **Duration:** 65.00s @ 12 fps (780 frames)
-- **Pacing:** quiet weeks 3/12s each (342 frames); chapter holds variable (ch1=3.0s, ch2=3.0s, ch3=4.5s, ch4=3.5s, ch5=3.0s, ch6=3.0s, ch7=4.5s, ch8=4.0s, ch9=5.0s; 402 frames across 9 beats); end card 36/12s (36 frames)
+- **Duration:** 65.50s @ 12 fps (786 frames)
+- **Pacing:** quiet weeks 3/12s each (348 frames); chapter holds variable (ch1=3.0s, ch2=3.0s, ch3=4.5s, ch4=3.5s, ch5=3.0s, ch6=3.0s, ch7=4.5s, ch8=4.0s, ch9=5.0s; 402 frames across 9 beats); end card 36/12s (36 frames)
 - **Original (kept):** `frontier_evolution.mp4` (~12s rush)
 
 ## Beats (chapter timestamps)
@@ -30,7 +30,7 @@ Coding-only intelligence–price frontier with freezes at key shifts.
 9. **057.0s** (5.0s hold) — `2026-10-26` — Gemini 4 Argon · ~1538 at $4, within 9 points of Opus 5.5 at half the price
    - highlight `max_elo_under_price` ≤$4: pointer → Gemini 4 Argon high score 1538 @ $4/MTok; faint peak → Claude Opus 5.5 high @ $8
 
-**End card** from 062.0s — Same published Arena score threshold (~1267): ~$15 → ~$0.13 at standard list prices · about 118× cheaper
+**End card** from 062.5s — Same published Arena score threshold (~1267): ~$15 → ~$0.13 at standard list prices · about 118× cheaper
 
 ## Design notes
 

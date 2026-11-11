@@ -2,7 +2,7 @@
 
 **Coding intelligence got ~118× cheaper in 30 months.**
 
-From April 2024 to October 2026, the Chatbot Arena *coding* score–price Pareto frontier marched up and left: peak quality rose, and the cost of clearing yesterday’s published score collapsed. The April 2024 coding peak (~**1267** at ~**$15**/MTok blended, GPT-4 Turbo `1106`) is cleared the week of October 26, 2026 by `gpt-oss-20b` at **$0.1275**/MTok standard list price — about **118×** lower for the old score threshold. The low point was August 31, 2026, when `glm-5.3-flash` cleared it at a launch-promotion **$0.11875** (~**126×**); that promotion ended September 9. This repo packages the weekly panels, methods, caveats, exports, and a chaptered movie of that migration.
+From April 2024 to November 2026, the Chatbot Arena *coding* score–price Pareto frontier marched up and left: peak quality rose, and the cost of clearing yesterday’s published score collapsed. The April 2024 coding peak (~**1267** at ~**$15**/MTok blended, GPT-4 Turbo `1106`) is cleared the week of November 9, 2026 by `gpt-oss-20b` at **$0.1275**/MTok standard list price — about **118×** lower for the old score threshold. The low point was August 31, 2026, when `glm-5.3-flash` cleared it at a launch-promotion **$0.11875** (~**126×**); that promotion ended September 9. This repo packages the weekly panels, methods, caveats, exports, and a chaptered movie of that migration.
 
 “Cost of intelligence” is deliberately provocative shorthand, not a claim that Arena is an absolute intelligence meter. The exact factor depends on the benchmark slice, dates, price mix, match coverage, and pricing schedule. The claim is narrower: over 30 months, the list-price cost of exceeding one published human-preference score threshold fell by roughly two orders of magnitude.
 
@@ -18,9 +18,9 @@ Each week we plot matched models in **(blended $/MTok, Arena Text/coding score)*
 |--------|-----------------|--------------------------------------|------------------------|
 | **2024-04-01** | ~**1267** | **$15.00** | `gpt-4-1106-preview` |
 | **2026-08-31 snapshot** | clears the old bar | **$0.11875** (~**126×**) | `glm-5.3-flash`, launch promotion |
-| **2026-10-26 latest week** | clears the old bar | **$0.12750** (~**118×**) | `gpt-oss-20b` (Fireworks); `step-3.5-flash` at $0.15 is ~100×, Claude Haiku 5.5 at $0.20 is ~75×, `glm-5.3-flash` at $0.2375 is ~63× |
+| **2026-11-09 latest week** | clears the old bar | **$0.12750** (~**118×**) | `gpt-oss-20b` (Fireworks); `step-3.5-flash` at $0.15 is ~100×, Claude Haiku 5.5 at $0.20 is ~75×, `glm-5.3-flash` at $0.2375 is ~63× |
 
-Peak *ceiling* also rose: ~1267 → ~1547 weekly maximum priced score (`claude-opus-5.5-high` at $8, week of October 26, 2026, on 2,555 votes), with running-max envelope ~1553. The price of near-peak coding halved in October: `gemini-4-argon-high` scores ~1538 at **$4** (introductory rate through November 30). Gemini 4 Carbon (~1569, #1 on the October 28 board) was announced the same day at the same $4 blended introductory rate but has no list price yet, so it is not plotted. See `data/frontiers/coding/_summary.json` and `media/coding/`.
+Peak *ceiling* also rose: ~1267 → ~1542 weekly maximum priced score (`claude-opus-5.5-high` at $8, week of November 9, 2026, on 3,339 votes), with running-max envelope ~1553. The price of near-peak coding halved in October: `gemini-4-argon-high` scores ~1540 at **$4** (introductory rate through November 30), 2 points below Opus 5.5. **Next: Gemini 4 Carbon** (~1563, #1 on the November 9 board) became generally available on November 10 at the same $4 blended introductory rate. That is one day after the latest Arena snapshot, so under the panel's timing rule it is not plotted yet. With the next snapshot it should become the top of the priced frontier: about 21 points above Opus 5.5 at half the price. See `data/frontiers/coding/_summary.json` and `media/coding/`.
 
 > **Watch:** [`media/coding/frontier_evolution_chaptered.mp4`](media/coding/frontier_evolution_chaptered.mp4) — nine chapter freezes from the GPT-4-era stub through the ~$0.12 launch-promo tip and Opus 5.5's peak at $8 to Gemini 4 Argon at $4.
 
@@ -30,7 +30,7 @@ Take the model that led the coding board at some past date, and ask each week si
 
 ![Cost of o1-level coding over time](media/coding/fixed_intelligence.png)
 
-OpenAI **o1** topped the Text/coding board in January 2025 at **$26.25**/MTok blended. Six weeks later `o3-mini-high` matched it at $1.93; by August 2025 Gemini 2.5 Flash-Lite did so at $0.175. The week of October 26, 2026 it costs **$0.15** (`step-3.5-flash`) — about **175× cheaper in 21 months**. Nearly all of that fall came in the first seven months; from August 2025 the price of o1-level coding sat at $0.175, apart from GLM-5.3 Flash's one-week $0.119 launch promotion, until Step 3.5 Flash gained a list price in our sources in October 2026.
+OpenAI **o1** topped the Text/coding board in January 2025 at **$26.25**/MTok blended. Six weeks later `o3-mini-high` matched it at $1.93; by August 2025 Gemini 2.5 Flash-Lite did so at $0.175. The week of November 9, 2026 it costs **$0.15** (`step-3.5-flash`) — about **175× cheaper in 21 months**. Nearly all of that fall came in the first seven months; from August 2025 the price of o1-level coding sat at $0.175, apart from GLM-5.3 Flash's one-week $0.119 launch promotion, until Step 3.5 Flash gained a list price in our sources in October 2026.
 
 The factor depends heavily on which past leader you pick, because some leaders were themselves bargains:
 
@@ -45,23 +45,26 @@ Read the o1 number with care: `o1-mini` sat ~4 rating points below o1 that week 
 
 > **Watch:** [`media/coding/fixed_intelligence.mp4`](media/coding/fixed_intelligence.mp4) (~24s) · all four anchors: [`fixed_intelligence_anchors.png`](media/coding/fixed_intelligence_anchors.png) · data: [`fixed_intelligence_cost.csv`](data/frontiers/coding/fixed_intelligence_cost.csv)
 
-## Current frontier watch — October 28, 2026
+## Current frontier watch — November 10, 2026
 
 These are not forced onto one axis. Text/coding and WebDev are separate Arena boards, and a model is only placed on a board where it has a published rating.
 
 | Model | Independent capability signal | 3:1 blended list price | Status |
 |-------|-------------------------------|------------------------|--------|
-| **Gemini 4 Carbon** | Text/coding **1569.5**, rank 1 (1,106 votes); WebDev **1768.2**, rank 4 | announced **$4.00** intro, not listed | Announced Oct 28 with limited access; off the price axis until Google lists it |
-| **Claude Opus 5.5** | Text/coding **1547.2**, rank 2 (`-high`, 2,555 votes); WebDev **1809.8**, rank 1 (`-max`) | **$8.00** | Top of the priced coding frontier |
-| **Gemini 4 Argon** | Text/coding **1538.2**, rank 3; WebDev **1679.2** | **$4.00** intro (**$8.00** from Dec 1) | Released Oct 13; on the frontier, 9 points below Opus 5.5 at half the price |
-| **Claude Sonnet 5.5** | Text/coding **1511.9**, rank 14 (`-xhigh`); WebDev **1769.7**, rank 3 | **$4.00** | Released Sep 28; inside the coding frontier (Argon scores higher at the same price) |
-| **GLM-5.3 Flash** | Text/coding **1509.2**; WebDev **1606.6** | **$0.2375** | On the frontier; cheapest model above 1500 |
-| **Claude Haiku 5.5** | Text/coding **1454.3**, rank 93; WebDev **1588.8** | **$0.20** | Released Oct 7; replaces GPT-6 Luna (now 1436.6 on 19,790 votes) at the $0.20 point |
-| **Step 3.5 Flash** | Text/coding **1435.8** | **$0.15** | First list price in our sources Oct 8; cheapest paid model at o1 level |
-| **DeepSeek V4.1 Flash 1017** | WebDev **1665.0**, rank 16; no Text/coding score yet | **$0.525** peak / **$0.2625** off-peak | Replaced the 0910 build on Oct 17 at the same price |
-| **MiMo v2.6 Pro** | Text/coding **1533.5**, rank 4 (1,091 votes) | no list price found | Excluded from the price axis until Xiaomi publishes an API price we can cite |
+| **Gemini 4 Carbon** | Text/coding **1563.4**, rank 1 (1,072 votes); WebDev **1768.0**, rank 3 | **$4.00** intro (**$8.00** from Dec 1) | Generally available Nov 10, the day after the latest snapshot; joins the panel with the next one |
+| **Claude Opus 5.5** | Text/coding **1542.2**, rank 2 (`-high`, 3,339 votes); WebDev **1817.7**, rank 1 (`-max`) | **$8.00** | Top of the priced coding frontier in the panel |
+| **Gemini 4 Argon** | Text/coding **1540.0**, rank 3; WebDev **1682.6** | **$4.00** intro (**$8.00** from Dec 1) | On the frontier, 2 points below Opus 5.5 at half the price |
+| **GLM-5.3 Flash** | Text/coding **1509.7**; WebDev **1608.6** | **$0.2375** | On the frontier; cheapest model above 1500 |
+| **Claude Sonnet 5.5** | Text/coding **1500.2**, rank 25 (`-xhigh`, down from 1512); WebDev **1774.3**, rank 2 | **$4.00** | Inside the coding frontier |
+| **Kimi K3.1 Pro** | Text/coding **1476.7** (`Max`, 774 votes, first rating); WebDev **1687.8**, rank 10 | **$4.00** | Inside the frontier: Argon scores 63 points higher at the same price |
+| **Inkling 2 Small** | Text/coding **1456.6** (616 votes, first rating); WebDev **1649.5** | **$0.475** | Announced Nov 5 on Tinker, open weights planned; inside the frontier |
+| **Claude Haiku 5.5** | Text/coding **1454.1**; WebDev **1595.1** | **$0.20** | On the frontier at $0.20 |
+| **Muse Ember** | WebDev **1608.1**, rank 34 (1,345 votes); no Text/coding score yet | **$0.20** | Released Nov 9; above Haiku 5.5 and GPT-6 Luna on WebDev at the same price. The model to watch at the cheap end |
+| **Step 3.5 Flash** | Text/coding **1435.6** | **$0.15** | Cheapest paid model at o1 level |
+| **Claude Fable 5.2** | not rated yet | **$16.00** | Released Nov 9 with a 20% price cut ($8/$40) |
+| **MiMo v2.6 Pro** | Text/coding **1533.1**, rank 5 (1,091 votes) | no list price found | Excluded from the price axis until Xiaomi publishes an API price we can cite |
 
-All scores are from the October 28 snapshots. The auditable snapshot is [`data/current/current_model_watch.csv`](data/current/current_model_watch.csv). The normalized October 28 WebDev board is [`data/arena/webdev/arena_webdev_latest.csv`](data/arena/webdev/arena_webdev_latest.csv).
+All scores are from the November 9 snapshots. The auditable snapshot is [`data/current/current_model_watch.csv`](data/current/current_model_watch.csv). The normalized November 9 WebDev board is [`data/arena/webdev/arena_webdev_latest.csv`](data/arena/webdev/arena_webdev_latest.csv).
 
 ## Data sources
 
@@ -80,7 +83,7 @@ Normalized CSVs live under `data/`. Huge raw JSON/Parquet dumps are **not** incl
 
 ## Methods
 
-- **Weekly Mondays.** Arena snapshots and prices are aligned to ISO week starts (Monday). Panel coverage for the coding × price join: **2024-04-01 → 2026-10-26** (123 weeks; no snapshot was published in the week of September 14). Each week uses its last published snapshot and the Monday list price, with one rule for mid-week changes: if a price took effect before the week's snapshot, that price is used (GLM-5.3 Flash's standard rate for week 2026-09-07; the launch prices of Opus 5.5, GPT-6 Sol/Luna and Grok 4.7 for week 2026-09-21, whose snapshot is September 25). Models removed from a vendor's price list leave the panel from the first week whose snapshot follows the removal (Gemini 3.5/3.7 Flash from week 2026-10-05, retired Qwen3 Max/Coder SKUs from week 2026-10-12, DeepSeek V4.1 Flash 0910 from week 2026-10-19). DeepSeek is priced at its peak (standard) rate; off-peak is a 50% discount.
+- **Weekly Mondays.** Arena snapshots and prices are aligned to ISO week starts (Monday). Panel coverage for the coding × price join: **2024-04-01 → 2026-11-09** (125 weeks; no snapshot was published in the week of September 14). Each week uses its last published snapshot and the Monday list price, with one rule for mid-week changes: if a price took effect before the week's snapshot, that price is used (GLM-5.3 Flash's standard rate for week 2026-09-07; the launch prices of Opus 5.5, GPT-6 Sol/Luna and Grok 4.7 for week 2026-09-21, whose snapshot is September 25). Models removed from a vendor's price list leave the panel from the first week whose snapshot follows the removal (Gemini 3.5/3.7 Flash from week 2026-10-05, retired Qwen3 Max/Coder SKUs from week 2026-10-12, DeepSeek V4.1 Flash 0910 from week 2026-10-19). DeepSeek is priced at its peak (standard) rate; off-peak is a 50% discount.
 - **Arena name change.** From the October 20, 2026 snapshot, LMArena publishes display names (`Claude Opus 5.5 (High)`) in place of slugs (`claude-opus-5.5-high`). `scripts/update_arena_snapshots.py` maps them back through `data/arena/display_name_map.csv` (409 rows: exact token matches plus 53 hand-checked pairs) so each model keeps one continuous series; ratings for mapped models move a median 0.05 points across the switch. Models first published under a display name keep it.
 - **Name matching.** Arena display names ↔ price catalog IDs via normalization + a checked crosswalk (`data/model_name_crosswalk.csv`, `data/frontiers/arena_price_name_matches.csv`). No invented scores or prices — unmatched models are listed, not guessed.
 - **Score terminology.** The source calls the published value an Arena rating/score. Post-January 2024 leaderboard ratings use Bradley–Terry estimation rather than classic Elo; legacy filenames and some rendered labels still say “Elo.”
@@ -97,7 +100,7 @@ Normalized CSVs live under `data/`. Huge raw JSON/Parquet dumps are **not** incl
 | `media/coding/frontier_evolution_chaptered.mp4` | Primary chaptered movie (~65s, 9 chapters) |
 | `media/coding/frontier_evolution_chaptered_last_frame.png` | End card still |
 | `media/coding/frontier_evolution_chaptered_ch7_hold.png` | Chapter 7 hold (Aug 2026 cheap tip, launch promo) |
-| `media/coding/fixed_intelligence.mp4` | Animated cost of o1-level coding, Jan 2025 → Oct 2026 (~24s) |
+| `media/coding/fixed_intelligence.mp4` | Animated cost of o1-level coding, Jan 2025 → Nov 2026 (~24s) |
 | `media/coding/fixed_intelligence.png` | Same, static, with each record-low model labeled |
 | `media/coding/fixed_intelligence_anchors.png` | Four past leaders side by side (13×–175×) |
 | `media/coding/migration.png` | Early vs latest frontier |
@@ -109,7 +112,7 @@ Normalized CSVs live under `data/`. Huge raw JSON/Parquet dumps are **not** incl
 
 1. **Arena score is a relative human-preference ranking**, not a fixed absolute IQ score. Pairwise battles, estimation methods, sampling, and leaderboard composition change over time; small week-to-week dips are often noise, not capability loss. It is **not** a frozen exam and **≠ SWE-bench** (or other absolute coding benchmarks).
 2. **Price coverage is sparse early** (especially 2023–early 2024). Open / self-hosted models **without list API prices are excluded** from the price axis.
-3. **New entrants sit on few votes.** Gemini 4 Carbon's 1569 (1,106 votes, interval 1551–1588) and MiMo v2.6 Pro's 1534 (1,091 votes) will move as votes accumulate. **Neither has a citable list price**, so both are excluded from the price axis rather than guessed. Gemini 4 Argon's $4 is an introductory rate that doubles on December 1, 2026. Each Arena entry is matched to one price ID. `deepseek-v4-flash` is matched to DeepSeek's own API, delisted in September, so DeepInfra's $0.09 host price for it (score 1456) is not on the chart.
+3. **New entrants sit on few votes.** Gemini 4 Carbon's 1563 (1,072 votes), MiMo v2.6 Pro's 1533 (1,091 votes), Kimi K3.1 Pro's 1477 (774 votes) and Inkling 2 Small's 1457 (616 votes) will move as votes accumulate. Gemini 4 Carbon was priced on November 10, after the latest snapshot, and MiMo v2.6 Pro has no citable list price, so neither is on the price axis. Gemini 4 Argon's and Carbon's $4 is an introductory rate that doubles on December 1, 2026. Each Arena entry is matched to one price ID. `deepseek-v4-flash` is matched to DeepSeek's own API, delisted in September, so DeepInfra's $0.09 host price for it (score 1456) is not on the chart.
 4. Match rate is incomplete (~47% of coding Arena names matched to prices overall; lower in 2024). Results describe the **matched API-priced subset**.
 5. List prices ≠ discounted enterprise rates; blend assumes a 3:1 input:output mix. Free tiers and promotions are real but unstable, so they are labeled explicitly rather than presented as ordinary durable prices.
 

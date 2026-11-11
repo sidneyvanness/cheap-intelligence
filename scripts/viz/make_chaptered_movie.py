@@ -50,9 +50,9 @@ ACCENT_SOFT = "#BE185D"
 CMAP_COLORS = ["#A8A29E", "#94A3B8", "#64748B", "#6366F1", "#C026D3", "#E11D48"]
 
 CURRENCY_FOOTNOTE = (
-    "Arena Text/coding score (legacy files: Elo) × API prices through 2026-10-26. "
-    "Free tiers at ≤$0.05. GLM-5.3 Flash Aug 31 = launch promo; "
-    "Gemini 4 Argon = intro rate; Gemini 4 Carbon, MiMo v2.6: no list price."
+    "Arena Text/coding score (legacy files: Elo) × API prices through 2026-11-09. "
+    "Free tiers at ≤$0.05. GLM-5.3 Flash Aug 31 = launch promo; Gemini 4 Argon = intro rate; "
+    "Gemini 4 Carbon priced Nov 10, after the last snapshot; MiMo v2.6: no list price."
 )
 
 # Pacing (target ~50–70s with longer shape-shock holds)

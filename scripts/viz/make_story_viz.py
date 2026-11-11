@@ -58,9 +58,9 @@ EARLY_CURVE = "#78716C"
 LATE_CURVE = "#E11D48"
 
 CURRENCY_FOOTNOTE = (
-    "Arena Text/coding score (legacy files: Elo) × API prices through 2026-10-26. "
+    "Arena Text/coding score (legacy files: Elo) × API prices through 2026-11-09. "
     "Free tiers shown at ≤$0.05; paid headline excludes them. "
-    "Gemini 4 Carbon and MiMo v2.6 have no list price and are excluded."
+    "Gemini 4 Carbon (priced Nov 10, after the last snapshot) and MiMo v2.6 (no list price) are excluded."
 )
 
 
@@ -1468,7 +1468,7 @@ Editorial charts for Arena Text **coding** score. Legacy files and some labels u
 - **Labels:** sparse callouts with leader lines + paper-backed text in empty margins (no polyline collisions; Opus 5 peak sits above the curve).
 - **Peak chart:** raw weekly maximum score as ghost; bold line is the monotonic **running maximum** (“capability frontier ceiling”). Mid-2025 Arena wiggles annotated as relative rating noise.
 - **Price collapse:** NaN weeks (no qualifying model) filled with LOCF / log-linear interp when the gap is ≤8 weeks; imputed segments drawn **dashed**.
-- **Omitted models:** Gemini 4 Carbon (#1 on the 2026-10-28 board; announced at $2/$10 introductory but not yet on Google's pricing page) and MiMo v2.6 Pro / Flash (Xiaomi) are rated but have no list price in our sources, so they are excluded from the price axis. We do **not** invent or merge scores.
+- **Omitted models:** Gemini 4 Carbon (#1 on the 2026-11-09 board) got its $2/$10 introductory list price on 2026-11-10, after the latest Arena snapshot, so it enters the price axis with the next snapshot. MiMo v2.6 Pro / Flash (Xiaomi) are rated but have no list price in our sources, so they are excluded from the price axis. We do **not** invent or merge scores.
 - **Encoding:** log price (x), Text/coding score (y). Free ($0) models are explicit and floored at `$0.05` only for log display.
 - **Retina:** PNGs at 220 dpi.
 
@@ -1502,7 +1502,7 @@ Data inputs: `export/coding/01_*.csv`, `02_*.csv`, `03_*.csv`.
 
 **How to read the charts.** Ignore dominated points — only the frontier curve matters. Color = time. In the MP4, older weekly curves **stay on screen** as a muted trail so you watch the migration accumulate.
 
-**Caveats / omissions.** Arena scores are relative and the estimator/model pool changed over time. Panel ends {last.date()}. **Gemini 4 Argon (introductory $2/$10 through Nov 30), Claude Sonnet/Haiku 5.5, GPT-6.1 Sol, Muse Wonder and Step 3.5 Flash/Step 5 Preview enter the panel between weeks 2026-09-28 and 2026-10-26. Gemini 4 Carbon (#1 on the 2026-10-28 board) and MiMo v2.6 Pro have no list price and are excluded.** Text/coding and WebDev scores are not interchangeable. Free ($0) prices are explicit and floored at $0.05 only on log axes; the August 31 GLM-5.3 Flash rate was promotional.
+**Caveats / omissions.** Arena scores are relative and the estimator/model pool changed over time. Panel ends {last.date()}. **Gemini 4 Argon (introductory $2/$10 through Nov 30), Claude Sonnet/Haiku 5.5, GPT-6.1 Sol, Muse Wonder and Step 3.5 Flash/Step 5 Preview enter the panel between weeks 2026-09-28 and 2026-10-26; Inkling 2 Small and Kimi K3.1 Pro in weeks 2026-11-02 and 2026-11-09. Gemini 4 Carbon (#1 on the 2026-11-09 board) was priced on 2026-11-10, after the latest snapshot, and MiMo v2.6 Pro has no list price; both are excluded.** Text/coding and WebDev scores are not interchangeable. Free ($0) prices are explicit and floored at $0.05 only on log axes; the August 31 GLM-5.3 Flash rate was promotional.
 """
     (OUT / "INTERPRETATION.md").write_text(interp)
 

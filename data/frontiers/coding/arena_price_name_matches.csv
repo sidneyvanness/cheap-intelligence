@@ -1,6 +1,8 @@
 model_name_arena,model_id_price,provider,model_name_canonical,match_method,match_confidence,normalized_arena,matched_key
 Claude Haiku 5.5 (High),claude-haiku-5-5,Anthropic,Claude Haiku 5.5,manual_alias,0.9,claude-haiku-5.5-high,claude-haiku-5-5
+Inkling 2 Small,thinking-machines-inkling-2-small,Thinking Machines,Inkling 2 Small,exact_canonical,0.95,inkling-2-small,inkling-2-small
 Inkling Small,thinking-machines-inkling-small,Thinking Machines,Inkling Small,reused_overall:exact_canonical,0.95,inkling-small,inkling-small
+Kimi K3.1 Pro (Max),moonshot-kimi-k3-1-pro,Moonshot,Kimi K3.1 Pro,manual_alias,0.9,kimi-k3.1-pro-max,moonshot-kimi-k3-1-pro
 Step 5 Preview,stepfun-step-5-preview,StepFun,Step 5 Preview,manual_alias,0.95,step-5-preview,stepfun-step-5-preview
 amazon-nova-lite-v1.0,nova-lite,Amazon,Nova Lite,reused_overall:core_key,0.92,nova-lite-v1.0,nova-lite
 amazon-nova-micro-v1.0,nova-micro,Amazon,Nova Micro,reused_overall:core_key,0.92,nova-micro-v1.0,nova-micro

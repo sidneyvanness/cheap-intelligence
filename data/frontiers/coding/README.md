@@ -16,10 +16,10 @@ Primary analysis spine for this repo.
 
 ## Headline (from `_summary.json`)
 
-- Weeks: **2024-04-01 → 2026-10-26** (123; no Arena snapshot was published in the week of 2026-09-14)
-- Apr 2024 peak ~**1267** @ **$15** → Aug 31, 2026 same published score threshold @ **~$0.12** (~**126×**, promotional snapshot) → Oct 26, 2026 @ **$0.1275** (~**118×**, `gpt-oss-20b`, standard list prices)
-- Latest frontier (week 2026-10-26): `claude-opus-5.5-high` ~1547 @ $8 → `gemini-4-argon-high` ~1538 @ $4 (introductory) → `muse-spark-1.3-max` ~1509 @ $2 → `gemini-3.8-flash-high` ~1509 @ $1.50 → `glm-5.3-flash` ~1509 @ $0.2375 → `Claude Haiku 5.5 (High)` ~1454 @ $0.20 → `step-3.5-flash` ~1436 @ $0.15 → `glm-4.7-flash` ~1383 @ $0 (free)
-- Near-peak price halved: Gemini 4 Argon sits 9 points below Opus 5.5 at half the price. Gemini 4 Carbon (~1569, #1) has no list price yet and is not in the panel
+- Weeks: **2024-04-01 → 2026-11-09** (125; no Arena snapshot was published in the week of 2026-09-14)
+- Apr 2024 peak ~**1267** @ **$15** → Aug 31, 2026 same published score threshold @ **~$0.12** (~**126×**, promotional snapshot) → Nov 9, 2026 @ **$0.1275** (~**118×**, `gpt-oss-20b`, standard list prices)
+- Latest frontier (week 2026-11-09): `claude-opus-5.5-high` ~1542 @ $8 → `gemini-4-argon-high` ~1540 @ $4 (introductory) → `gemini-3.8-flash-high` ~1511 @ $1.50 → `glm-5.3-flash` ~1510 @ $0.2375 → `Claude Haiku 5.5 (High)` ~1454 @ $0.20 → `step-3.5-flash` ~1436 @ $0.15 → `glm-4.7-flash` ~1382 @ $0 (free)
+- Near-peak price halved: Gemini 4 Argon sits 2 points below Opus 5.5 at half the price. Gemini 4 Carbon (~1563, #1) was priced at $4 blended (introductory) on 2026-11-10, the day after the latest snapshot, so it is not in the panel yet
 - Fixed intelligence: o1-level coding (Jan 2025, $26.25) → **$0.15** (~**175×** in 21 months, `step-3.5-flash`); see `fixed_intelligence_summary.json`
 
 ## Rebuild

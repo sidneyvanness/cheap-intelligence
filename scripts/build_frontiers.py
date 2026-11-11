@@ -463,6 +463,9 @@ MANUAL_ALIASES: dict[str, tuple[str, str, float]] = {
     "step-5-preview": ("stepfun-step-5-preview", "manual_alias", 0.95),
     "step-3.5-flash": ("stepfun-step-3-5-flash", "manual_alias", 0.95),
     "kimi-k3-max": ("moonshot-kimi-k3", "manual_alias", 0.9),
+    # --- 2026-11-09 snapshot ---
+    "gemini-4-carbon-high": ("gemini-4-carbon", "manual_alias", 0.9),
+    "kimi-k3.1-pro-max": ("moonshot-kimi-k3-1-pro", "manual_alias", 0.9),
 }
 
 

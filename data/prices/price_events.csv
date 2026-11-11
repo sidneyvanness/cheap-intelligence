@@ -1320,8 +1320,8 @@ Anthropic,claude-haiku-5-5,Claude Haiku 5.5,input,0.1,2026-10-07,,roninforge_ai_
 Anthropic,claude-haiku-5-5,Claude Haiku 5.5,output,0.5,2026-10-07,,roninforge_ai_price_index,verified,https://docs.claude.com/en/docs/about-claude/pricing,
 Mistral,mistral-large-4,Mistral Large 4,input,0.68,2026-10-07,2026-10-23,roninforge_ai_price_index,verified,https://docs.mistral.ai/inference/pricing,
 Mistral,mistral-large-4,Mistral Large 4,output,2.09,2026-10-07,2026-10-23,roninforge_ai_price_index,verified,https://docs.mistral.ai/inference/pricing,
-Mistral,mistral-large-4,Mistral Large 4,input,1.36,2026-10-24,,roninforge_ai_price_index,verified,https://docs.mistral.ai/inference/pricing,price doubled 2026-10-24
-Mistral,mistral-large-4,Mistral Large 4,output,4.18,2026-10-24,,roninforge_ai_price_index,verified,https://docs.mistral.ai/inference/pricing,price doubled 2026-10-24
+Mistral,mistral-large-4,Mistral Large 4,input,1.36,2026-10-24,2026-10-28,roninforge_ai_price_index,verified,https://docs.mistral.ai/inference/pricing,price doubled 2026-10-24
+Mistral,mistral-large-4,Mistral Large 4,output,4.18,2026-10-24,2026-10-28,roninforge_ai_price_index,verified,https://docs.mistral.ai/inference/pricing,price doubled 2026-10-24
 StepFun,stepfun-step-5-preview,Step 5 Preview,input,1.0,2026-10-08,,model_price_watch,snapshot,https://platform.stepfun.ai/docs/en/guides/pricing/details,preview
 StepFun,stepfun-step-5-preview,Step 5 Preview,output,2.7,2026-10-08,,model_price_watch,snapshot,https://platform.stepfun.ai/docs/en/guides/pricing/details,preview
 StepFun,stepfun-step-3-5-flash,Step 3.5 Flash,input,0.1,2026-10-08,,model_price_watch,snapshot,https://platform.stepfun.ai/docs/en/guides/pricing/details,first tracked 2026-10-08
@@ -1356,3 +1356,19 @@ Moonshot,moonshot-kimi-k3-1-pro,Kimi K3.1 Pro,input,2.0,2026-10-24,,model_price_
 Moonshot,moonshot-kimi-k3-1-pro,Kimi K3.1 Pro,output,10.0,2026-10-24,,model_price_watch,snapshot,https://platform.moonshot.ai/docs/pricing,
 OpenAI,gpt-6.1-terra,GPT-6.1 Terra,input,1.0,2026-10-26,,roninforge_ai_price_index,verified,https://developers.openai.com/api/docs/pricing,
 OpenAI,gpt-6.1-terra,GPT-6.1 Terra,output,5.0,2026-10-26,,roninforge_ai_price_index,verified,https://developers.openai.com/api/docs/pricing,
+Mistral,mistral-large-4,Mistral Large 4,input,0.7,2026-10-29,,roninforge_ai_price_index,verified,https://docs.mistral.ai/inference/pricing,price cut back 2026-10-29
+Mistral,mistral-large-4,Mistral Large 4,output,2.1,2026-10-29,,roninforge_ai_price_index,verified,https://docs.mistral.ai/inference/pricing,price cut back 2026-10-29
+Thinking Machines,thinking-machines-inkling-2-small,Inkling 2 Small,input,0.3,2026-11-05,,official_docs_tinker,verified,https://tinker-docs.thinkingmachines.ai/tinker/models/models_and_pricing/,Tinker prefill price
+Thinking Machines,thinking-machines-inkling-2-small,Inkling 2 Small,cached,0.03,2026-11-05,,official_docs_tinker,verified,https://tinker-docs.thinkingmachines.ai/tinker/models/models_and_pricing/,Tinker prefill price
+Thinking Machines,thinking-machines-inkling-2-small,Inkling 2 Small,output,1.0,2026-11-05,,official_docs_tinker,verified,https://tinker-docs.thinkingmachines.ai/tinker/models/models_and_pricing/,Tinker sample price
+Anthropic,claude-fable-5-2,Claude Fable 5.2,input,8.0,2026-11-09,,roninforge_ai_price_index,verified,https://docs.claude.com/en/docs/about-claude/pricing,
+Anthropic,claude-fable-5-2,Claude Fable 5.2,output,40.0,2026-11-09,,roninforge_ai_price_index,verified,https://docs.claude.com/en/docs/about-claude/pricing,
+Anthropic,claude-fable-5-2,Claude Fable 5.2,cached,0.2,2026-11-09,,roninforge_ai_price_index,verified,https://docs.claude.com/en/docs/about-claude/pricing,
+Anthropic,claude-mythos-5-2,Claude Mythos 5.2,input,8.0,2026-11-09,,roninforge_ai_price_index,verified,https://docs.claude.com/en/docs/about-claude/pricing,
+Anthropic,claude-mythos-5-2,Claude Mythos 5.2,output,40.0,2026-11-09,,roninforge_ai_price_index,verified,https://docs.claude.com/en/docs/about-claude/pricing,
+Anthropic,claude-mythos-5-2,Claude Mythos 5.2,cached,0.2,2026-11-09,,roninforge_ai_price_index,verified,https://docs.claude.com/en/docs/about-claude/pricing,
+Meta,meta-muse-ember,Muse Ember,input,0.1,2026-11-09,,roninforge_ai_price_index,verified,https://research.meta.ai/blog/muse-ember,
+Meta,meta-muse-ember,Muse Ember,output,0.5,2026-11-09,,roninforge_ai_price_index,verified,https://research.meta.ai/blog/muse-ember,
+Meta,meta-muse-ember,Muse Ember,cached,0.004,2026-11-09,,roninforge_ai_price_index,verified,https://research.meta.ai/blog/muse-ember,
+Google,gemini-4-carbon,Gemini 4 Carbon,input,2.0,2026-11-10,2026-11-30,official_docs_google,verified,https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/,general availability 2026-11-10; introductory rate through 2026-11-30; $4/$20 from 2026-12-01
+Google,gemini-4-carbon,Gemini 4 Carbon,output,10.0,2026-11-10,2026-11-30,official_docs_google,verified,https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/,general availability 2026-11-10; introductory rate through 2026-11-30; $4/$20 from 2026-12-01
